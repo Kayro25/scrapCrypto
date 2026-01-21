@@ -1,5 +1,6 @@
 import requests
 import json
+import re
 from datetime import datetime, date
 
 # ==============================
@@ -39,6 +40,19 @@ query CampaignList($input: ListCampaignInput!) {
   }
 }
 """
+
+# ==============================
+# UTILS URL
+# ==============================
+
+def slugify_space(name):
+    name = name.lower()
+    name = re.sub(r"[^a-z0-9]+", "-", name)
+    return name.strip("-")
+
+def build_galxe_url(quest):
+    space_slug = slugify_space(quest["space"]["name"])
+    return f"https://app.galxe.com/quest/{space_slug}/{quest['id']}"
 
 # ==============================
 # GALXE SCRAPER
@@ -115,7 +129,7 @@ def score_quest(quest):
 
     text = f"{name} {desc} {reward}"
 
-    # Confiança do projeto
+    # Confiança
     if verified:
         score += 4
     else:
@@ -130,7 +144,7 @@ def score_quest(quest):
     else:
         score -= 2
 
-    # Chains relevantes
+    # Chains
     top_chains = ["ETHEREUM", "ARBITRUM", "OPTIMISM", "BASE", "POLYGON"]
     mid_chains = ["BSC", "AVALANCHE", "SOLANA"]
 
@@ -159,7 +173,6 @@ def score_quest(quest):
     ]
     score -= sum(2 for w in scam_words if w in text)
 
-    # Promessas absurdas sem verificação
     if not verified and any(w in reward for w in ["btc", "eth", "1000", "5000", "100000"]):
         score -= 4
 
@@ -196,11 +209,7 @@ def export_html(quests):
         <tr>
             <td>{q['score']}</td>
             <td>{classify(q['score'])}</td>
-            <td>
-              <a href="{q['url']}" target="_blank" style="color:#58a6ff;text-decoration:none">
-                {q['name']}
-              </a>
-            </td>
+            <td><a href="{q['url']}" target="_blank">{q['name']}</a></td>
             <td>{q['space']['name']}</td>
             <td>{q['chain']}</td>
             <td>{q['rewardName'] or '-'}</td>
@@ -220,8 +229,9 @@ table {{ border-collapse: collapse; width: 100%; }}
 th, td {{ border: 1px solid #30363d; padding: 8px; text-align: left; }}
 th {{ background: #161b22; }}
 tr:nth-child(even) {{ background: #161b22; }}
-h1 {{ color: #58a6ff; }}
+a {{ color: #58a6ff; text-decoration: none; }}
 a:hover {{ text-decoration: underline; }}
+h1 {{ color: #58a6ff; }}
 </style>
 </head>
 <body>
@@ -231,7 +241,7 @@ a:hover {{ text-decoration: underline; }}
 <tr>
 <th>Score</th>
 <th>Classificação</th>
-<th>Quest (link)</th>
+<th>Quest</th>
 <th>Projeto</th>
 <th>Chain</th>
 <th>Reward</th>
@@ -256,7 +266,7 @@ def main():
 
     for quest in quests:
         quest["score"] = score_quest(quest)
-        quest["url"] = f"https://app.galxe.com/quest/{quest['id']}"
+        quest["url"] = build_galxe_url(quest)
 
     filtered = [
         q for q in quests
