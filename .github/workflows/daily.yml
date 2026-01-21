@@ -1,8 +1,8 @@
-name: Galxe Daily Scraper
+name: Galxe Scraper Diário
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # todo dia às 12:00 UTC (9h Brasil)
+    - cron: '0 3 * * *' # todo dia 03:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,26 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Instalar dependências
         run: |
-          pip install -r requirements.txt
+          pip install requests
 
-      - name: Run scraper
+      - name: Rodar scraper
         run: |
           python galxe_scraper.py
 
-      - name: Commit results
+      - name: Commit e push resultados
         run: |
           git config --global user.name "Kayro25"
           git config --global user.email "me0711405@gmail.com"
+
+          git fetch origin main
+          git rebase origin/main || git merge origin/main
+
           git add quests_filtradas.json quests_ranking.html
           git commit -m "📊 Atualização diária Galxe" || echo "Sem mudanças"
-          git push
+          git push origin main
