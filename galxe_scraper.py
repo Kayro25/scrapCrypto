@@ -115,7 +115,7 @@ def score_quest(quest):
 
     text = f"{name} {desc} {reward}"
 
-    # Confiança
+    # Confiança do projeto
     if verified:
         score += 4
     else:
@@ -130,7 +130,7 @@ def score_quest(quest):
     else:
         score -= 2
 
-    # Chains
+    # Chains relevantes
     top_chains = ["ETHEREUM", "ARBITRUM", "OPTIMISM", "BASE", "POLYGON"]
     mid_chains = ["BSC", "AVALANCHE", "SOLANA"]
 
@@ -159,6 +159,7 @@ def score_quest(quest):
     ]
     score -= sum(2 for w in scam_words if w in text)
 
+    # Promessas absurdas sem verificação
     if not verified and any(w in reward for w in ["btc", "eth", "1000", "5000", "100000"]):
         score -= 4
 
@@ -195,7 +196,11 @@ def export_html(quests):
         <tr>
             <td>{q['score']}</td>
             <td>{classify(q['score'])}</td>
-            <td>{q['name']}</td>
+            <td>
+              <a href="{q['url']}" target="_blank" style="color:#58a6ff;text-decoration:none">
+                {q['name']}
+              </a>
+            </td>
             <td>{q['space']['name']}</td>
             <td>{q['chain']}</td>
             <td>{q['rewardName'] or '-'}</td>
@@ -216,6 +221,7 @@ th, td {{ border: 1px solid #30363d; padding: 8px; text-align: left; }}
 th {{ background: #161b22; }}
 tr:nth-child(even) {{ background: #161b22; }}
 h1 {{ color: #58a6ff; }}
+a:hover {{ text-decoration: underline; }}
 </style>
 </head>
 <body>
@@ -225,7 +231,7 @@ h1 {{ color: #58a6ff; }}
 <tr>
 <th>Score</th>
 <th>Classificação</th>
-<th>Quest</th>
+<th>Quest (link)</th>
 <th>Projeto</th>
 <th>Chain</th>
 <th>Reward</th>
@@ -250,6 +256,7 @@ def main():
 
     for quest in quests:
         quest["score"] = score_quest(quest)
+        quest["url"] = f"https://app.galxe.com/quest/{quest['id']}"
 
     filtered = [
         q for q in quests
