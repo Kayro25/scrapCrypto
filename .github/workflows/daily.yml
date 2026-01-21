@@ -2,7 +2,7 @@ name: Galxe Scraper Diário
 
 on:
   schedule:
-    - cron: '0 3 * * *' # todo dia 03:00 UTC
+    - cron: '0 3 * * *' # todo dia às 03:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -21,18 +22,19 @@ jobs:
         run: |
           pip install requests
 
-      - name: Rodar scraper
+      - name: Rodar scraper Galxe
         run: |
           python galxe_scraper.py
 
-      - name: Commit e push resultados
+      - name: Commit e push automático
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "Kayro25"
           git config --global user.email "me0711405@gmail.com"
 
-          git fetch origin main
-          git rebase origin/main || git merge origin/main
-
           git add quests_filtradas.json quests_ranking.html
+
           git commit -m "📊 Atualização diária Galxe" || echo "Sem mudanças"
-          git push origin main
+
+          git push origin main --force
