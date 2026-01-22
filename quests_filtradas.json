@@ -64,6 +64,22 @@
     "url": "https://app.galxe.com/quest/gemw/GCjZNtYBB5"
   },
   {
+    "id": "GCag7tYeZM",
+    "name": "Discover the Olympians NFTs",
+    "description": "Get an early look at Olympians NFTs, a core layer of the Olympex ecosystem.\n\nThese NFTs are being designed to interact directly with the DEX and enhance how users operate across multiple DeFi strategies.\nThey are not collectibles, they are tools built to create synergy between execution, incentives, and long-term participation.\n\n👉 Explore the preview, engage with the content, and stay tuned for upcoming updates.\nEarly participants may be rewarded as the ecosystem continues to grow.\n\nStill in development.\nAlmost there.",
+    "rewardName": "Olympians NFTs",
+    "startTime": 1768964400,
+    "endTime": 1769828400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCag7tYeZM"
+  },
+  {
     "id": "GCXeWtYwgs",
     "name": "Landshare $LAND Lottery 2.0",
     "description": "## LAND Lottery:  Early Belief, Better Odds\n\nLAND Lottery 2.0 is live. This round is designed to reward longer-term holders and early participants, not quick entries. The campaign runs for 30 days, and anyone can join as long as they meet the holding requirement.\n\n### 🧠 Core Rules (Read This First)\n**To be eligible for the lottery:**\n- You must buy at least 50 LAND\n- You must hold those tokens for 15 consecutive days\n- Your LAND must be purchased directly on PancakeSwap\n- Wallet-to-wallet transfers do not qualify\n\nIf you sell, transfer, or move the LAND during the **15-day holding period**, your entry is disqualified.\n\n**🎟️ Tickets & Entry Timing:** \n- 50 LAND = 1 base ticket\n- No maximum cap: more LAND = more tickets\n- The campaign lasts 30 days, so you can join early or later (e.g. Day 1 or Day 15)\n\n**However, when you enter matters 👇**\n\n### ⚡ Early Entry Multipliers\nTo incentivize early participation, ticket multipliers apply based on when you buy your LAND:\n\n- Days 1–3: 🔥 **x3 tickets**\n- Days 4–10: ⚡ **x2 tickets**\n- Days 11–15: x1 ticket\n\n🚨 **After Day 15, new entries are no longer accepted**, as the 15-day holding requirement must still be met before the campaign ends.\n\n### 🛒 How to Participate\n- Buy 50+ LAND directly on [PancakeSwap](https://pancakeswap.finance/swap?chain=bsc&outputCurrency=0xA73164DB271931CF952cBaEfF9E8F5817b42fA5C)\n- Connect your wallet & verify your purchase \n- Complete other Galxe tasks\n- Hold your LAND for 15 days in a row\n\nThat’s it - once the holding period is complete, you’re eligible.\n\n#### 💰 Rewards\n- 1,000 LAND total prize pool\n- 10 winners selected at random\n- Odds are weighted by the number of valid tickets you hold\n\nMore tickets = better chances.\n\n#### ⏳ Final Notes\nThis lottery rewards commitment, not speed.\nEnter early, hold longer, and maximize your odds.\n\n**LAND Lottery 2.0 is live, plan your entry wisely.**",
@@ -110,6 +126,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/rumi/GC4qptY6sC"
+  },
+  {
+    "id": "GCUs5tYnhB",
+    "name": "Join the Sphere Discord · Early Community",
+    "description": "Join our official Discord to connect with the community and get early updates on upcoming features and campaigns.",
+    "rewardName": "",
+    "startTime": 1768982400,
+    "endTime": 1770192000,
+    "chain": "BASE",
+    "space": {
+      "name": "Sphere",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/sphere/GCUs5tYnhB"
   },
   {
     "id": "GCwA5tYqMk",
