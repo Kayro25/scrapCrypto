@@ -144,6 +144,38 @@
     "url": "https://app.galxe.com/quest/rumi/GC4qptY6sC"
   },
   {
+    "id": "GCfwjtYE1o",
+    "name": "2026 Launch Season: Early Community Gets Rewarded",
+    "description": "This year will mark a new phase for Olympex, with major launches, platform updates, and long-awaited features finally coming live.\n\nBefore everything goes public, before the noise, and before everyone arrives late, we want to recognize the people who have been here from the beginning.\n\nThis Social Task is about showing real support.\nNot hype.\nNot speculation.\nJust being present, engaging, and helping grow the community where everything starts.\n\nBy completing this task and supporting us on X and Telegram, you’re making your activity visible as an early supporter.\nThat activity will be taken into account as we roll out future rewards, access, and benefits throughout 2026.\n\nWe believe long-term value is built with the people who show up early, not those who arrive once everything has already taken off.\n\nIt only takes a minute.\nAnd it puts you in the right place for what’s coming next.",
+    "rewardName": "Swap stars you gains",
+    "startTime": 1769137200,
+    "endTime": 1769828400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCfwjtYE1o"
+  },
+  {
+    "id": "GC62jtYY8H",
+    "name": "$ATTS Presale Supporter Campaign",
+    "description": "Support the $ATTS presale by completing simple social tasks directly inside AGNT Connect.\n\nEngage with our X announcement, subscribe to updates, and join our community channels.\nEach task helps spread awareness and brings you closer to the AGNT ecosystem.\n\nComplete all tasks to confirm your participation as an early $ATTS supporter and get unique Discord role. ",
+    "rewardName": "",
+    "startTime": 1769032800,
+    "endTime": 1771797600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "AGNT Hub",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/agnt-hub/GC62jtYY8H"
+  },
+  {
     "id": "GCUs5tYnhB",
     "name": "Join the Sphere Discord · Early Community",
     "description": "Join our official Discord to connect with the community and get early updates on upcoming features and campaigns.",
@@ -254,38 +286,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/gems-town/GCDDetYsHy"
-  },
-  {
-    "id": "GCeaetYCaC",
-    "name": "Permission Flash Quest",
-    "description": "Fast. Easy. Rewarding as always. \n\nSee you on X. :) \n",
-    "rewardName": "",
-    "startTime": 1768550400,
-    "endTime": 1769155200,
-    "chain": "BASE",
-    "space": {
-      "name": "Permission ",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/permission/GCeaetYCaC"
-  },
-  {
-    "id": "GCeVetY3w1",
-    "name": "Time is running out, and early supporters will be rewarded with our NFT and upco",
-    "description": "Time is running out, and early supporters will be rewarded with our NFT and upcoming token rewards.\n\nTo participate:\n• Show your support by liking and engaging with our posts on X\n• Join and stay active in our Telegram community\n• Take part in ongoing discussions, updates, and community activities\n\nEarly support matters. Engagement, participation, and community involvement will play a key role in earning rewards.\n\nStay active, support the project, and secure your place among the early contributors.",
-    "rewardName": "Time Is Running Out",
-    "startTime": 1768532400,
-    "endTime": 1769137200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCeVetY3w1"
   },
   {
     "id": "GCxXWtY5gh",
