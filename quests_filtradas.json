@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCVEjtYDo8",
+    "name": "🎁 UniMex 5,000 UNX Airdrop",
+    "description": "UniMex is rolling out a 5,000 UNX airdrop for users who join early and explore the ecosystem.\n\nAs a new-generation exchange combining TradeFi and Web3 infrastructure, UniMex is built for global access, efficiency, and long-term growth.\n\n🎯 200 winners · 25 UNX each\n\nUNX rewards will be distributed via BNB Chain within 3 business days after the campaign ends.",
+    "rewardName": "25 UNX  Tokens ",
+    "startTime": 1769428800,
+    "endTime": 1769947200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "UniMex",
+      "isVerified": true
+    },
+    "score": 13,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/unimex/GCVEjtYDo8"
+  },
+  {
     "id": "GCL57tYmW6",
     "name": "Server Booster Role",
     "description": "Boost our Discord Server and get rewarded",
@@ -32,6 +48,22 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCc47tY1xm"
   },
   {
+    "id": "GCqA7tYVpb",
+    "name": "Diamond Holder Quest: Earn your share of 28,571 $SUT",
+    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 28,571 $SUT prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 28,571 $SUT\n**(Equal to 10,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 28,571 $SUT pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
+    "rewardName": "Sanity United Diamond Holder ",
+    "startTime": 1769446800,
+    "endTime": 1769706000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCqA7tYVpb"
+  },
+  {
     "id": "GC3E7tYzLF",
     "name": "KOMmunity Partner x Sanity United",
     "description": "🎁 Reward:  5,714 $SUT Prize Pool\n- Winners:  700 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
@@ -62,6 +94,22 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/mil-k/GCaiNtYfHd"
+  },
+  {
+    "id": "GCJ1DtYgAh",
+    "name": "Thank You Galxe Community!",
+    "description": "\n# Doma Loves You!\n\nThis quest is an additional thank you to all our Galxe community!\n\nThank you for brute testing our testnet, pushing so hard we had to upgrade our servers, finding bugs at incredible speed, all the likes, shares and content. We love you!\n\n## This quest is simple:\n1. Make a Doma mainnet account (https://app.doma.xyz)\n2. Follow our X account\n3. Follow Big Mike for being so nice as to run this campaign\n\n\n## Winners\n10,000 people get 25 points on the Season 0 leaderboard. Raffle.\n\nQuest ends on Sunday, February 1st 2026 at 2PM UTC.\n\n\n### Please Note\nUpdating is manual and will be updated every Monday/Wednesday/Friday whenever Big Mike gets to it! If it hasn't updated, come bug us in the Discord.",
+    "rewardName": "25 Doma Season 0 LB Points",
+    "startTime": 1769432400,
+    "endTime": 1769954400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/d3/GCJ1DtYgAh"
   },
   {
     "id": "GCjZNtYBB5",
@@ -112,6 +160,22 @@
     "url": "https://app.galxe.com/quest/landshare/GCXeWtYwgs"
   },
   {
+    "id": "GCcyDtY6XC",
+    "name": "Mission: Engage with Olympex",
+    "description": "Follow Olympex, like the post, and leave a comment to show your support for the DeFi revolution.\n\nEvery interaction strengthens our community — and your participation comes with rewards.\n\n✅ Completing this mission guarantees you a spot for the upcoming Olympex NFT launch.\n\n💎 All points earned through your engagement will also count toward the future $Nectar airdrop — the governance token that powers Olympex.\n\nBe active. Earn your place. Build the future of DeFi.",
+    "rewardName": "Last Days Before Mint of our NFT",
+    "startTime": 1769396400,
+    "endTime": 1770087600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCcyDtY6XC"
+  },
+  {
     "id": "GCgfjtYa3T",
     "name": "CHECKPOINT SPRINT",
     "description": "\n## 100K G$ total reward. Ends in 2 weeks.\n----\nWelcome, welcome, (*´∇｀)ノ\n\nGood you made it, we are Checkpoint. What you can do with Checkpoint? Well you can check points for EVM addy's. You can also track your points. You can build Apps with it. Soon you also can trade points with it.\n\nThere is a lot you can do with it, but it's exceptionally valuable if you farm points. It keeps track of all your points in one awesome platform.\n\nThis is a serie of 5 quests, that all end on the 9th of February. When a new series of quest will come live. These quests are in sequence, finish the first to go to the second and so forth.\n\nWe are looking for power users that giv feedback and don't want bots participating in the campaign. This means that with each subsequent quests, the participation requirements can increase, but at the same time, you get more of a chance for sweet $G.\n\nGLHF \\^o^/!\n",
@@ -158,6 +222,38 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/rumi/GC4qptY6sC"
+  },
+  {
+    "id": "GC8DjtY6Xz",
+    "name": "🚀 Atlaspad x Chatoshi AI Launchpad Meets Crypto-Native AI | Galxe Campaign",
+    "description": "**📢 Campaign Description**\r\n\r\nAtlaspad and Chatoshi AI are joining forces!\r\nThe next-generation multi-chain launchpad and the world's first crypto-native AI copilot come together in the same campaign.\r\n\r\nIn this special Galxe campaign, participants will both explore the Atlaspad ecosystem and get acquainted with Chatoshi's AI-powered on-chain, sentiment, and trader analysis tools.\r\n\r\n🎯 Campaign Rewards\r\n🏆 Atlaspad (ASPAD) Whitelist for 100 People\r\n\r\n⏳ Campaign Duration\r\n📆 1 Month\r\n\r\n🚀 Complete the tasks, join the Atlaspad x Chatoshi ecosystem, and seize your chance to get whitelisted!\r\n\r\nTranslated with DeepL.com (free version)",
+    "rewardName": "ASPAD WL",
+    "startTime": 1769374800,
+    "endTime": 1772053200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Atlaspad",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/atlaspad/GC8DjtY6Xz"
+  },
+  {
+    "id": "GCCJDtYoDs",
+    "name": "Invest in op-Lend 1",
+    "description": "Lend.xyz First Operation Reward\n\nTo mark the launch of the first operation on Lend.xyz, we are running a community reward campaign.\n\nOne participant will be randomly selected to receive $300, among users who:\n\nInvested at least $10 in the first Lend.xyz operation\n\nThe winner will be chosen at random from all eligible participants.\n\nThank you for supporting the launch of Lend.xyz.",
+    "rewardName": "",
+    "startTime": 1769382000,
+    "endTime": 1769986800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Lend.xyz",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/lend-xyz/GCCJDtYoDs"
   },
   {
     "id": "GCfwjtYE1o",
@@ -272,22 +368,6 @@
     "url": "https://app.galxe.com/quest/mahjongstars/GCZ45tYxLe"
   },
   {
-    "id": "GCgN5tYHU4",
-    "name": "Time Is Running Out: Early Supporters Will Be Rewarded",
-    "description": "ime is running out, and early supporters will be rewarded with our NFT and upcoming token rewards.\n\nTo participate:\n• Show your support by liking and engaging with our posts on X\n• Join and stay active in our Telegram community\n• Take part in ongoing discussions, updates, and community activities\n\nEarly support matters. Engagement, participation, and community involvement will play a key role in earning rewards.\n\nStay active, support the project, and secure your place among the early contributors.",
-    "rewardName": "Earn More in Web3 | Support ",
-    "startTime": 1768791600,
-    "endTime": 1769482800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCgN5tYHU4"
-  },
-  {
     "id": "GCDDetYsHy",
     "name": "CLAIM 50 $GEMS & WIN USDC",
     "description": "Get a 50 GEMS Airdrop to jumpstart your competitive crypto gaming! Engage in games of skill against live opponents and earn valuable crypto rewards for your wins! ",
@@ -318,21 +398,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/assetux/GCxXWtY5gh"
-  },
-  {
-    "id": "GCPxStYEHJ",
-    "name": "Pre-TGE Superchain Star",
-    "description": "Superchains without TGE include Base, Soneium, Ink, and Unichain. Have you been waiting for a long time? Are you fully prepared? Join the quest and get a chance at **four potential airdrops at once**. Don’t miss out!\n",
-    "rewardName": "",
-    "startTime": 1768233600,
-    "endTime": 1769443200,
-    "chain": "OPTIMISM",
-    "space": {
-      "name": "WheelX.fi",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/wheelx-fi/GCPxStYEHJ"
   }
 ]
