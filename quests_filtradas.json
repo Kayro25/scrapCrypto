@@ -32,6 +32,22 @@
     "url": "https://app.galxe.com/quest/fuglys/GCL57tYmW6"
   },
   {
+    "id": "GCnjDtYTiu",
+    "name": "🎟️ AMA Raffle with Doma",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1769508000,
+    "endTime": 1769594400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCnjDtYTiu"
+  },
+  {
     "id": "GCc47tY1xm",
     "name": "KOMmunity Learn with Sanity United",
     "description": "Dive deep into the project with Sanity United KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period :\n19th - 30th January, 2026\nPrize Pool : \n2,857 $SUT\nWinner : \n100  \n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.  ",
@@ -80,22 +96,6 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GC3E7tYzLF"
   },
   {
-    "id": "GCaiNtYfHd",
-    "name": "MLK Trading Season 4 — $2,500 MLK Rewards",
-    "description": "We’re excited to launch a 30-day trading volume event starting Jan 8 (UTC) with a total reward pool of $2,500 in MLK!\n\n🔑 Event Details\n\nDaily Rewards: $83 in MLK distributed each day\nEligibility: Top 10 wallets with at least $15,000 daily trading volume on PancakeSwap V3\nReward per Wallet: Approx. $8.3 in MLK\n\n📌 Rules\n\nIf more than 10 wallets qualify on a given day, 10 winners will be randomly selected from eligible participants.\nOnly wallets submitted before the deadline will be considered.\nEach wallet can claim rewards up to 1 time during the entire event (anti-monopoly rule).\nAll trades must be executed directly on PancakeSwap V3.\nAll rewards will be distributed to Arbitrum chain.\n**Raffle results within Galxe are not related to the actual event winners. Rewards will only be granted to wallets that meet the trading requirements and are selected through the daily draw.\n**For eligible wallets, rewards will be distributed within two weeks after the event ends.\n\n⏰ Event Period\n\n2026 Jan 8 ~ 2026 Feb 7 (UTC)",
-    "rewardName": "Checking Eligibility for MLK",
-    "startTime": 1767798000,
-    "endTime": 1770390000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "MiL.k",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/mil-k/GCaiNtYfHd"
-  },
-  {
     "id": "GCJ1DtYgAh",
     "name": "Thank You Galxe Community!",
     "description": "\n# Doma Loves You!\n\nThis quest is an additional thank you to all our Galxe community!\n\nThank you for brute testing our testnet, pushing so hard we had to upgrade our servers, finding bugs at incredible speed, all the likes, shares and content. We love you!\n\n## This quest is simple:\n1. Make a Doma mainnet account (https://app.doma.xyz)\n2. Follow our X account\n3. Follow Big Mike for being so nice as to run this campaign\n\n\n## Winners\n10,000 people get 25 points on the Season 0 leaderboard. Raffle.\n\nQuest ends on Sunday, February 1st 2026 at 2PM UTC.\n\n\n### Please Note\nUpdating is manual and will be updated every Monday/Wednesday/Friday whenever Big Mike gets to it! If it hasn't updated, come bug us in the Discord.",
@@ -110,22 +110,6 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/d3/GCJ1DtYgAh"
-  },
-  {
-    "id": "GCjZNtYBB5",
-    "name": "GemW New User Airdrop — Earn Up to 85 USDT",
-    "description": "Complete the following Galxe tasks for a chance to win:\n50 random users will each receive a 10 USDT futures bonus.",
-    "rewardName": "$10 Futures Bonus",
-    "startTime": 1767801600,
-    "endTime": 1769788800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "GemW",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/gemw/GCjZNtYBB5"
   },
   {
     "id": "GCag7tYeZM",
@@ -222,6 +206,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/rumi/GC4qptY6sC"
+  },
+  {
+    "id": "GCEh5tYg1s",
+    "name": "WyseOS Early Access & Rewards",
+    "description": "🚀 WyseOS Early Access Quest\n\nWyseOS is opening Early Access for builders experimenting with growth on X.\n\nComplete the tasks below to:\n• Get WyseOS early access\n• Receive beta credits\n• Join our early builder community\n\n⸻\n\n🎁 Rewards\n• 3 participants will receive a $25 Amazon Gift Card\n• Winners are selected via raffle from users who complete all required tasks\n• Rewards will be distributed manually via email after verification\n\nLow-effort, bot, or duplicate entries will be excluded.",
+    "rewardName": "Amazon Gift Card Rewards",
+    "startTime": 1769443200,
+    "endTime": 1770048000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "WyseOS",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/wyseos/GCEh5tYg1s"
   },
   {
     "id": "GC8DjtY6Xz",
