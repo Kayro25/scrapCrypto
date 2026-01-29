@@ -32,22 +32,6 @@
     "url": "https://app.galxe.com/quest/fuglys/GCL57tYmW6"
   },
   {
-    "id": "GCnjDtYTiu",
-    "name": "🎟️ AMA Raffle with Doma",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1769508000,
-    "endTime": 1769594400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCnjDtYTiu"
-  },
-  {
     "id": "GCc47tY1xm",
     "name": "KOMmunity Learn with Sanity United",
     "description": "Dive deep into the project with Sanity United KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period :\n19th - 30th January, 2026\nPrize Pool : \n2,857 $SUT\nWinner : \n100  \n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.  ",
@@ -62,6 +46,22 @@
     "score": 10,
     "payout": 85,
     "url": "https://app.galxe.com/quest/kommunitas-net/GCc47tY1xm"
+  },
+  {
+    "id": "GCfZRtYQ6q",
+    "name": "GemW Community Giveaway | 15,000,000 SHIT",
+    "description": "Complete the Galxe tasks for a chance to be 1 of 20 random winners to receive 50,000 $SHIT each.\n\nJoin the Gleam giveaway to share 15,000,000 $SHIT.\n\nRewards for Galxe winners will be distributed based on the email and CoinW UID you submitted on Gleam.",
+    "rewardName": "50,000 $SHIT",
+    "startTime": 1769616000,
+    "endTime": 1770739199,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "GemW",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/gemw/GCfZRtYQ6q"
   },
   {
     "id": "GCqA7tYVpb",
@@ -144,6 +144,38 @@
     "url": "https://app.galxe.com/quest/landshare/GCXeWtYwgs"
   },
   {
+    "id": "GCuRDtYszT",
+    "name": "CHECKPOINT BLITZ",
+    "description": "## QUICK QUESTS. FAST REWARDS. FASTER WINS.\n\n\n#### gotta' go fast, gotta' BLITZ   ─=≡Σ((( つ＞＜)つ\n\nBLITZ is built for speed. Jump into quick quests, earn rewards fast, and keep moving faster. No long grinds, just focused action and fast payoffs.\n\n…but wait, what is Checkpoint? Checkpoint is your home for points. We are building the architecture that makes points usable, ONCHAIN. Today, people use it to check and track their points, projects use it to display points or build apps and soon you will be able to do much more with it.\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---\n\n#### About CHECKPOINT BLITZ\n\nBLITZ is an ongoing campaign, with quests regularly opening and closing within 6-48 hour windows. New opportunities appear often, so check back frequently to catch the latest quests and an opportunity to earn sweet rewards.\n\nRewards match the speed of the campaign and are typically smaller than those in our mainline campaigns. Each quest stands on its own and may have different entry requirements.\n\nHappy BLITZING  (❛◡˂̵ ̑̑✧)!\n\n![blitz walk.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/5ccab7fa-a0a7-46b6-919f-93b7ded716e1.webp)",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "BASE",
+    "space": {
+      "name": "Checkpoint",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/checkpoint/GCuRDtYszT"
+  },
+  {
+    "id": "GCifDtYAf4",
+    "name": "BLITZ: CHECKPOINT GALXE",
+    "description": "#### Gotta' go fast, gotta' BLITZ   ─=≡Σ((( つ＞＜)つ\n\nBLITZ is built for speed. Jump into quick quests, earn rewards fast, and keep moving faster. No long grinds, just focused action and fast payoffs.\n\n…but wait, what is Checkpoint? Checkpoint is your home for points. We are building the architecture that makes points usable, ONCHAIN. Today, people use it to check and track their points, projects use it to display points or build apps and soon you will be able to do much more with it.\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---------\n \n#### About CHECKPOINT BLITZ\n\nBLITZ is an ongoing campaign, with quests regularly opening and closing within 6-48 hour windows. New opportunities appear often, so check back frequently to catch the latest quests and an opportunity to earn sweet rewards.\n\nRewards match the speed of the campaign and are typically smaller than those in our mainline campaigns. Each quest stands on its own and may have different entry requirements.\n\nHappy BLITZING  (❛◡˂̵ ̑̑✧)!\n\n![blitz walk.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/ebdc2072-6187-4a39-8572-3f404dc23012.webp)",
+    "rewardName": "",
+    "startTime": 1769583600,
+    "endTime": 1769670000,
+    "chain": "BASE",
+    "space": {
+      "name": "Checkpoint",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/checkpoint/GCifDtYAf4"
+  },
+  {
     "id": "GCcyDtY6XC",
     "name": "Mission: Engage with Olympex",
     "description": "Follow Olympex, like the post, and leave a comment to show your support for the DeFi revolution.\n\nEvery interaction strengthens our community — and your participation comes with rewards.\n\n✅ Completing this mission guarantees you a spot for the upcoming Olympex NFT launch.\n\n💎 All points earned through your engagement will also count toward the future $Nectar airdrop — the governance token that powers Olympex.\n\nBe active. Earn your place. Build the future of DeFi.",
@@ -192,20 +224,36 @@
     "url": "https://app.galxe.com/quest/sphere/GCrGetYrGU"
   },
   {
-    "id": "GC4qptY6sC",
-    "name": "Rumi Early Access — Win $1,000",
-    "description": "Be among the first to experience Rumi, the browser extension that lets you earn rewards for streaming your favorite shows and movies on Netflix or HBO Max.\n\nComplete all Early Access quests to qualify for a lucky draw and a chance to win from our $1,000 reward pool.\n\n(50 winners will be randomly selected from participants who finish every task.)\n\nCurrently Rumi is only available on the Chrome browser on PC. It will not work on mobile\n\nJoin Rumi Early Access today. explore, share, and get rewarded!\n",
-    "rewardName": "",
-    "startTime": 1765515600,
-    "endTime": 1770249600,
+    "id": "GCXmRtYVkF",
+    "name": "2026 Launch Season: Early Community Gets Rewarded",
+    "description": "This year will mark a new phase for Olympex, with major launches, platform updates, and long-awaited features finally coming live.\n\nBefore everything goes public, before the noise, and before everyone arrives late, we want to recognize the people who have been here from the beginning.\n\nThis Social Task is about showing real support.\nNot hype.\nNot speculation.\nJust being present, engaging, and helping grow the community where everything starts.\n\nBy completing this task and supporting us on X and Telegram, you’re making your activity visible as an early supporter.\nThat activity will be taken into account as we roll out future rewards, access, and benefits throughout 2026.\n\nWe believe long-term value is built with the people who show up early, not those who arrive once everything has already taken off.\n\nIt only takes a minute.\nAnd it puts you in the right place for what’s coming next.",
+    "rewardName": "Early Support Real Rewards",
+    "startTime": 1769569200,
+    "endTime": 1770260400,
     "chain": "ETHEREUM",
     "space": {
-      "name": "Rumi",
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCXmRtYVkF"
+  },
+  {
+    "id": "GC1hRtY55F",
+    "name": "👋 Welcome to Bitcoin Light app!",
+    "description": "Become an early adopter of the ecosystem and earn an exclusive Discord role as an early adopter! 😉",
+    "rewardName": "",
+    "startTime": 1769641200,
+    "endTime": 1774908000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bitcoin Light",
       "isVerified": true
     },
-    "score": 6,
+    "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/rumi/GC4qptY6sC"
+    "url": "https://app.galxe.com/quest/bitcoin-light/GC1hRtY55F"
   },
   {
     "id": "GCEh5tYg1s",
