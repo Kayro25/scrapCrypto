@@ -64,20 +64,20 @@
     "url": "https://app.galxe.com/quest/d3/GCJ1DtYgAh"
   },
   {
-    "id": "GCag7tYeZM",
-    "name": "Discover the Olympians NFTs",
-    "description": "Get an early look at Olympians NFTs, a core layer of the Olympex ecosystem.\n\nThese NFTs are being designed to interact directly with the DEX and enhance how users operate across multiple DeFi strategies.\nThey are not collectibles, they are tools built to create synergy between execution, incentives, and long-term participation.\n\n👉 Explore the preview, engage with the content, and stay tuned for upcoming updates.\nEarly participants may be rewarded as the ecosystem continues to grow.\n\nStill in development.\nAlmost there.",
-    "rewardName": "Olympians NFTs",
-    "startTime": 1768964400,
-    "endTime": 1769828400,
+    "id": "GCXeWtYwgs",
+    "name": "Landshare $LAND Lottery 2.0",
+    "description": "## LAND Lottery:  Early Belief, Better Odds\n\nLAND Lottery 2.0 is live. This round is designed to reward longer-term holders and early participants, not quick entries. The campaign runs for 30 days, and anyone can join as long as they meet the holding requirement.\n\n### 🧠 Core Rules (Read This First)\n**To be eligible for the lottery:**\n- You must buy at least 50 LAND\n- You must hold those tokens for 15 consecutive days\n- Your LAND must be purchased directly on PancakeSwap\n- Wallet-to-wallet transfers do not qualify\n\nIf you sell, transfer, or move the LAND during the **15-day holding period**, your entry is disqualified.\n\n**🎟️ Tickets & Entry Timing:** \n- 50 LAND = 1 base ticket\n- No maximum cap: more LAND = more tickets\n- The campaign lasts 30 days, so you can join early or later (e.g. Day 1 or Day 15)\n\n**However, when you enter matters 👇**\n\n### ⚡ Early Entry Multipliers\nTo incentivize early participation, ticket multipliers apply based on when you buy your LAND:\n\n- Days 1–3: 🔥 **x3 tickets**\n- Days 4–10: ⚡ **x2 tickets**\n- Days 11–15: x1 ticket\n\n🚨 **After Day 15, new entries are no longer accepted**, as the 15-day holding requirement must still be met before the campaign ends.\n\n### 🛒 How to Participate\n- Buy 50+ LAND directly on [PancakeSwap](https://pancakeswap.finance/swap?chain=bsc&outputCurrency=0xA73164DB271931CF952cBaEfF9E8F5817b42fA5C)\n- Connect your wallet & verify your purchase \n- Complete other Galxe tasks\n- Hold your LAND for 15 days in a row\n\nThat’s it - once the holding period is complete, you’re eligible.\n\n#### 💰 Rewards\n- 1,000 LAND total prize pool\n- 10 winners selected at random\n- Odds are weighted by the number of valid tickets you hold\n\nMore tickets = better chances.\n\n#### ⏳ Final Notes\nThis lottery rewards commitment, not speed.\nEnter early, hold longer, and maximize your odds.\n\n**LAND Lottery 2.0 is live, plan your entry wisely.**",
+    "rewardName": "1,000 LAND tokens",
+    "startTime": 1768476000,
+    "endTime": 1771066800,
     "chain": "ETHEREUM",
     "space": {
-      "name": "the Olimpus of DeFi",
+      "name": "Landshare",
       "isVerified": false
     },
     "score": 7,
     "payout": 65,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCag7tYeZM"
+    "url": "https://app.galxe.com/quest/landshare/GCXeWtYwgs"
   },
   {
     "id": "GCxKRtYPx6",
@@ -110,22 +110,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/assetux/GC6kRtYXE1"
-  },
-  {
-    "id": "GCucDtYaNG",
-    "name": "BLITZ: CHECKPOINT GALXE #2",
-    "description": "#### Gotta' go fast, gotta' BLITZ   ─=≡Σ((( つ＞＜)つ\n\nBLITZ is built for speed. Jump into quick quests, earn rewards fast, and keep moving faster. No long grinds, just focused action and fast payoffs.\n\n…but wait, what is Checkpoint? Checkpoint is your home for points. We are building the architecture that makes points usable, ONCHAIN. Today, people use it to check and track their points, projects use it to display points or build apps and soon you will be able to do much more with it.\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---------\n \n#### About CHECKPOINT BLITZ\n\nBLITZ is an ongoing campaign, with quests regularly opening and closing within 6-48 hour windows. New opportunities appear often, so check back frequently to catch the latest quests and an opportunity to earn sweet rewards.\n\nRewards match the speed of the campaign and are typically smaller than those in our mainline campaigns. Each quest stands on its own and may have different entry requirements.\n\nHappy BLITZING  (❛◡˂̵ ̑̑✧)!\n\n![blitz walk.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/ebdc2072-6187-4a39-8572-3f404dc23012.webp)",
-    "rewardName": "",
-    "startTime": 1769670000,
-    "endTime": 1769756400,
-    "chain": "BASE",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/checkpoint/GCucDtYaNG"
   },
   {
     "id": "GCuRDtYszT",
@@ -190,6 +174,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/sphere/GCrGetYrGU"
+  },
+  {
+    "id": "GCG7itYmtv",
+    "name": "Permission Weekend Quest",
+    "description": "3 Tasks, Big Rewards. Have a good weekend Permission fam. ",
+    "rewardName": "",
+    "startTime": 1769760000,
+    "endTime": 1770105600,
+    "chain": "BASE",
+    "space": {
+      "name": "Permission ",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/permission/GCG7itYmtv"
   },
   {
     "id": "GCXmRtYVkF",
@@ -270,22 +270,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/lend-xyz/GCCJDtYoDs"
-  },
-  {
-    "id": "GCfwjtYE1o",
-    "name": "2026 Launch Season: Early Community Gets Rewarded",
-    "description": "This year will mark a new phase for Olympex, with major launches, platform updates, and long-awaited features finally coming live.\n\nBefore everything goes public, before the noise, and before everyone arrives late, we want to recognize the people who have been here from the beginning.\n\nThis Social Task is about showing real support.\nNot hype.\nNot speculation.\nJust being present, engaging, and helping grow the community where everything starts.\n\nBy completing this task and supporting us on X and Telegram, you’re making your activity visible as an early supporter.\nThat activity will be taken into account as we roll out future rewards, access, and benefits throughout 2026.\n\nWe believe long-term value is built with the people who show up early, not those who arrive once everything has already taken off.\n\nIt only takes a minute.\nAnd it puts you in the right place for what’s coming next.",
-    "rewardName": "Swap stars you gains",
-    "startTime": 1769137200,
-    "endTime": 1769828400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCfwjtYE1o"
   },
   {
     "id": "GC62jtYY8H",
