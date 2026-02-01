@@ -96,38 +96,6 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCxKRtYPx6"
   },
   {
-    "id": "GC6kRtYXE1",
-    "name": "Win 0.0005 BTC on your first deposit",
-    "description": "# **Quest Description**\n\nThe **Bitcoin Summer** has officially arrived on **BOB (Build on Bitcoin)**!\n\nDon't let your Bitcoin sit idle in your wallet. It’s time to activate your capital and bridge the gap between native Bitcoin and the thriving DeFi ecosystem. **aaaBTC** is your premier gateway to yield, allowing you to bridge and mint in a single click using $WBTC.\n\nBy participating in this quest, you aren't just minting a token—you're securing your spot in the future of Bitcoin-native staking and LP farming.\n\n**The Challenge:**\nBe among the first to mint and stake at least **0.001 aaaBTC** to qualify for our exclusive \"Booster\" reward pool!\n\n---\n\n### **🎁 Rewards & Incentives**\n\nWe are rewarding the early adopters who lead the charge:\n\n* **The Bonus:** 200 lucky participants who complete the minting & staking task will be randomly selected to receive a **0.0005 aaaBTC bonus** (a 50% boost on the minimum mint!).\n\n* * **The Utility:** Minting aaaBTC unlocks immediate access to **Staking** and **LP Farming** on any network.\n\n---\n\n### **🛠 How to Participate**\n\n1. **Bridge & Mint:** Go to the [aaaBTC DApp](https://aaabtc.assetux.com/mint) and mint a minimum of **0.001 aaaBTC** using $WBTC or other tokens..\n2. **Verify:** Once your transaction is confirmed on the network, come back here to verify your on-chain credential.\n3. **Socials (Optional but Recommended):**  Follow [@assetux](https://x.com/assetux) on X to stay updated on farming rewards.\n\n---\n\n### **📜 Terms & Conditions**\n\n* **Minimum Stake:** 0.001 aaaBTC.\n* **Selection:** 200 winners will be chosen via Galxe’s transparent raffle system after the campaign ends.\n* **Network:** Any\n\n> **Why $aaaBTC?**\n> Built for the modern Bitcoin holder, aaaBTC offers a seamless 1-click minting experience. It is specifically designed for deep integration with Bitcoin Staking and Liquidity Provision, ensuring your ₿ earns while you sleep.\n",
-    "rewardName": "0.1 BTC",
-    "startTime": 1769601600,
-    "endTime": 1770811200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Assetux",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/assetux/GC6kRtYXE1"
-  },
-  {
-    "id": "GCuRDtYszT",
-    "name": "CHECKPOINT BLITZ",
-    "description": "## QUICK QUESTS. FAST REWARDS. FASTER WINS.\n\n\n#### gotta' go fast, gotta' BLITZ   ─=≡Σ((( つ＞＜)つ\n\nBLITZ is built for speed. Jump into quick quests, earn rewards fast, and keep moving faster. No long grinds, just focused action and fast payoffs.\n\n…but wait, what is Checkpoint? Checkpoint is your home for points. We are building the architecture that makes points usable, ONCHAIN. Today, people use it to check and track their points, projects use it to display points or build apps and soon you will be able to do much more with it.\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---\n\n#### About CHECKPOINT BLITZ\n\nBLITZ is an ongoing campaign, with quests regularly opening and closing within 6-48 hour windows. New opportunities appear often, so check back frequently to catch the latest quests and an opportunity to earn sweet rewards.\n\nRewards match the speed of the campaign and are typically smaller than those in our mainline campaigns. Each quest stands on its own and may have different entry requirements.\n\nHappy BLITZING  (❛◡˂̵ ̑̑✧)!\n\n![blitz walk.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/5ccab7fa-a0a7-46b6-919f-93b7ded716e1.webp)",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "BASE",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/checkpoint/GCuRDtYszT"
-  },
-  {
     "id": "GCcyDtY6XC",
     "name": "Mission: Engage with Olympex",
     "description": "Follow Olympex, like the post, and leave a comment to show your support for the DeFi revolution.\n\nEvery interaction strengthens our community — and your participation comes with rewards.\n\n✅ Completing this mission guarantees you a spot for the upcoming Olympex NFT launch.\n\n💎 All points earned through your engagement will also count toward the future $Nectar airdrop — the governance token that powers Olympex.\n\nBe active. Earn your place. Build the future of DeFi.",
@@ -160,20 +128,20 @@
     "url": "https://app.galxe.com/quest/checkpoint/GCgfjtYa3T"
   },
   {
-    "id": "GCrGetYrGU",
-    "name": "Early Access Onboarding – Earn Points",
-    "description": "Get early access and earn points by completing this onboarding quest.",
+    "id": "GC4qptY6sC",
+    "name": "Rumi Early Access — Win $1,000",
+    "description": "Be among the first to experience Rumi, the browser extension that lets you earn rewards for streaming your favorite shows and movies on Netflix or HBO Max.\n\nComplete all Early Access quests to qualify for a lucky draw and a chance to win from our $1,000 reward pool.\n\n(50 winners will be randomly selected from participants who finish every task.)\n\nCurrently Rumi is only available on the Chrome browser on PC. It will not work on mobile\n\nJoin Rumi Early Access today. explore, share, and get rewarded!\n",
     "rewardName": "",
-    "startTime": 1768464000,
-    "endTime": 1769846400,
-    "chain": "BASE",
+    "startTime": 1765515600,
+    "endTime": 1770249600,
+    "chain": "ETHEREUM",
     "space": {
-      "name": "Sphere",
+      "name": "Rumi",
       "isVerified": true
     },
     "score": 6,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/sphere/GCrGetYrGU"
+    "url": "https://app.galxe.com/quest/rumi/GC4qptY6sC"
   },
   {
     "id": "GCG7itYmtv",
@@ -366,21 +334,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/gems-town/GCDDetYsHy"
-  },
-  {
-    "id": "GCxXWtY5gh",
-    "name": "BTC on TON & Beyond",
-    "description": "# The aaaBTC Trading Challenge\n\n### 📊 aaaBTC Trading Challenge: $10,000 Raffle\n\nMaster the markets across 5 networks. Accumulate volume and prove your liquidity. We are giving away **0.1 BTC (Total)**: 20 winners will receive **0.005 aaaBTC** each!\n\n### **Task Requirements:**\n\n* Accumulate at least **$10 in trading volume** on the **aaaBTC/Stable** pairs.\n* Supported Networks: **Ethereum, Arbitrum, Base, BNB Chain (BSC), and World Chain**.\n* Platforms: Uniswap V3\n\n**Verification Links (Uniswap Pools):**\n\n* [Eth Pool 1](https://app.uniswap.org/explore/pools/ethereum/0x2Cc2cCf05d75Deb6Ec1d0EdcA62eAa0909746bB6) | [Eth Pool 2](https://app.uniswap.org/explore/pools/ethereum/0xe28f06FafC7EC902F7d1D1675256EfA58c3A234b)\n* [Arb Pool 1](https://app.uniswap.org/explore/pools/arbitrum/0xB291B377e28736B7F170e55471202b616B45687A) | [Arb Pool 2](https://app.uniswap.org/explore/pools/arbitrum/0xbFB94855Ab497C96739183331d22E93ff61B2a32)\n* [Base Pool](https://app.uniswap.org/explore/pools/base/0x19bFC2c53965DB063B3bA5E6F65E7165c81ce0Ab)\n* [BSC Pool](https://app.uniswap.org/explore/pools/bnb/0x380e902682311b89576a2757394ba370a05b2310c933446c900a1e061ecb4bee)\n* [World Chain Pool 1](https://app.uniswap.org/explore/pools/worldchain/0x0a1f423Bf93d4593873FdbA856EBCFceB060cA84) | [World Chain Pool 2](https://app.uniswap.org/explore/pools/worldchain/0xaEdf410D3Dc5d51de3937ce11eE3be65bfDA025e)\n",
-    "rewardName": "0.1 BTC",
-    "startTime": 1768478400,
-    "endTime": 1769860800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Assetux",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/assetux/GCxXWtY5gh"
   }
 ]
