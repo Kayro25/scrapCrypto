@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCVEjtYDo8",
-    "name": "🎁 UniMex 5,000 UNX Airdrop",
-    "description": "UniMex is rolling out a 5,000 UNX airdrop for users who join early and explore the ecosystem.\n\nAs a new-generation exchange combining TradeFi and Web3 infrastructure, UniMex is built for global access, efficiency, and long-term growth.\n\n🎯 200 winners · 25 UNX each\n\nUNX rewards will be distributed via BNB Chain within 3 business days after the campaign ends.",
-    "rewardName": "25 UNX  Tokens ",
-    "startTime": 1769428800,
-    "endTime": 1769947200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "UniMex",
-      "isVerified": true
-    },
-    "score": 13,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/unimex/GCVEjtYDo8"
-  },
-  {
     "id": "GCL57tYmW6",
     "name": "Server Booster Role",
     "description": "Boost our Discord Server and get rewarded",
@@ -48,12 +32,12 @@
     "url": "https://app.galxe.com/quest/gemw/GCfZRtYQ6q"
   },
   {
-    "id": "GCJ1DtYgAh",
+    "id": "GCUHitYhsb",
     "name": "Thank You Galxe Community!",
-    "description": "\n# Doma Loves You!\n\nThis quest is an additional thank you to all our Galxe community!\n\nThank you for brute testing our testnet, pushing so hard we had to upgrade our servers, finding bugs at incredible speed, all the likes, shares and content. We love you!\n\n## This quest is simple:\n1. Make a Doma mainnet account (https://app.doma.xyz)\n2. Follow our X account\n3. Follow Big Mike for being so nice as to run this campaign\n\n\n## Winners\n10,000 people get 25 points on the Season 0 leaderboard. Raffle.\n\nQuest ends on Sunday, February 1st 2026 at 2PM UTC.\n\n\n### Please Note\nUpdating is manual and will be updated every Monday/Wednesday/Friday whenever Big Mike gets to it! If it hasn't updated, come bug us in the Discord.",
+    "description": "\n# Doma Loves You!\n\n*Note: this is a repeat of the previous task due to an issue with verification.*\n\nThis quest is an additional thank you to all our Galxe community!\n\nThank you for brute testing our testnet, pushing so hard we had to upgrade our servers, finding bugs at incredible speed, all the likes, shares and content. We love you!\n\n## This quest is simple:\n1. Make a Doma mainnet account (https://app.doma.xyz)\n2. Follow our X account\n3. Follow Big Mike for being so nice as to run this campaign\n\n\n## Winners\n10,000 people get 25 points on the Season 0 leaderboard. Raffle.\n\nQuest ends on Sunday, February 8th 2026 at 2PM UTC.\n\n\n### Please Note\nUpdating is manual and will be updated every Monday/Wednesday/Friday whenever Big Mike gets to it! If it hasn't updated, come bug us in the Discord.\n\nLAST SNAPSHOT: February 1st 2PM UTC!",
     "rewardName": "25 Doma Season 0 LB Points",
-    "startTime": 1769432400,
-    "endTime": 1769954400,
+    "startTime": 1769360400,
+    "endTime": 1770138000,
     "chain": "ETHEREUM",
     "space": {
       "name": "D3",
@@ -61,7 +45,7 @@
     },
     "score": 8,
     "payout": 65,
-    "url": "https://app.galxe.com/quest/d3/GCJ1DtYgAh"
+    "url": "https://app.galxe.com/quest/d3/GCUHitYhsb"
   },
   {
     "id": "GCXeWtYwgs",
@@ -94,6 +78,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCxKRtYPx6"
+  },
+  {
+    "id": "GCSqRtYhsN",
+    "name": "Proof of Love: Ocash Valentine's Day Campaign - Ocash Tutorial Creation",
+    "description": "Create and share an Ocash tutorial or personal experience on Twitter to earn Galxe points and enter a raffle to share the 20,000 ZKJ prize pool.\nSubmit your post link and reward address after publishing. Original and informative content is encouraged.\n\n**Submit your Tutorial and EVM address here:**\nhttps://forms.gle/tftxC1LzXEpQuqPJ6\n\nNote: The submission deadline is 30 minutes prior to the end of the campaign. Credential will be updated daily.",
+    "rewardName": "",
+    "startTime": 1769990400,
+    "endTime": 1771199999,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Polyhedra Network",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/polyhedra-network/GCSqRtYhsN"
   },
   {
     "id": "GCcyDtY6XC",
@@ -222,22 +222,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/atlaspad/GC8DjtY6Xz"
-  },
-  {
-    "id": "GCCJDtYoDs",
-    "name": "Invest in op-Lend 1",
-    "description": "Lend.xyz First Operation Reward\n\nTo mark the launch of the first operation on Lend.xyz, we are running a community reward campaign.\n\nOne participant will be randomly selected to receive $300, among users who:\n\nInvested at least $10 in the first Lend.xyz operation\n\nThe winner will be chosen at random from all eligible participants.\n\nThank you for supporting the launch of Lend.xyz.",
-    "rewardName": "",
-    "startTime": 1769382000,
-    "endTime": 1769986800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Lend.xyz",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/lend-xyz/GCCJDtYoDs"
   },
   {
     "id": "GC62jtYY8H",
