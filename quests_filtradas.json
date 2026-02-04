@@ -32,6 +32,38 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCboitYsdz"
   },
   {
+    "id": "GCA3itYQtS",
+    "name": "KOMmunity Partner x Chatllat",
+    "description": "🎁 Reward:  333,333 $CLAT Prize Pool\n- Winners:  Up to 700 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
+    "rewardName": "476 $CLAT Gift Card ",
+    "startTime": 1770109200,
+    "endTime": 1770915600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCA3itYQtS"
+  },
+  {
+    "id": "GCLHitYXhJ",
+    "name": "KOMmunity Kingsman x Chatllat",
+    "description": "🎁 Reward:  500,000 $CLAT Prize Pool\n- Winners:  Up to 1,000 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
+    "rewardName": "500,000 $CLAT Prize Pool",
+    "startTime": 1770109200,
+    "endTime": 1770915600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCLHitYXhJ"
+  },
+  {
     "id": "GCfZRtYQ6q",
     "name": "GemW Community Giveaway | 15,000,000 SHIT",
     "description": "Complete the Galxe tasks for a chance to be 1 of 20 random winners to receive 50,000 $SHIT each.\n\nJoin the Gleam giveaway to share 15,000,000 $SHIT.\n\nRewards for Galxe winners will be distributed based on the email and CoinW UID you submitted on Gleam.",
@@ -48,6 +80,54 @@
     "url": "https://app.galxe.com/quest/gemw/GCfZRtYQ6q"
   },
   {
+    "id": "GCQNrtYxCN",
+    "name": "Claim your exclusive Galxe+ Mini",
+    "description": "Claim your exclusive Galxe+ Mini",
+    "rewardName": "a 2-month Galxe+ Mini",
+    "startTime": 1770048000,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Galxe",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/galxe/GCQNrtYxCN"
+  },
+  {
+    "id": "GCSVrtYkMG",
+    "name": "Claim your exclusive Galxe+ Mini",
+    "description": "Claim your exclusive Galxe+ Mini",
+    "rewardName": "a 3-month Galxe+ Mini",
+    "startTime": 1770048000,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Galxe",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/galxe/GCSVrtYkMG"
+  },
+  {
+    "id": "GCSMrtYkiT",
+    "name": "Claim your exclusive Galxe+ Premium",
+    "description": "Claim your exclusive Galxe+ Premium",
+    "rewardName": "a 3-month Galxe+ Premium",
+    "startTime": 1770048000,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Galxe",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/galxe/GCSMrtYkiT"
+  },
+  {
     "id": "GC5wrtYTS7",
     "name": "Final Push Before the Olympex Pass Launch",
     "description": "Q1 is getting closer, and so is the launch of the Olympics Pass NFTs.\n\nThese Social Tasks are designed to reward the community that has been supporting Olympex early and helping keep the ecosystem active across our networks.\n\nOnce the Olympics Pass NFTs go live, holders will be able to start tracking on-chain and off-chain activity, unlocking eligibility for future rewards, including the Nectar airdrop, based on real participation.\n\nBy completing these tasks, you’re not just supporting the community.\nYou’re positioning yourself early, making sure your activity is visible before the next phase begins.\n\nIt only takes a minute.\nYour support now will matter later.",
@@ -62,22 +142,6 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC5wrtYTS7"
-  },
-  {
-    "id": "GCUHitYhsb",
-    "name": "Thank You Galxe Community!",
-    "description": "\n# Doma Loves You!\n\n*Note: this is a repeat of the previous task due to an issue with verification.*\n\nThis quest is an additional thank you to all our Galxe community!\n\nThank you for brute testing our testnet, pushing so hard we had to upgrade our servers, finding bugs at incredible speed, all the likes, shares and content. We love you!\n\n## This quest is simple:\n1. Make a Doma mainnet account (https://app.doma.xyz)\n2. Follow our X account\n3. Follow Big Mike for being so nice as to run this campaign\n\n\n## Winners\n10,000 people get 25 points on the Season 0 leaderboard. Raffle.\n\nQuest ends on Sunday, February 8th 2026 at 2PM UTC.\n\n\n### Please Note\nUpdating is manual and will be updated every Monday/Wednesday/Friday whenever Big Mike gets to it! If it hasn't updated, come bug us in the Discord.\n\nLAST SNAPSHOT: February 1st 2PM UTC!",
-    "rewardName": "25 Doma Season 0 LB Points",
-    "startTime": 1769360400,
-    "endTime": 1770138000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/d3/GCUHitYhsb"
   },
   {
     "id": "GCXeWtYwgs",
@@ -112,22 +176,6 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCxKRtYPx6"
   },
   {
-    "id": "GCuRDtYszT",
-    "name": "CHECKPOINT BLITZ",
-    "description": "## QUICK QUESTS. FAST REWARDS. FASTER WINS.\n\n\n#### gotta' go fast, gotta' BLITZ   ─=≡Σ((( つ＞＜)つ\n\nBLITZ is built for speed. Jump into quick quests, earn rewards fast, and keep moving faster. No long grinds, just focused action and fast payoffs.\n\n…but wait, what is Checkpoint? Checkpoint is your home for points. We are building the architecture that makes points usable, ONCHAIN. Today, people use it to check and track their points, projects use it to display points or build apps and soon you will be able to do much more with it.\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---\n\n#### About CHECKPOINT BLITZ\n\nBLITZ is an ongoing campaign, with quests regularly opening and closing within 6-48 hour windows. New opportunities appear often, so check back frequently to catch the latest quests and an opportunity to earn sweet rewards.\n\nRewards match the speed of the campaign and are typically smaller than those in our mainline campaigns. Each quest stands on its own and may have different entry requirements.\n\nHappy BLITZING  (❛◡˂̵ ̑̑✧)!\n\n![blitz walk.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/5ccab7fa-a0a7-46b6-919f-93b7ded716e1.webp)",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "BASE",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/checkpoint/GCuRDtYszT"
-  },
-  {
     "id": "GCSqRtYhsN",
     "name": "Proof of Love: Ocash Valentine's Day Campaign - Ocash Tutorial Creation",
     "description": "Create and share an Ocash tutorial or personal experience on Twitter to earn Galxe points and enter a raffle to share the 20,000 ZKJ prize pool.\nSubmit your post link and reward address after publishing. Original and informative content is encouraged.\n\n**Submit your Tutorial and EVM address here:**\nhttps://forms.gle/tftxC1LzXEpQuqPJ6\n\nNote: The submission deadline is 30 minutes prior to the end of the campaign. Credential will be updated daily.",
@@ -160,36 +208,52 @@
     "url": "https://app.galxe.com/quest/checkpoint/GCgfjtYa3T"
   },
   {
-    "id": "GC4qptY6sC",
-    "name": "Rumi Early Access — Win $1,000",
-    "description": "Be among the first to experience Rumi, the browser extension that lets you earn rewards for streaming your favorite shows and movies on Netflix or HBO Max.\n\nComplete all Early Access quests to qualify for a lucky draw and a chance to win from our $1,000 reward pool.\n\n(50 winners will be randomly selected from participants who finish every task.)\n\nCurrently Rumi is only available on the Chrome browser on PC. It will not work on mobile\n\nJoin Rumi Early Access today. explore, share, and get rewarded!\n",
+    "id": "GCWSrtYg6b",
+    "name": "Galxe Pulse Community Survey Rewards",
+    "description": "Top contributors who participated in the Galxe Pulse Community Survey are eligible to receive Galxe+ Premium or Mini subscriptions.",
     "rewardName": "",
-    "startTime": 1765515600,
-    "endTime": 1770249600,
+    "startTime": null,
+    "endTime": null,
     "chain": "ETHEREUM",
     "space": {
-      "name": "Rumi",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/rumi/GC4qptY6sC"
-  },
-  {
-    "id": "GCG7itYmtv",
-    "name": "Permission Weekend Quest",
-    "description": "3 Tasks, Big Rewards. Have a good weekend Permission fam. ",
-    "rewardName": "",
-    "startTime": 1769760000,
-    "endTime": 1770105600,
-    "chain": "BASE",
-    "space": {
-      "name": "Permission ",
+      "name": "Galxe",
       "isVerified": true
     },
     "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/permission/GCG7itYmtv"
+    "url": "https://app.galxe.com/quest/galxe/GCWSrtYg6b"
+  },
+  {
+    "id": "GC72rtYtjt",
+    "name": "Follow our Galxe page & join SPRINT",
+    "description": "#### Gotta' go fast, gotta' BLITZ   ─=≡Σ((( つ＞＜)つ\n\nSimple task: follow Galxe Page and join SPRINT campaign to get familiar with Checkpoint!\n\n…but wait, what is Checkpoint? Checkpoint is your home for points. We are building the architecture that makes points usable, ONCHAIN. Today, people use it to check and track their points, projects use it to display points or build apps and soon you will be able to do much more with it.\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---------\n \n#### About CHECKPOINT BLITZ\n\nBLITZ is an ongoing campaign, with quests regularly opening and closing within 6-48 hour windows. New opportunities appear often, so check back frequently to catch the latest quests and an opportunity to earn sweet rewards.\n\nRewards match the speed of the campaign and are typically smaller than those in our mainline campaigns. Each quest stands on its own and may have different entry requirements.\n\nHappy BLITZING  (❛◡˂̵ ̑̑✧)!\n\n![blitz walk.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/ebdc2072-6187-4a39-8572-3f404dc23012.webp)",
+    "rewardName": "",
+    "startTime": 1770098400,
+    "endTime": 1770184800,
+    "chain": "BASE",
+    "space": {
+      "name": "Checkpoint",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/checkpoint/GC72rtYtjt"
+  },
+  {
+    "id": "GC9ditYjWL",
+    "name": "Seasons Master Raffle Quest ($500 USDC)",
+    "description": "💰 $500 USDC Community Raffle (Active Users Only)\r\n\r\nPRIZE: $500 USDC RAFFLE\r\n\r\nThis exclusive raffle is for the true supporters of the Seasons Velocity Sprint.\r\n\r\n🔒 How to Unlock: You must accumulate 100 Space Points in our campaign to enter this raffle.\r\n\r\n⚡️ Fast Track to 100 Points:\r\nhttps://app.galxe.com/quest/Seasons/GCSYRtYdwA\r\nTrust Signal Booster (+30 Pts) — Essential!\r\n\r\nhttps://app.galxe.com/quest/Seasons/GCSiRtYzyB\r\nGalxe VIP Bonus (+30 Pts) — Easy points for Pro users.\r\n\r\nhttps://app.galxe.com/quest/Seasons/GC8xRtYZLe\r\nDaily Trend Setter (+10 Pts/Day) — Complete daily quests to close the gap.\r\n\r\nExample Strategy: Do Trust + VIP + 4 Days of Voting = 100 Points -> UNLOCK!\r\n\r\nOnce you hit 100 Points, verify below and grab your ticket!\r\n\r\nCondition: Seasons Space Points >= 100. \r\nReward: 500 USDC Raffle (Auto-distribute).",
+    "rewardName": "",
+    "startTime": 1770022800,
+    "endTime": 1771318800,
+    "chain": "SOLANA",
+    "space": {
+      "name": "Seasons",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/seasons/GC9ditYjWL"
   },
   {
     "id": "GCXmRtYVkF",
