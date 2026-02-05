@@ -16,6 +16,22 @@
     "url": "https://app.galxe.com/quest/fuglys/GCL57tYmW6"
   },
   {
+    "id": "GC81rtYNa8",
+    "name": "Mint a Subdomain on Doma!",
+    "description": "## Quest Description\n\n### Mint a Subdomain on Doma\n\nThis quest is about minting **one subdomain** on Doma.\n\nA subdomain is made by **staking domain tokens**.\n\nYou can do this **very cheaply** with many options under $0.01.\n\nYou can mint:\n\n* a random or fun subdomain by staking as little as **1 domain token**\n* or a cleaner, nicer subdomain by staking more tokens\n\nBoth are valid.\n\nYou only need **one subdomain**.\n\n**Quest period:**\nWednesday, February 4th, 2026 at 2:00 PM UTC\nto\nTuesday, February 10th, 2026 at 2:00 PM UTC\n\n**Reward:** 50 Leaderboard Points\n**Total winners:** 5,000\n\nCredentials update **once per day around 2:00 PM UTC**.\nThe **final update** will happen **1 hour before the quest ends**.",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1770213600,
+    "endTime": 1770732000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GC81rtYNa8"
+  },
+  {
     "id": "GCboitYsdz",
     "name": "KOMmunity Learn with Chatllat",
     "description": "Dive deep into the project with Chatllat KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n5th February - 13th February, 2026\nPrize Pool : \n166,666 $CLAT \nWinner : \n100  \n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.  ",
@@ -144,22 +160,6 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC5wrtYTS7"
   },
   {
-    "id": "GCXeWtYwgs",
-    "name": "Landshare $LAND Lottery 2.0",
-    "description": "## LAND Lottery:  Early Belief, Better Odds\n\nLAND Lottery 2.0 is live. This round is designed to reward longer-term holders and early participants, not quick entries. The campaign runs for 30 days, and anyone can join as long as they meet the holding requirement.\n\n### 🧠 Core Rules (Read This First)\n**To be eligible for the lottery:**\n- You must buy at least 50 LAND\n- You must hold those tokens for 15 consecutive days\n- Your LAND must be purchased directly on PancakeSwap\n- Wallet-to-wallet transfers do not qualify\n\nIf you sell, transfer, or move the LAND during the **15-day holding period**, your entry is disqualified.\n\n**🎟️ Tickets & Entry Timing:** \n- 50 LAND = 1 base ticket\n- No maximum cap: more LAND = more tickets\n- The campaign lasts 30 days, so you can join early or later (e.g. Day 1 or Day 15)\n\n**However, when you enter matters 👇**\n\n### ⚡ Early Entry Multipliers\nTo incentivize early participation, ticket multipliers apply based on when you buy your LAND:\n\n- Days 1–3: 🔥 **x3 tickets**\n- Days 4–10: ⚡ **x2 tickets**\n- Days 11–15: x1 ticket\n\n🚨 **After Day 15, new entries are no longer accepted**, as the 15-day holding requirement must still be met before the campaign ends.\n\n### 🛒 How to Participate\n- Buy 50+ LAND directly on [PancakeSwap](https://pancakeswap.finance/swap?chain=bsc&outputCurrency=0xA73164DB271931CF952cBaEfF9E8F5817b42fA5C)\n- Connect your wallet & verify your purchase \n- Complete other Galxe tasks\n- Hold your LAND for 15 days in a row\n\nThat’s it - once the holding period is complete, you’re eligible.\n\n#### 💰 Rewards\n- 1,000 LAND total prize pool\n- 10 winners selected at random\n- Odds are weighted by the number of valid tickets you hold\n\nMore tickets = better chances.\n\n#### ⏳ Final Notes\nThis lottery rewards commitment, not speed.\nEnter early, hold longer, and maximize your odds.\n\n**LAND Lottery 2.0 is live, plan your entry wisely.**",
-    "rewardName": "1,000 LAND tokens",
-    "startTime": 1768476000,
-    "endTime": 1771066800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Landshare",
-      "isVerified": false
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/landshare/GCXeWtYwgs"
-  },
-  {
     "id": "GCxKRtYPx6",
     "name": "Markets fall, but rewards rise",
     "description": "The launch of the Olympex Pass NFT is happening in February, and it is an essential piece of the Olympex ecosystem to access rewards.\n\nThis NFT:\n\nIs required to participate in the rewards system\n\nCan be freely bought and sold\n\nTransfers all its qualities and benefits across wallets\n\nActs as a key to unlock opportunities within the ecosystem\n\nOwning the Olympex Pass is essential to participate in Olympex and access upcoming rewards.",
@@ -224,22 +224,6 @@
     "url": "https://app.galxe.com/quest/galxe/GCWSrtYg6b"
   },
   {
-    "id": "GC72rtYtjt",
-    "name": "Follow our Galxe page & join SPRINT",
-    "description": "#### Gotta' go fast, gotta' BLITZ   ─=≡Σ((( つ＞＜)つ\n\nSimple task: follow Galxe Page and join SPRINT campaign to get familiar with Checkpoint!\n\n…but wait, what is Checkpoint? Checkpoint is your home for points. We are building the architecture that makes points usable, ONCHAIN. Today, people use it to check and track their points, projects use it to display points or build apps and soon you will be able to do much more with it.\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---------\n \n#### About CHECKPOINT BLITZ\n\nBLITZ is an ongoing campaign, with quests regularly opening and closing within 6-48 hour windows. New opportunities appear often, so check back frequently to catch the latest quests and an opportunity to earn sweet rewards.\n\nRewards match the speed of the campaign and are typically smaller than those in our mainline campaigns. Each quest stands on its own and may have different entry requirements.\n\nHappy BLITZING  (❛◡˂̵ ̑̑✧)!\n\n![blitz walk.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/ebdc2072-6187-4a39-8572-3f404dc23012.webp)",
-    "rewardName": "",
-    "startTime": 1770098400,
-    "endTime": 1770184800,
-    "chain": "BASE",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/checkpoint/GC72rtYtjt"
-  },
-  {
     "id": "GC9ditYjWL",
     "name": "Seasons Master Raffle Quest ($500 USDC)",
     "description": "💰 $500 USDC Community Raffle (Active Users Only)\r\n\r\nPRIZE: $500 USDC RAFFLE\r\n\r\nThis exclusive raffle is for the true supporters of the Seasons Velocity Sprint.\r\n\r\n🔒 How to Unlock: You must accumulate 100 Space Points in our campaign to enter this raffle.\r\n\r\n⚡️ Fast Track to 100 Points:\r\nhttps://app.galxe.com/quest/Seasons/GCSYRtYdwA\r\nTrust Signal Booster (+30 Pts) — Essential!\r\n\r\nhttps://app.galxe.com/quest/Seasons/GCSiRtYzyB\r\nGalxe VIP Bonus (+30 Pts) — Easy points for Pro users.\r\n\r\nhttps://app.galxe.com/quest/Seasons/GC8xRtYZLe\r\nDaily Trend Setter (+10 Pts/Day) — Complete daily quests to close the gap.\r\n\r\nExample Strategy: Do Trust + VIP + 4 Days of Voting = 100 Points -> UNLOCK!\r\n\r\nOnce you hit 100 Points, verify below and grab your ticket!\r\n\r\nCondition: Seasons Space Points >= 100. \r\nReward: 500 USDC Raffle (Auto-distribute).",
@@ -256,20 +240,20 @@
     "url": "https://app.galxe.com/quest/seasons/GC9ditYjWL"
   },
   {
-    "id": "GCXmRtYVkF",
-    "name": "2026 Launch Season: Early Community Gets Rewarded",
-    "description": "This year will mark a new phase for Olympex, with major launches, platform updates, and long-awaited features finally coming live.\n\nBefore everything goes public, before the noise, and before everyone arrives late, we want to recognize the people who have been here from the beginning.\n\nThis Social Task is about showing real support.\nNot hype.\nNot speculation.\nJust being present, engaging, and helping grow the community where everything starts.\n\nBy completing this task and supporting us on X and Telegram, you’re making your activity visible as an early supporter.\nThat activity will be taken into account as we roll out future rewards, access, and benefits throughout 2026.\n\nWe believe long-term value is built with the people who show up early, not those who arrive once everything has already taken off.\n\nIt only takes a minute.\nAnd it puts you in the right place for what’s coming next.",
-    "rewardName": "Early Support Real Rewards",
-    "startTime": 1769569200,
-    "endTime": 1770260400,
+    "id": "GCxQRtYH7z",
+    "name": "CHECKPOINT MOMENTUM",
+    "description": "### New year. New momentum. Bigger rewards.\n#### Kick off the Lunar New Year with Checkpoint Momentum, where progress doesn’t reset, it compounds (๑˃̵ᴗ˂̵)و ﾖｼ!\n\n\nBuild momentum throughout the campaign and unlock some of the biggest rewards we’ve offered, designed to keep you moving into the new year and help with your points checking and tracking journey!\n\nCheckpoint Exchange is galloping towards testnet, but you may wonder, what is Checkpoint?\n\nGlad you asked. **Checkpoint** is a project where you can easily check and track your points. Paste any EVM addy or name and it resolves to points. Simple.\n\nYou can do lots of other things with Checkpoint as well; build apps, integrate projects and much more. BUT the most exciting part is trading points soon, from offchain to onchain, pretty neat huh?! (〃￣︶￣)人(￣︶￣〃)\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---\n\n#### About CHECKPOINT MOMENTUM\n\nThis series of quests is not sequential, jump in anytime and take your shot at earning some sweet rewards. Better yet, rewards are guaranteed and claims are gas free. Momentum quests will end on February 28th or earlier, with claims open after.\n\nWith varying levels of difficulty, tasks, and entry requirements, there’s something for everyone to build momentum along the way.\n\nHave fun, GLHF, and Happy Lunar New Year  |^o^/!",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
     "chain": "ETHEREUM",
     "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
+      "name": "Checkpoint",
+      "isVerified": true
     },
     "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCXmRtYVkF"
+    "url": "https://app.galxe.com/quest/checkpoint/GCxQRtYH7z"
   },
   {
     "id": "GC1hRtY55F",
@@ -318,22 +302,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/agnt-hub/GC62jtYY8H"
-  },
-  {
-    "id": "GCUs5tYnhB",
-    "name": "Join the Sphere Discord · Early Community",
-    "description": "Join our official Discord to connect with the community and get early updates on upcoming features and campaigns.",
-    "rewardName": "",
-    "startTime": 1768982400,
-    "endTime": 1770192000,
-    "chain": "BASE",
-    "space": {
-      "name": "Sphere",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sphere/GCUs5tYnhB"
   },
   {
     "id": "GCwA5tYqMk",
