@@ -1,11 +1,11 @@
 [
   {
-    "id": "GCL57tYmW6",
-    "name": "Server Booster Role",
+    "id": "GCmjBtYKWF",
+    "name": "Win 1 Fuglys NFT for free",
     "description": "Boost our Discord Server and get rewarded",
-    "rewardName": "100 G token",
-    "startTime": 1769036400,
-    "endTime": 1772319600,
+    "rewardName": "1 Fuglys NFT",
+    "startTime": 1770591600,
+    "endTime": 1772233200,
     "chain": "ETHEREUM",
     "space": {
       "name": "Fuglys",
@@ -13,7 +13,23 @@
     },
     "score": 11,
     "payout": 85,
-    "url": "https://app.galxe.com/quest/fuglys/GCL57tYmW6"
+    "url": "https://app.galxe.com/quest/fuglys/GCmjBtYKWF"
+  },
+  {
+    "id": "GCmABtYxcr",
+    "name": "Boost Us and Get Rewarded 🕯️",
+    "description": "Boost the Lumio Discord server and **unlock access to an exclusive LP Points raffle.**\nSupport the community, elevate your status as a true Luminary, and claim your chance to **win valuable rewards.**\n\n**Only boosters are eligible.** Power us up and let the rewards flow 🕯️",
+    "rewardName": "1000 LP",
+    "startTime": 1770591600,
+    "endTime": 1772233200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Lumio",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/lumio/GCmABtYxcr"
   },
   {
     "id": "GC81rtYNa8",
@@ -46,6 +62,22 @@
     "score": 10,
     "payout": 85,
     "url": "https://app.galxe.com/quest/kommunitas-net/GCboitYsdz"
+  },
+  {
+    "id": "GCsRitYD9B",
+    "name": "Follow UniMex X to Grab 4,500 UNX Tokens",
+    "description": "Just one simple task:\n👉 Follow @UniMex_Web3\n\nThat’s it.\nParticipate and share a 4,500 UNX reward pool.\n\n$UNX is the native token of UniMex Exchange.\nIf UNX does not appear in your wallet, please manually add the contract:\n0x49dbf80ff5dcc0ca6d9331a1c10f83b331a4e122 (BNB Chain)\n\n📦 Rewards will be distributed within 3 business days after the campaign ends.",
+    "rewardName": "15 UNX  Tokens ",
+    "startTime": 1770638400,
+    "endTime": 1771848000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "UniMex",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/unimex/GCsRitYD9B"
   },
   {
     "id": "GCAxitYQZ6",
@@ -224,6 +256,22 @@
     "url": "https://app.galxe.com/quest/polyhedra-network/GCSqRtYhsN"
   },
   {
+    "id": "GCEautYJb7",
+    "name": "CLAIM 50 $GEMS & WIN USDC",
+    "description": "Get a 50 GEMS Airdrop to jumpstart your competitive crypto gaming! Engage in games of skill against live opponents and earn valuable crypto rewards for your wins! ",
+    "rewardName": "GEMS",
+    "startTime": 1770570000,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Gems.Town",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/gems-town/GCEautYJb7"
+  },
+  {
     "id": "GCy8rtY8iZ",
     "name": "🏆 DeriW Thursday: Chat to Earn $50 USDT 🏆",
     "description": "🏆 DeriW Thursday: Chat to Earn $50 🏆\n\n🎆 DeriW Mainnet Week 27 — Total Trading Volume Surpasses $26 Billion\n\nJoin DeriW's exclusive community event to celebrate a new DeriW milestone and win a $50 grand prize!\n\n⏰ Event Period: Feb 5, 4 PM - Feb 12, 4 PM (UTC+8)\n💰 Prize Pool: $50 USDT - $5 for each of the Top 10 Chatters\n\n🎯 How to Earn Chatter Points:\n1️⃣ Daily check-in: Send \"DeriW February Chat to Earn $50\" to our  general chat (10 Points).\n2️⃣ Chat about trading strategies, DeriW features, or your crypto event expectations (1 Point/quality message, no limit).\n\n📊 Track Your Progress:\n• Check points: Send \"Chatter Points\"\n• View rankings: Send \"Chatter Ranking\"\n• Rewards distributed within 10 working days after announcement\n\nWhy Trade on DeriW?\n✅ Zero funding rates\n✅ 0.01% ultra-low trading fees\n✅ Secure, transparent, and audited environment\n✅ Instant execution — no waiting for order matching\n\n💜 Join: @deriwfinance\n🔗 Trade: www.deriw.com\n\n#DeriWThursday #DeriWDecemberChattoEarn #ZeroGasFees\n\nDisclaimer:\n1️⃣ Please participate in the event via Telegram DeriW Group Chat @deriwfinance during the event period.\n2️⃣ The list of winners will be announced via Telegram DeriW Official Annoucements @deriwofficial.",
@@ -350,69 +398,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/agnt-hub/GC62jtYY8H"
-  },
-  {
-    "id": "GCwA5tYqMk",
-    "name": "CLAIM 50 $GEMS & WIN USDC",
-    "description": "Get a 50 GEMS Airdrop to jumpstart your competitive crypto gaming! Engage in games of skill against live opponents and earn valuable crypto rewards for your wins! ",
-    "rewardName": "GEMS",
-    "startTime": 1768928400,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Gems.Town",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/gems-town/GCwA5tYqMk"
-  },
-  {
-    "id": "GCGZ7tYkE7",
-    "name": "CLAIM 50 $GEMS & WIN USDC",
-    "description": "Get a 50 GEMS Airdrop to jumpstart your competitive crypto gaming! Engage in games of skill against live opponents and earn valuable crypto rewards for your wins! ",
-    "rewardName": "GEMS",
-    "startTime": 1768928400,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Gems.Town",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/gems-town/GCGZ7tYkE7"
-  },
-  {
-    "id": "GCZ45tYxLe",
-    "name": "Mahjong Stars: A Quest for $TILE",
-    "description": "**Mahjong Stars is launching soon.**\n\nComplete the quest to get early access and earn $TILE before the public release.\nConnect your wallet, follow the steps, and be ready for launch. Early players get the best rewards.\n\n**$TILE** is our onchain token - it gives discounts on Star Points, unlocks premium matches and events, lets you buy NFTs, and earns staking rewards.\nStar Points are the in-game (off chain) currency you use to play matches, place bets, earn rewards, and cash out through NFTs.\n\nAt the end, top players secure IRL Gold Tile collectibles - real physical Mahjong tiles made with real gold accents from our limited 144-piece set.",
-    "rewardName": "",
-    "startTime": 1768917600,
-    "endTime": 1771423200,
-    "chain": "SOLANA",
-    "space": {
-      "name": "MahjongStars",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/mahjongstars/GCZ45tYxLe"
-  },
-  {
-    "id": "GCDDetYsHy",
-    "name": "CLAIM 50 $GEMS & WIN USDC",
-    "description": "Get a 50 GEMS Airdrop to jumpstart your competitive crypto gaming! Engage in games of skill against live opponents and earn valuable crypto rewards for your wins! ",
-    "rewardName": "GEMS",
-    "startTime": 1768755600,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Gems.Town",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/gems-town/GCDDetYsHy"
   }
 ]
