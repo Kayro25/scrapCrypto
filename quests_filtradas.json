@@ -80,6 +80,22 @@
     "url": "https://app.galxe.com/quest/unimex/GCsRitYD9B"
   },
   {
+    "id": "GCCabtYwxk",
+    "name": "MLK Trading Season 5 - $2,500 MLK Rewards",
+    "description": "We’re excited to launch a 30-day trading volume event starting Feb 12 (UTC) with a total reward pool of $2,500 in MLK!\n\n🔑 Event Details\n-\tDaily Rewards: $83 in MLK distributed each day\n-\tEligibility: Top 10 wallets with at least $15,000 daily trading volume on PancakeSwap V3\n-\tDaily Reward per Wallet: Approx. $8.3 in MLK\n\n 📌 Rules\n- If more than 10 wallets qualify on a given day, 10 winners will be randomly selected from eligible participants.\n- Only wallets submitted before the deadline will be considered.\n- Each wallet can claim rewards up to 2 times during the entire event (anti-monopoly rule).\n- All trades must be executed directly on PancakeSwap V3.\n- All rewards will be distributed to Arbitrum chain\n- Raffle results within Galxe are not related to the actual event winners. Rewards will only be granted to wallets that meet the trading requirements and are selected through the daily draw.\n\nFor eligible wallets, rewards will be distributed within two weeks after the event ends.\n\n⏰ Event Period : Feb 12 ~ Mar 14 (UTC)",
+    "rewardName": "Checking Eligibility for MLK",
+    "startTime": 1770854400,
+    "endTime": 1773446400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "MiL.k",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/mil-k/GCCabtYwxk"
+  },
+  {
     "id": "GCAxitYQZ6",
     "name": "Diamond Holder Quest: Earn your share of 1,666,666 $CLAT",
     "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 1,666,666 $CLAT  prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 1,666,666 $CLAT \n**(Equal to 10,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 1,666,666 $CLAT  pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
@@ -192,22 +208,6 @@
     "url": "https://app.galxe.com/quest/galxe/GCSMrtYkiT"
   },
   {
-    "id": "GC5wrtYTS7",
-    "name": "Final Push Before the Olympex Pass Launch",
-    "description": "Q1 is getting closer, and so is the launch of the Olympics Pass NFTs.\n\nThese Social Tasks are designed to reward the community that has been supporting Olympex early and helping keep the ecosystem active across our networks.\n\nOnce the Olympics Pass NFTs go live, holders will be able to start tracking on-chain and off-chain activity, unlocking eligibility for future rewards, including the Nectar airdrop, based on real participation.\n\nBy completing these tasks, you’re not just supporting the community.\nYou’re positioning yourself early, making sure your activity is visible before the next phase begins.\n\nIt only takes a minute.\nYour support now will matter later.",
-    "rewardName": "Final Push Before the NFT",
-    "startTime": 1770001200,
-    "endTime": 1770865200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC5wrtYTS7"
-  },
-  {
     "id": "GC9UutYKcy",
     "name": "Complete quests to earn",
     "description": "We share different ways to win in Web3.\nEven when the market drops and prices fall, there are always opportunities to earn, and social tasks are one of them.\n\nAt Olympex, community support truly matters, especially during volatile moments.\nWith the upcoming launch of the Olympex Pass, the users who stay active, engaged, and present will be the ones most taken into account when rewards are distributed.\n\nSupporting the ecosystem early is part of the journey.",
@@ -222,22 +222,6 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC9UutYKcy"
-  },
-  {
-    "id": "GCdDBtY7FL",
-    "name": "Join Checkpoint Momentum!",
-    "description": "#### Gotta' go fast, gotta' BLITZ   ─=≡Σ((( つ＞＜)つ\n\nSimple task: join LNY celebrations to earn MORE rewards, and check the tweet!\n\n…but wait, what is Checkpoint? Checkpoint is your home for points. We are building the architecture that makes points usable, ONCHAIN. Today, people use it to check and track their points, projects use it to display points or build apps and soon you will be able to do much more with it.\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---------\n \n#### About CHECKPOINT BLITZ\n\nBLITZ is an ongoing campaign, with quests regularly opening and closing within 6-48 hour windows. New opportunities appear often, so check back frequently to catch the latest quests and an opportunity to earn sweet rewards.\n\nRewards match the speed of the campaign and are typically smaller than those in our mainline campaigns. Each quest stands on its own and may have different entry requirements.\n\nHappy BLITZING  (❛◡˂̵ ̑̑✧)!\n\n![blitz walk.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/ebdc2072-6187-4a39-8572-3f404dc23012.webp)",
-    "rewardName": "",
-    "startTime": 1770710400,
-    "endTime": 1770796800,
-    "chain": "BASE",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/checkpoint/GCdDBtY7FL"
   },
   {
     "id": "GCEdrtYfbL",
