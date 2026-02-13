@@ -32,6 +32,22 @@
     "url": "https://app.galxe.com/quest/d3/GCZxBtYw5b"
   },
   {
+    "id": "GCN9utYCdF",
+    "name": "🎟️ AMA Raffle with Doma",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1770901200,
+    "endTime": 1770987600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCN9utYCdF"
+  },
+  {
     "id": "GCmABtYxcr",
     "name": "Boost Us and Get Rewarded 🕯️",
     "description": "Boost the Lumio Discord server and **unlock access to an exclusive LP Points raffle.**\nSupport the community, elevate your status as a true Luminary, and claim your chance to **win valuable rewards.**\n\n**Only boosters are eligible.** Power us up and let the rewards flow 🕯️",
@@ -46,22 +62,6 @@
     "score": 10,
     "payout": 85,
     "url": "https://app.galxe.com/quest/lumio/GCmABtYxcr"
-  },
-  {
-    "id": "GCboitYsdz",
-    "name": "KOMmunity Learn with Chatllat",
-    "description": "Dive deep into the project with Chatllat KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n5th February - 13th February, 2026\nPrize Pool : \n166,666 $CLAT \nWinner : \n100  \n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.  ",
-    "rewardName": "1,666 $CLAT Raffle Card",
-    "startTime": 1769965200,
-    "endTime": 1770915600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCboitYsdz"
   },
   {
     "id": "GCsRitYD9B",
@@ -94,54 +94,6 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/mil-k/GCCabtYwxk"
-  },
-  {
-    "id": "GCAxitYQZ6",
-    "name": "Diamond Holder Quest: Earn your share of 1,666,666 $CLAT",
-    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 1,666,666 $CLAT  prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 1,666,666 $CLAT \n**(Equal to 10,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 1,666,666 $CLAT  pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
-    "rewardName": "Chatllat Diamond Holder ",
-    "startTime": 1770397200,
-    "endTime": 1770915600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCAxitYQZ6"
-  },
-  {
-    "id": "GCA3itYQtS",
-    "name": "KOMmunity Partner x Chatllat",
-    "description": "🎁 Reward:  333,333 $CLAT Prize Pool\n- Winners:  Up to 700 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
-    "rewardName": "476 $CLAT Gift Card ",
-    "startTime": 1770109200,
-    "endTime": 1770915600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCA3itYQtS"
-  },
-  {
-    "id": "GCLHitYXhJ",
-    "name": "KOMmunity Kingsman x Chatllat",
-    "description": "🎁 Reward:  500,000 $CLAT Prize Pool\n- Winners:  Up to 1,000 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
-    "rewardName": "500,000 $CLAT Prize Pool",
-    "startTime": 1770109200,
-    "endTime": 1770915600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCLHitYXhJ"
   },
   {
     "id": "GCnYBtYcKW",
@@ -224,12 +176,12 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC9UutYKcy"
   },
   {
-    "id": "GCEdrtYfbL",
-    "name": "🏆 DeriW 周四社群活动：聊天赢取 50 USDT 🏆",
-    "description": "🏆 DeriW 周四社群活动：聊天赢取 50 美元 🏆\n\n🎆 DeriW 主网第 27 周 — 总交易量突破 260 亿美元\n\n加入 DeriW 专属社区活动，庆祝 DeriW 的全新里程碑，赢取 50 美元大奖！\n\n⏰ 活动时间：2 月 5 日下午 4 点 - 2 月 12 日下午 4 点 (UTC+8)\n💰 奖池：50 美元 USDT - 聊天排名前 10 的用户每人 5 美元\n\n🎯 如何赚取聊天积分：\n1️⃣ 每日签到：发送“DeriW February Chat to Earn $50”至我们的公共聊天频道（10 积分）。\n2️⃣ 讨论交易策略、DeriW 功能或您对加密货币活动的期待（每条优质消息 1 积分，不限数量）。\n\n📊 追踪您的进度：\n• 查看积分：发送“Chatter Points”\n• 查看排名：发送“Chatter Ranking”\n• 奖励将在公布后 10 个工作日内发放\n\n为什么选择 DeriW 交易？\n✅ 零资金费率\n✅ 0.01% 超低交易手续费\n✅ 安全、透明且经过审计的交易环境\n✅ 即时执行——无需等待订单匹配\n\n💜 加入我们：@deriwfinance\n🔗 合约交易：www.deriw.com\n\n#DeriWThursday #DeriWDecemberChattoEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
-    "rewardName": "50 USDT",
-    "startTime": 1770278400,
-    "endTime": 1770883200,
+    "id": "GCs4btY61V",
+    "name": "🏆 DeriW 周四活动：积分赢取 100 USDT 🏆",
+    "description": "🏆 DeriW 周四活动：积分赢取 100 USDT 🏆\n\n🎆 DeriW 主网第 28 周：总交易量突破 280 亿美元\n🧧 祝大家农历新年快乐！在 DeriW 庆祝农历新年。愿马年为您带来繁荣昌盛和丰厚的交易收益！🐴✨\n\n值此马年伊始，加入我们的专属农历新年庆祝活动，赢取 100 美元 USDT 奖励！🧧\n\n⏰ 活动时间：2月12日下午4点 - 2月26日下午4点 (UTC+8)\n💰 奖池：\n🥇 第一名：$50 USDT\n🥈 第二名：$30 USDT\n🥉 第三名：$20 USDT\n\n🔗 SUPERNOVA+ 活动详情：https://www.deriw.com/supernova-mainnet-first-incentive-program\n\n🎯 参与方式：\n• 活动期间，通过参与 SUPERNOVA+ 活动获得 DER+ 积分最多的前三名参与者将获得奖励。\n• 活动结束前，请将您的钱包地址发布至 @deriwfinance 并添加话题标签 #DeriWFebruaryPointsToEarn\n\n⚠️重要提示：\n✔ 交易 $50 = 获得 5 DER+ 积分\n✔ 邀请好友 = 获得积分300% 推荐奖励积分\n✔ 测试网用户 = 额外 +20% 奖励\n\n📝 重要规则：\n• 必须包含指定标签 #DeriWFebruaryPointsToEarn\n• 奖励将在公布后 10 个工作日内发放\n\n为什么选择 DeriW？\n✅ 零资金费率\n✅ 0.01% 超低交易手续费\n✅ 安全、透明且经过审计的交易环境\n✅ 即时执行 — 无需等待订单匹配\n\n💜 加入社群：@deriwfinance\n🔗 交易平台：www.deriw.com\n\n#DeriWThursday #DeriWFebruaryPointsToEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
+    "rewardName": "100 USDT",
+    "startTime": 1770883200,
+    "endTime": 1772092800,
     "chain": "ETHEREUM",
     "space": {
       "name": "Deriw Finance",
@@ -237,7 +189,23 @@
     },
     "score": 6,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/deriw-finance/GCEdrtYfbL"
+    "url": "https://app.galxe.com/quest/deriw-finance/GCs4btY61V"
+  },
+  {
+    "id": "GCUEBtY2um",
+    "name": "Start with Dkarbon Basics 🌱",
+    "description": "**$30 Reward + 400 XP - Gasless** ⚡Every Carbon economy starts with understanding the fundamentals. 🌱 **Learn what Carbon Credits represent** and why transparency is essential in emerging markets.\n\nComplete the quest to earn XP and $30 reward pool. This is your first step inside Inside Dkarbon · The Early Phase.\n\nStart early. Build smart. 🌍  ",
+    "rewardName": "",
+    "startTime": 1770894000,
+    "endTime": 1771509600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Dkarbon",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/dkarbon/GCUEBtY2um"
   },
   {
     "id": "GCNErtYoSc",
@@ -272,20 +240,36 @@
     "url": "https://app.galxe.com/quest/polyhedra-network/GCSqRtYhsN"
   },
   {
-    "id": "GCGwBtYnnv",
-    "name": "Check the posts open a RIPS!",
-    "description": "#### Gotta' go fast, gotta' BLITZ   ─=≡Σ((( つ＞＜)つ\n\nSimple task: Follow our Galxe page, check the X and Farcaster/Base post and open a RIPS on the house!\n\n…but wait, what is Checkpoint? Checkpoint is your home for points. We are building the architecture that makes points usable, ONCHAIN. Today, people use it to check and track their points, projects use it to display points or build apps and soon you will be able to do much more with it.\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---------\n \n#### About CHECKPOINT BLITZ\n\nBLITZ is an ongoing campaign, with quests regularly opening and closing within 6-48 hour windows. New opportunities appear often, so check back frequently to catch the latest quests and an opportunity to earn sweet rewards.\n\nRewards match the speed of the campaign and are typically smaller than those in our mainline campaigns. Each quest stands on its own and may have different entry requirements.\n\nHappy BLITZING  (❛◡˂̵ ̑̑✧)!\n\n![blitz walk.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/ebdc2072-6187-4a39-8572-3f404dc23012.webp)",
-    "rewardName": "",
-    "startTime": 1770780600,
-    "endTime": 1770881400,
-    "chain": "BASE",
+    "id": "GCa1btYYxs",
+    "name": "🏆 DeriW Thursday: Points to Earn $100 USDT 🏆",
+    "description": "🏆 DeriW Thursday: Points to Earn $100 🏆\n\n🎆 DeriW Mainnet Week 28: Total Trading Volume Surpasses $28 Billion\n🧧 Happy Lunar New Year! Celebrating the Lunar New Year on DeriW. May the Year of the Horse bring you prosperity and profitable trades! 🐴✨\n\nAs we gallop into the Year of the Horse, join us for an exclusive Lunar New Year celebration and win your share of $100 USDT! 🧧\n\n⏰ Event Period: February 12, 4 PM - February 26, 4 PM (UTC+8)\n💰 Prize Pool: \n🥇 1st: $50 USDT\n🥈 2nd: $30 USDT\n🥉 3rd: $20 USDT\n\n🔗 SUPERNOVA+ campaign Details: https://www.deriw.com/supernova-mainnet-first-incentive-program\n\n🎯 How to Participate:\n• During the event, the three participants who earn the most DER+ points by participating in the SUPERNOVA+ campaign will receive a prize\n• Before the event ends, please post your participating wallet address to @deriwfinance and add the hashtag #DeriWFebruaryPointsToEarn\n\n⚠️Important Note:\n✔ Trade $50 = Earn 5 DER+ points\n✔ Invite friends = Earn 300% referral bonus points\n✔ Testnet users = Extra +20% bonus\n\n📝 Important Rules:\n• Must include required hashtag #DeriWFebruaryPointsToEarn\n• Rewards distributed within 10 working days after announcement\n\nWhy Trade on DeriW?\n✅ Zero funding rates\n✅ 0.01% ultra-low trading fees\n✅ Secure, transparent, and audited environment\n✅ Instant execution — no waiting for order matching\n\n💜 Join: @deriwfinance\n🔗 Trade: www.deriw.com\n\n#DeriWThursday #DeriWFebruaryPointsToEarn #ZeroGasFees\n\nDisclaimer:\n1️⃣ Please participate in the event via Telegram DeriW Group Chat @deriwfinance during the event period.\n2️⃣ The list of winners will be announced via Telegram DeriW Official Annoucements @deriwofficial.",
+    "rewardName": "100 USDT",
+    "startTime": 1770883200,
+    "endTime": 1772092800,
+    "chain": "ETHEREUM",
     "space": {
-      "name": "Checkpoint",
+      "name": "Deriw Finance",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/deriw-finance/GCa1btYYxs"
+  },
+  {
+    "id": "GC4aBtYbq7",
+    "name": "Inside Dkarbon - The Early Phase 🌍",
+    "description": "***Inside Dkarbon · The Early Phase*** is a three-part quest series designed to explore the foundations of the Carbon Credits economy and the role of transparency in Web3.\n\nEach quest builds on the previous one — from understanding carbon credits to recognizing why trust, liquidity, and on-chain verification matter.\n\n**This is the beginning. Join early and become part of Dkarbon’s evolving community.** 🌱",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Dkarbon",
       "isVerified": true
     },
     "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/checkpoint/GCGwBtYnnv"
+    "url": "https://app.galxe.com/quest/dkarbon/GC4aBtYbq7"
   },
   {
     "id": "GCEautYJb7",
@@ -302,22 +286,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/gems-town/GCEautYJb7"
-  },
-  {
-    "id": "GCy8rtY8iZ",
-    "name": "🏆 DeriW Thursday: Chat to Earn $50 USDT 🏆",
-    "description": "🏆 DeriW Thursday: Chat to Earn $50 🏆\n\n🎆 DeriW Mainnet Week 27 — Total Trading Volume Surpasses $26 Billion\n\nJoin DeriW's exclusive community event to celebrate a new DeriW milestone and win a $50 grand prize!\n\n⏰ Event Period: Feb 5, 4 PM - Feb 12, 4 PM (UTC+8)\n💰 Prize Pool: $50 USDT - $5 for each of the Top 10 Chatters\n\n🎯 How to Earn Chatter Points:\n1️⃣ Daily check-in: Send \"DeriW February Chat to Earn $50\" to our  general chat (10 Points).\n2️⃣ Chat about trading strategies, DeriW features, or your crypto event expectations (1 Point/quality message, no limit).\n\n📊 Track Your Progress:\n• Check points: Send \"Chatter Points\"\n• View rankings: Send \"Chatter Ranking\"\n• Rewards distributed within 10 working days after announcement\n\nWhy Trade on DeriW?\n✅ Zero funding rates\n✅ 0.01% ultra-low trading fees\n✅ Secure, transparent, and audited environment\n✅ Instant execution — no waiting for order matching\n\n💜 Join: @deriwfinance\n🔗 Trade: www.deriw.com\n\n#DeriWThursday #DeriWDecemberChattoEarn #ZeroGasFees\n\nDisclaimer:\n1️⃣ Please participate in the event via Telegram DeriW Group Chat @deriwfinance during the event period.\n2️⃣ The list of winners will be announced via Telegram DeriW Official Annoucements @deriwofficial.",
-    "rewardName": "50 USDT",
-    "startTime": 1770278400,
-    "endTime": 1770883200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Deriw Finance",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/deriw-finance/GCy8rtY8iZ"
   },
   {
     "id": "GCWSrtYg6b",
