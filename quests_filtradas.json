@@ -240,22 +240,6 @@
     "url": "https://app.galxe.com/quest/mahjongstars/GCNErtYoSc"
   },
   {
-    "id": "GCSqRtYhsN",
-    "name": "Proof of Love: Ocash Valentine's Day Campaign - Ocash Tutorial Creation",
-    "description": "Create and share an Ocash tutorial or personal experience on Twitter to earn Galxe points and enter a raffle to share the 20,000 ZKJ prize pool.\nSubmit your post link and reward address after publishing. Original and informative content is encouraged.\n\n**Submit your Tutorial and EVM address here:**\nhttps://forms.gle/tftxC1LzXEpQuqPJ6\n\nNote: The submission deadline is 30 minutes prior to the end of the campaign. Credential will be updated daily.",
-    "rewardName": "",
-    "startTime": 1769990400,
-    "endTime": 1771199999,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Polyhedra Network",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/polyhedra-network/GCSqRtYhsN"
-  },
-  {
     "id": "GCPtbtYZAn",
     "name": "SURVEY MOMENTUM",
     "description": "#### A new Lunar Year carries the momentum. Complete the survey, join the celebration, and be part of what’s next.\n\nThis time around, a Survey. We want to understand you better, why you use Checkpoint what would make you feel more at home with the community and bring you into momentum. Answer 10 questions and get a chance to be rewarded.\n\n![1. Card Galxe LNY_1.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/18463b32-ba35-4416-8573-ae90a3c852cc.webp)\n\nComplete the quest, join the celebration, and be part of what’s next.\n\nLearn more about [Checkpoint](https://docs.checkpoint.exchange) or check our [web app](https://checkpoint.exchange).\n\n---\n\n#### About CHECKPOINT MOMENTUM\n\n**Checkpoint Momentum** is a series of quests celebrating the Lunar New Year and our shared success.\n\nWith varying levels of difficulty, tasks, and entry requirements, there’s something for everyone to build momentum along the way.\n\n**Red Packet Raffles** 🧧 can be claimed on **February 28th** and are entirely gasless.\n\nEnjoy the celebrations  ♪(^∇^*)!",
@@ -414,5 +398,21 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/atlaspad/GC8DjtY6Xz"
+  },
+  {
+    "id": "GCZ45tYxLe",
+    "name": "Mahjong Stars: A Quest for $TILE",
+    "description": "**Mahjong Stars is launching soon.**\n\nComplete the quest to get early access and earn $TILE before the public release.\nConnect your wallet, follow the steps, and be ready for launch. Early players get the best rewards.\n\n**$TILE** is our onchain token - it gives discounts on Star Points, unlocks premium matches and events, lets you buy NFTs, and earns staking rewards.\nStar Points are the in-game (off chain) currency you use to play matches, place bets, earn rewards, and cash out through NFTs.\n\nAt the end, top players secure IRL Gold Tile collectibles - real physical Mahjong tiles made with real gold accents from our limited 144-piece set.",
+    "rewardName": "",
+    "startTime": 1768917600,
+    "endTime": 1771423200,
+    "chain": "SOLANA",
+    "space": {
+      "name": "MahjongStars",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/mahjongstars/GCZ45tYxLe"
   }
 ]
