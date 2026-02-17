@@ -1,21 +1,5 @@
 [
   {
-    "id": "GC79btYP2y",
-    "name": "20,000 USDT GemW New User Airdrop",
-    "description": "Complete the Galxe tasks and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\nTrade on GemW and join the New User Trading Event to share 20,000 USDT.\n\nNew users share 20,000 USDT — FCFS\n✨ No gas tokens required\n✨ Email-only registration\n✨ 100% rewards after trading",
-    "rewardName": "10 USDT Futures Bonus",
-    "startTime": 1770998400,
-    "endTime": 1772294399,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "GemW",
-      "isVerified": true
-    },
-    "score": 12,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/gemw/GC79btYP2y"
-  },
-  {
     "id": "GCmjBtYKWF",
     "name": "Win 1 Fuglys NFT for free",
     "description": "Boost our Discord Server and get rewarded",
@@ -238,6 +222,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/mahjongstars/GCNErtYoSc"
+  },
+  {
+    "id": "GCXcbtYMnE",
+    "name": "Register & Invite — $2,000 USDT Up for Grabs",
+    "description": "**Register & Invite — $2,000 USDT Up for Grabs ** \n\nBring your friends. Build your edge. \n\nComplete FoxHole Mini App tasks and invite new users to unlock 2,000 USDT in rewards.  \n\n👉See the full mechanics here: https://paragraph.com/@forx/register-and-invite-%E2%80%94-2000-usdt-up-for-grab\n\n👉 Earn together in FoxHole Mini-App  https://t.me/forxhole_bot\n\n**Note: **Winners will be selected based on the FoxHole Mini-App, not Galxe.\n\n#ForX #ForXHybridDEX #FoxHole",
+    "rewardName": "USDT",
+    "startTime": 1771257600,
+    "endTime": 1772208000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "ForX-Finance",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/forx-finance/GCXcbtYMnE"
   },
   {
     "id": "GCPtbtYZAn",
