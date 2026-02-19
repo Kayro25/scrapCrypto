@@ -240,6 +240,22 @@
     "url": "https://app.galxe.com/quest/mahjongstars/GCNErtYoSc"
   },
   {
+    "id": "GC4AHtYsD8",
+    "name": "KromosomAI Waitlist (1000 LYNC Points)",
+    "description": "Join the KromosomAI waitlist by signing up through the quest link to qualify for the reward",
+    "rewardName": "LYNC Points",
+    "startTime": 1771419600,
+    "endTime": 1774962000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "LYNC",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/lync/GC4AHtYsD8"
+  },
+  {
     "id": "GCXcbtYMnE",
     "name": "Register & Invite — $2,000 USDT Up for Grabs",
     "description": "**Register & Invite — $2,000 USDT Up for Grabs ** \n\nBring your friends. Build your edge. \n\nComplete FoxHole Mini App tasks and invite new users to unlock 2,000 USDT in rewards.  \n\n👉See the full mechanics here: https://paragraph.com/@forx/register-and-invite-%E2%80%94-2000-usdt-up-for-grab\n\n👉 Earn together in FoxHole Mini-App  https://t.me/forxhole_bot\n\n**Note: **Winners will be selected based on the FoxHole Mini-App, not Galxe.\n\n#ForX #ForXHybridDEX #FoxHole",
@@ -398,21 +414,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/atlaspad/GC8DjtY6Xz"
-  },
-  {
-    "id": "GCZ45tYxLe",
-    "name": "Mahjong Stars: A Quest for $TILE",
-    "description": "**Mahjong Stars is launching soon.**\n\nComplete the quest to get early access and earn $TILE before the public release.\nConnect your wallet, follow the steps, and be ready for launch. Early players get the best rewards.\n\n**$TILE** is our onchain token - it gives discounts on Star Points, unlocks premium matches and events, lets you buy NFTs, and earns staking rewards.\nStar Points are the in-game (off chain) currency you use to play matches, place bets, earn rewards, and cash out through NFTs.\n\nAt the end, top players secure IRL Gold Tile collectibles - real physical Mahjong tiles made with real gold accents from our limited 144-piece set.",
-    "rewardName": "",
-    "startTime": 1768917600,
-    "endTime": 1771423200,
-    "chain": "SOLANA",
-    "space": {
-      "name": "MahjongStars",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/mahjongstars/GCZ45tYxLe"
   }
 ]
