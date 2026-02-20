@@ -16,6 +16,22 @@
     "url": "https://app.galxe.com/quest/fuglys/GCmjBtYKWF"
   },
   {
+    "id": "GCmGHtYpPp",
+    "name": "🎟️ AMA Raffle with Doma",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1771509600,
+    "endTime": 1771596000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCmGHtYpPp"
+  },
+  {
     "id": "GCAEbtYkJ1",
     "name": "Join NewCoin Community!",
     "description": "Hop into NewCoin's Telegram and Discord now!\n\nEverything is still early in NewCoin. Anticipate OG Roles (with exclusive perks and airdrops) and frequent giveaways in the community for growth hack. You will be a part of something big brewing\n\n\nNewCoin description:\nNewCoin is a premier global digital asset trading platform. We are dedicated to providing users worldwide with a trading experience that is simple, fast, secure, and efficient.",
@@ -96,22 +112,6 @@
     "url": "https://app.galxe.com/quest/mil-k/GCCabtYwxk"
   },
   {
-    "id": "GCnYBtYcKW",
-    "name": "Final Push Before the Olympex Pass Launch",
-    "description": "Q1 is getting closer, and so is the launch of the Olympics Pass NFTs.\n\nThese Social Tasks are designed to reward the community that has been supporting Olympex early and helping keep the ecosystem active across our networks.\n\nOnce the Olympics Pass NFTs go live, holders will be able to start tracking on-chain and off-chain activity, unlocking eligibility for future rewards, including the Nectar airdrop, based on real participation.\n\nBy completing these tasks, you’re not just supporting the community.\nYou’re positioning yourself early, making sure your activity is visible before the next phase begins.\n\nIt only takes a minute.\nYour support now will matter later.",
-    "rewardName": "mint Olympex Pass NFT",
-    "startTime": 1770692400,
-    "endTime": 1771556400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCnYBtYcKW"
-  },
-  {
     "id": "GCQNrtYxCN",
     "name": "Claim your exclusive Galxe+ Mini",
     "description": "Claim your exclusive Galxe+ Mini",
@@ -160,6 +160,22 @@
     "url": "https://app.galxe.com/quest/galxe/GCSMrtYkiT"
   },
   {
+    "id": "GCC8PtYhRj",
+    "name": "Building Trust in the Carbon Economy 🤝",
+    "description": "**Earn  $30 Reward + 400 XP  - Gasless ⚡**\n\nCarbon markets don’t struggle because of lack of demand — they struggle because of lack of trust.\n\nIn this second step of Inside Dkarbon · The Early Phase, explore why verification, transparency, and traceability are essential to build credible and scalable carbon ecosystems.\n\nRead our posts on X, complete the quiz, and move one step deeper into Dkarbon’s early journey. 🌍",
+    "rewardName": "",
+    "startTime": 1771520400,
+    "endTime": 1772125200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Dkarbon",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/dkarbon/GCC8PtYhRj"
+  },
+  {
     "id": "GCMNHtY3Gm",
     "name": "Final Chance to Secure Your Whitelist Spot",
     "description": "2026 is coming with major announcements, new launches, and everything the community has been waiting for.\n\nThese are the final moments to get your name on the list, show your support, and secure your place as an early member of the Olympex community. Early followers and active participants will be taken into account and rewarded as the ecosystem continues to grow.\n\nThat’s why we’re launching these final Social Tasks. They’re designed to encourage participation, help you join our Telegram community, and make sure your activity is visible.\n\nIt only takes one minute to complete the tasks, drop a like, and participate, but doing so gives you a real chance to unlock future rewards, benefits, and early access opportunities.\n\nEarly matters.\nAnd this is your moment to be part of what comes next.",
@@ -206,22 +222,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/deriw-finance/GCs4btY61V"
-  },
-  {
-    "id": "GCUEBtY2um",
-    "name": "Start with Dkarbon Basics 🌱",
-    "description": "**$30 Reward + 400 XP - Gasless** ⚡Every Carbon economy starts with understanding the fundamentals. 🌱 **Learn what Carbon Credits represent** and why transparency is essential in emerging markets.\n\nComplete the quest to earn XP and $30 reward pool. This is your first step inside Inside Dkarbon · The Early Phase.\n\nStart early. Build smart. 🌍  ",
-    "rewardName": "",
-    "startTime": 1770894000,
-    "endTime": 1771509600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Dkarbon",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/dkarbon/GCUEBtY2um"
   },
   {
     "id": "GCNErtYoSc",
@@ -302,22 +302,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/deriw-finance/GCa1btYYxs"
-  },
-  {
-    "id": "GC4aBtYbq7",
-    "name": "Inside Dkarbon - The Early Phase 🌍",
-    "description": "***Inside Dkarbon · The Early Phase*** is a three-part quest series designed to explore the foundations of the Carbon Credits economy and the role of transparency in Web3.\n\nEach quest builds on the previous one — from understanding carbon credits to recognizing why trust, liquidity, and on-chain verification matter.\n\n**This is the beginning. Join early and become part of Dkarbon’s evolving community.** 🌱",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Dkarbon",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/dkarbon/GC4aBtYbq7"
   },
   {
     "id": "GCEautYJb7",
