@@ -16,22 +16,6 @@
     "url": "https://app.galxe.com/quest/fuglys/GCmjBtYKWF"
   },
   {
-    "id": "GCmGHtYpPp",
-    "name": "🎟️ AMA Raffle with Doma",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1771509600,
-    "endTime": 1771596000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCmGHtYpPp"
-  },
-  {
     "id": "GCAEbtYkJ1",
     "name": "Join NewCoin Community!",
     "description": "Hop into NewCoin's Telegram and Discord now!\n\nEverything is still early in NewCoin. Anticipate OG Roles (with exclusive perks and airdrops) and frequent giveaways in the community for growth hack. You will be a part of something big brewing\n\n\nNewCoin description:\nNewCoin is a premier global digital asset trading platform. We are dedicated to providing users worldwide with a trading experience that is simple, fast, secure, and efficient.",
@@ -110,6 +94,22 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/mil-k/GCCabtYwxk"
+  },
+  {
+    "id": "GCLsPtYK4d",
+    "name": "Final Push Before the Olympex Pass Launch",
+    "description": "Launch is getting closer, and so is the launch of the Olympex Pass NFTs.\n\nThese Social Tasks are designed to reward the community that has been supporting Olympex early and helping keep the ecosystem active across our networks.\n\nOnce the Olympics Pass NFTs go live, holders will be able to start tracking on-chain and off-chain activity, unlocking eligibility for future rewards, including the Nectar airdrop, based on real participation.\n\nBy completing these tasks, you’re not just supporting the community.\nYou’re positioning yourself early, making sure your activity is visible before the next phase begins.\n\nIt only takes a minute.\nYour support now will matter later.",
+    "rewardName": "NFT pass",
+    "startTime": 1771556400,
+    "endTime": 1772420400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCLsPtYK4d"
   },
   {
     "id": "GCQNrtYxCN",
@@ -257,7 +257,7 @@
   },
   {
     "id": "GCXcbtYMnE",
-    "name": "Register & Invite — $2,000 USDT Up for Grabs",
+    "name": "Register & Invite — Win $2,000 USDT Up for Grabs",
     "description": "**Register & Invite — $2,000 USDT Up for Grabs ** \n\nBring your friends. Build your edge. \n\nComplete FoxHole Mini App tasks and invite new users to unlock 2,000 USDT in rewards.  \n\n👉See the full mechanics here: https://paragraph.com/@forx/register-and-invite-%E2%80%94-2000-usdt-up-for-grab\n\n👉 Earn together in FoxHole Mini-App  https://t.me/forxhole_bot\n\n**Note: **Winners will be selected based on the FoxHole Mini-App, not Galxe.\n\n#ForX #ForXHybridDEX #FoxHole",
     "rewardName": "USDT",
     "startTime": 1771257600,
