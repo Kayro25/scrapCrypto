@@ -192,22 +192,6 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCMNHtY3Gm"
   },
   {
-    "id": "GC2rbtYxcq",
-    "name": "Mint Your Future - Free NFT",
-    "description": "🚀 Description\n\nThe Olympex Pass is almost here.\n\nThis is your entry ticket to the ecosystem and your gateway to earning points, unlocking benefits, and positioning yourself for the upcoming airdrop.\n\nEarly members always win more.\n\nJoin our official Telegram community now to get first-hand updates, exclusive announcements, and strategic advantages before everyone else.\n\nThe earlier you enter, the more you accumulate.\n\nDon’t watch from the outside.\nStep inside the ecosystem.",
-    "rewardName": "Pass to DeFi",
-    "startTime": 1770951600,
-    "endTime": 1771729200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC2rbtYxcq"
-  },
-  {
     "id": "GCs4btY61V",
     "name": "🏆 DeriW 周四活动：积分赢取 100 USDT 🏆",
     "description": "🏆 DeriW 周四活动：积分赢取 100 USDT 🏆\n\n🎆 DeriW 主网第 28 周：总交易量突破 280 亿美元\n🧧 祝大家农历新年快乐！在 DeriW 庆祝农历新年。愿马年为您带来繁荣昌盛和丰厚的交易收益！🐴✨\n\n值此马年伊始，加入我们的专属农历新年庆祝活动，赢取 100 美元 USDT 奖励！🧧\n\n⏰ 活动时间：2月12日下午4点 - 2月26日下午4点 (UTC+8)\n💰 奖池：\n🥇 第一名：$50 USDT\n🥈 第二名：$30 USDT\n🥉 第三名：$20 USDT\n\n🔗 SUPERNOVA+ 活动详情：https://www.deriw.com/supernova-mainnet-first-incentive-program\n\n🎯 参与方式：\n• 活动期间，通过参与 SUPERNOVA+ 活动获得 DER+ 积分最多的前三名参与者将获得奖励。\n• 活动结束前，请将您的钱包地址发布至 @deriwfinance 并添加话题标签 #DeriWFebruaryPointsToEarn\n\n⚠️重要提示：\n✔ 交易 $50 = 获得 5 DER+ 积分\n✔ 邀请好友 = 获得积分300% 推荐奖励积分\n✔ 测试网用户 = 额外 +20% 奖励\n\n📝 重要规则：\n• 必须包含指定标签 #DeriWFebruaryPointsToEarn\n• 奖励将在公布后 10 个工作日内发放\n\n为什么选择 DeriW？\n✅ 零资金费率\n✅ 0.01% 超低交易手续费\n✅ 安全、透明且经过审计的交易环境\n✅ 即时执行 — 无需等待订单匹配\n\n💜 加入社群：@deriwfinance\n🔗 交易平台：www.deriw.com\n\n#DeriWThursday #DeriWFebruaryPointsToEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
@@ -238,6 +222,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/mahjongstars/GCNErtYoSc"
+  },
+  {
+    "id": "GCjZPtY9V2",
+    "name": "Fortuva Active Trader Challenge — 50 Bets, MinBet 0.02 SOL",
+    "description": "Step into high-frequency, on-chain prediction trading on Solana with Fortuva.\n\nIn this challenge, participants must place 50 or more prediction bets, with each bet having a minimum value of 0.02 SOL, within the quest period.\n\nAll predictions are fully settled on-chain using Pyth oracle price feeds, ensuring transparency, fairness, and verifiable outcomes without reliance on off-chain systems.\n\nThis quest is designed to reward consistent participation and meaningful engagement across multiple rounds, rather than one-time or low-effort activity.\n\nIdeal for traders who thrive in fast-paced environments and want to experience Fortuva’s real-time, decentralized prediction system in action.",
+    "rewardName": "",
+    "startTime": 1771632000,
+    "endTime": 1771804800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Fortuva – Predict & Earn on Solana",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/fortuva-predict-earn-on-solana/GCjZPtY9V2"
   },
   {
     "id": "GC4AHtYsD8",
