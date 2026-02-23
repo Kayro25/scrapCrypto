@@ -224,22 +224,6 @@
     "url": "https://app.galxe.com/quest/mahjongstars/GCNErtYoSc"
   },
   {
-    "id": "GCjZPtY9V2",
-    "name": "Fortuva Active Trader Challenge — 50 Bets, MinBet 0.02 SOL",
-    "description": "Step into high-frequency, on-chain prediction trading on Solana with Fortuva.\n\nIn this challenge, participants must place 50 or more prediction bets, with each bet having a minimum value of 0.02 SOL, within the quest period.\n\nAll predictions are fully settled on-chain using Pyth oracle price feeds, ensuring transparency, fairness, and verifiable outcomes without reliance on off-chain systems.\n\nThis quest is designed to reward consistent participation and meaningful engagement across multiple rounds, rather than one-time or low-effort activity.\n\nIdeal for traders who thrive in fast-paced environments and want to experience Fortuva’s real-time, decentralized prediction system in action.",
-    "rewardName": "",
-    "startTime": 1771632000,
-    "endTime": 1771804800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Fortuva – Predict & Earn on Solana",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/fortuva-predict-earn-on-solana/GCjZPtY9V2"
-  },
-  {
     "id": "GC4AHtYsD8",
     "name": "KromosomAI Waitlist (1000 LYNC Points)",
     "description": "Join the KromosomAI waitlist by signing up through the quest link to qualify for the reward",
