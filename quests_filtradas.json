@@ -48,22 +48,6 @@
     "url": "https://app.galxe.com/quest/lumio/GCmABtYxcr"
   },
   {
-    "id": "GCsRitYD9B",
-    "name": "Follow UniMex X to Grab 4,500 UNX Tokens",
-    "description": "Just one simple task:\n👉 Follow @UniMex_Web3\n\nThat’s it.\nParticipate and share a 4,500 UNX reward pool.\n\n$UNX is the native token of UniMex Exchange.\nIf UNX does not appear in your wallet, please manually add the contract:\n0x49dbf80ff5dcc0ca6d9331a1c10f83b331a4e122 (BNB Chain)\n\n📦 Rewards will be distributed within 3 business days after the campaign ends.",
-    "rewardName": "15 UNX  Tokens ",
-    "startTime": 1770638400,
-    "endTime": 1771848000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "UniMex",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/unimex/GCsRitYD9B"
-  },
-  {
     "id": "GCKmHtYNja",
     "name": "888 Club – Lucky 8 Explorer 🐎🧧",
     "description": "Lunar New Year is about luck, momentum, and new beginnings.\n\nIn many cultures, the number 8, 88 or 888 represents prosperity and good fortune.\nSo this week, we’re leaning into it.\n\nWelcome to the 888 Club.\n\nYour mission is simple:\n\nExplore Doma. Spread your holdings. Build a small portfolio across multiple domains.\n\nThis quest runs from:\n\nFebruary 17th, 2026 2PM UTC to February 24th, 2026 2PM UTC\n\nComplete the task below during the quest window to qualify.\n\nLeaderboard points will be distributed to eligible participants after verification.",
@@ -366,21 +350,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/bitcoin-light/GC1hRtY55F"
-  },
-  {
-    "id": "GC8DjtY6Xz",
-    "name": "🚀 Atlaspad x Chatoshi AI Launchpad Meets Crypto-Native AI | Galxe Campaign",
-    "description": "**📢 Campaign Description**\r\n\r\nAtlaspad and Chatoshi AI are joining forces!\r\nThe next-generation multi-chain launchpad and the world's first crypto-native AI copilot come together in the same campaign.\r\n\r\nIn this special Galxe campaign, participants will both explore the Atlaspad ecosystem and get acquainted with Chatoshi's AI-powered on-chain, sentiment, and trader analysis tools.\r\n\r\n🎯 Campaign Rewards\r\n🏆 Atlaspad (ASPAD) Whitelist for 100 People\r\n\r\n⏳ Campaign Duration\r\n📆 1 Month\r\n\r\n🚀 Complete the tasks, join the Atlaspad x Chatoshi ecosystem, and seize your chance to get whitelisted!\r\n\r\nTranslated with DeepL.com (free version)",
-    "rewardName": "ASPAD WL",
-    "startTime": 1769374800,
-    "endTime": 1772053200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Atlaspad",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/atlaspad/GC8DjtY6Xz"
   }
 ]
