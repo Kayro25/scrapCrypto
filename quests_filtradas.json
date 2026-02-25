@@ -16,6 +16,38 @@
     "url": "https://app.galxe.com/quest/fuglys/GCmjBtYKWF"
   },
   {
+    "id": "GCVCatYSgn",
+    "name": "Doma Fresh Launch Hunter🎯",
+    "description": "New domains are launching every day.\n\nEarly matters.\n\nThis quest is about getting in early on a fresh launch and actually participating.\n\nChoose one of the new domain launches below and build a small position.\n\nEligible launches (UTC):\n\nTokenBay.xyz — Feb 24, 2026 — 14:00 UTC\nstockclub.xyz — Feb 25, 2026 — 05:19 UTC\nTreasureMap.xyz — Feb 25, 2026 — 06:00 UTC\nCoinBig.xyz — Feb 25, 2026 — 14:00 UTC\nbestincrypto.com — Feb 26, 2026 — 06:00 UTC\nAssetCapital.xyz — Feb 26, 2026 — 14:00 UTC\ncryptopayment.xyz — Feb 27, 2026 — 06:00 UTC\nchainCode.xyz — Feb 27, 2026 — 14:00 UTC\ntrenchhero.com — Feb 28, 2026 — 06:00 UTC\ncheapram.io — Feb 28, 2026 — 14:00 UTC\nHyperchains.xyz — Mar 1, 2026 — 06:00 UTC\nthinkfactory.xyz — Mar 1, 2026 — 14:00 UTC\nSafeCapital.xyz — Mar 2, 2026 — 06:00 UTC",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1771941600,
+    "endTime": 1772546400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCVCatYSgn"
+  },
+  {
+    "id": "GCFJPtYm5E",
+    "name": "🎟️ Doma AMA Raffle with Encirca CEO",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1771941600,
+    "endTime": 1772028000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCFJPtYm5E"
+  },
+  {
     "id": "GCAEbtYkJ1",
     "name": "Join NewCoin Community!",
     "description": "Hop into NewCoin's Telegram and Discord now!\n\nEverything is still early in NewCoin. Anticipate OG Roles (with exclusive perks and airdrops) and frequent giveaways in the community for growth hack. You will be a part of something big brewing\n\n\nNewCoin description:\nNewCoin is a premier global digital asset trading platform. We are dedicated to providing users worldwide with a trading experience that is simple, fast, secure, and efficient.",
@@ -46,22 +78,6 @@
     "score": 10,
     "payout": 85,
     "url": "https://app.galxe.com/quest/lumio/GCmABtYxcr"
-  },
-  {
-    "id": "GCKmHtYNja",
-    "name": "888 Club – Lucky 8 Explorer 🐎🧧",
-    "description": "Lunar New Year is about luck, momentum, and new beginnings.\n\nIn many cultures, the number 8, 88 or 888 represents prosperity and good fortune.\nSo this week, we’re leaning into it.\n\nWelcome to the 888 Club.\n\nYour mission is simple:\n\nExplore Doma. Spread your holdings. Build a small portfolio across multiple domains.\n\nThis quest runs from:\n\nFebruary 17th, 2026 2PM UTC to February 24th, 2026 2PM UTC\n\nComplete the task below during the quest window to qualify.\n\nLeaderboard points will be distributed to eligible participants after verification.",
-    "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1771336800,
-    "endTime": 1771941600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCKmHtYNja"
   },
   {
     "id": "GCCabtYwxk",
@@ -144,6 +160,22 @@
     "url": "https://app.galxe.com/quest/galxe/GCSMrtYkiT"
   },
   {
+    "id": "GCnFatYnkC",
+    "name": "Complete quests to earn",
+    "description": "We share different ways to win in Web3.\nEven when the market drops and prices fall, there are always opportunities to earn, and social tasks are one of them.\n\nAt Olympex, community support truly matters, especially during volatile moments.\nWith the upcoming launch of the Olympex Pass, the users who stay active, engaged, and present will be the ones most taken into account when rewards are distributed.\n\nSupporting the ecosystem early is part of the journey.",
+    "rewardName": "NFT Olympex pass",
+    "startTime": 1771902000,
+    "endTime": 1772852400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCnFatYnkC"
+  },
+  {
     "id": "GCC8PtYhRj",
     "name": "Building Trust in the Carbon Economy 🤝",
     "description": "**Earn  $30 Reward + 400 XP  - Gasless ⚡**\n\nCarbon markets don’t struggle because of lack of demand — they struggle because of lack of trust.\n\nIn this second step of Inside Dkarbon · The Early Phase, explore why verification, transparency, and traceability are essential to build credible and scalable carbon ecosystems.\n\nRead our posts on X, complete the quiz, and move one step deeper into Dkarbon’s early journey. 🌍",
@@ -190,22 +222,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/deriw-finance/GCs4btY61V"
-  },
-  {
-    "id": "GCNErtYoSc",
-    "name": "A Quest For $500",
-    "description": "\nComplete the quest to get early access and earn <cashtag>$USDC</cashtag> before the public release.\n\nConnect your wallet, follow the steps, and be ready for launch. Early players get the best rewards.\n\n$TILE is our onchain token - it gives discounts on Star Points, unlocks premium matches and events, lets you buy NFTs, and ears staking rewards.\n\nStar Points are the in-game (off chain) currency you use to play matches, place bets, earn rewards, and cash out through NFTs.\n",
-    "rewardName": "",
-    "startTime": 1770735600,
-    "endTime": 1771945200,
-    "chain": "BASE",
-    "space": {
-      "name": "MahjongStars",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/mahjongstars/GCNErtYoSc"
   },
   {
     "id": "GC4AHtYsD8",
