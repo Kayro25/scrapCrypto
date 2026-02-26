@@ -32,22 +32,6 @@
     "url": "https://app.galxe.com/quest/d3/GCVCatYSgn"
   },
   {
-    "id": "GCFJPtYm5E",
-    "name": "🎟️ Doma AMA Raffle with Encirca CEO",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1771941600,
-    "endTime": 1772028000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCFJPtYm5E"
-  },
-  {
     "id": "GCAEbtYkJ1",
     "name": "Join NewCoin Community!",
     "description": "Hop into NewCoin's Telegram and Discord now!\n\nEverything is still early in NewCoin. Anticipate OG Roles (with exclusive perks and airdrops) and frequent giveaways in the community for growth hack. You will be a part of something big brewing\n\n\nNewCoin description:\nNewCoin is a premier global digital asset trading platform. We are dedicated to providing users worldwide with a trading experience that is simple, fast, secure, and efficient.",
@@ -176,6 +160,22 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCnFatYnkC"
   },
   {
+    "id": "GCuePtYjn6",
+    "name": "ADREVA $1,000 USDC Giveaway (Day 1) - ETHDenver 2026",
+    "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nJoin our 2-part attention campaign designed to reward early participation, quality engagement, and community contribution ahead of our full launch in March 2026!\n\n## 1. Early Access Testing + Giveaway *(Feb 25-Mar 7)*\n## 2. Leaderboard Competition  *(March 1-7)*\n\n\n## PRIZES  \n\n- **$1,500 — USDC**\n- **$100 — Giftcards.com**\n- **5 — Limited Edition NFTs**\n- **4 — Early Access Discord Roles**\n\n\n# ADREVA Early Access Testing *($1,000 USDC)*\nFebruary 25 - March 7, 2026\n\nWe’re officially live in beta!\n\nLeading up to the Leaderboard Competition launch on March 1, 2026, we’re inviting the community to help us test the platform, explore features, provide feedback, and stress test the system.\n\nAll leaderboard points reset on March 1.\n\nTesters earn bonus points toward the competition, a limited edition NFT and early access discord roles by:\n\n- Completing Galxe quests\n- Joining the waitlist\n- Testing the extension and providing feedback\n- Reporting [Bugs/Feedback](https://forms.gle/joqu3zs4xA3sCgyj6)\n\n## Daily Giveaways  *($1,000 USDC)*\n\n- Complete social activation tasks\n- Earn bonus points towards the Leaderboard Competition (March 1-7)\n- Earn one raffle entry per day\n- $1,000 USDC raffle pool\n\n## Quest 2 — Early Access NFT  \n\n- Learn\n- Answer quiz questions\n- Mint the ADREVA \"Ad Warrior\" NFT\n- Claim the Discord role\n- Earn bonus points towards the Leaderboard Competition\n\n\n# ADREVA Leaderboard Competition *($500)* \nMarch 1 (00:00 UTC) – March 7 (23:59 UTC)  \n\n## How It Works  \n\nParticipants earn points and climb the leaderboard by:\n\n- Visiting **www.adrevanetwork.com**\n- Adding the ADREVA browser extension\n- Creating an account\n- Selecting ad preferences\n- Viewing, clicking, and engaging with ads\n- Maintaining hourly/daily engagement streaks\n- Unlocking achievements\n- Referring new users and advertisers\n\nPoints accumulate in real time on the leaderboard.\n\n- The **Top 1000 participants** will receive the **Proof of Attention NFT** and Discord roles.\n- The **Top 15 leaderboard winners** will receive additional prizes including USDC, gift cards, limited edition NFTs, and more.",
+    "rewardName": "",
+    "startTime": 1771995600,
+    "endTime": 1772946000,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCuePtYjn6"
+  },
+  {
     "id": "GCC8PtYhRj",
     "name": "Building Trust in the Carbon Economy 🤝",
     "description": "**Earn  $30 Reward + 400 XP  - Gasless ⚡**\n\nCarbon markets don’t struggle because of lack of demand — they struggle because of lack of trust.\n\nIn this second step of Inside Dkarbon · The Early Phase, explore why verification, transparency, and traceability are essential to build credible and scalable carbon ecosystems.\n\nRead our posts on X, complete the quiz, and move one step deeper into Dkarbon’s early journey. 🌍",
@@ -222,6 +222,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/deriw-finance/GCs4btY61V"
+  },
+  {
+    "id": "GC7ebtYaN7",
+    "name": "ADREVA Early Access NFT - ETHDenver 2026",
+    "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nDiscover how ADREVA is reshaping advertising with privacy-first, zero-knowledge technology.\n\n* Learn and complete the quizzes\n* Mint the ADREVA \"Proof of Attention” NFT\n* Claim the Discord role\n* Earn bonus points towards the Leaderboard Competition (March 1-7)\n\nVisit and follow our space for more early access quests and USDC giveaways!\n\nhttps://dashboard.galxe.com/fXXVfeEsqkc7VcoP2fcUr5\n",
+    "rewardName": "",
+    "startTime": 1771995600,
+    "endTime": 1772946000,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GC7ebtYaN7"
   },
   {
     "id": "GC4AHtYsD8",
@@ -302,69 +318,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/gems-town/GCEautYJb7"
-  },
-  {
-    "id": "GCWSrtYg6b",
-    "name": "Galxe Pulse Community Survey Rewards",
-    "description": "Top contributors who participated in the Galxe Pulse Community Survey are eligible to receive Galxe+ Premium or Mini subscriptions.",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Galxe",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/galxe/GCWSrtYg6b"
-  },
-  {
-    "id": "GCxQRtYH7z",
-    "name": "CHECKPOINT MOMENTUM",
-    "description": "### New year. New momentum. Bigger rewards.\n#### Kick off the Lunar New Year with Checkpoint Momentum, where progress doesn’t reset, it compounds (๑˃̵ᴗ˂̵)و ﾖｼ!\n\n\nBuild momentum throughout the campaign and unlock some of the biggest rewards we’ve offered, designed to keep you moving into the new year and help with your points checking and tracking journey!\n\nCheckpoint Exchange is galloping towards testnet, but you may wonder, what is Checkpoint?\n\nGlad you asked. **Checkpoint** is a project where you can easily check and track your points. Paste any EVM addy or name and it resolves to points. Simple.\n\nYou can do lots of other things with Checkpoint as well; build apps, integrate projects and much more. BUT the most exciting part is trading points soon, from offchain to onchain, pretty neat huh?! (〃￣︶￣)人(￣︶￣〃)\n\nLearn more about Checkpoint with our  [docs](https://docs.checkpoint.exchange) OR check our [web app](https://checkpoint.exchange/?ref=galxe). \n\n---\n\n#### About CHECKPOINT MOMENTUM\n\nThis series of quests is not sequential, jump in anytime and take your shot at earning some sweet rewards. Better yet, rewards are guaranteed and claims are gas free. Momentum quests will end on February 28th or earlier, with claims open after.\n\nWith varying levels of difficulty, tasks, and entry requirements, there’s something for everyone to build momentum along the way.\n\nHave fun, GLHF, and Happy Lunar New Year  |^o^/!",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/checkpoint/GCxQRtYH7z"
-  },
-  {
-    "id": "GCh2RtY3TM",
-    "name": "Ride the Year of the Horse with Cartesi",
-    "description": "As we welcome the Year of the Horse, a symbol of speed, vitality, and unbridled power, Cartesi is charging into 2026 with a mission to unleash the true potential of Web3.\n\nCartesi allows developers to build appchain rollups with any code, while benefiting from Ethereum's security. By bringing the full Linux runtime to blockchain, we empower you to build with the languages, libraries, and tools you already love.\n\nTo celebrate this spirit of innovation and prosperity, we are distributing Real Token Rewards in our exclusive Red Packet Gala.\n\nComplete the tasks below to prove your loyalty, explore the power of Cartesi Rollups, and grab your share of the CTSI prosperity pool!\n",
-    "rewardName": "",
-    "startTime": 1770591600,
-    "endTime": 1772319600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Cartesi",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/cartesi/GCh2RtY3TM"
-  },
-  {
-    "id": "GC1hRtY55F",
-    "name": "👋 Welcome to Bitcoin Light app!",
-    "description": "Become an early adopter of the ecosystem and earn an exclusive Discord role as an early adopter! 😉",
-    "rewardName": "",
-    "startTime": 1769641200,
-    "endTime": 1774908000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Bitcoin Light",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/bitcoin-light/GC1hRtY55F"
   }
 ]
