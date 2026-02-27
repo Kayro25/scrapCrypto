@@ -64,22 +64,6 @@
     "url": "https://app.galxe.com/quest/lumio/GCmABtYxcr"
   },
   {
-    "id": "GCCabtYwxk",
-    "name": "MLK Trading Season 5 - $2,500 MLK Rewards",
-    "description": "We’re excited to launch a 30-day trading volume event starting Feb 12 (UTC) with a total reward pool of $2,500 in MLK!\n\n🔑 Event Details\n-\tDaily Rewards: $83 in MLK distributed each day\n-\tEligibility: Top 10 wallets with at least $15,000 daily trading volume on PancakeSwap V3\n-\tDaily Reward per Wallet: Approx. $8.3 in MLK\n\n 📌 Rules\n- If more than 10 wallets qualify on a given day, 10 winners will be randomly selected from eligible participants.\n- Only wallets submitted before the deadline will be considered.\n- Each wallet can claim rewards up to 2 times during the entire event (anti-monopoly rule).\n- All trades must be executed directly on PancakeSwap V3.\n- All rewards will be distributed to Arbitrum chain\n- Raffle results within Galxe are not related to the actual event winners. Rewards will only be granted to wallets that meet the trading requirements and are selected through the daily draw.\n\nFor eligible wallets, rewards will be distributed within two weeks after the event ends.\n\n⏰ Event Period : Feb 12 ~ Mar 14 (UTC)",
-    "rewardName": "Checking Eligibility for MLK",
-    "startTime": 1770854400,
-    "endTime": 1773446400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "MiL.k",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/mil-k/GCCabtYwxk"
-  },
-  {
     "id": "GCLsPtYK4d",
     "name": "Final Push Before the Olympex Pass Launch",
     "description": "Launch is getting closer, and so is the launch of the Olympex Pass NFTs.\n\nThese Social Tasks are designed to reward the community that has been supporting Olympex early and helping keep the ecosystem active across our networks.\n\nOnce the Olympics Pass NFTs go live, holders will be able to start tracking on-chain and off-chain activity, unlocking eligibility for future rewards, including the Nectar airdrop, based on real participation.\n\nBy completing these tasks, you’re not just supporting the community.\nYou’re positioning yourself early, making sure your activity is visible before the next phase begins.\n\nIt only takes a minute.\nYour support now will matter later.",
@@ -94,54 +78,6 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCLsPtYK4d"
-  },
-  {
-    "id": "GCQNrtYxCN",
-    "name": "Claim your exclusive Galxe+ Mini",
-    "description": "Claim your exclusive Galxe+ Mini",
-    "rewardName": "a 2-month Galxe+ Mini",
-    "startTime": 1770048000,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Galxe",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/galxe/GCQNrtYxCN"
-  },
-  {
-    "id": "GCSVrtYkMG",
-    "name": "Claim your exclusive Galxe+ Mini",
-    "description": "Claim your exclusive Galxe+ Mini",
-    "rewardName": "a 3-month Galxe+ Mini",
-    "startTime": 1770048000,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Galxe",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/galxe/GCSVrtYkMG"
-  },
-  {
-    "id": "GCSMrtYkiT",
-    "name": "Claim your exclusive Galxe+ Premium",
-    "description": "Claim your exclusive Galxe+ Premium",
-    "rewardName": "a 3-month Galxe+ Premium",
-    "startTime": 1770048000,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Galxe",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/galxe/GCSMrtYkiT"
   },
   {
     "id": "GCnFatYnkC",
@@ -160,8 +96,40 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCnFatYnkC"
   },
   {
+    "id": "GCcgstYVbs",
+    "name": "ADREVA $1,000 USDC Giveaway (Day 2)",
+    "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\r\n\r\n### https://app.galxe.com/quest/ADREVA\r\n\r\nJoin our 2-part attention campaign designed to reward early participation, quality engagement, and community contribution ahead of our full launch in March 2026!\r\n\r\n## 1. Early Access Testing + Giveaway *(Feb 25-Mar 7)*\r\n## 2. Leaderboard Competition  *(March 1-7)*\r\n\r\n\r\n## PRIZES  \r\n\r\n- **$1,500 — USDC**\r\n- **$100 — Giftcards.com**\r\n- **5 — Limited Edition NFTs**\r\n- **4 — Early Access Discord Roles**\r\n\r\n\r\n# ADREVA Early Access Testing *($1,000 USDC)*\r\nFebruary 25 - March 7, 2026\r\n\r\nWe’re officially live in beta!\r\n\r\nLeading up to the Leaderboard Competition launch on March 1, 2026, we’re inviting the community to help us test the platform, explore features, provide feedback, and stress test the system.\r\n\r\nAll leaderboard points reset on March 1.\r\n\r\nTesters earn bonus points toward the competition, a limited edition NFT and early access discord roles by:\r\n\r\n- Completing Galxe quests\r\n- Joining the waitlist\r\n- Testing the extension and providing feedback\r\n- Reporting [Bugs/Feedback](https://forms.gle/joqu3zs4xA3sCgyj6)\r\n\r\n## Daily Giveaways  *($1,000 USDC)*\r\n\r\n- Complete social activation tasks\r\n- Earn bonus points towards the Leaderboard Competition (March 1-7)\r\n- Earn one raffle entry per day\r\n- $1,000 USDC raffle pool\r\n\r\n## Quest 2 — Early Access NFT  \r\n\r\n- Learn\r\n- Answer quiz questions\r\n- Mint the ADREVA \"Ad Warrior\" NFT\r\n- Claim the Discord role\r\n- Earn bonus points towards the Leaderboard Competition\r\n\r\n\r\n# ADREVA Leaderboard Competition *($500)* \r\nMarch 1 (00:00 UTC) – March 7 (23:59 UTC)  \r\n\r\n## How It Works  \r\n\r\nParticipants earn points and climb the leaderboard by:\r\n\r\n- Visiting **www.adrevanetwork.com**\r\n- Adding the ADREVA browser extension\r\n- Creating an account\r\n- Selecting ad preferences\r\n- Viewing, clicking, and engaging with ads\r\n- Maintaining hourly/daily engagement streaks\r\n- Unlocking achievements\r\n- Referring new users and advertisers\r\n\r\nPoints accumulate in real time on the leaderboard.\r\n\r\n- The **Top 1000 participants** will receive the **Proof of Attention NFT** and Discord roles.\r\n- The **Top 15 leaderboard winners** will receive additional prizes including USDC, gift cards, limited edition NFTs, and more.",
+    "rewardName": "",
+    "startTime": 1772082000,
+    "endTime": 1772946000,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCcgstYVbs"
+  },
+  {
+    "id": "GC9estYyuc",
+    "name": "Adrena - Open a Long or Short Position",
+    "description": "Adrena is Solana’s peer-to-pool perps DEX with up to 100x leverage, trading straight from your wallet.\n\nPerps, 100x, Solana speed\n🧠 Peer-to-pool perp DEX, built on Solana\n📈 Long or short with leverage (risk included)\n🧾 No account creation, wallet-native flow\n\nMutagen rewards real activity\n🧪 Mutagen tracks trading engagement beyond raw PnL\n🏁 Seasons can reward volume, performance, and participation\n🧮 Scoring blends performance, duration, size multipliers\n\nRewards in this Activation: 3 lucky participants in this activation will be rewarded $25 USDC after the activation concludes.",
+    "rewardName": "25 USDC each",
+    "startTime": 1772105100,
+    "endTime": 1798675200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Adrena",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adrena/GC9estYyuc"
+  },
+  {
     "id": "GCuePtYjn6",
-    "name": "ADREVA $1,000 USDC Giveaway (Day 1) - ETHDenver 2026",
+    "name": "ADREVA $1,000 USDC Giveaway (Day 1)",
     "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nJoin our 2-part attention campaign designed to reward early participation, quality engagement, and community contribution ahead of our full launch in March 2026!\n\n## 1. Early Access Testing + Giveaway *(Feb 25-Mar 7)*\n## 2. Leaderboard Competition  *(March 1-7)*\n\n\n## PRIZES  \n\n- **$1,500 — USDC**\n- **$100 — Giftcards.com**\n- **5 — Limited Edition NFTs**\n- **4 — Early Access Discord Roles**\n\n\n# ADREVA Early Access Testing *($1,000 USDC)*\nFebruary 25 - March 7, 2026\n\nWe’re officially live in beta!\n\nLeading up to the Leaderboard Competition launch on March 1, 2026, we’re inviting the community to help us test the platform, explore features, provide feedback, and stress test the system.\n\nAll leaderboard points reset on March 1.\n\nTesters earn bonus points toward the competition, a limited edition NFT and early access discord roles by:\n\n- Completing Galxe quests\n- Joining the waitlist\n- Testing the extension and providing feedback\n- Reporting [Bugs/Feedback](https://forms.gle/joqu3zs4xA3sCgyj6)\n\n## Daily Giveaways  *($1,000 USDC)*\n\n- Complete social activation tasks\n- Earn bonus points towards the Leaderboard Competition (March 1-7)\n- Earn one raffle entry per day\n- $1,000 USDC raffle pool\n\n## Quest 2 — Early Access NFT  \n\n- Learn\n- Answer quiz questions\n- Mint the ADREVA \"Ad Warrior\" NFT\n- Claim the Discord role\n- Earn bonus points towards the Leaderboard Competition\n\n\n# ADREVA Leaderboard Competition *($500)* \nMarch 1 (00:00 UTC) – March 7 (23:59 UTC)  \n\n## How It Works  \n\nParticipants earn points and climb the leaderboard by:\n\n- Visiting **www.adrevanetwork.com**\n- Adding the ADREVA browser extension\n- Creating an account\n- Selecting ad preferences\n- Viewing, clicking, and engaging with ads\n- Maintaining hourly/daily engagement streaks\n- Unlocking achievements\n- Referring new users and advertisers\n\nPoints accumulate in real time on the leaderboard.\n\n- The **Top 1000 participants** will receive the **Proof of Attention NFT** and Discord roles.\n- The **Top 15 leaderboard winners** will receive additional prizes including USDC, gift cards, limited edition NFTs, and more.",
     "rewardName": "",
     "startTime": 1771995600,
@@ -174,22 +142,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCuePtYjn6"
-  },
-  {
-    "id": "GCC8PtYhRj",
-    "name": "Building Trust in the Carbon Economy 🤝",
-    "description": "**Earn  $30 Reward + 400 XP  - Gasless ⚡**\n\nCarbon markets don’t struggle because of lack of demand — they struggle because of lack of trust.\n\nIn this second step of Inside Dkarbon · The Early Phase, explore why verification, transparency, and traceability are essential to build credible and scalable carbon ecosystems.\n\nRead our posts on X, complete the quiz, and move one step deeper into Dkarbon’s early journey. 🌍",
-    "rewardName": "",
-    "startTime": 1771520400,
-    "endTime": 1772125200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Dkarbon",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/dkarbon/GCC8PtYhRj"
   },
   {
     "id": "GCMNHtY3Gm",
@@ -208,24 +160,56 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCMNHtY3Gm"
   },
   {
-    "id": "GCs4btY61V",
-    "name": "🏆 DeriW 周四活动：积分赢取 100 USDT 🏆",
-    "description": "🏆 DeriW 周四活动：积分赢取 100 USDT 🏆\n\n🎆 DeriW 主网第 28 周：总交易量突破 280 亿美元\n🧧 祝大家农历新年快乐！在 DeriW 庆祝农历新年。愿马年为您带来繁荣昌盛和丰厚的交易收益！🐴✨\n\n值此马年伊始，加入我们的专属农历新年庆祝活动，赢取 100 美元 USDT 奖励！🧧\n\n⏰ 活动时间：2月12日下午4点 - 2月26日下午4点 (UTC+8)\n💰 奖池：\n🥇 第一名：$50 USDT\n🥈 第二名：$30 USDT\n🥉 第三名：$20 USDT\n\n🔗 SUPERNOVA+ 活动详情：https://www.deriw.com/supernova-mainnet-first-incentive-program\n\n🎯 参与方式：\n• 活动期间，通过参与 SUPERNOVA+ 活动获得 DER+ 积分最多的前三名参与者将获得奖励。\n• 活动结束前，请将您的钱包地址发布至 @deriwfinance 并添加话题标签 #DeriWFebruaryPointsToEarn\n\n⚠️重要提示：\n✔ 交易 $50 = 获得 5 DER+ 积分\n✔ 邀请好友 = 获得积分300% 推荐奖励积分\n✔ 测试网用户 = 额外 +20% 奖励\n\n📝 重要规则：\n• 必须包含指定标签 #DeriWFebruaryPointsToEarn\n• 奖励将在公布后 10 个工作日内发放\n\n为什么选择 DeriW？\n✅ 零资金费率\n✅ 0.01% 超低交易手续费\n✅ 安全、透明且经过审计的交易环境\n✅ 即时执行 — 无需等待订单匹配\n\n💜 加入社群：@deriwfinance\n🔗 交易平台：www.deriw.com\n\n#DeriWThursday #DeriWFebruaryPointsToEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
-    "rewardName": "100 USDT",
-    "startTime": 1770883200,
-    "endTime": 1772092800,
+    "id": "GCqGstYv9V",
+    "name": "ADREVA Early Access Discord Role",
+    "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nJoin the Ad Rebellion and discover how ADREVA is reshaping advertising with privacy-first, zero-knowledge technology.\n\n* Complete the tasks\n* Claim the Discord role\n* Earn bonus points towards the Leaderboard Competition (March 1-7)\n\nVisit and follow our space for more early access quests and USDC giveaways!\n\nhttps://app.galxe.com/quest/ADREVA\n",
+    "rewardName": "",
+    "startTime": 1772082000,
+    "endTime": 1772946000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCqGstYv9V"
+  },
+  {
+    "id": "GCaMstYQeU",
+    "name": "Become an Adrena LP",
+    "description": "Deposit into Adrena’s multi-asset liquidity pool to mint ALP and earn from protocol fees as the house.\n\nALP turns traders into LPs\n💧 ALP represents a share in Adrena’s asset pool\n🏦 ALP mints on deposit, burns on redemption\n🧠 Mint and redeem fees vary with pool balance impact",
+    "rewardName": "$25 USDC each",
+    "startTime": 1772107200,
+    "endTime": 1798675200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Adrena",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adrena/GCaMstYQeU"
+  },
+  {
+    "id": "GCsSstYNVi",
+    "name": "🏆 DeriW 周四活动：赚返佣赢 50 USDT 🏆",
+    "description": "![2月26-3月5日社群周四活动.png](https://appeco.galxe.com/galxe/space/mdresource/38038/a36cb726-8e4a-4c42-8aca-cd068b083f4e.png)\n\n🏆 DeriW 周四活动：赚返佣赢 50 美元 🏆\n\n🎆 DeriW 主网上线第 30 周 — 总交易量突破 330 亿美元\n\n加入 DeriW 专属社区活动，庆祝 DeriW 的全新里程碑，赢取 50 美元大奖！\n\n⏰ 活动时间：2 月 26 日下午 4 点 - 3 月 5 日下午 4 点 (UTC+8)\n💰 奖池：总计 50 美元 USDT - 1 名获奖者\n\n🎯 参与方式：\n• 活动期间，获得返佣最多的参与者将赢得奖励。\n• 活动结束前，请将您的 DeriW 钱包地址发布至 @deriwfinance，并添加话题标签 #DeriWFebruaryCommissionToEarn\n🔗 成为 DeriW 合伙人（无需审核）：https://www.deriw.com/referral-program\n🔗 查看返佣详情：https://www.deriw.com/referral-program-details\n\n📝 重要规则：\n• 必须包含话题标签 #DeriWFebruaryCommissionToEarn\n• 奖励将在公告发布后 10 个工作日内发放\n\n为什么选择 DeriW 进行交易？\n✅ 零资金费率\n✅ 超低交易手续费 0.02%\n✅ 安全、透明、经审计的交易环境\n✅ 即时执行，无需等待订单匹配\n\n💜 加入社群：@deriwfinance\n🔗 体验交易：www.deriw.com\n\n#DeriWThursday #DeriWFebruaryCommissionToEarn #ZeroFundingRates\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
+    "rewardName": "50 USDT",
+    "startTime": 1772092800,
+    "endTime": 1772697600,
     "chain": "ETHEREUM",
     "space": {
       "name": "Deriw Finance",
       "isVerified": false
     },
-    "score": 6,
+    "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/deriw-finance/GCs4btY61V"
+    "url": "https://app.galxe.com/quest/deriw-finance/GCsSstYNVi"
   },
   {
     "id": "GC7ebtYaN7",
-    "name": "ADREVA Early Access NFT - ETHDenver 2026",
+    "name": "ADREVA Early Access NFT",
     "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nDiscover how ADREVA is reshaping advertising with privacy-first, zero-knowledge technology.\n\n* Learn and complete the quizzes\n* Mint the ADREVA \"Proof of Attention” NFT\n* Claim the Discord role\n* Earn bonus points towards the Leaderboard Competition (March 1-7)\n\nVisit and follow our space for more early access quests and USDC giveaways!\n\nhttps://dashboard.galxe.com/fXXVfeEsqkc7VcoP2fcUr5\n",
     "rewardName": "",
     "startTime": 1771995600,
@@ -238,6 +222,22 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GC7ebtYaN7"
+  },
+  {
+    "id": "GChQatYsrw",
+    "name": "JOIN dkarbon QUIZ Challenge⚡-  $100 USDT GASFREE",
+    "description": "**Join the final QUIZ of Inside Dkarbon · The Early Phase.**\n\n**The answers are based on our recent educational posts on X**. Read carefully and prove you truly understand the carbon economy and what we will do.\n\n$100 USDT will be distributed among selected participants. Think critically. Answer wisely. 🌍",
+    "rewardName": "",
+    "startTime": 1772100000,
+    "endTime": 1773259200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Dkarbon",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/dkarbon/GChQatYsrw"
   },
   {
     "id": "GC4AHtYsD8",
@@ -256,22 +256,6 @@
     "url": "https://app.galxe.com/quest/lync/GC4AHtYsD8"
   },
   {
-    "id": "GCXcbtYMnE",
-    "name": "Register & Invite — Win $2,000 USDT Up for Grabs",
-    "description": "**Register & Invite — $2,000 USDT Up for Grabs ** \n\nBring your friends. Build your edge. \n\nComplete FoxHole Mini App tasks and invite new users to unlock 2,000 USDT in rewards.  \n\n👉See the full mechanics here: https://paragraph.com/@forx/register-and-invite-%E2%80%94-2000-usdt-up-for-grab\n\n👉 Earn together in FoxHole Mini-App  https://t.me/forxhole_bot\n\n**Note: **Winners will be selected based on the FoxHole Mini-App, not Galxe.\n\n#ForX #ForXHybridDEX #FoxHole",
-    "rewardName": "USDT",
-    "startTime": 1771257600,
-    "endTime": 1772208000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "ForX-Finance",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/forx-finance/GCXcbtYMnE"
-  },
-  {
     "id": "GCPtbtYZAn",
     "name": "SURVEY MOMENTUM",
     "description": "#### A new Lunar Year carries the momentum. Complete the survey, join the celebration, and be part of what’s next.\n\nThis time around, a Survey. We want to understand you better, why you use Checkpoint what would make you feel more at home with the community and bring you into momentum. Answer 10 questions and get a chance to be rewarded.\n\n![1. Card Galxe LNY_1.webp](https://appeco.galxe.com/galxe/space/mdresource/84504/18463b32-ba35-4416-8573-ae90a3c852cc.webp)\n\nComplete the quest, join the celebration, and be part of what’s next.\n\nLearn more about [Checkpoint](https://docs.checkpoint.exchange) or check our [web app](https://checkpoint.exchange).\n\n---\n\n#### About CHECKPOINT MOMENTUM\n\n**Checkpoint Momentum** is a series of quests celebrating the Lunar New Year and our shared success.\n\nWith varying levels of difficulty, tasks, and entry requirements, there’s something for everyone to build momentum along the way.\n\n**Red Packet Raffles** 🧧 can be claimed on **February 28th** and are entirely gasless.\n\nEnjoy the celebrations  ♪(^∇^*)!",
@@ -286,22 +270,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/checkpoint/GCPtbtYZAn"
-  },
-  {
-    "id": "GCa1btYYxs",
-    "name": "🏆 DeriW Thursday: Points to Earn $100 USDT 🏆",
-    "description": "🏆 DeriW Thursday: Points to Earn $100 🏆\n\n🎆 DeriW Mainnet Week 28: Total Trading Volume Surpasses $28 Billion\n🧧 Happy Lunar New Year! Celebrating the Lunar New Year on DeriW. May the Year of the Horse bring you prosperity and profitable trades! 🐴✨\n\nAs we gallop into the Year of the Horse, join us for an exclusive Lunar New Year celebration and win your share of $100 USDT! 🧧\n\n⏰ Event Period: February 12, 4 PM - February 26, 4 PM (UTC+8)\n💰 Prize Pool: \n🥇 1st: $50 USDT\n🥈 2nd: $30 USDT\n🥉 3rd: $20 USDT\n\n🔗 SUPERNOVA+ campaign Details: https://www.deriw.com/supernova-mainnet-first-incentive-program\n\n🎯 How to Participate:\n• During the event, the three participants who earn the most DER+ points by participating in the SUPERNOVA+ campaign will receive a prize\n• Before the event ends, please post your participating wallet address to @deriwfinance and add the hashtag #DeriWFebruaryPointsToEarn\n\n⚠️Important Note:\n✔ Trade $50 = Earn 5 DER+ points\n✔ Invite friends = Earn 300% referral bonus points\n✔ Testnet users = Extra +20% bonus\n\n📝 Important Rules:\n• Must include required hashtag #DeriWFebruaryPointsToEarn\n• Rewards distributed within 10 working days after announcement\n\nWhy Trade on DeriW?\n✅ Zero funding rates\n✅ 0.01% ultra-low trading fees\n✅ Secure, transparent, and audited environment\n✅ Instant execution — no waiting for order matching\n\n💜 Join: @deriwfinance\n🔗 Trade: www.deriw.com\n\n#DeriWThursday #DeriWFebruaryPointsToEarn #ZeroGasFees\n\nDisclaimer:\n1️⃣ Please participate in the event via Telegram DeriW Group Chat @deriwfinance during the event period.\n2️⃣ The list of winners will be announced via Telegram DeriW Official Annoucements @deriwofficial.",
-    "rewardName": "100 USDT",
-    "startTime": 1770883200,
-    "endTime": 1772092800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Deriw Finance",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/deriw-finance/GCa1btYYxs"
   },
   {
     "id": "GCEautYJb7",
