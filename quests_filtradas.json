@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCmjBtYKWF",
-    "name": "Win 1 Fuglys NFT for free",
-    "description": "Boost our Discord Server and get rewarded",
-    "rewardName": "1 Fuglys NFT",
-    "startTime": 1770591600,
-    "endTime": 1772233200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Fuglys",
-      "isVerified": true
-    },
-    "score": 11,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/fuglys/GCmjBtYKWF"
-  },
-  {
     "id": "GCVCatYSgn",
     "name": "Doma Fresh Launch Hunter🎯",
     "description": "New domains are launching every day.\n\nEarly matters.\n\nThis quest is about getting in early on a fresh launch and actually participating.\n\nChoose one of the new domain launches below and build a small position.\n\nEligible launches (UTC):\n\nTokenBay.xyz — Feb 24, 2026 — 14:00 UTC\nstockclub.xyz — Feb 25, 2026 — 05:19 UTC\nTreasureMap.xyz — Feb 25, 2026 — 06:00 UTC\nCoinBig.xyz — Feb 25, 2026 — 14:00 UTC\nbestincrypto.com — Feb 26, 2026 — 06:00 UTC\nAssetCapital.xyz — Feb 26, 2026 — 14:00 UTC\ncryptopayment.xyz — Feb 27, 2026 — 06:00 UTC\nchainCode.xyz — Feb 27, 2026 — 14:00 UTC\ntrenchhero.com — Feb 28, 2026 — 06:00 UTC\ncheapram.io — Feb 28, 2026 — 14:00 UTC\nHyperchains.xyz — Mar 1, 2026 — 06:00 UTC\nthinkfactory.xyz — Mar 1, 2026 — 14:00 UTC\nSafeCapital.xyz — Mar 2, 2026 — 06:00 UTC",
@@ -48,22 +32,6 @@
     "url": "https://app.galxe.com/quest/yuliverse/GCAEbtYkJ1"
   },
   {
-    "id": "GCmABtYxcr",
-    "name": "Boost Us and Get Rewarded 🕯️",
-    "description": "Boost the Lumio Discord server and **unlock access to an exclusive LP Points raffle.**\nSupport the community, elevate your status as a true Luminary, and claim your chance to **win valuable rewards.**\n\n**Only boosters are eligible.** Power us up and let the rewards flow 🕯️",
-    "rewardName": "1000 LP",
-    "startTime": 1770591600,
-    "endTime": 1772233200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Lumio",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/lumio/GCmABtYxcr"
-  },
-  {
     "id": "GCLsPtYK4d",
     "name": "Final Push Before the Olympex Pass Launch",
     "description": "Launch is getting closer, and so is the launch of the Olympex Pass NFTs.\n\nThese Social Tasks are designed to reward the community that has been supporting Olympex early and helping keep the ecosystem active across our networks.\n\nOnce the Olympics Pass NFTs go live, holders will be able to start tracking on-chain and off-chain activity, unlocking eligibility for future rewards, including the Nectar airdrop, based on real participation.\n\nBy completing these tasks, you’re not just supporting the community.\nYou’re positioning yourself early, making sure your activity is visible before the next phase begins.\n\nIt only takes a minute.\nYour support now will matter later.",
@@ -78,6 +46,54 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCLsPtYK4d"
+  },
+  {
+    "id": "GCQNrtYxCN",
+    "name": "Claim your exclusive Galxe+ Mini",
+    "description": "Claim your exclusive Galxe+ Mini",
+    "rewardName": "a 2-month Galxe+ Mini",
+    "startTime": 1770048000,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Galxe",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/galxe/GCQNrtYxCN"
+  },
+  {
+    "id": "GCSVrtYkMG",
+    "name": "Claim your exclusive Galxe+ Mini",
+    "description": "Claim your exclusive Galxe+ Mini",
+    "rewardName": "a 3-month Galxe+ Mini",
+    "startTime": 1770048000,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Galxe",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/galxe/GCSVrtYkMG"
+  },
+  {
+    "id": "GCSMrtYkiT",
+    "name": "Claim your exclusive Galxe+ Premium",
+    "description": "Claim your exclusive Galxe+ Premium",
+    "rewardName": "a 3-month Galxe+ Premium",
+    "startTime": 1770048000,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Galxe",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/galxe/GCSMrtYkiT"
   },
   {
     "id": "GCnFatYnkC",
@@ -286,5 +302,21 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/gems-town/GCEautYJb7"
+  },
+  {
+    "id": "GCWSrtYg6b",
+    "name": "Galxe Pulse Community Survey Rewards",
+    "description": "Top contributors who participated in the Galxe Pulse Community Survey are eligible to receive Galxe+ Premium or Mini subscriptions.",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Galxe",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/galxe/GCWSrtYg6b"
   }
 ]
