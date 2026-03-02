@@ -32,22 +32,6 @@
     "url": "https://app.galxe.com/quest/yuliverse/GCAEbtYkJ1"
   },
   {
-    "id": "GCLsPtYK4d",
-    "name": "Final Push Before the Olympex Pass Launch",
-    "description": "Launch is getting closer, and so is the launch of the Olympex Pass NFTs.\n\nThese Social Tasks are designed to reward the community that has been supporting Olympex early and helping keep the ecosystem active across our networks.\n\nOnce the Olympics Pass NFTs go live, holders will be able to start tracking on-chain and off-chain activity, unlocking eligibility for future rewards, including the Nectar airdrop, based on real participation.\n\nBy completing these tasks, you’re not just supporting the community.\nYou’re positioning yourself early, making sure your activity is visible before the next phase begins.\n\nIt only takes a minute.\nYour support now will matter later.",
-    "rewardName": "NFT pass",
-    "startTime": 1771556400,
-    "endTime": 1772420400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCLsPtYK4d"
-  },
-  {
     "id": "GCQNrtYxCN",
     "name": "Claim your exclusive Galxe+ Mini",
     "description": "Claim your exclusive Galxe+ Mini",
@@ -112,9 +96,41 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCnFatYnkC"
   },
   {
+    "id": "GCi4stYPjQ",
+    "name": "ADREVA Extension Activation (Day 4)",
+    "description": "ADREVA is LIVE.\n\n105,000+ signups\n100+ advertisers\n$1,500 launch campaign\n\n→ Check out the new website\n→ Add the chrome extension and start earning\n→ Participate in the Leaderboard Competition (Mar 1–7)\n→ Complete the Galxe campaigns\n\nJoin the Ad Rebellion ⚔️\n\n--\n\nWe are inviting users to help us test and build Adreva during a 7-day Early Access Leaderboard Competition! Participants add the extension and earn points to climb a live leaderboard and complete Galxe quests for USDC, NFTs, and exclusive roles.\n\n## Prize Pool\n\n- **$1,500 — USDC**  \n- **$100 — Giftcards.com**  \n- **5 — Limited Edition NFTs**  \n- **2 — Early Access Discord Roles**\n\n## Daily Galxe Giveaways ($1,000 USDC)\n\n- Complete daily Galxe quests  \n- Winners selected randomly  \n- Galxe quests are separate from leaderboard ranking  \n\n## Leaderboard Competition ($500 USDC)\n\n- All points reset at **February 28 @ 11:59 PM EST**  \n- All points earned and awarded while using the Adreva browser extension during **March 1–7** count toward the Leaderboard Competition. \n\n**March 1 (00:00 EST) – March 7 (23:59 EST), 2026**\n \n\n### Earn points by:\n\n- Adding the **Adreva browser extension**  \n- Creating your account  \n- Selecting ad preferences  \n- Viewing & engaging with ads  \n- Maintaining daily streaks  \n- Earning Achievements  \n- Completing Galxe quests  \n- Referring users  \n- Submitting bugs/feedback  \n\nPoints update on the Leaderboard in real time.\n\n**Final standings locked:** March 7 — 23:59 EST  \n\n- The **Top 1000 participants** receive a limited edition Adreva “Proof of Attention” NFT  \n- The **Top 15 participants** win additional USDC, gift cards, and other prizes  \n\n---\n\nFull Terms and Privacy Policy can be found at **adreva.ai**.",
+    "rewardName": "",
+    "startTime": 1772341200,
+    "endTime": 1772946000,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCi4stYPjQ"
+  },
+  {
+    "id": "GCu8stYuYS",
+    "name": "50 USD Raffle",
+    "description": "Like, RT and Comment on the following post\nhttps://x.com/KGeN_IO/status/2026313527011705188\n\n10 random winners will be selected.\n",
+    "rewardName": "10 USD for 10 winners",
+    "startTime": 1772323200,
+    "endTime": 1773446400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "IndiGG",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/indigg/GCu8stYuYS"
+  },
+  {
     "id": "GCeGstYG2J",
     "name": "ADREVA Leaderboard Competition Launch (Day 3)",
-    "description": "We are inviting users to help us test and build Adreva during a 7-day Early Access Leaderboard Competition! Participants add the extension and earn points to climb a live leaderboard and complete Galxe quests for USDC, NFTs, and exclusive roles.\n\n---\n\n## Prize Pool\n\n- **$1,500 — USDC**  \n- **$100 — Giftcards.com**  \n- **5 — Limited Edition NFTs**  \n- **2 — Early Access Discord Roles**\n\n---\n\n## Daily Galxe Giveaways ($1,000 USDC)\n\n- Complete daily Galxe quests  \n- Winners selected randomly  \n- Galxe quests are separate from leaderboard ranking  \n\n---\n\n## Leaderboard Competition ($500 USDC)\n\n- All points reset at **February 28 @ 11:59 PM EST**  \n- All points earned and awarded while using the Adreva browser extension during **March 1–7** count toward the Leaderboard Competition. \n\n**March 1 (00:00 EST) – March 7 (23:59 EST), 2026**\n \n\n### Earn points by:\n\n- Adding the **Adreva browser extension**  \n- Creating your account  \n- Selecting ad preferences  \n- Viewing & engaging with ads  \n- Maintaining daily streaks  \n- Earning Achievements  \n- Completing Galxe quests  \n- Referring users  \n- Submitting bugs/feedback  \n\nPoints update on the Leaderboard in real time.\n\n**Final standings locked:** March 7 — 23:59 EST  \n\n- The **Top 1000 participants** receive a limited edition Adreva “Proof of Attention” NFT  \n- The **Top 15 participants** win additional USDC, gift cards, and other prizes  \n\n---\n\nFull Terms and Privacy Policy can be found at **adreva.ai**.",
+    "description": "We are inviting users to help us test and build Adreva during a 7-day Early Access Leaderboard Competition! Participants add the extension and earn points to climb a live leaderboard and complete Galxe quests for USDC, NFTs, and exclusive roles.\n\n## Prize Pool\n\n- **$1,500 — USDC**  \n- **$100 — Giftcards.com**  \n- **5 — Limited Edition NFTs**  \n- **2 — Early Access Discord Roles**\n\n## Daily Galxe Giveaways ($1,000 USDC)\n\n- Complete daily Galxe quests  \n- Winners selected randomly  \n- Galxe quests are separate from leaderboard ranking  \n\n## Leaderboard Competition ($500 USDC)\n\n- All points reset at **February 28 @ 11:59 PM EST**  \n- All points earned and awarded while using the Adreva browser extension during **March 1–7** count toward the Leaderboard Competition. \n\n**March 1 (00:00 EST) – March 7 (23:59 EST), 2026**\n \n\n### Earn points by:\n\n- Adding the **Adreva browser extension**  \n- Creating your account  \n- Selecting ad preferences  \n- Viewing & engaging with ads  \n- Maintaining daily streaks  \n- Earning Achievements  \n- Completing Galxe quests  \n- Referring users  \n- Submitting bugs/feedback  \n\nPoints update on the Leaderboard in real time.\n\n**Final standings locked:** March 7 — 23:59 EST  \n\n- The **Top 1000 participants** receive a limited edition Adreva “Proof of Attention” NFT  \n- The **Top 15 participants** win additional USDC, gift cards, and other prizes  \n\nFull Terms and Privacy Policy can be found at **adreva.ai**.",
     "rewardName": "",
     "startTime": 1772254800,
     "endTime": 1772946000,
@@ -176,22 +192,6 @@
     "url": "https://app.galxe.com/quest/adreva/GCuePtYjn6"
   },
   {
-    "id": "GCMNHtY3Gm",
-    "name": "Final Chance to Secure Your Whitelist Spot",
-    "description": "2026 is coming with major announcements, new launches, and everything the community has been waiting for.\n\nThese are the final moments to get your name on the list, show your support, and secure your place as an early member of the Olympex community. Early followers and active participants will be taken into account and rewarded as the ecosystem continues to grow.\n\nThat’s why we’re launching these final Social Tasks. They’re designed to encourage participation, help you join our Telegram community, and make sure your activity is visible.\n\nIt only takes one minute to complete the tasks, drop a like, and participate, but doing so gives you a real chance to unlock future rewards, benefits, and early access opportunities.\n\nEarly matters.\nAnd this is your moment to be part of what comes next.",
-    "rewardName": "Final Chance to Secure Your NFT",
-    "startTime": 1771383600,
-    "endTime": 1772420400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCMNHtY3Gm"
-  },
-  {
     "id": "GCqGstYv9V",
     "name": "ADREVA Early Access Discord Role",
     "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nJoin the Ad Rebellion and discover how ADREVA is reshaping advertising with privacy-first, zero-knowledge technology.\n\n* Complete the tasks\n* Claim the Discord role\n* Earn bonus points towards the Leaderboard Competition (March 1-7)\n\nVisit and follow our space for more early access quests and USDC giveaways!\n\nhttps://app.galxe.com/quest/ADREVA\n",
@@ -238,6 +238,22 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/deriw-finance/GCsSstYNVi"
+  },
+  {
+    "id": "GCwgatYqy9",
+    "name": "Daily Quest + Verification!",
+    "description": "Finish recurring quests, collect discord roles, secure your points, and claim your limited badges!",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "ForU AI",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/foru-ai/GCwgatYqy9"
   },
   {
     "id": "GC7ebtYaN7",
@@ -318,21 +334,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/galxe/GCWSrtYg6b"
-  },
-  {
-    "id": "GC1hRtY55F",
-    "name": "👋 Welcome to Bitcoin Light app!",
-    "description": "Become an early adopter of the ecosystem and earn an exclusive Discord role as an early adopter! 😉",
-    "rewardName": "",
-    "startTime": 1769641200,
-    "endTime": 1774908000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Bitcoin Light",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/bitcoin-light/GC1hRtY55F"
   }
 ]
