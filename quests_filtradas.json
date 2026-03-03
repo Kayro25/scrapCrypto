@@ -64,22 +64,6 @@
     "url": "https://app.galxe.com/quest/galxe/GCSVrtYkMG"
   },
   {
-    "id": "GCSMrtYkiT",
-    "name": "Claim your exclusive Galxe+ Premium",
-    "description": "Claim your exclusive Galxe+ Premium",
-    "rewardName": "a 3-month Galxe+ Premium",
-    "startTime": 1770048000,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Galxe",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/galxe/GCSMrtYkiT"
-  },
-  {
     "id": "GCnFatYnkC",
     "name": "Complete quests to earn",
     "description": "We share different ways to win in Web3.\nEven when the market drops and prices fall, there are always opportunities to earn, and social tasks are one of them.\n\nAt Olympex, community support truly matters, especially during volatile moments.\nWith the upcoming launch of the Olympex Pass, the users who stay active, engaged, and present will be the ones most taken into account when rewards are distributed.\n\nSupporting the ecosystem early is part of the journey.",
@@ -190,6 +174,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCuePtYjn6"
+  },
+  {
+    "id": "GCxb9tYih8",
+    "name": "ADREVA \"Proof of Attention\" OAT",
+    "description": "Adreva \"Proof of Attention\" OAT is a limited on-chain achievement token that verifies you participated in Adreva’s Early Access Campaign.\n\n## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nDiscover how ADREVA is reshaping advertising with privacy-first, zero-knowledge technology.\n\n* Learn and complete the quizzes\n* Mint the ADREVA \"Proof of Attention” NFT\n* Claim the Discord role\n* Earn bonus points towards the Leaderboard Competition (March 1-7)\n\nVisit and follow our space for more early access quests and USDC giveaways!\n\nhttps://dashboard.galxe.com/fXXVfeEsqkc7VcoP2fcUr5\n",
+    "rewardName": "",
+    "startTime": 1772427600,
+    "endTime": 1772946000,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCxb9tYih8"
   },
   {
     "id": "GCqGstYv9V",
@@ -318,21 +318,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/gems-town/GCEautYJb7"
-  },
-  {
-    "id": "GCWSrtYg6b",
-    "name": "Galxe Pulse Community Survey Rewards",
-    "description": "Top contributors who participated in the Galxe Pulse Community Survey are eligible to receive Galxe+ Premium or Mini subscriptions.",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Galxe",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/galxe/GCWSrtYg6b"
   }
 ]
