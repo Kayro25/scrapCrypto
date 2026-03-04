@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCVCatYSgn",
-    "name": "Doma Fresh Launch Hunter🎯",
-    "description": "New domains are launching every day.\n\nEarly matters.\n\nThis quest is about getting in early on a fresh launch and actually participating.\n\nChoose one of the new domain launches below and build a small position.\n\nEligible launches (UTC):\n\nTokenBay.xyz — Feb 24, 2026 — 14:00 UTC\nstockclub.xyz — Feb 25, 2026 — 05:19 UTC\nTreasureMap.xyz — Feb 25, 2026 — 06:00 UTC\nCoinBig.xyz — Feb 25, 2026 — 14:00 UTC\nbestincrypto.com — Feb 26, 2026 — 06:00 UTC\nAssetCapital.xyz — Feb 26, 2026 — 14:00 UTC\ncryptopayment.xyz — Feb 27, 2026 — 06:00 UTC\nchainCode.xyz — Feb 27, 2026 — 14:00 UTC\ntrenchhero.com — Feb 28, 2026 — 06:00 UTC\ncheapram.io — Feb 28, 2026 — 14:00 UTC\nHyperchains.xyz — Mar 1, 2026 — 06:00 UTC\nthinkfactory.xyz — Mar 1, 2026 — 14:00 UTC\nSafeCapital.xyz — Mar 2, 2026 — 06:00 UTC",
-    "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1771941600,
-    "endTime": 1772546400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCVCatYSgn"
-  },
-  {
     "id": "GCAEbtYkJ1",
     "name": "Join NewCoin Community!",
     "description": "Hop into NewCoin's Telegram and Discord now!\n\nEverything is still early in NewCoin. Anticipate OG Roles (with exclusive perks and airdrops) and frequent giveaways in the community for growth hack. You will be a part of something big brewing\n\n\nNewCoin description:\nNewCoin is a premier global digital asset trading platform. We are dedicated to providing users worldwide with a trading experience that is simple, fast, secure, and efficient.",
@@ -32,36 +16,20 @@
     "url": "https://app.galxe.com/quest/yuliverse/GCAEbtYkJ1"
   },
   {
-    "id": "GCQNrtYxCN",
-    "name": "Claim your exclusive Galxe+ Mini",
-    "description": "Claim your exclusive Galxe+ Mini",
-    "rewardName": "a 2-month Galxe+ Mini",
-    "startTime": 1770048000,
-    "endTime": null,
+    "id": "GCwS9tY3Q8",
+    "name": "Proof of Friends",
+    "description": "This quest is about bringing new real users to Doma.\n\nTo qualify, you must refer 5 NEW friends using your Doma referral link during the quest period.\n\nEach referred wallet must do BOTH:\n\n1. Trade at least $10 total volume on Doma\n2. Hold at least 2 USDC in their wallet until the quest ends\n\nCredentials update daily around 2:00 PM UTC.\nFinal update runs 1 hour before the quest ends.",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1772542800,
+    "endTime": 1773147600,
     "chain": "ETHEREUM",
     "space": {
-      "name": "Galxe",
+      "name": "D3",
       "isVerified": true
     },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/galxe/GCQNrtYxCN"
-  },
-  {
-    "id": "GCSVrtYkMG",
-    "name": "Claim your exclusive Galxe+ Mini",
-    "description": "Claim your exclusive Galxe+ Mini",
-    "rewardName": "a 3-month Galxe+ Mini",
-    "startTime": 1770048000,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Galxe",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/galxe/GCSVrtYkMG"
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCwS9tY3Q8"
   },
   {
     "id": "GCnFatYnkC",
@@ -78,6 +46,22 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCnFatYnkC"
+  },
+  {
+    "id": "GCFdFtYNdS",
+    "name": "Upload your Apple Health data & Grab 20,000 $DATA Points!",
+    "description": "**Download and share your anonymized Apple Health data to earn more $DATA points.**\r\n\r\nDescription:\r\n1. Open the Health app on your iOS device.\r\n2. Tap your picture or initials in the top-right corner.\r\n3. Scroll down and tap Export All Health Data.\r\n4. Email or AirDrop the Health Data file to your computer.\r\n5. Upload the .zip archive on this page using the  Upload Health Data button, then click Verify. \r\n6.  After your Health Data is verified, you will receive your $DATA points.",
+    "rewardName": "",
+    "startTime": 1772485200,
+    "endTime": 1775163600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "DataHive AI",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/datahive-ai/GCFdFtYNdS"
   },
   {
     "id": "GCi4stYPjQ",
@@ -174,6 +158,70 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCuePtYjn6"
+  },
+  {
+    "id": "GCP5FtYj5Z",
+    "name": "Upload your Amazon Orders data & Grab 15,000 $DATA Points!",
+    "description": "**Download and share your anonymized Amazon order data to earn more $DATA points.**\n\nDescription\n1. Make sure your DataHive AI extension is online.\n2. Go to https://www.amazon.com and sign in to your Amazon account.\n3. Scroll down to the Manage Your Data section and click Request your data.\n\n![SCR-20260217-nhlk.png](https://appeco.galxe.com/galxe/space/mdresource/84181/09d5ed32-cdbf-4c82-82b8-9bbc3ba5ea0c.png)\n4. On the Request your data page, click Submit Request for Your Orders.\n\n![SCR-20260217-nilw.png](https://appeco.galxe.com/galxe/space/mdresource/84181/4890740a-0e78-474e-930e-69b9ab490d39.png)\n5. You will receive an email with the subject Your Data Request Confirmation. Click the Confirm Data Request button in the email.\n\n![SCR-20260217-njju.png](https://appeco.galxe.com/galxe/space/mdresource/84181/5ff65383-a01b-4913-b867-0b5e5c0fc3dd.png)\n6. Within a few days, you will receive another email with your Amazon data archive. Upload it on this screen using the Upload Amazon Data button, then click Verify.\n7. After we verify your Amazon data, you will receive your $DATA points.",
+    "rewardName": "",
+    "startTime": 1772485200,
+    "endTime": 1775163600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "DataHive AI",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/datahive-ai/GCP5FtYj5Z"
+  },
+  {
+    "id": "GC2CFtYyxJ",
+    "name": "Connect Amazon & Grab 500 $DATA Points!",
+    "description": "Boost your ranking and secure your spot in the upcoming airdrop! By connecting your Amazon account to the DataHive AI dashboard, you will instantly unlock a 500 $DATA points boost. Your contribution helps us crawl high-quality product data, and in return, you earn a direct stake in our ecosystem rewards.\n\nStep-by-Step Guide:\n1. Stay Active: Ensure your DataHive AI extension is installed and online.\n2. Connect: Go to Amazon.com and log in to your account.\n3. Sync: Once logged in, the extension will verify your session.\n4. Claim: Return to this Galxe page to verify the task and collect your 500 points!",
+    "rewardName": "",
+    "startTime": 1772485200,
+    "endTime": 1775163600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "DataHive AI",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/datahive-ai/GC2CFtYyxJ"
+  },
+  {
+    "id": "GCPFFtY7CV",
+    "name": "Start DataHive AI Missions & Claim Your Points Now!",
+    "description": "By sharing anonymized data, you're not just earning points - you're contributing to more accurate, globally representative AI models. Privacy-first, always. Join Hive!",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "DataHive AI",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/datahive-ai/GCPFFtY7CV"
+  },
+  {
+    "id": "GCTm9tYLn4",
+    "name": "🎁Airdrop｜Merlody Early Bird Badge Event🎁",
+    "description": "We’re excited to announce our limited Early Bird Badge campaign! 🪶\nComplete the tasks below to claim your exclusive badge for free!\n\n📅 Event Duration: 5 days (UTC time)\n🏅 Reward: Melody Early Bird Badge (limited supply)\n\n📋 How to Participate:\n1️⃣ Follow @MelodyAssets\n2️⃣ Join our Discord\n\n⏰ Limited quantity — first come, first served!\nJoin the Music RWA revolution and earn your Early Bird honor! 🎵",
+    "rewardName": "Early Bird Badge ",
+    "startTime": 1772528400,
+    "endTime": 1772899200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Melody ",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/melody/GCTm9tYLn4"
   },
   {
     "id": "GCxb9tYih8",
