@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCLxFtY8Ue",
+    "name": "20,000 USDT GemW March On-Chain Airdrop",
+    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus. \n\nRewards will be distributed based on your UID within 10 business days after the event ends.\n\n🎉GemW March On-Chain Airdrop is LIVE 🎉\n\n1️⃣ Trading Check-in – Share 15,000 USDT\nThe more consecutive trading days, the bigger your reward!\n\n2️⃣ Trading Challenge – Earn 10 USDT\n✅ 7 consecutive days = 5 USDT\n✅ 15 consecutive days = 10 USDT\n\n3️⃣ Invite New Users – Earn up to 50 USDT\nEarn 3 USDT for each new user you invite who joins and participates!\n![en.png](https://appeco.galxe.com/galxe/space/mdresource/84010/dd8d019b-4c03-4941-a3cc-b46d0d04d6b0.png)",
+    "rewardName": "10 USDT Futures Bonus",
+    "startTime": 1772640000,
+    "endTime": 1774972799,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "GemW",
+      "isVerified": true
+    },
+    "score": 11,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/gemw/GCLxFtY8Ue"
+  },
+  {
     "id": "GCAEbtYkJ1",
     "name": "Join NewCoin Community!",
     "description": "Hop into NewCoin's Telegram and Discord now!\n\nEverything is still early in NewCoin. Anticipate OG Roles (with exclusive perks and airdrops) and frequent giveaways in the community for growth hack. You will be a part of something big brewing\n\n\nNewCoin description:\nNewCoin is a premier global digital asset trading platform. We are dedicated to providing users worldwide with a trading experience that is simple, fast, secure, and efficient.",
@@ -46,6 +62,22 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCnFatYnkC"
+  },
+  {
+    "id": "GCA3FtY8ra",
+    "name": "RivrDEX is celebrating 50,000 transactions on testnet.",
+    "description": "***It took you exactly 1 month to make 2.5x more transactions while testing our DEX than in the previous month.***\n\nAs of now, more than **50,000** transactions have been completed.\n\nLet’s once again remember which actions you performed most often:\n🔹More than **37,000** swaps were made.\n🔹You added liquidity to pools more than **11,500** times.\n🔹You removed liquidity from pools more than **1,900** times.\n\nThank you all for helping with the testing, and especially for the feedback you continue to leave.\n\nTo celebrate this event, we decided to launch a special quest on Galxe.\n\nThis quest isn’t an easy one, because we created a special quiz that only true experts will be able to complete.\n\nWhat about the rewards?\n🔹Galxe points that determine your place on the leaderboard.\n🔹100 $USDT that will be distributed through a raffle among several lucky winners.\n\nDuration?\n🔹Starts today\n🔹Deadline - March 31 at 12:00 AM\n\nJoin the quest and do your best to get the highest place possible on the leaderboard.\n",
+    "rewardName": "",
+    "startTime": 1772575200,
+    "endTime": 1774904400,
+    "chain": "BSC",
+    "space": {
+      "name": "RivrDEX",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/rivrdex/GCA3FtY8ra"
   },
   {
     "id": "GCFdFtYNdS",
@@ -241,11 +273,11 @@
   },
   {
     "id": "GCqGstYv9V",
-    "name": "ADREVA Early Access Discord Role",
+    "name": "ADREVA \"Ad Warrior\" Discord Role",
     "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nJoin the Ad Rebellion and discover how ADREVA is reshaping advertising with privacy-first, zero-knowledge technology.\n\n* Complete the tasks\n* Claim the Discord role\n* Earn bonus points towards the Leaderboard Competition (March 1-7)\n\nVisit and follow our space for more early access quests and USDC giveaways!\n\nhttps://app.galxe.com/quest/ADREVA\n",
     "rewardName": "",
     "startTime": 1772082000,
-    "endTime": 1772946000,
+    "endTime": null,
     "chain": "ETHEREUM",
     "space": {
       "name": "ADREVA",
@@ -305,7 +337,7 @@
   },
   {
     "id": "GC7ebtYaN7",
-    "name": "ADREVA Early Access NFT",
+    "name": "ADREVA \"Ad Warrior\" NFT",
     "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nDiscover how ADREVA is reshaping advertising with privacy-first, zero-knowledge technology.\n\n* Learn and complete the quizzes\n* Mint the ADREVA \"Proof of Attention” NFT\n* Claim the Discord role\n* Earn bonus points towards the Leaderboard Competition (March 1-7)\n\nVisit and follow our space for more early access quests and USDC giveaways!\n\nhttps://dashboard.galxe.com/fXXVfeEsqkc7VcoP2fcUr5\n",
     "rewardName": "",
     "startTime": 1771995600,
