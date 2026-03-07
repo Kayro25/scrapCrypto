@@ -16,22 +16,6 @@
     "url": "https://app.galxe.com/quest/gemw/GCLxFtY8Ue"
   },
   {
-    "id": "GCAEbtYkJ1",
-    "name": "Join NewCoin Community!",
-    "description": "Hop into NewCoin's Telegram and Discord now!\n\nEverything is still early in NewCoin. Anticipate OG Roles (with exclusive perks and airdrops) and frequent giveaways in the community for growth hack. You will be a part of something big brewing\n\n\nNewCoin description:\nNewCoin is a premier global digital asset trading platform. We are dedicated to providing users worldwide with a trading experience that is simple, fast, secure, and efficient.",
-    "rewardName": "OG ROLE in NewCoin Discord",
-    "startTime": 1770912000,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Yuliverse",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/yuliverse/GCAEbtYkJ1"
-  },
-  {
     "id": "GCwS9tY3Q8",
     "name": "Proof of Friends",
     "description": "This quest is about bringing new real users to Doma.\n\nTo qualify, you must refer 5 NEW friends using your Doma referral link during the quest period.\n\nEach referred wallet must do BOTH:\n\n1. Trade at least $10 total volume on Doma\n2. Hold at least 2 USDC in their wallet until the quest ends\n\nCredentials update daily around 2:00 PM UTC.\nFinal update runs 1 hour before the quest ends.",
@@ -46,22 +30,6 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/d3/GCwS9tY3Q8"
-  },
-  {
-    "id": "GCnFatYnkC",
-    "name": "Complete quests to earn",
-    "description": "We share different ways to win in Web3.\nEven when the market drops and prices fall, there are always opportunities to earn, and social tasks are one of them.\n\nAt Olympex, community support truly matters, especially during volatile moments.\nWith the upcoming launch of the Olympex Pass, the users who stay active, engaged, and present will be the ones most taken into account when rewards are distributed.\n\nSupporting the ecosystem early is part of the journey.",
-    "rewardName": "NFT Olympex pass",
-    "startTime": 1771902000,
-    "endTime": 1772852400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCnFatYnkC"
   },
   {
     "id": "GCA3FtY8ra",
@@ -190,6 +158,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCuePtYjn6"
+  },
+  {
+    "id": "GCNr2tYkwu",
+    "name": "ADREVA Early Access $1,000 USDC (Day 5)",
+    "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nJoin the Ad Rebellion and discover how ADREVA is reshaping advertising with privacy-first, zero-knowledge technology.\n\n* Complete the tasks\n* Claim the Discord role\n* Earn bonus points towards the Leaderboard Competition (March 1-7)\n\nVisit and follow our space for more early access quests and USDC giveaways!\n\nhttps://app.galxe.com/quest/ADREVA\n",
+    "rewardName": "",
+    "startTime": 1772773200,
+    "endTime": 1773547200,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCNr2tYkwu"
   },
   {
     "id": "GCboFtYrP2",
@@ -414,21 +398,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/lync/GC4AHtYsD8"
-  },
-  {
-    "id": "GCEautYJb7",
-    "name": "CLAIM 50 $GEMS & WIN USDC",
-    "description": "Get a 50 GEMS Airdrop to jumpstart your competitive crypto gaming! Engage in games of skill against live opponents and earn valuable crypto rewards for your wins! ",
-    "rewardName": "GEMS",
-    "startTime": 1770570000,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Gems.Town",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/gems-town/GCEautYJb7"
   }
 ]
