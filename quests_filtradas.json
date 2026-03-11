@@ -32,6 +32,22 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCZyLtY8Wr"
   },
   {
+    "id": "GCYqLtYYFt",
+    "name": "Doma Pool Party",
+    "description": "Liquidity keeps the markets moving.\n\nEasier quest for you all this week!\n\nAdd liquidity to any pool on Doma.\n\nYour position must include 5 USDC.e or more.\n\nThe liquidity can be added at any time (before or during the quest), but it must stay in range until the quest ends.\n\nCredentials update daily around 2:00 PM UTC.\nFinal update runs 1 hour before the quest ends.",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1773151200,
+    "endTime": 1773756000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCYqLtYYFt"
+  },
+  {
     "id": "GCZuLtY6cE",
     "name": "Troyvest Whitelist Competition",
     "description": "Welcome to Troyvest x Kommunitas Whitelist Competition! 💥\n\nSale Starts : March  18th, 2026. 9 AM UTC\nlaunchpad\n\n💰 Increase your chances of getting whitelisted allocation by completing ALL of the actions below. Good luck to all of you!\n\nNB: if you win into one of Troyvest whitelist spot, we will inform on our Discord Channel and Telegram 24 hours before the sale, make sure you check it out!\n\n➡️ Next step for whitelist winners to participate\n: ✅ Head on to launchpad during preparation period to check your allocation\n✅ Prepare your USDT (Polygon) | USDT (BSC) | USDT (ARB)\n✅ Connect your wallet and buy your allocation on Booster 1 round only! at launchpad, 09:00 AM UTC. Booster 1 ends at 05:00 PM UTC\n\nNeed guidance on participating?\nClick here for a tutorial.\n\n🗓 All Calendar:\nhttps://linktr.ee/kommunitas1\nand\nhttps://calendar.kommunitas.net/ ",
@@ -46,22 +62,6 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/kommunitas-net/GCZuLtY6cE"
-  },
-  {
-    "id": "GCwS9tY3Q8",
-    "name": "Proof of Friends",
-    "description": "This quest is about bringing new real users to Doma.\n\nTo qualify, you must refer 5 NEW friends using your Doma referral link during the quest period.\n\nEach referred wallet must do BOTH:\n\n1. Trade at least $10 total volume on Doma\n2. Hold at least 2 USDC in their wallet until the quest ends\n\nCredentials update daily around 2:00 PM UTC.\nFinal update runs 1 hour before the quest ends.",
-    "rewardName": "100 Season 0 Leaderboard Points",
-    "startTime": 1772542800,
-    "endTime": 1773147600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCwS9tY3Q8"
   },
   {
     "id": "GCgi9tYPKc",
@@ -192,8 +192,24 @@
     "url": "https://app.galxe.com/quest/adrena/GC9estYyuc"
   },
   {
+    "id": "GCQ1LtYkCf",
+    "name": "Blockopedia $100 USDT News Quiz Raffle",
+    "description": "Stay updated with the biggest stories shaping crypto, DeFi, and AI.\n\nVisit the featured Blockopedia article, read the update, and answer 3 questions based on the story.\n\nParticipants who complete the quest will be entered into a $100 USDT raffle, with winners selected at the end of the campaign.",
+    "rewardName": "Blockopedia $100 USDT Raffle",
+    "startTime": 1773097200,
+    "endTime": 1775775600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Blockopedia",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/blockopedia/GCQ1LtYkCf"
+  },
+  {
     "id": "GCHYAtYuG4",
-    "name": "ADREVA Early Access Week #2",
+    "name": "ADREVA Early Access",
     "description": "",
     "rewardName": "",
     "startTime": null,
@@ -241,7 +257,7 @@
   },
   {
     "id": "GCboFtYrP2",
-    "name": "ADREVA Week #2 Creative Competition Prize Claim",
+    "name": "ADREVA Creative Prize Claim",
     "description": "A quest for Week 1 Creative Competition Grand Prize Winners to claim their USDC Reward!\n\nhttps://app.galxe.com/quest/ADREVA/GCbnFtYrYM\n\nYou must have one of the following Discord roles to claim your prize!\n\n#### Ad Architect\n#### Sticker Master\n#### Memelord\n\n### **ALL PRIZES MUST BE CLAIMED BY MARCH 21, 00:00:00 UTC**\n\n---\n\nAdreva is launching three (3) weekly community competitions to reward creativity and help grow the ecosystem.\n\nParticipants create content on X (Twitter), submit their entry through Galxe, and compete for prizes and special community roles.\n\n---\n\n### How it works:\n\n\n* Create your content and post it on X tagging @Adreva_Network\n\n* Submit the X link through this Galxe quest\n\n* The Adreva team reviews all submissions and selects the Top 10\n\n* Top entries are posted in Discord & Telegram for community voting\n\n* Winners are determined by community polls\n---\n\n\n### Weekly Competitions\n\n\n\n#### Ad Architect\nCreate ads, explainers, or educational content about Adreva.\n\n\n#### Sticker Master\nDesign an original Adreva-themed sticker.\n\n\n#### Memelord\nCreate an original Adreva meme.\n\n---\nEach competition awards one Grand Prize winner, plus recognition for runners-up.\n\nGrand Prize (per competition):\n* $25 USDC\n* Special Discord role\n* 5 Loyalty Points Mystery Boxes\n* Featured on Adreva social channels\n\nGrand prize USDC will be distributed via another Galxe Quest using Discord roles for verification.\n\nSecond and third place winners receive **3 Loyalty Points Mystery Boxes and community recognition**.\n\n\n### **ALL PRIZES MUST BE CLAIMED BY MARCH 21, 00:00:00 UTC**\n\n\nStay creative and help build the future of privacy-first advertising with Adreva. 🚀#### Sticker Master#### Sticker Master#### Ad Architect",
     "rewardName": "",
     "startTime": 1772686800,
