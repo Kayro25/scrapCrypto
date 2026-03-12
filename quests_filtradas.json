@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCYiLtYZXv",
+    "name": "Launch Campaign Raffle: 50 winners",
+    "description": "On 11/03, the raffle begins!\n**50 winners** will collect rewards.\n\n1st: $700 → 233,333 EHX\n2nd: $350 → 116,667 EHX\n3rd: $200 → 66,667 EHX\n4th–10th: $50 → 16,667 EHX (each)\n11th–50th: $10 → 3,333 EHX (each)\n\nAll rewards are paid in Eterna's EHX token.\n\n**Disclaimer:**\n50 winners will be selected through the raffle mechanism. The final reward ranking will be determined by the time each winner joined the raffle, with earlier entries receiving higher-ranked rewards.\n\nEHX rewards will be distributed no later than 18/03/2026.",
+    "rewardName": "Eterna EHX Token",
+    "startTime": 1773162000,
+    "endTime": 1773766800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Eterna Lite",
+      "isVerified": true
+    },
+    "score": 11,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/eterna-lite/GCYiLtYZXv"
+  },
+  {
     "id": "GCLxFtY8Ue",
     "name": "20,000 USDT GemW March On-Chain Airdrop",
     "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus. \n\nRewards will be distributed based on your UID within 10 business days after the event ends.\n\n🎉GemW March On-Chain Airdrop is LIVE 🎉\n\n1️⃣ Trading Check-in – Share 15,000 USDT\nThe more consecutive trading days, the bigger your reward!\n\n2️⃣ Trading Challenge – Earn 10 USDT\n✅ 7 consecutive days = 5 USDT\n✅ 15 consecutive days = 10 USDT\n\n3️⃣ Invite New Users – Earn up to 50 USDT\nEarn 3 USDT for each new user you invite who joins and participates!\n![en.png](https://appeco.galxe.com/galxe/space/mdresource/84010/dd8d019b-4c03-4941-a3cc-b46d0d04d6b0.png)",
@@ -16,6 +32,38 @@
     "url": "https://app.galxe.com/quest/gemw/GCLxFtY8Ue"
   },
   {
+    "id": "GCNWLtYx2G",
+    "name": "Mission 3 % : Passe à l’action",
+    "description": "Tu arrives à la dernière étape de la Mission 3 %.\n\nDécouvre les opportunités disponibles sur Bybit EU et complète les actions suivantes pour finaliser la mission.\n\nÉtapes à suivre pour les nouveaux utilisateurs :\n\n- Visite la page de la campagne 3 % sur Bybit EU\n(tu dois être connecté à ton compte pour y accéder)\n\n- Dépose au moins 100 € sur la plateforme via Apple Pay ou Google Pay ou CB classique, ou en crypto. Tu débloqueras 40 € de bonus.  \n\n- Dépose tes EURC sur la pool EURC à 20 % de rendement pendant 7 jours via Bybit Earn.  Seuls les nouveaux utilisateurs Bybit EU peuvent souscrire à cette pool. \n\nAfin de rester éligible au tirage au sort pour une part des 2 500 € en BTC, conserve tes fonds sur Bybit EU jusqu’au 31 mars.\n\nUne fois ces étapes complétées, tu auras terminé toutes les quests de la mission et pourras participer au tirage au sort.\n\nNote importante : Un UID te sera demandé pour ces quêtes. Voici comment le retrouver sur ton compte : \n\nSi tu es sur ton ordinateur, il se trouve en haut à droite de l'écran : \n\n![UID Desktop.png](https://appeco.galxe.com/galxe/space/mdresource/85554/942b39a0-f487-42fe-8ad7-7d517ec54333.png)\n\nSi tu es sur l'app Bybit EU, l'UID se trouve à côté de ton avatar : \n\n![UID APP.jpg](https://appeco.galxe.com/galxe/space/mdresource/85554/69b9bb9f-2286-4ff9-b16f-04173e5eb75b.jpeg)",
+    "rewardName": "40 € en BTC ",
+    "startTime": 1773241200,
+    "endTime": 1774994399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bybit EU | France",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bybit-eu-france/GCNWLtYx2G"
+  },
+  {
+    "id": "GCQsLtYvvb",
+    "name": "Mission Inscription & Vérification",
+    "description": "Rejoins l’écosystème Bybit EU et franchis une nouvelle étape de la mission.\n\nPour valider cette quête :\n\n- Crée ton compte sur Bybit EU\n\n- Complète la vérification d’identité sur la plateforme\n\nUne fois ta vérification d’identité validée, tu débloqueras également un bonus de 5 € en BTC sur ton compte.\n\nLa création de ton compte te permettra aussi d’accéder aux campagnes en cours sur Bybit EU, notamment :\n\n- 3 % d’APY sur tes dépôts\n\n- 20 % d’APR sur l’EURC via Bybit Earn\n\nContinue les prochaines quêtes pour te rapprocher du tirage au sort et tenter de remporter une part des 2 500 € en BTC.\n\nNote importante : Un UID te sera demandé pour ces quêtes. Voici comment le retrouver sur ton compte : \n\nSi tu es sur ton ordinateur, il se trouve en haut à droite de l'écran : \n\n![UID Desktop.png](https://appeco.galxe.com/galxe/space/mdresource/85554/942b39a0-f487-42fe-8ad7-7d517ec54333.png)\n\nSi tu es sur l'app Bybit EU, l'UID se trouve à côté de ton avatar : \n\n![UID APP.jpg](https://appeco.galxe.com/galxe/space/mdresource/85554/69b9bb9f-2286-4ff9-b16f-04173e5eb75b.jpeg)",
+    "rewardName": "5 € en BTC ",
+    "startTime": 1773241200,
+    "endTime": 1774994399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bybit EU | France",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bybit-eu-france/GCQsLtYvvb"
+  },
+  {
     "id": "GCZyLtY8Wr",
     "name": "KOMmunity Learn with Troyvest",
     "description": "Dive deep into the project with Troyvest KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n9th March - 27th March, 2026\nPrize Pool : \n1,250,000 $TROY\nWinner : \n100  \n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
@@ -30,6 +78,22 @@
     "score": 10,
     "payout": 85,
     "url": "https://app.galxe.com/quest/kommunitas-net/GCZyLtY8Wr"
+  },
+  {
+    "id": "GCauAtYDBE",
+    "name": "🎟️ Doma AMA Raffle with InterNetX",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1773237600,
+    "endTime": 1773324000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCauAtYDBE"
   },
   {
     "id": "GCYqLtYYFt",
@@ -80,6 +144,22 @@
     "url": "https://app.galxe.com/quest/secured-finance/GCgi9tYPKc"
   },
   {
+    "id": "GCaUctYu3h",
+    "name": "ADREVA Ad Army - Early Access",
+    "description": "# 🚀 Adreva Launches Phase I of the Attention Economy!\n\nConsumers have long been treated as products — not participants.\nYour attention powers the digital economy, yet you’ve never shared in the value it creates.\n\nToday, Adreva changes that.\nInstead of extracting value, Adreva lets you direct and share in the value your attention creates.\n\nWelcome to Phase I of the Attention Economy — where projects and users work together to curate, engage, and amplify attention campaigns.\n\nThis system is powered by two (2) core programs:\n\n## 1️⃣ Weekly Attention Campaign (WAC)\n\nWhere users engage with and amplify projects\n👉 https://www.adreva.ai/weekly-attention-campaign\n\n## 2️⃣ Adreva Ad Army\n\nA community referral program for bringing advertisers to Adreva\n👉 https://www.adreva.ai/ad-army\n\n--\n\n## 📢 Weekly Attention Campaign (WAC)\n\nAdvertisers secure campaign slots and the community engages and amplifies projects through:\n\n🏆 Leaderboard competitions\n⭐ Galxe quests\n📣 Social engagement\n🎨 Creative contests\n\nProjects can secure participation on a first-come-first-served basis.\n\n🥉 Bronze — $100\n🥈 Silver — $200\n🥇 Gold — $300\n\n👉 https://www.adreva.ai/weekly-attention-campaign\n\n--\n\n## ⚔️ Adreva Ad Army\n\nThe Ad Army allows community members to earn rewards by referring advertisers to Adreva.\n\nMembers receive:\n\n💰 25% USDC commission\n\n🏆 Leaderboard points & prizes\n\n⚔️ Discord rank progression\n\n⭐ Galxe loyalty points\n\nSubmit your application and join the ranks.\n\n👉 https://www.adreva.ai/ad-army\n\n⭐ Get Started\n\n⚔️ Join the Ad Army\nhttps://www.adreva.ai/ad-army\n\n📢 Advertise in the Weekly Attention Campaign\nhttps://www.adreva.ai/weekly-attention-campaign\n\n🎯 Participate in Early Access Quests\nhttps://app.galxe.com/quest/ADREVA\n\nWelcome to the Adreva Attention Economy.\n\nPhase I begins now. 🚀",
+    "rewardName": "",
+    "startTime": 1773212400,
+    "endTime": 1774162800,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/adreva/GCaUctYu3h"
+  },
+  {
     "id": "GCrUAtYAoS",
     "name": "ADREVA Early Access (Day 6)",
     "description": "Adreva Early Access Program\n\nThe Attention Economy has begun.\n\nComplete the tasks below to join the first wave of Adreva users and secure eligibility for future rewards, loyalty points, and ecosystem incentives.\n\nInstall the extension, verify your referral code, and join the community to become part of the Adreva Ad Rebellion.",
@@ -94,6 +174,38 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/adreva/GCrUAtYAoS"
+  },
+  {
+    "id": "GCXQLtYoZB",
+    "name": "Mission Sociale : Rejoins la communauté",
+    "description": "Commence la mission en rejoignant la communauté Bybit EU 🇫🇷.\n\nDans cette première étape, connecte-toi avec l’écosystème Bybit EU et découvre le contenu partagé par Victor VL.\n\nPour valider cette quête :\n\n- Suis @BybitFr sur X\n\n- Suis Victor VL sur X\n\n- Like, retweete et quote le tweet épinglé sur @BybitFr en taguant 3 amis\n\n- Regarde une vidéo de Victor VL\n\nUne fois toutes les actions complétées, tu pourras passer à la prochaine étape de la mission.",
+    "rewardName": "Accès à la mission suivante",
+    "startTime": 1773241200,
+    "endTime": 1774994399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bybit EU | France",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/bybit-eu-france/GCXQLtYoZB"
+  },
+  {
+    "id": "GCHYAtYuG4",
+    "name": "ADREVA  Early Access Quests",
+    "description": "# 🚀 Adreva Is Launching Phase I of the Attention Economy\r\n\r\nFor years, consumers have been treated like passive products to be monetized — not active participants.\r\nTheir attention powers the entire digital economy, yet the people creating that value had no say in the process and received nothing in return.\r\n\r\nToday, Adreva changes that equation.\r\n\r\nInstead of extracting value, Adreva treats users as partners in the attention economy — directing and sharing in the value their attention creates.\r\nToday we launch Phase I of the Attention Economy, where advertisers compete for community attention and users earn rewards for engaging.\r\n\r\n## This system is powered by two core programs:\r\n## 1️⃣ Weekly Attention Campaign (WAC)\r\nWhere users engage with and amplify projects\r\n👉 https://www.adreva.ai/weekly-attention-campaign\r\n## 2️⃣ Adreva Ad Army\r\nA community referral program for bringing advertisers to Adreva\r\n👉 https://www.adreva.ai/ad-army\r\n\r\n--\r\n\r\n# 📢 Weekly Attention Campaign (WAC)\r\nAdvertisers secure campaign slots and the community engages and amplifies projects through:\r\n\r\n🏆 Leaderboard competitions\r\n⭐ Galxe quests\r\n📣 Social engagement\r\n🎨 Creative contests\r\n\r\nProjects can secure participation on a first-come-first-served basis.\r\n\r\n🥉 Bronze — $100\r\n🥈 Silver — $200\r\n🥇 Gold — $300\r\n\r\n👉  https://www.adreva.ai/weekly-attention-campaign\r\n\r\n# ⚔️ Adreva Ad Army\r\nThe Ad Army allows community members to earn rewards by referring advertisers to Adreva.\r\nMembers receive:\r\n\r\n💰 25% USDC commission\r\n🏆 Leaderboard points & prizes\r\n⚔️ Discord rank progression\r\n⭐ Galxe loyalty points\r\nSubmit your application and join the ranks.\r\n\r\n👉 https://www.adreva.ai/ad-army\r\n\r\n--\r\n\r\n# ⭐ Get Started\r\n\r\n## ⚔️ Join the Ad Army\r\nhttps://www.adreva.ai/ad-army\r\n## 📢 Advertise in the Weekly Attention Campaign\r\nhttps://www.adreva.ai/weekly-attention-campaign \r\n## 🎯 Participate in Early Access Quests\r\nhttps://app.galxe.com/quest/ADREVA\r\n\r\nWelcome to the Adreva Attention Economy.\r\nPhase I begins now. 🚀\r\n\r\n\r\n\r\n\r\n",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCHYAtYuG4"
   },
   {
     "id": "GC7rAtYnjX",
@@ -208,22 +320,6 @@
     "url": "https://app.galxe.com/quest/blockopedia/GCQ1LtYkCf"
   },
   {
-    "id": "GCHYAtYuG4",
-    "name": "ADREVA Early Access",
-    "description": "",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCHYAtYuG4"
-  },
-  {
     "id": "GCVD2tYRQV",
     "name": "Calling All Women Crypto Traders｜ 1,900 USDT Rewards Pool",
     "description": "She Trades. She Wins.\n\n<ins>From March 8 – March 15 (UTC+5), zBit invites women in crypto to share their trading stories and compete for a 1,900 USDT reward pool.</ins>\n\nHow to join:\n Submit your story here, including:\n • Your nickname & avatar\n • When you started trading\n • Profit range\n • Your most memorable trade\n • Preferred markets (Spot / Futures / Meme / BTC / ETH etc.)\n • Trading style\n • zBit UID (KYC required)\n\n🎁 Rewards\n\nRandom Draw\n • 20 participants\n • 50 USDT each\n\nBest Trading Story\n • 3 winners selected by the zBit team\n • 300 USDT each\n\nYour story could inspire the next generation of women in crypto.",
@@ -270,22 +366,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCboFtYrP2"
-  },
-  {
-    "id": "GCuJFtYb3P",
-    "name": "SIGMA $200 AIRDROP",
-    "description": "",
-    "rewardName": "",
-    "startTime": 1772658000,
-    "endTime": 1773262800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Sigma Browser",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sigma-browser/GCuJFtYb3P"
   },
   {
     "id": "GCDzFtYLnm",
@@ -352,22 +432,6 @@
     "url": "https://app.galxe.com/quest/datahive-ai/GCPFFtY7CV"
   },
   {
-    "id": "GCqGstYv9V",
-    "name": "ADREVA Early Access Discord Role",
-    "description": "## Visit and follow the ADREVA Galxe Space for more early access quests!\n\n### https://app.galxe.com/quest/ADREVA\n\nJoin the Ad Rebellion and discover how ADREVA is reshaping advertising with privacy-first, zero-knowledge technology.\n\n* Complete the tasks\n* Claim the Discord role\n* Earn bonus points towards the Leaderboard Competition (March 1-7)\n\nVisit and follow our space for more early access quests and USDC giveaways!\n\nhttps://app.galxe.com/quest/ADREVA\n",
-    "rewardName": "",
-    "startTime": 1772082000,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCqGstYv9V"
-  },
-  {
     "id": "GCaMstYQeU",
     "name": "Become an Adrena LP",
     "description": "Deposit into Adrena’s multi-asset liquidity pool to mint ALP and earn from protocol fees as the house.\n\nALP turns traders into LPs\n💧 ALP represents a share in Adrena’s asset pool\n🏦 ALP mints on deposit, burns on redemption\n🧠 Mint and redeem fees vary with pool balance impact",
@@ -400,22 +464,6 @@
     "url": "https://app.galxe.com/quest/foru-ai/GCwgatYqy9"
   },
   {
-    "id": "GChQatYsrw",
-    "name": "JOIN dkarbon QUIZ Challenge⚡-  $100 USDT GASFREE",
-    "description": "**Join the final QUIZ of Inside Dkarbon · The Early Phase.**\n\n**The answers are based on our recent educational posts on X**. Read carefully and prove you truly understand the carbon economy and what we will do.\n\n$100 USDT will be distributed among selected participants. Think critically. Answer wisely. 🌍",
-    "rewardName": "",
-    "startTime": 1772100000,
-    "endTime": 1773259200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Dkarbon",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/dkarbon/GChQatYsrw"
-  },
-  {
     "id": "GC4AHtYsD8",
     "name": "KromosomAI Waitlist (1000 LYNC Points)",
     "description": "Join the KromosomAI waitlist by signing up through the quest link to qualify for the reward",
@@ -430,21 +478,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/lync/GC4AHtYsD8"
-  },
-  {
-    "id": "GCEautYJb7",
-    "name": "CLAIM 50 $GEMS & WIN USDC",
-    "description": "Get a 50 GEMS Airdrop to jumpstart your competitive crypto gaming! Engage in games of skill against live opponents and earn valuable crypto rewards for your wins! ",
-    "rewardName": "GEMS",
-    "startTime": 1770570000,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Gems.Town",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/gems-town/GCEautYJb7"
   }
 ]
