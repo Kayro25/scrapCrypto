@@ -80,22 +80,6 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCZyLtY8Wr"
   },
   {
-    "id": "GCauAtYDBE",
-    "name": "🎟️ Doma AMA Raffle with InterNetX",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1773237600,
-    "endTime": 1773324000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCauAtYDBE"
-  },
-  {
     "id": "GCYqLtYYFt",
     "name": "Doma Pool Party",
     "description": "Liquidity keeps the markets moving.\n\nEasier quest for you all this week!\n\nAdd liquidity to any pool on Doma.\n\nYour position must include 5 USDC.e or more.\n\nThe liquidity can be added at any time (before or during the quest), but it must stay in range until the quest ends.\n\nCredentials update daily around 2:00 PM UTC.\nFinal update runs 1 hour before the quest ends.",
@@ -174,6 +158,22 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/adreva/GCrUAtYAoS"
+  },
+  {
+    "id": "GCaactYujo",
+    "name": "dKarbon: Join the Green Wave 🌍",
+    "description": "**The Green Wave is here!** dkarbon is redefining the Carbon Credit market and we want the world to hear our voice. This isn't just a quest; it's a community movement to bring transparency and sustainability on-chain.\n\nJoin us as an early supporter, help us spread the word across the Web3 space, and secure your place in our growing ecosystem. The more we grow, the stronger our impact on the planet will be. Get ready to ride the wave and claim your rewards!\".",
+    "rewardName": "",
+    "startTime": 1773309600,
+    "endTime": 1774558800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Dkarbon",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/dkarbon/GCaactYujo"
   },
   {
     "id": "GCXQLtYoZB",
@@ -304,6 +304,22 @@
     "url": "https://app.galxe.com/quest/adrena/GC9estYyuc"
   },
   {
+    "id": "GCcuctYEyV",
+    "name": "Adreva Early Access \"Ad Rebel\" Role",
+    "description": "# New Role Quest — Ad Rebel\n\nWe’ve launched a new Galxe quest to unlock the Ad Rebel role in the Adreva community.\n\nhttps://app.galxe.com/quest/ADREVA\n\nAd Rebel NFT — Coming Next\n\n### The Ad Rebel role will be required to claim the upcoming **Ad Rebel NFT**.\n\nThis NFT design will be modeled after the winners of the ongoing Community Creative Competitions, which stop accepting submissions on March 14.\n\nhttps://app.galxe.com/quest/ADREVA/GCbnFtYrYM\n\nOnce the design submissions have been voted on by the community and the winners finalized - the **Ad Rebel NFT claim quest will open for** **Ad Rebel role holders ONLY.**\n\n## Important Update on Previous Rewards\n\nThe following early launch rewards are no longer available:\n\n- **Ad Warrior Discord role** is no longer available to claim.\n- **Ad Warrior NFT** — 2,194 issued\n- **Proof of Attention (POA) NFT** — 1,826 issued\n\nThese were part of Adreva launch week and will no longer be issued going forward.\n\n**The Ad Rebel role now replaces it as the primary gateway role for future campaigns, rewards, and NFT claims.**\n\n## On-Chain Records\n\n**Ad Warrior NFT**\nhttps://basescan.org/token/0xe118ddb1ced180be869975c4879e71af7f1bb746\n\n**Proof of Attention POAP**\nhttps://basescan.org/token/0x7f9d42dae943d38fed838ccf959e56f455c4321a\n\n## What This Means\n\nThe \"Ad Rebel\" role becomes the new user gateway for upcoming campaigns, rewards, and NFT claims in the Adreva ecosystem.\n\n## Complete the quest and join the rebellion.",
+    "rewardName": "",
+    "startTime": 1773298800,
+    "endTime": 1774940400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCcuctYEyV"
+  },
+  {
     "id": "GCQ1LtYkCf",
     "name": "Blockopedia $100 USDT News Quiz Raffle",
     "description": "Stay updated with the biggest stories shaping crypto, DeFi, and AI.\n\nVisit the featured Blockopedia article, read the update, and answer 3 questions based on the story.\n\nParticipants who complete the quest will be entered into a $100 USDT raffle, with winners selected at the end of the campaign.",
@@ -366,22 +382,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCboFtYrP2"
-  },
-  {
-    "id": "GCDzFtYLnm",
-    "name": "🏆 DeriW 周四活动：分享赢取 100 USDT  🏆",
-    "description": "![3月5至12日社群周四活动主图.png](https://appeco.galxe.com/galxe/space/mdresource/38038/ab1210ab-7db1-4a86-8ae9-b5796a87a53c.png)\n🏆 DeriW 周四活动：分享赢取 100 USDT 🏆\n\n🎆 DeriW 主网上线第 31 周 — 总交易额突破 350 亿美元\n\n加入 DeriW 专属社区活动，共同庆祝 DeriW 达成新里程碑，赢取 100 美元大奖！\n\n⏰ 活动时间：3月5日 16:00 - 3月12日 16:00（UTC+8）\n💰 奖池金额：100 USDT\n\n两种获胜方式：\n\n1️⃣ 交易并分享：\n• 在 www.deriw.com/trade 进行交易\n• 活动期间，在 [@deriwfinance](https://t.me/deriwfinance) 聊天频道分享您的盈亏卡片和 DeriW 钱包地址，并带上标签 #MarchPnL（次数不限）\n• 教程：[如何分享盈亏卡片](https://t.me/deriwfinance/127359/169408)\n• 奖励：五位最高盈亏（PnL）的参与者，每人将获得 $10 奖励。\n\n2️⃣ 社群分享：\n• 将您的盈亏卡片分享到加密货币社群（群成员需 10,000 人以上）\n• 将截图发回我们的 [general chat](https://t.me/deriwfinance) 频道，并带上标签 #DeriWMarchShareToEarn\n• 奖励：将盈亏卡片分享到最多外部社群的五位参与者，每人将获得 $10 奖励。\n\n⚠️ 重要规则：\n• 必须包含指定的标签\n• 禁止发布垃圾信息或伪造截图\n• 奖励将在获奖名单公布后的 10 个工作日内发放\n\n为什么选择 DeriW 进行交易？\n✅ 零资金费率\n✅ 超低交易手续费，仅 0.02%\n✅ 安全、透明、经过审计的环境\n✅ 即时执行 — 无需等待订单撮合\n\n💜 加入社群：@deriwfinance\n🔗 开始交易：www.deriw.com\n\n#DeriWThursday #DeriWMarchShareToEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
-    "rewardName": "100 USDT",
-    "startTime": 1772697600,
-    "endTime": 1773302400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Deriw Finance",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/deriw-finance/GCDzFtYLnm"
   },
   {
     "id": "GCP5FtYj5Z",
