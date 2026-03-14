@@ -272,22 +272,6 @@
     "url": "https://app.galxe.com/quest/datahive-ai/GCFdFtYNdS"
   },
   {
-    "id": "GCu8stYuYS",
-    "name": "50 USD Raffle",
-    "description": "Like, RT and Comment on the following post\nhttps://x.com/KGeN_IO/status/2026313527011705188\n\n10 random winners will be selected.\n",
-    "rewardName": "10 USD for 10 winners",
-    "startTime": 1772323200,
-    "endTime": 1773446400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "IndiGG",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/indigg/GCu8stYuYS"
-  },
-  {
     "id": "GC9estYyuc",
     "name": "Adrena - Open a Long or Short Position",
     "description": "Adrena is Solana’s peer-to-pool perps DEX with up to 100x leverage, trading straight from your wallet.\n\nPerps, 100x, Solana speed\n🧠 Peer-to-pool perp DEX, built on Solana\n📈 Long or short with leverage (risk included)\n🧾 No account creation, wallet-native flow\n\nMutagen rewards real activity\n🧪 Mutagen tracks trading engagement beyond raw PnL\n🏁 Seasons can reward volume, performance, and participation\n🧮 Scoring blends performance, duration, size multipliers\n\nRewards in this Activation: 3 lucky participants in this activation will be rewarded $25 USDC after the activation concludes.",
