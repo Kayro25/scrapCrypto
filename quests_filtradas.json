@@ -5,7 +5,7 @@
     "description": "On 11/03, the raffle begins!\n**50 winners** will collect rewards.\n\n1st: $700 → 233,333 EHX\n2nd: $350 → 116,667 EHX\n3rd: $200 → 66,667 EHX\n4th–10th: $50 → 16,667 EHX (each)\n11th–50th: $10 → 3,333 EHX (each)\n\nAll rewards are paid in Eterna's EHX token.\n\n**Disclaimer:**\n50 winners will be selected through the raffle mechanism. The final reward ranking will be determined by the time each winner joined the raffle, with earlier entries receiving higher-ranked rewards.\n\nEHX rewards will be distributed no later than 18/03/2026.",
     "rewardName": "Eterna EHX Token",
     "startTime": 1773162000,
-    "endTime": 1773766800,
+    "endTime": 1773748800,
     "chain": "ETHEREUM",
     "space": {
       "name": "Eterna Lite",
@@ -78,6 +78,22 @@
     "score": 10,
     "payout": 85,
     "url": "https://app.galxe.com/quest/kommunitas-net/GCZyLtY8Wr"
+  },
+  {
+    "id": "GCWgqtYx6h",
+    "name": "Diamond Holder Quest: Earn your share of 12,500,000 $TROY",
+    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 12,500,000 $TROY  prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 12,500,000 $TROY\n**(Equal to 10,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 12,500,000 $TROY  pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
+    "rewardName": "Troyvest Diamond Holder ",
+    "startTime": 1773594000,
+    "endTime": 1774544400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCWgqtYx6h"
   },
   {
     "id": "GCYqLtYYFt",
@@ -286,6 +302,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adrena/GC9estYyuc"
+  },
+  {
+    "id": "GCN2qtYmhs",
+    "name": "🚀 TINA's First AMA: Drop Your Questions & Earn $TINA",
+    "description": "TINA’s first-ever AMA is coming soon!\r\n\r\nTINA is a Geo-DePIN project that bridges real-world geospatial data with Web3 assets.\r\n\r\n\r\n\r\n🌍 Build the Map. Own the Data. Earn the Token.\r\n\r\nWe are collecting pre-questions for the upcoming AMA.\r\nInsightful, curious, and even spicy questions are welcome! 🔥\r\n\r\nSelected participants will receive 1,000 $TINA tokens.\r\n\r\n\r\n\r\n🎁 AMA Pre-Question Event\r\nSubmit your question for the AMA and get a chance to win rewards!\r\n\r\n🏆 Reward: 1,000 $TINA Tokens each (10 winners)\r\n📅 Event Period:  March 16 – March 20, 2026\r\n📢 Winner Announcement : March 27, 2026  \r\n\r\n\r\n🎯 How to Participate\r\n\r\n1️⃣ Submit your AMA question using the form below  \r\n2️⃣ Follow + Repost @TINA_Heptone on X (Twitter).\r\n3️⃣ Enter your Solana (SPL) wallet address to receive rewards if selected.\r\n\r\nWe look forward to your questions!  \r\n\r\n\r\n💡 About TINA \r\n\r\nTINA is building a Geo-DePIN ecosystem that transforms real-world location activity into blockchain-verified data assets\r\n\r\n• Location data driven by user participation\r\n• High-quality, verified geospatial data\r\n• Token-based reward model for data contributors\r\n• Platform structure enabling data production, verification, and consumption\r\n\r\n📈 Recent Growth (Feb 2026):\r\n• TINA App users: +31.5% MoM\r\n• TINA token holders: +15,252 in just 1 month\r\n• Mapped locations: 23K+ real-world places contributed by users  \r\n\r\n\r\n⚠️ Important Notes\r\n• Only one entry per participant will be considered\r\n• Spam or duplicate submissions may be disqualified\r\n• Incorrect wallet addresses may prevent reward distribution\r\n• Rewards will be distributed only to Solana (SPL) wallet addresses\r\n• Submitted questions may be selected and used during the AMA session\r\n• TINA reserves the right to modify event details if necessary\r\n• Any fraudulent or abusive participation may result in disqualification",
+    "rewardName": "10,000 $TINA Token",
+    "startTime": 1773586800,
+    "endTime": 1774018799,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "TINA",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/tina/GCN2qtYmhs"
   },
   {
     "id": "GCYNqtYQEH",
