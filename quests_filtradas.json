@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCYiLtYZXv",
-    "name": "Launch Campaign Raffle: 50 winners",
-    "description": "On 11/03, the raffle begins!\n**50 winners** will collect rewards.\n\n1st: $700 → 233,333 EHX\n2nd: $350 → 116,667 EHX\n3rd: $200 → 66,667 EHX\n4th–10th: $50 → 16,667 EHX (each)\n11th–50th: $10 → 3,333 EHX (each)\n\nAll rewards are paid in Eterna's EHX token.\n\n**Disclaimer:**\n50 winners will be selected through the raffle mechanism. The final reward ranking will be determined by the time each winner joined the raffle, with earlier entries receiving higher-ranked rewards.\n\nEHX rewards will be distributed no later than 18/03/2026.",
-    "rewardName": "Eterna EHX Token",
-    "startTime": 1773162000,
-    "endTime": 1773748800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Eterna Lite",
-      "isVerified": true
-    },
-    "score": 11,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/eterna-lite/GCYiLtYZXv"
-  },
-  {
     "id": "GCLxFtY8Ue",
     "name": "20,000 USDT GemW March On-Chain Airdrop",
     "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus. \n\nRewards will be distributed based on your UID within 10 business days after the event ends.\n\n🎉GemW March On-Chain Airdrop is LIVE 🎉\n\n1️⃣ Trading Check-in – Share 15,000 USDT\nThe more consecutive trading days, the bigger your reward!\n\n2️⃣ Trading Challenge – Earn 10 USDT\n✅ 7 consecutive days = 5 USDT\n✅ 15 consecutive days = 10 USDT\n\n3️⃣ Invite New Users – Earn up to 50 USDT\nEarn 3 USDT for each new user you invite who joins and participates!\n![en.png](https://appeco.galxe.com/galxe/space/mdresource/84010/dd8d019b-4c03-4941-a3cc-b46d0d04d6b0.png)",
@@ -80,6 +64,22 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCZyLtY8Wr"
   },
   {
+    "id": "GCTmCtYTjg",
+    "name": "Launch Week Trader",
+    "description": "New launches need volume.\n\nThis week is easier.\n\nComplete $5 in total trading volume on any domain launched this week.\n\nCredentials update daily.",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1773756000,
+    "endTime": 1774360800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCTmCtYTjg"
+  },
+  {
     "id": "GCWgqtYx6h",
     "name": "Diamond Holder Quest: Earn your share of 12,500,000 $TROY",
     "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 12,500,000 $TROY  prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 12,500,000 $TROY\n**(Equal to 10,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 12,500,000 $TROY  pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
@@ -96,36 +96,20 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCWgqtYx6h"
   },
   {
-    "id": "GCYqLtYYFt",
-    "name": "Doma Pool Party",
-    "description": "Liquidity keeps the markets moving.\n\nEasier quest for you all this week!\n\nAdd liquidity to any pool on Doma.\n\nYour position must include 5 USDC.e or more.\n\nThe liquidity can be added at any time (before or during the quest), but it must stay in range until the quest ends.\n\nCredentials update daily around 2:00 PM UTC.\nFinal update runs 1 hour before the quest ends.",
-    "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1773151200,
-    "endTime": 1773756000,
+    "id": "GC4eCtYzSa",
+    "name": "NFT Distribution Continues, Engagement Proves Commitment",
+    "description": "We’re still distributing NFTs to early supporters.\n\nThese NFTs are not just collectibles, they are your entry point into the ecosystem. Holding one positions you for future benefits, including access to upcoming airdrops, new NFT releases, and potential earning opportunities tied to platform activity.\n\nEngagement matters. Supporting early is what defines who captures the most value as the ecosystem grows.\n\nSecure your NFT and stay active.",
+    "rewardName": "NFT 0lympex pass",
+    "startTime": 1773716400,
+    "endTime": 1774407600,
     "chain": "ETHEREUM",
     "space": {
-      "name": "D3",
-      "isVerified": true
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
     },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCYqLtYYFt"
-  },
-  {
-    "id": "GCZuLtY6cE",
-    "name": "Troyvest Whitelist Competition",
-    "description": "Welcome to Troyvest x Kommunitas Whitelist Competition! 💥\n\nSale Starts : March  18th, 2026. 9 AM UTC\nlaunchpad\n\n💰 Increase your chances of getting whitelisted allocation by completing ALL of the actions below. Good luck to all of you!\n\nNB: if you win into one of Troyvest whitelist spot, we will inform on our Discord Channel and Telegram 24 hours before the sale, make sure you check it out!\n\n➡️ Next step for whitelist winners to participate\n: ✅ Head on to launchpad during preparation period to check your allocation\n✅ Prepare your USDT (Polygon) | USDT (BSC) | USDT (ARB)\n✅ Connect your wallet and buy your allocation on Booster 1 round only! at launchpad, 09:00 AM UTC. Booster 1 ends at 05:00 PM UTC\n\nNeed guidance on participating?\nClick here for a tutorial.\n\n🗓 All Calendar:\nhttps://linktr.ee/kommunitas1\nand\nhttps://calendar.kommunitas.net/ ",
-    "rewardName": "Troyvest Whitelist Ticket",
-    "startTime": 1773075600,
-    "endTime": 1773723600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCZuLtY6cE"
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC4eCtYzSa"
   },
   {
     "id": "GCaUctYu3h",
@@ -142,22 +126,6 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/adreva/GCaUctYu3h"
-  },
-  {
-    "id": "GCrUAtYAoS",
-    "name": "ADREVA Early Access (Day 6)",
-    "description": "Adreva Early Access Program\n\nThe Attention Economy has begun.\n\nComplete the tasks below to join the first wave of Adreva users and secure eligibility for future rewards, loyalty points, and ecosystem incentives.\n\nInstall the extension, verify your referral code, and join the community to become part of the Adreva Ad Rebellion.",
-    "rewardName": "",
-    "startTime": 1773028800,
-    "endTime": 1773806400,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/adreva/GCrUAtYAoS"
   },
   {
     "id": "GCEeqtYYmx",
@@ -222,22 +190,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCHYAtYuG4"
-  },
-  {
-    "id": "GC7rAtYnjX",
-    "name": "The Olympex Pass is now available to mint.",
-    "description": "Holding your Pass will be one of the key factors considered for future airdrop eligibility, ecosystem rewards, and early access to new tools and token launches inside Olympex.\n\nEarly participants may unlock additional advantages as the ecosystem grows, so this is your moment to secure your position.\n\nMint your Olympex Pass and start building your place in the ecosystem. 🏛️",
-    "rewardName": "Mint Available: Olympex Pass",
-    "startTime": 1773025200,
-    "endTime": 1773802800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC7rAtYnjX"
   },
   {
     "id": "GCmb2tYNsJ",
