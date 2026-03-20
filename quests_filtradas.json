@@ -112,6 +112,22 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCjWqtYtWN"
   },
   {
+    "id": "GCDYGtY43V",
+    "name": "24H Flash Quest: Grab 2 FREE TopNod Spins!",
+    "description": "Complete this 24-hour flash quest to secure your FREE spins. \nEveryone who completes the tasks will receive 2 FREE SPINS! 🎰\n\n🚨 **HOW TO GET YOUR SPINS**:\n* Complete the Twitter tasks (Follow, Like, RT).\n* Submit your TopNod UID in the survey.\n* NO ACTION NEEDED ON GALXE!\n\nThe 2 Spins will be directly airdropped to your TopNod account when our next official Spin campaign launches. \nPlease wait for our official announcement.\n\n⏳ Time is ticking: You only have 24 HOURS!",
+    "rewardName": "2 TopNod Spins",
+    "startTime": 1773918000,
+    "endTime": 1774004399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "TopNod",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/topnod/GCDYGtY43V"
+  },
+  {
     "id": "GC4eCtYzSa",
     "name": "NFT Distribution Continues, Engagement Proves Commitment",
     "description": "We’re still distributing NFTs to early supporters.\n\nThese NFTs are not just collectibles, they are your entry point into the ecosystem. Holding one positions you for future benefits, including access to upcoming airdrops, new NFT releases, and potential earning opportunities tied to platform activity.\n\nEngagement matters. Supporting early is what defines who captures the most value as the ecosystem grows.\n\nSecure your NFT and stay active.",
@@ -270,6 +286,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adrena/GC9estYyuc"
+  },
+  {
+    "id": "GCPFCtY9Qs",
+    "name": "ADREVA Early Access \"Ad Rebel\" NFT",
+    "description": "Complete the quests & claim the Early Access Ad Rebel NFT role + NFT!\n\nNFT Design by our very own Sticker Master @RRTOBI\n\nhttps://x.com/i/status/2029793068141158453",
+    "rewardName": "",
+    "startTime": 1773903600,
+    "endTime": null,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCPFCtY9Qs"
   },
   {
     "id": "GCA3CtYjxT",
