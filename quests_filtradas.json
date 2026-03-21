@@ -112,22 +112,6 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCjWqtYtWN"
   },
   {
-    "id": "GCDYGtY43V",
-    "name": "24H Flash Quest: Grab 2 FREE TopNod Spins!",
-    "description": "Complete this 24-hour flash quest to secure your FREE spins. \nEveryone who completes the tasks will receive 2 FREE SPINS! 🎰\n\n🚨 **HOW TO GET YOUR SPINS**:\n* Complete the Twitter tasks (Follow, Like, RT).\n* Submit your TopNod UID in the survey.\n* NO ACTION NEEDED ON GALXE!\n\nThe 2 Spins will be directly airdropped to your TopNod account when our next official Spin campaign launches. \nPlease wait for our official announcement.\n\n⏳ Time is ticking: You only have 24 HOURS!",
-    "rewardName": "2 TopNod Spins",
-    "startTime": 1773918000,
-    "endTime": 1774004399,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "TopNod",
-      "isVerified": true
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/topnod/GCDYGtY43V"
-  },
-  {
     "id": "GC4eCtYzSa",
     "name": "NFT Distribution Continues, Engagement Proves Commitment",
     "description": "We’re still distributing NFTs to early supporters.\n\nThese NFTs are not just collectibles, they are your entry point into the ecosystem. Holding one positions you for future benefits, including access to upcoming airdrops, new NFT releases, and potential earning opportunities tied to platform activity.\n\nEngagement matters. Supporting early is what defines who captures the most value as the ecosystem grows.\n\nSecure your NFT and stay active.",
@@ -158,6 +142,38 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/adreva/GCaUctYu3h"
+  },
+  {
+    "id": "GCyAGtYQT8",
+    "name": "Engage with Sphere & Earn Rewards",
+    "description": "Join the Sphere ecosystem and engage with our community to earn rewards.\n\nSphere is building the future of prediction markets on stocks \n\nComplete the tasks below and become an early contributor",
+    "rewardName": "",
+    "startTime": 1773990000,
+    "endTime": 1774594800,
+    "chain": "BASE",
+    "space": {
+      "name": "Sphere",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/sphere/GCyAGtYQT8"
+  },
+  {
+    "id": "GCXCGtYY3A",
+    "name": "🏆 DeriW 周四活动：积分赢取 50 USDT 🏆",
+    "description": "![3月19-26日周四社群活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/9d65ed8d-ecee-44e1-b7cc-3ba155178a5e.png)\n🏆 DeriW 周四活动：积分赢取 50 美元 🏆\n\n🎆 DeriW 主网上线第 33 周 — 总交易量突破 400 亿美元\n\n加入 DeriW 专属社区活动，庆祝 DeriW 的全新里程碑，赢取 50 美元大奖！\n\n⏰ 活动时间：3 月 19 日下午 4 点 - 3 月 26 日下午 4 点 (UTC+8)\n💰 奖池：50 USDT - 积分最高的五位参与者每人获得 10 USDT\n\n🔗 SUPERNOVA+ 活动详情：https://www.deriw.com/supernova-mainnet-first-incentive-program\n\n🎯 参与方式：\n• 活动期间，通过参与 SUPERNOVA+ 活动获得 DER+ 积分最多的五位参与者将获得奖励。\n• 活动结束前，请将您参与活动的钱包地址发布至 @deriwfinance 并添加话题标签 #DeriWMarchPointsToEarn\n\n⚠️重要提示：\n✔ 交易 50 USDT = 获得 5 点 DER+ 积分\n✔ 邀请好友 = 获得 300% 推荐奖励积分\n✔ 测试网用户 = 额外获得 20% 奖励\n\n📝 重要规则：\n• 必须包含话题标签 #DeriWMarchPointsToEarn\n• 奖励将在公布后 10 个工作日内发放\n\n为什么选择 DeriW 进行交易？\n✅ 零资金费率\n✅ 超低交易手续费 0.02%\n✅ 安全、透明、经审计的交易环境\n✅ 即时执行，无需等待订单匹配\n\n💜 加入社区：@deriwfinance\n🔗 立即交易：www.deriw.com\n\n#DeriWThursday #DeriWMarchPointsToEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
+    "rewardName": "50 USDT",
+    "startTime": 1773907200,
+    "endTime": 1774512000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Deriw Finance",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/deriw-finance/GCXCGtYY3A"
   },
   {
     "id": "GCEeqtYYmx",
@@ -288,6 +304,22 @@
     "url": "https://app.galxe.com/quest/adrena/GC9estYyuc"
   },
   {
+    "id": "GCERGtYXg2",
+    "name": "🏆 DeriW Thursday: Points to Earn $50 USDT 🏆",
+    "description": "![3月19-26日周四社群活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/a0c683fb-05c5-4062-ae7a-fa7e4823e2df.png)\n🏆 DeriW Thursday: Points to Earn $50 🏆\n\n🎆 DeriW Mainnet Week 33 — Total Trading Volume Surpasses $40 Billion\n\nJoin DeriW's exclusive community event to celebrate a new DeriW milestone and win $50 grand prize!\n\n⏰ Event Period: March 19, 4 PM - March 26, 4 PM (UTC+8)\n💰 Prize Pool: 50 USDT - 10 USDT each for the five participants with the most points\n\n🔗 SUPERNOVA+ campaign Details: https://www.deriw.com/supernova-mainnet-first-incentive-program\n\n🎯 How to Participate:\n• During the event, the five participants who earn the most DER+ points by participating in the SUPERNOVA+ campaign will receive a prize\n• Before the event ends, please post your participating wallet address to @deriwfinance and add the hashtag #DeriWMarchPointsToEarn\n\n⚠️Important Note:\n✔ Trade $50 = Earn 5 DER+ points\n✔ Invite friends = Earn 300% referral bonus points\n✔ Testnet users = Extra +20% bonus\n\n📝 Important Rules:\n• Must include required hashtag #DeriWMarchPointsToEarn\n• Rewards distributed within 10 working days after announcement\n\nWhy Trade on DeriW?\n✅ Zero funding rates\n✅ 0.02% ultra-low trading fees\n✅ Secure, transparent, and audited environment\n✅ Instant execution — no waiting for order matching\n\n💜 Join: @deriwfinance\n🔗 Trade: www.deriw.com\n\n#DeriWThursday #DeriWMarchPointsToEarn #ZeroGasFees\n\nDisclaimer:\n1️⃣ Please participate in the event via Telegram DeriW Group Chat @deriwfinance during the event period.\n2️⃣ The list of winners will be announced via Telegram DeriW Official Annoucements @deriwofficial.",
+    "rewardName": "50 USDT",
+    "startTime": 1773907200,
+    "endTime": 1774512000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Deriw Finance",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/deriw-finance/GCERGtYXg2"
+  },
+  {
     "id": "GCPFCtY9Qs",
     "name": "ADREVA Early Access \"Ad Rebel\" NFT",
     "description": "Complete the quests & claim the Early Access Ad Rebel NFT role + NFT!\n\nNFT Design by our very own Sticker Master @RRTOBI\n\nhttps://x.com/i/status/2029793068141158453",
@@ -318,22 +350,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/zbit/GCA3CtYjxT"
-  },
-  {
-    "id": "GCN2qtYmhs",
-    "name": "🚀 TINA's First AMA: Drop Your Questions & Earn $TINA",
-    "description": "TINA’s first-ever AMA is coming soon!\r\n\r\nTINA is a Geo-DePIN project that bridges real-world geospatial data with Web3 assets.\r\n\r\n\r\n\r\n🌍 Build the Map. Own the Data. Earn the Token.\r\n\r\nWe are collecting pre-questions for the upcoming AMA.\r\nInsightful, curious, and even spicy questions are welcome! 🔥\r\n\r\nSelected participants will receive 1,000 $TINA tokens.\r\n\r\n\r\n\r\n🎁 AMA Pre-Question Event\r\nSubmit your question for the AMA and get a chance to win rewards!\r\n\r\n🏆 Reward: 1,000 $TINA Tokens each (10 winners)\r\n📅 Event Period:  March 16 – March 20, 2026\r\n📢 Winner Announcement : March 27, 2026  \r\n\r\n\r\n🎯 How to Participate\r\n\r\n1️⃣ Submit your AMA question using the form below  \r\n2️⃣ Follow + Repost @TINA_Heptone on X (Twitter).\r\n3️⃣ Enter your Solana (SPL) wallet address to receive rewards if selected.\r\n\r\nWe look forward to your questions!  \r\n\r\n\r\n💡 About TINA \r\n\r\nTINA is building a Geo-DePIN ecosystem that transforms real-world location activity into blockchain-verified data assets\r\n\r\n• Location data driven by user participation\r\n• High-quality, verified geospatial data\r\n• Token-based reward model for data contributors\r\n• Platform structure enabling data production, verification, and consumption\r\n\r\n📈 Recent Growth (Feb 2026):\r\n• TINA App users: +31.5% MoM\r\n• TINA token holders: +15,252 in just 1 month\r\n• Mapped locations: 23K+ real-world places contributed by users  \r\n\r\n\r\n⚠️ Important Notes\r\n• Only one entry per participant will be considered\r\n• Spam or duplicate submissions may be disqualified\r\n• Incorrect wallet addresses may prevent reward distribution\r\n• Rewards will be distributed only to Solana (SPL) wallet addresses\r\n• Submitted questions may be selected and used during the AMA session\r\n• TINA reserves the right to modify event details if necessary\r\n• Any fraudulent or abusive participation may result in disqualification",
-    "rewardName": "10,000 $TINA Token",
-    "startTime": 1773586800,
-    "endTime": 1774018799,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "TINA",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/tina/GCN2qtYmhs"
   },
   {
     "id": "GCYNqtYQEH",
@@ -382,22 +398,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/blockopedia/GCQ1LtYkCf"
-  },
-  {
-    "id": "GCboFtYrP2",
-    "name": "ADREVA Creative Prize Claim",
-    "description": "A quest for Week 1 Creative Competition Grand Prize Winners to claim their USDC Reward!\n\nhttps://app.galxe.com/quest/ADREVA/GCbnFtYrYM\n\nYou must have one of the following Discord roles to claim your prize!\n\n#### Ad Architect\n#### Sticker Master\n#### Memelord\n\n### **ALL PRIZES MUST BE CLAIMED BY MARCH 21, 00:00:00 UTC**\n\n---\n\nAdreva is launching three (3) weekly community competitions to reward creativity and help grow the ecosystem.\n\nParticipants create content on X (Twitter), submit their entry through Galxe, and compete for prizes and special community roles.\n\n---\n\n### How it works:\n\n\n* Create your content and post it on X tagging @Adreva_Network\n\n* Submit the X link through this Galxe quest\n\n* The Adreva team reviews all submissions and selects the Top 10\n\n* Top entries are posted in Discord & Telegram for community voting\n\n* Winners are determined by community polls\n---\n\n\n### Weekly Competitions\n\n\n\n#### Ad Architect\nCreate ads, explainers, or educational content about Adreva.\n\n\n#### Sticker Master\nDesign an original Adreva-themed sticker.\n\n\n#### Memelord\nCreate an original Adreva meme.\n\n---\nEach competition awards one Grand Prize winner, plus recognition for runners-up.\n\nGrand Prize (per competition):\n* $25 USDC\n* Special Discord role\n* 5 Loyalty Points Mystery Boxes\n* Featured on Adreva social channels\n\nGrand prize USDC will be distributed via another Galxe Quest using Discord roles for verification.\n\nSecond and third place winners receive **3 Loyalty Points Mystery Boxes and community recognition**.\n\n\n### **ALL PRIZES MUST BE CLAIMED BY MARCH 21, 00:00:00 UTC**\n\n\nStay creative and help build the future of privacy-first advertising with Adreva. 🚀#### Sticker Master#### Sticker Master#### Ad Architect",
-    "rewardName": "",
-    "startTime": 1772686800,
-    "endTime": 1774065600,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCboFtYrP2"
   },
   {
     "id": "GCP5FtYj5Z",
@@ -478,5 +478,21 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/foru-ai/GCwgatYqy9"
+  },
+  {
+    "id": "GC4AHtYsD8",
+    "name": "KromosomAI Waitlist (1000 LYNC Points)",
+    "description": "Join the KromosomAI waitlist by signing up through the quest link to qualify for the reward",
+    "rewardName": "LYNC Points",
+    "startTime": 1771419600,
+    "endTime": 1774962000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "LYNC",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/lync/GC4AHtYsD8"
   }
 ]
