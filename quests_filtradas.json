@@ -16,6 +16,54 @@
     "url": "https://app.galxe.com/quest/gemw/GCLxFtY8Ue"
   },
   {
+    "id": "GCtf3tYo5P",
+    "name": "Inscription et achat de crypto",
+    "description": "1. Inscris-toi sur Bybit EU et vérifie ton identité en utilisant ce lien : \n\nhttps://www.bybit.eu/fr-EU/sign-up?affiliate_id=156183\n\n2. Achète 100 € de crypto pour recevoir ton bonus de 40 €. ",
+    "rewardName": "40 € en BTC",
+    "startTime": 1774285200,
+    "endTime": 1777586399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bybit EU | France",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bybit-eu-france/GCtf3tYo5P"
+  },
+  {
+    "id": "GCpgGtYsKv",
+    "name": "Teste tes connaissances en trading crypto",
+    "description": "Réponds à ce quiz comprenant 2 questions faciles ",
+    "rewardName": "Giveaway 2 500 € en BTC",
+    "startTime": 1774285200,
+    "endTime": 1777586399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bybit EU | France",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bybit-eu-france/GCpgGtYsKv"
+  },
+  {
+    "id": "GCVzGtY2sZ",
+    "name": "Boost Us and Get Rewarded 🕯️",
+    "description": "Boost the Lumio Discord server and **unlock access to an exclusive LP Points raffle.**\nSupport the community, elevate your status as a true Luminary, and claim your chance to **win valuable rewards.**\n\n**Only boosters are eligible.** Power us up and let the rewards flow 🕯️",
+    "rewardName": "1000 LP",
+    "startTime": 1774220400,
+    "endTime": 1777586400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Lumio",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/lumio/GCVzGtY2sZ"
+  },
+  {
     "id": "GCNWLtYx2G",
     "name": "Mission 3 % : Passe à l’action",
     "description": "Tu arrives à la dernière étape de la Mission 3 %.\n\nDécouvre les opportunités disponibles sur Bybit EU et complète les actions suivantes pour finaliser la mission.\n\nÉtapes à suivre pour les nouveaux utilisateurs :\n\n- Visite la page de la campagne 3 % sur Bybit EU\n(tu dois être connecté à ton compte pour y accéder)\n\n- Dépose au moins 100 € sur la plateforme via Apple Pay ou Google Pay ou CB classique, ou en crypto. Tu débloqueras 40 € de bonus.  \n\n- Dépose tes EURC sur la pool EURC à 20 % de rendement pendant 7 jours via Bybit Earn.  Seuls les nouveaux utilisateurs Bybit EU peuvent souscrire à cette pool. \n\nAfin de rester éligible au tirage au sort pour une part des 2 500 € en BTC, conserve tes fonds sur Bybit EU jusqu’au 31 mars.\n\nUne fois ces étapes complétées, tu auras terminé toutes les quests de la mission et pourras participer au tirage au sort.\n\nNote importante : Un UID te sera demandé pour ces quêtes. Voici comment le retrouver sur ton compte : \n\nSi tu es sur ton ordinateur, il se trouve en haut à droite de l'écran : \n\n![UID Desktop.png](https://appeco.galxe.com/galxe/space/mdresource/85554/942b39a0-f487-42fe-8ad7-7d517ec54333.png)\n\nSi tu es sur l'app Bybit EU, l'UID se trouve à côté de ton avatar : \n\n![UID APP.jpg](https://appeco.galxe.com/galxe/space/mdresource/85554/69b9bb9f-2286-4ff9-b16f-04173e5eb75b.jpeg)",
@@ -126,6 +174,22 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC4eCtYzSa"
+  },
+  {
+    "id": "GCpuGtYPGF",
+    "name": "The Olympex Pass is now available to mint.",
+    "description": "Holding your Pass will be one of the key factors considered for future airdrop eligibility, ecosystem rewards, and early access to new tools and token launches inside Olympex.\n\nEarly participants may unlock additional advantages as the ecosystem grows, so this is your moment to secure your position.\n\nMint your Olympex Pass and start building your place in the ecosystem. 🏛️",
+    "rewardName": "mint your pass! ",
+    "startTime": 1774234800,
+    "endTime": 1774926000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCpuGtYPGF"
   },
   {
     "id": "GCyAGtYQT8",
@@ -430,21 +494,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/foru-ai/GCwgatYqy9"
-  },
-  {
-    "id": "GC4AHtYsD8",
-    "name": "KromosomAI Waitlist (1000 LYNC Points)",
-    "description": "Join the KromosomAI waitlist by signing up through the quest link to qualify for the reward",
-    "rewardName": "LYNC Points",
-    "startTime": 1771419600,
-    "endTime": 1774962000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "LYNC",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/lync/GC4AHtYsD8"
   }
 ]
