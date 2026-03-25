@@ -112,12 +112,12 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCZyLtY8Wr"
   },
   {
-    "id": "GCTmCtYTjg",
-    "name": "Launch Week Trader",
-    "description": "New launches need volume.\n\nThis week is easier.\n\nComplete $5 in total trading volume on any domain launched this week.\n\nCredentials update daily.",
+    "id": "GCL43tYRYf",
+    "name": "Doma Point Farmer",
+    "description": "People are crazy about the Leaderboard so let's focus on it this week and be flexible.\n\nEarn 50 Season 0 Leaderboard Points through any platform activity.\n\nYour strategy, your choice.\n\nCredentials update daily around 2PM UTC.",
     "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1773756000,
-    "endTime": 1774360800,
+    "startTime": 1774362600,
+    "endTime": 1774965600,
     "chain": "ETHEREUM",
     "space": {
       "name": "D3",
@@ -125,7 +125,7 @@
     },
     "score": 9,
     "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCTmCtYTjg"
+    "url": "https://app.galxe.com/quest/d3/GCL43tYRYf"
   },
   {
     "id": "GCWgqtYx6h",
@@ -158,22 +158,6 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/kommunitas-net/GCjWqtYtWN"
-  },
-  {
-    "id": "GC4eCtYzSa",
-    "name": "NFT Distribution Continues, Engagement Proves Commitment",
-    "description": "We’re still distributing NFTs to early supporters.\n\nThese NFTs are not just collectibles, they are your entry point into the ecosystem. Holding one positions you for future benefits, including access to upcoming airdrops, new NFT releases, and potential earning opportunities tied to platform activity.\n\nEngagement matters. Supporting early is what defines who captures the most value as the ecosystem grows.\n\nSecure your NFT and stay active.",
-    "rewardName": "NFT 0lympex pass",
-    "startTime": 1773716400,
-    "endTime": 1774407600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC4eCtYzSa"
   },
   {
     "id": "GCpuGtYPGF",
@@ -318,6 +302,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adrena/GC9estYyuc"
+  },
+  {
+    "id": "GCFP3tYHg4",
+    "name": "Follow us on X",
+    "description": "With announcements around the corner, Follow is on X and turn on notification.\n\n*Disclaimer:\nParticipation or points earned through Galxe do not count toward any KAIO community allocation, token allocation, or airdrop of any kind. Galxe is used for social engagement and analytics purposes only. For full details and FAQs, please refer to the official Telegram.*",
+    "rewardName": "",
+    "startTime": 1774238400,
+    "endTime": 1775880000,
+    "chain": "BASE",
+    "space": {
+      "name": "KAIO",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/kaio/GCFP3tYHg4"
   },
   {
     "id": "GC59GtYv6j",
