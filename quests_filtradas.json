@@ -288,20 +288,20 @@
     "url": "https://app.galxe.com/quest/datahive-ai/GCFdFtYNdS"
   },
   {
-    "id": "GC9estYyuc",
-    "name": "Adrena - Open a Long or Short Position",
-    "description": "Adrena is Solana’s peer-to-pool perps DEX with up to 100x leverage, trading straight from your wallet.\n\nPerps, 100x, Solana speed\n🧠 Peer-to-pool perp DEX, built on Solana\n📈 Long or short with leverage (risk included)\n🧾 No account creation, wallet-native flow\n\nMutagen rewards real activity\n🧪 Mutagen tracks trading engagement beyond raw PnL\n🏁 Seasons can reward volume, performance, and participation\n🧮 Scoring blends performance, duration, size multipliers\n\nRewards in this Activation: 3 lucky participants in this activation will be rewarded $25 USDC after the activation concludes.",
-    "rewardName": "25 USDC each",
-    "startTime": 1772105100,
-    "endTime": 1798675200,
-    "chain": "ETHEREUM",
+    "id": "GCjBJtYk77",
+    "name": "Trade & Earn: Monday Trade Quests are Here!",
+    "description": "Complete weekly tasks on Monday Trade and earn rewards for your activities!\n\nEach week there will be a small change to activities - keep an eye out on the quest board to stay up to date.",
+    "rewardName": "",
+    "startTime": 1774425600,
+    "endTime": 1774944000,
+    "chain": "BASE",
     "space": {
-      "name": "Adrena",
-      "isVerified": false
+      "name": "Web3 Quests",
+      "isVerified": true
     },
-    "score": 6,
+    "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/adrena/GC9estYyuc"
+    "url": "https://app.galxe.com/quest/web3-quests/GCjBJtYk77"
   },
   {
     "id": "GCFP3tYHg4",
@@ -462,37 +462,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/datahive-ai/GCPFFtY7CV"
-  },
-  {
-    "id": "GCaMstYQeU",
-    "name": "Become an Adrena LP",
-    "description": "Deposit into Adrena’s multi-asset liquidity pool to mint ALP and earn from protocol fees as the house.\n\nALP turns traders into LPs\n💧 ALP represents a share in Adrena’s asset pool\n🏦 ALP mints on deposit, burns on redemption\n🧠 Mint and redeem fees vary with pool balance impact",
-    "rewardName": "$25 USDC each",
-    "startTime": 1772107200,
-    "endTime": 1798675200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Adrena",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adrena/GCaMstYQeU"
-  },
-  {
-    "id": "GCwgatYqy9",
-    "name": "Daily Quest + Verification!",
-    "description": "Finish recurring quests, collect discord roles, secure your points, and claim your limited badges!",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "ForU AI",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/foru-ai/GCwgatYqy9"
   }
 ]
