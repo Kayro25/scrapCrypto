@@ -35,7 +35,7 @@
     "id": "GCpgGtYsKv",
     "name": "Teste tes connaissances en trading crypto",
     "description": "Réponds à ce quiz comprenant 2 questions faciles ",
-    "rewardName": "Giveaway 2 500 € en BTC",
+    "rewardName": "Giveaway 2 500 USDC",
     "startTime": 1774285200,
     "endTime": 1777586399,
     "chain": "ETHEREUM",
@@ -96,22 +96,6 @@
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCQsLtYvvb"
   },
   {
-    "id": "GCZyLtY8Wr",
-    "name": "KOMmunity Learn with Troyvest",
-    "description": "Dive deep into the project with Troyvest KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n9th March - 27th March, 2026\nPrize Pool : \n1,250,000 $TROY\nWinner : \n100  \n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
-    "rewardName": "12,500 $TROY Raffle Card",
-    "startTime": 1773075600,
-    "endTime": 1774544400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCZyLtY8Wr"
-  },
-  {
     "id": "GCL43tYRYf",
     "name": "Doma Point Farmer",
     "description": "People are crazy about the Leaderboard so let's focus on it this week and be flexible.\n\nEarn 50 Season 0 Leaderboard Points through any platform activity.\n\nYour strategy, your choice.\n\nCredentials update daily around 2PM UTC.",
@@ -128,36 +112,20 @@
     "url": "https://app.galxe.com/quest/d3/GCL43tYRYf"
   },
   {
-    "id": "GCWgqtYx6h",
-    "name": "Diamond Holder Quest: Earn your share of 12,500,000 $TROY",
-    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 12,500,000 $TROY  prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 12,500,000 $TROY\n**(Equal to 10,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 12,500,000 $TROY  pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
-    "rewardName": "Troyvest Diamond Holder ",
-    "startTime": 1773594000,
-    "endTime": 1774544400,
-    "chain": "ETHEREUM",
+    "id": "GCWjJtYf1S",
+    "name": "100K Transactions Campaign",
+    "description": "**100k transactions. You made that happen.** \n\nNow we're celebrating it - and giving something back.\n\n**The Galxe quest is LIVE** \n◆ Take the quiz — show what you know about RivrDEX\n◆ Climb the leaderboard with Galxe points\n◆ Win from a $100 USDT raffle\n\nLess than 3 months on testnet. The numbers were real. So are the rewards.\n\nThank you - now come claim yours ",
+    "rewardName": "",
+    "startTime": 1774544400,
+    "endTime": 1775682000,
+    "chain": "BSC",
     "space": {
-      "name": "Kommunitas.net",
+      "name": "RivrDEX",
       "isVerified": true
     },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCWgqtYx6h"
-  },
-  {
-    "id": "GCjWqtYtWN",
-    "name": "KOMmunity Kingsman x Troyvest",
-    "description": "🎁 Reward:  3,750,000 $TROY Prize Poo\n- Winners:  Up to 500 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
-    "rewardName": " 3,750,000 $TROY Prize Poo",
-    "startTime": 1773824400,
-    "endTime": 1774544400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCjWqtYtWN"
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/rivrdex/GCWjJtYf1S"
   },
   {
     "id": "GCpuGtYPGF",
@@ -190,38 +158,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/sphere/GCyAGtYQT8"
-  },
-  {
-    "id": "GCXCGtYY3A",
-    "name": "🏆 DeriW 周四活动：积分赢取 50 USDT 🏆",
-    "description": "![3月19-26日周四社群活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/9d65ed8d-ecee-44e1-b7cc-3ba155178a5e.png)\n🏆 DeriW 周四活动：积分赢取 50 美元 🏆\n\n🎆 DeriW 主网上线第 33 周 — 总交易量突破 400 亿美元\n\n加入 DeriW 专属社区活动，庆祝 DeriW 的全新里程碑，赢取 50 美元大奖！\n\n⏰ 活动时间：3 月 19 日下午 4 点 - 3 月 26 日下午 4 点 (UTC+8)\n💰 奖池：50 USDT - 积分最高的五位参与者每人获得 10 USDT\n\n🔗 SUPERNOVA+ 活动详情：https://www.deriw.com/supernova-mainnet-first-incentive-program\n\n🎯 参与方式：\n• 活动期间，通过参与 SUPERNOVA+ 活动获得 DER+ 积分最多的五位参与者将获得奖励。\n• 活动结束前，请将您参与活动的钱包地址发布至 @deriwfinance 并添加话题标签 #DeriWMarchPointsToEarn\n\n⚠️重要提示：\n✔ 交易 50 USDT = 获得 5 点 DER+ 积分\n✔ 邀请好友 = 获得 300% 推荐奖励积分\n✔ 测试网用户 = 额外获得 20% 奖励\n\n📝 重要规则：\n• 必须包含话题标签 #DeriWMarchPointsToEarn\n• 奖励将在公布后 10 个工作日内发放\n\n为什么选择 DeriW 进行交易？\n✅ 零资金费率\n✅ 超低交易手续费 0.02%\n✅ 安全、透明、经审计的交易环境\n✅ 即时执行，无需等待订单匹配\n\n💜 加入社区：@deriwfinance\n🔗 立即交易：www.deriw.com\n\n#DeriWThursday #DeriWMarchPointsToEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
-    "rewardName": "50 USDT",
-    "startTime": 1773907200,
-    "endTime": 1774512000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Deriw Finance",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/deriw-finance/GCXCGtYY3A"
-  },
-  {
-    "id": "GCaactYujo",
-    "name": "dKarbon: Join the Green Wave 🌍",
-    "description": "**The Green Wave is here!** dkarbon is redefining the Carbon Credit market and we want the world to hear our voice. This isn't just a quest; it's a community movement to bring transparency and sustainability on-chain.\n\nJoin us as an early supporter, help us spread the word across the Web3 space, and secure your place in our growing ecosystem. The more we grow, the stronger our impact on the planet will be. Get ready to ride the wave and claim your rewards!\".",
-    "rewardName": "",
-    "startTime": 1773309600,
-    "endTime": 1774558800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Dkarbon",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/dkarbon/GCaactYujo"
   },
   {
     "id": "GCXQLtYoZB",
@@ -288,6 +224,38 @@
     "url": "https://app.galxe.com/quest/datahive-ai/GCFdFtYNdS"
   },
   {
+    "id": "GCyXJtYeeM",
+    "name": "🏆 DeriW 周四活动：挑战赢取 50 USDT 🏆",
+    "description": "![3月26日至4月2日社群周四活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/1f80d8a3-2bed-442b-8e77-517a1e1be5c1.png)\n🏆 DeriW 周四活动：挑战赢取 50 美元 🏆\n\n🎆 DeriW 主网上线第 34 周 — 总交易量突破 420 亿美元！\n👥 用户持续增长：用户总数超过 70,500！\n\n加入 DeriW 专属社区活动，庆祝 DeriW 的全新里程碑，赢取 50 美元大奖！\n\n⏰ 活动时间：3月26日下午4点 - 4月2日下午4点 (UTC+8)\n💰 奖池：总计 50 USDT - 1名获奖者\n\n🎯 参与方式：\n• 活动期间，参与 DeriW Edge Hour 日内交易限时挑战赛（🔗 https://www.deriw.com/edge-hour ）\n• 挑战通关后，获得挑战奖励最高的参与者将获得奖品（若出现挑战奖励相同的情况，则交易时间较短的参与者获胜）\n• 活动结束前，请将您的 DeriW 钱包地址和挑战成功截图发布至 @deriwfinance，并添加话题标签 #DeriWMarchChallengeToEarn\n\n📝 重要规则：\n• 必须包含话题标签 #DeriWMarchChallengeToEarn\n• 奖励将在公布后 10 个工作日内发放\n\n为什么选择在 DeriW 交易？\n✅ 零资金费率\n✅ 超低交易手续费 0.02%\n✅ 安全、透明、经审计的交易环境\n✅ 即时执行，无需等待订单匹配\n\n💜 加入社群：@deriwfinance\n🔗 立即交易：www.deriw.com\n\n#DeriWThursday #DeriWMarchChallengeToEarn #ZeroFundingRates\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
+    "rewardName": "50 USDT",
+    "startTime": 1774512000,
+    "endTime": 1775116800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Deriw Finance",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/deriw-finance/GCyXJtYeeM"
+  },
+  {
+    "id": "GCNsJtYysm",
+    "name": "Discover dkarbon - $ 100 USDT",
+    "description": "Dkarbon is building a more transparent and accessible carbon economy, where impact is verifiable and trust is built on real data. 🌱\n\n**This campaign is your starting point.**\n\nDiscover Dkarbon, explore the fundamentals, and join early as we begin shaping a new approach to carbon markets in Web3.\n\nThis is just the beginning. 🌍",
+    "rewardName": "",
+    "startTime": 1774512000,
+    "endTime": 1775077200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Dkarbon",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/dkarbon/GCNsJtYysm"
+  },
+  {
     "id": "GCjBJtYk77",
     "name": "Trade & Earn: Monday Trade Quests are Here!",
     "description": "Complete weekly tasks on Monday Trade and earn rewards for your activities!\n\nEach week there will be a small change to activities - keep an eye out on the quest board to stay up to date.",
@@ -350,22 +318,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/rivrdex/GCeeGtYxMP"
-  },
-  {
-    "id": "GCERGtYXg2",
-    "name": "🏆 DeriW Thursday: Points to Earn $50 USDT 🏆",
-    "description": "![3月19-26日周四社群活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/a0c683fb-05c5-4062-ae7a-fa7e4823e2df.png)\n🏆 DeriW Thursday: Points to Earn $50 🏆\n\n🎆 DeriW Mainnet Week 33 — Total Trading Volume Surpasses $40 Billion\n\nJoin DeriW's exclusive community event to celebrate a new DeriW milestone and win $50 grand prize!\n\n⏰ Event Period: March 19, 4 PM - March 26, 4 PM (UTC+8)\n💰 Prize Pool: 50 USDT - 10 USDT each for the five participants with the most points\n\n🔗 SUPERNOVA+ campaign Details: https://www.deriw.com/supernova-mainnet-first-incentive-program\n\n🎯 How to Participate:\n• During the event, the five participants who earn the most DER+ points by participating in the SUPERNOVA+ campaign will receive a prize\n• Before the event ends, please post your participating wallet address to @deriwfinance and add the hashtag #DeriWMarchPointsToEarn\n\n⚠️Important Note:\n✔ Trade $50 = Earn 5 DER+ points\n✔ Invite friends = Earn 300% referral bonus points\n✔ Testnet users = Extra +20% bonus\n\n📝 Important Rules:\n• Must include required hashtag #DeriWMarchPointsToEarn\n• Rewards distributed within 10 working days after announcement\n\nWhy Trade on DeriW?\n✅ Zero funding rates\n✅ 0.02% ultra-low trading fees\n✅ Secure, transparent, and audited environment\n✅ Instant execution — no waiting for order matching\n\n💜 Join: @deriwfinance\n🔗 Trade: www.deriw.com\n\n#DeriWThursday #DeriWMarchPointsToEarn #ZeroGasFees\n\nDisclaimer:\n1️⃣ Please participate in the event via Telegram DeriW Group Chat @deriwfinance during the event period.\n2️⃣ The list of winners will be announced via Telegram DeriW Official Annoucements @deriwofficial.",
-    "rewardName": "50 USDT",
-    "startTime": 1773907200,
-    "endTime": 1774512000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Deriw Finance",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/deriw-finance/GCERGtYXg2"
   },
   {
     "id": "GCPFCtY9Qs",
