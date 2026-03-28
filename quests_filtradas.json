@@ -16,6 +16,38 @@
     "url": "https://app.galxe.com/quest/gemw/GCLxFtY8Ue"
   },
   {
+    "id": "GCf7JtYHgm",
+    "name": "Inscription et achat de crypto",
+    "description": "Inscris-toi via ce lien :\nhttps://partner.bybit.eu/b/zarchfinance\n\nAchète 100 € de crypto sur Bybit EU afin de recevoir ton bonus de 20 USDC + 20 € en BTC.\n\nUne fois ces tâches réalisées, tu n'as plus qu'à nous transmettre ton UID Bybit EU afin de participer au sort et tenter de gagner une part des 2 500 USDC. \n\nVoici comment retrouver ton UID sur ton compte :\n\nSi tu es sur ton ordinateur, il se trouve en haut à droite de l'écran :\n\n![UID Desktop.png](https://appeco.galxe.com/galxe/space/mdresource/85554/ce738350-d2cf-4b75-bae9-0e8ac1f34824.png)\n\nSi tu es sur l'app Bybit EU, l'UID se trouve à côté de ton avatar :\n\n![UID APP.jpg](https://appeco.galxe.com/galxe/space/mdresource/85554/b7c7e38c-d158-48b4-86b6-d8c5dc5884a7.jpeg)",
+    "rewardName": "20 USDC + 20 € en BTC",
+    "startTime": 1774618260,
+    "endTime": 1777586399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bybit EU | France",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bybit-eu-france/GCf7JtYHgm"
+  },
+  {
+    "id": "GCmmJtYP9N",
+    "name": "Teste tes connaissances en trading",
+    "description": "Réponds à ces 2 questions pour poursuivre ta progression.\n\n",
+    "rewardName": "Giveaway 2 500 USDC",
+    "startTime": 1774617600,
+    "endTime": 1777586399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bybit EU | France",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bybit-eu-france/GCmmJtYP9N"
+  },
+  {
     "id": "GCtf3tYo5P",
     "name": "Inscription et achat de crypto",
     "description": "1. Inscris-toi sur Bybit EU et vérifie ton identité en utilisant ce lien : \n\nhttps://www.bybit.eu/fr-EU/sign-up?affiliate_id=156183\n\n2. Achète 100 € de crypto pour recevoir ton bonus de 40 €. ",
@@ -112,6 +144,22 @@
     "url": "https://app.galxe.com/quest/d3/GCL43tYRYf"
   },
   {
+    "id": "GCwvMtY1Yx",
+    "name": "Generate Extra Income with the Partners Program",
+    "description": "Mint your Olympex Pass and start accumulating points with every action on the platform. Your activity only counts if you hold the Pass, this is your gateway to future rewards, benefits, and progression.\n\nEarly users are the ones who get positioned first.\n\nWant to go further? You can also apply to the Olympex Partners Program and start generating additional income by bringing new users into the ecosystem.\n\nDon’t wait. Start early.",
+    "rewardName": "Join the Partners Program & Earn",
+    "startTime": 1774580400,
+    "endTime": 1775358000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCwvMtY1Yx"
+  },
+  {
     "id": "GCWjJtYf1S",
     "name": "100K Transactions Campaign",
     "description": "**100k transactions. You made that happen.** \n\nNow we're celebrating it - and giving something back.\n\n**The Galxe quest is LIVE** \n◆ Take the quiz — show what you know about RivrDEX\n◆ Climb the leaderboard with Galxe points\n◆ Win from a $100 USDT raffle\n\nLess than 3 months on testnet. The numbers were real. So are the rewards.\n\nThank you - now come claim yours ",
@@ -142,22 +190,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCpuGtYPGF"
-  },
-  {
-    "id": "GCyAGtYQT8",
-    "name": "Engage with Sphere & Earn Rewards",
-    "description": "Join the Sphere ecosystem and engage with our community to earn rewards.\n\nSphere is building the future of prediction markets on stocks \n\nComplete the tasks below and become an early contributor",
-    "rewardName": "",
-    "startTime": 1773990000,
-    "endTime": 1774594800,
-    "chain": "BASE",
-    "space": {
-      "name": "Sphere",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sphere/GCyAGtYQT8"
   },
   {
     "id": "GCXQLtYoZB",
