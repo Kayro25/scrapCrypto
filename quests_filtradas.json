@@ -144,6 +144,22 @@
     "url": "https://app.galxe.com/quest/d3/GCL43tYRYf"
   },
   {
+    "id": "GCn8MtYYLS",
+    "name": "Special Benefits for SoneFi / XY Finance / CometBridge / RetroBridge users",
+    "description": "Welcome to your new home, users from SoneFi, XY Finance, CometBridge, and RetroBridge.\n\nOver the past two years, SoneFi, XY Finance, CometBridge, and RetroBridge have gradually shut down. You may have left important footprints there—but it might be time to move to a new home: WheelX.\n\nWheelX supports both bridging and swapping, and offers a faster, cheaper, and more secure experience.\n\nWe’re also offering 20%–40% fee discounts for users from these platforms.\n\nGive it a try and verify your benefits here: https://wheelx.fi/move",
+    "rewardName": "WheelX VIP CARD",
+    "startTime": 1774540800,
+    "endTime": 1777046400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "WheelX.fi",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/wheelx-fi/GCn8MtYYLS"
+  },
+  {
     "id": "GCwvMtY1Yx",
     "name": "Generate Extra Income with the Partners Program",
     "description": "Mint your Olympex Pass and start accumulating points with every action on the platform. Your activity only counts if you hold the Pass, this is your gateway to future rewards, benefits, and progression.\n\nEarly users are the ones who get positioned first.\n\nWant to go further? You can also apply to the Olympex Partners Program and start generating additional income by bringing new users into the ecosystem.\n\nDon’t wait. Start early.",
@@ -206,22 +222,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCXQLtYoZB"
-  },
-  {
-    "id": "GCmb2tYNsJ",
-    "name": "Predict Stocks. Win Big. Be Early",
-    "description": "The first prediction market for real-world assets is live on Solana. Pick a stock. Pick a direction. Win up to 50x. First 500 wallets get in with code SPHERE2026. Complete the quests below and claim your reward.",
-    "rewardName": "",
-    "startTime": 1772956800,
-    "endTime": 1774681200,
-    "chain": "BASE",
-    "space": {
-      "name": "Sphere",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sphere/GCmb2tYNsJ"
   },
   {
     "id": "GCA3FtY8ra",
