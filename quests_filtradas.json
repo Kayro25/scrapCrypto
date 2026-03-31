@@ -48,6 +48,22 @@
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCmmJtYP9N"
   },
   {
+    "id": "GC5dJtYoX8",
+    "name": "🎟️ Doma AMA Raffle Countdown to Rides.com",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "50 Season 0 Leaderboard Points",
+    "startTime": 1774879200,
+    "endTime": 1774965600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GC5dJtYoX8"
+  },
+  {
     "id": "GCtf3tYo5P",
     "name": "Inscription et achat de crypto",
     "description": "1. Inscris-toi sur Bybit EU et vérifie ton identité en utilisant ce lien : \n\nhttps://www.bybit.eu/fr-EU/sign-up?affiliate_id=156183\n\n2. Achète 100 € de crypto pour recevoir ton bonus de 40 €. ",
@@ -146,7 +162,7 @@
   {
     "id": "GCn8MtYYLS",
     "name": "Special Benefits for SoneFi / XY Finance / CometBridge / RetroBridge users",
-    "description": "Welcome to your new home, users from SoneFi, XY Finance, CometBridge, and RetroBridge.\n\nOver the past two years, SoneFi, XY Finance, CometBridge, and RetroBridge have gradually shut down. You may have left important footprints there—but it might be time to move to a new home: WheelX.\n\nWheelX supports both bridging and swapping, and offers a faster, cheaper, and more secure experience.\n\nWe’re also offering 20%–40% fee discounts for users from these platforms.\n\nGive it a try and verify your benefits here: https://wheelx.fi/move",
+    "description": "Welcome to your new home, users from SoneFi, XY Finance, CometBridge, and RetroBridge.\n\nOver the past two years, SoneFi, XY Finance, CometBridge, and RetroBridge have gradually shut down. You may have left important footprints there—but it might be time to move to a new home: WheelX.\n\nWheelX supports both bridging and swapping, and offers a faster, cheaper, and more secure experience.\n\nWe’re also offering $1 newcomer Bonus and 20%–40% fee discounts for users from these platforms.\n\nGive it a try and verify your benefits here: https://wheelx.fi/move",
     "rewardName": "WheelX VIP CARD",
     "startTime": 1774540800,
     "endTime": 1777046400,
@@ -158,6 +174,22 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/wheelx-fi/GCn8MtYYLS"
+  },
+  {
+    "id": "GCFTMtY98N",
+    "name": "Join the Olympex Partners Program and Earn Additional Income 🚀",
+    "description": "Getting started is simple:\n• Go to our website\n• Fill out the application form\n• Get approved and start sharing Olympex\n\nBut this goes beyond a typical partner program.\n\nAt Olympex, we reward participation across the entire ecosystem:\n• Earn performance-based revenue as a partner\n• Get rewarded for your on-chain activity inside the platform\n• Increase your benefits through the Olympex Pass NFT, which tracks your volume and referrals\n• Unlock fee discounts and future rewards as your Pass evolves\n• Participate in community activities and engagement campaigns\n\nThe more you use Olympex, the more you contribute, and the more you grow with the ecosystem.\n\nThere isn’t just one way to win here. There are many.\n\nIt all depends on how far you want to take it.",
+    "rewardName": "NFT available to Airdrop",
+    "startTime": 1774839600,
+    "endTime": 1775617200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCFTMtY98N"
   },
   {
     "id": "GCwvMtY1Yx",
@@ -192,22 +224,6 @@
     "url": "https://app.galxe.com/quest/rivrdex/GCWjJtYf1S"
   },
   {
-    "id": "GCpuGtYPGF",
-    "name": "The Olympex Pass is now available to mint.",
-    "description": "Holding your Pass will be one of the key factors considered for future airdrop eligibility, ecosystem rewards, and early access to new tools and token launches inside Olympex.\n\nEarly participants may unlock additional advantages as the ecosystem grows, so this is your moment to secure your position.\n\nMint your Olympex Pass and start building your place in the ecosystem. 🏛️",
-    "rewardName": "mint your pass! ",
-    "startTime": 1774234800,
-    "endTime": 1774926000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCpuGtYPGF"
-  },
-  {
     "id": "GCXQLtYoZB",
     "name": "Mission Sociale : Rejoins la communauté",
     "description": "Commence la mission en rejoignant la communauté Bybit EU 🇫🇷.\n\nDans cette première étape, connecte-toi avec l’écosystème Bybit EU et découvre le contenu partagé par Victor VL.\n\nPour valider cette quête :\n\n- Suis @BybitFr sur X\n\n- Suis Victor VL sur X\n\n- Like, retweete et quote le tweet épinglé sur @BybitFr en taguant 3 amis\n\n- Regarde une vidéo de Victor VL\n\nUne fois toutes les actions complétées, tu pourras passer à la prochaine étape de la mission.",
@@ -222,22 +238,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCXQLtYoZB"
-  },
-  {
-    "id": "GCA3FtY8ra",
-    "name": "RivrDEX is celebrating 50,000 transactions on testnet.",
-    "description": "***It took you exactly 1 month to make 2.5x more transactions while testing our DEX than in the previous month.***\n\nAs of now, more than **50,000** transactions have been completed.\n\nLet’s once again remember which actions you performed most often:\n🔹More than **37,000** swaps were made.\n🔹You added liquidity to pools more than **11,500** times.\n🔹You removed liquidity from pools more than **1,900** times.\n\nThank you all for helping with the testing, and especially for the feedback you continue to leave.\n\nTo celebrate this event, we decided to launch a special quest on Galxe.\n\nThis quest isn’t an easy one, because we created a special quiz that only true experts will be able to complete.\n\nWhat about the rewards?\n🔹Galxe points that determine your place on the leaderboard.\n🔹100 $USDT that will be distributed through a raffle among several lucky winners.\n\nDuration?\n🔹Starts today\n🔹Deadline - March 31 at 12:00 AM\n\nJoin the quest and do your best to get the highest place possible on the leaderboard.\n",
-    "rewardName": "",
-    "startTime": 1772575200,
-    "endTime": 1774904400,
-    "chain": "BSC",
-    "space": {
-      "name": "RivrDEX",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/rivrdex/GCA3FtY8ra"
   },
   {
     "id": "GCFdFtYNdS",
@@ -334,22 +334,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GC59GtYv6j"
-  },
-  {
-    "id": "GCeeGtYxMP",
-    "name": "RivrDEX & SmartCup League partnership campaign",
-    "description": "**Ecosystem Week continues.**\n\nNext up - SmartCup League\nSmartCup League is an on-chain football prediction game. \n\nYou can compete with people from all over the world, aiming to get the highest possible position on the leaderboard and earn rewards for each match.\n\n**Galxe quest is LIVE** 🎁\n✦ Earn Galxe points that will improve your place on the leaderboard\n✦ $50 USDC raffle\n\n✦ Starts today\n✦ Ends March 31",
-    "rewardName": "",
-    "startTime": 1774108800,
-    "endTime": 1774904400,
-    "chain": "BSC",
-    "space": {
-      "name": "RivrDEX",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/rivrdex/GCeeGtYxMP"
   },
   {
     "id": "GCPFCtY9Qs",
