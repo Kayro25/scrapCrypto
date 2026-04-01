@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCLxFtY8Ue",
-    "name": "20,000 USDT GemW March On-Chain Airdrop",
-    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus. \n\nRewards will be distributed based on your UID within 10 business days after the event ends.\n\n🎉GemW March On-Chain Airdrop is LIVE 🎉\n\n1️⃣ Trading Check-in – Share 15,000 USDT\nThe more consecutive trading days, the bigger your reward!\n\n2️⃣ Trading Challenge – Earn 10 USDT\n✅ 7 consecutive days = 5 USDT\n✅ 15 consecutive days = 10 USDT\n\n3️⃣ Invite New Users – Earn up to 50 USDT\nEarn 3 USDT for each new user you invite who joins and participates!\n![en.png](https://appeco.galxe.com/galxe/space/mdresource/84010/dd8d019b-4c03-4941-a3cc-b46d0d04d6b0.png)",
-    "rewardName": "10 USDT Futures Bonus",
-    "startTime": 1772640000,
-    "endTime": 1774972799,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "GemW",
-      "isVerified": true
-    },
-    "score": 11,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/gemw/GCLxFtY8Ue"
-  },
-  {
     "id": "GCf7JtYHgm",
     "name": "Inscription et achat de crypto",
     "description": "Inscris-toi via ce lien :\nhttps://partner.bybit.eu/b/zarchfinance\n\nAchète 100 € de crypto sur Bybit EU afin de recevoir ton bonus de 20 USDC + 20 € en BTC.\n\nUne fois ces tâches réalisées, tu n'as plus qu'à nous transmettre ton UID Bybit EU afin de participer au sort et tenter de gagner une part des 2 500 USDC. \n\nVoici comment retrouver ton UID sur ton compte :\n\nSi tu es sur ton ordinateur, il se trouve en haut à droite de l'écran :\n\n![UID Desktop.png](https://appeco.galxe.com/galxe/space/mdresource/85554/ce738350-d2cf-4b75-bae9-0e8ac1f34824.png)\n\nSi tu es sur l'app Bybit EU, l'UID se trouve à côté de ton avatar :\n\n![UID APP.jpg](https://appeco.galxe.com/galxe/space/mdresource/85554/b7c7e38c-d158-48b4-86b6-d8c5dc5884a7.jpeg)",
@@ -46,22 +30,6 @@
     "score": 10,
     "payout": 85,
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCmmJtYP9N"
-  },
-  {
-    "id": "GC5dJtYoX8",
-    "name": "🎟️ Doma AMA Raffle Countdown to Rides.com",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 50 Season 0 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1774879200,
-    "endTime": 1774965600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GC5dJtYoX8"
   },
   {
     "id": "GCtf3tYo5P",
@@ -112,44 +80,12 @@
     "url": "https://app.galxe.com/quest/lumio/GCVzGtY2sZ"
   },
   {
-    "id": "GCNWLtYx2G",
-    "name": "Mission 3 % : Passe à l’action",
-    "description": "Tu arrives à la dernière étape de la Mission 3 %.\n\nDécouvre les opportunités disponibles sur Bybit EU et complète les actions suivantes pour finaliser la mission.\n\nÉtapes à suivre pour les nouveaux utilisateurs :\n\n- Visite la page de la campagne 3 % sur Bybit EU\n(tu dois être connecté à ton compte pour y accéder)\n\n- Dépose au moins 100 € sur la plateforme via Apple Pay ou Google Pay ou CB classique, ou en crypto. Tu débloqueras 40 € de bonus.  \n\n- Dépose tes EURC sur la pool EURC à 20 % de rendement pendant 7 jours via Bybit Earn.  Seuls les nouveaux utilisateurs Bybit EU peuvent souscrire à cette pool. \n\nAfin de rester éligible au tirage au sort pour une part des 2 500 € en BTC, conserve tes fonds sur Bybit EU jusqu’au 31 mars.\n\nUne fois ces étapes complétées, tu auras terminé toutes les quests de la mission et pourras participer au tirage au sort.\n\nNote importante : Un UID te sera demandé pour ces quêtes. Voici comment le retrouver sur ton compte : \n\nSi tu es sur ton ordinateur, il se trouve en haut à droite de l'écran : \n\n![UID Desktop.png](https://appeco.galxe.com/galxe/space/mdresource/85554/942b39a0-f487-42fe-8ad7-7d517ec54333.png)\n\nSi tu es sur l'app Bybit EU, l'UID se trouve à côté de ton avatar : \n\n![UID APP.jpg](https://appeco.galxe.com/galxe/space/mdresource/85554/69b9bb9f-2286-4ff9-b16f-04173e5eb75b.jpeg)",
-    "rewardName": "40 € en BTC ",
-    "startTime": 1773241200,
-    "endTime": 1774994399,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Bybit EU | France",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/bybit-eu-france/GCNWLtYx2G"
-  },
-  {
-    "id": "GCQsLtYvvb",
-    "name": "Mission Inscription & Vérification",
-    "description": "Rejoins l’écosystème Bybit EU et franchis une nouvelle étape de la mission.\n\nPour valider cette quête :\n\n- Crée ton compte sur Bybit EU\n\n- Complète la vérification d’identité sur la plateforme\n\nUne fois ta vérification d’identité validée, tu débloqueras également un bonus de 5 € en BTC sur ton compte.\n\nLa création de ton compte te permettra aussi d’accéder aux campagnes en cours sur Bybit EU, notamment :\n\n- 3 % d’APY sur tes dépôts\n\n- 20 % d’APR sur l’EURC via Bybit Earn\n\nContinue les prochaines quêtes pour te rapprocher du tirage au sort et tenter de remporter une part des 2 500 € en BTC.\n\nNote importante : Un UID te sera demandé pour ces quêtes. Voici comment le retrouver sur ton compte : \n\nSi tu es sur ton ordinateur, il se trouve en haut à droite de l'écran : \n\n![UID Desktop.png](https://appeco.galxe.com/galxe/space/mdresource/85554/942b39a0-f487-42fe-8ad7-7d517ec54333.png)\n\nSi tu es sur l'app Bybit EU, l'UID se trouve à côté de ton avatar : \n\n![UID APP.jpg](https://appeco.galxe.com/galxe/space/mdresource/85554/69b9bb9f-2286-4ff9-b16f-04173e5eb75b.jpeg)",
-    "rewardName": "5 € en BTC ",
-    "startTime": 1773241200,
-    "endTime": 1774994399,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Bybit EU | France",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/bybit-eu-france/GCQsLtYvvb"
-  },
-  {
-    "id": "GCL43tYRYf",
-    "name": "Doma Point Farmer",
-    "description": "People are crazy about the Leaderboard so let's focus on it this week and be flexible.\n\nEarn 50 Season 0 Leaderboard Points through any platform activity.\n\nYour strategy, your choice.\n\nCredentials update daily around 2PM UTC.",
+    "id": "GCf2JtYbWT",
+    "name": "RIDES.COM PREMIUM LAUNCH",
+    "description": "We are celebrating the launch of Rides.com, on of  our newest premium domains.\n\nTo celebrate we are hosting this quest. All you need to do is create $25 in volume on $rides.com and will qualify for this quest.\n\nSeason 0 ends soon and this might be your last chance to earn points! \n\nCredentials update daily around 1pm UTC.",
     "rewardName": "50 Season 0 Leaderboard Points",
-    "startTime": 1774362600,
-    "endTime": 1774965600,
+    "startTime": 1774965600,
+    "endTime": 1775570400,
     "chain": "ETHEREUM",
     "space": {
       "name": "D3",
@@ -157,7 +93,7 @@
     },
     "score": 9,
     "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCL43tYRYf"
+    "url": "https://app.galxe.com/quest/d3/GCf2JtYbWT"
   },
   {
     "id": "GCn8MtYYLS",
@@ -224,22 +160,6 @@
     "url": "https://app.galxe.com/quest/rivrdex/GCWjJtYf1S"
   },
   {
-    "id": "GCXQLtYoZB",
-    "name": "Mission Sociale : Rejoins la communauté",
-    "description": "Commence la mission en rejoignant la communauté Bybit EU 🇫🇷.\n\nDans cette première étape, connecte-toi avec l’écosystème Bybit EU et découvre le contenu partagé par Victor VL.\n\nPour valider cette quête :\n\n- Suis @BybitFr sur X\n\n- Suis Victor VL sur X\n\n- Like, retweete et quote le tweet épinglé sur @BybitFr en taguant 3 amis\n\n- Regarde une vidéo de Victor VL\n\nUne fois toutes les actions complétées, tu pourras passer à la prochaine étape de la mission.",
-    "rewardName": "Accès à la mission suivante",
-    "startTime": 1773241200,
-    "endTime": 1774994399,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Bybit EU | France",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/bybit-eu-france/GCXQLtYoZB"
-  },
-  {
     "id": "GCFdFtYNdS",
     "name": "Upload your Apple Health data & Grab 20,000 $DATA Points!",
     "description": "**Download and share your anonymized Apple Health data to earn more $DATA points.**\r\n\r\nDescription:\r\n1. Open the Health app on your iOS device.\r\n2. Tap your picture or initials in the top-right corner.\r\n3. Scroll down and tap Export All Health Data.\r\n4. Email or AirDrop the Health Data file to your computer.\r\n5. Upload the .zip archive on this page using the  Upload Health Data button, then click Verify. \r\n6.  After your Health Data is verified, you will receive your $DATA points.",
@@ -288,22 +208,6 @@
     "url": "https://app.galxe.com/quest/dkarbon/GCNsJtYysm"
   },
   {
-    "id": "GCjBJtYk77",
-    "name": "Trade & Earn: Monday Trade Quests are Here!",
-    "description": "Complete weekly tasks on Monday Trade and earn rewards for your activities!\n\nEach week there will be a small change to activities - keep an eye out on the quest board to stay up to date.",
-    "rewardName": "",
-    "startTime": 1774425600,
-    "endTime": 1774944000,
-    "chain": "BASE",
-    "space": {
-      "name": "Web3 Quests",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/web3-quests/GCjBJtYk77"
-  },
-  {
     "id": "GCFP3tYHg4",
     "name": "Follow us on X",
     "description": "With announcements around the corner, Follow is on X and turn on notification.\n\n*Disclaimer:\nParticipation or points earned through Galxe do not count toward any KAIO community allocation, token allocation, or airdrop of any kind. Galxe is used for social engagement and analytics purposes only. For full details and FAQs, please refer to the official Telegram.*",
@@ -350,22 +254,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCPFCtY9Qs"
-  },
-  {
-    "id": "GCcuctYEyV",
-    "name": "Adreva Early Access \"Ad Rebel\" Role",
-    "description": "# New Role Quest — Ad Rebel\n\nWe’ve launched a new Galxe quest to unlock the Ad Rebel role in the Adreva community.\n\nhttps://app.galxe.com/quest/ADREVA\n\nAd Rebel NFT — Coming Next\n\n### The Ad Rebel role will be required to claim the upcoming **Ad Rebel NFT**.\n\nThis NFT design will be modeled after the winners of the ongoing Community Creative Competitions, which stop accepting submissions on March 14.\n\nhttps://app.galxe.com/quest/ADREVA/GCbnFtYrYM\n\nOnce the design submissions have been voted on by the community and the winners finalized - the **Ad Rebel NFT claim quest will open for** **Ad Rebel role holders ONLY.**\n\n## Important Update on Previous Rewards\n\nThe following early launch rewards are no longer available:\n\n- **Ad Warrior Discord role** is no longer available to claim.\n- **Ad Warrior NFT** — 2,194 issued\n- **Proof of Attention (POA) NFT** — 1,826 issued\n\nThese were part of Adreva launch week and will no longer be issued going forward.\n\n**The Ad Rebel role now replaces it as the primary gateway role for future campaigns, rewards, and NFT claims.**\n\n## On-Chain Records\n\n**Ad Warrior NFT**\nhttps://basescan.org/token/0xe118ddb1ced180be869975c4879e71af7f1bb746\n\n**Proof of Attention POAP**\nhttps://basescan.org/token/0x7f9d42dae943d38fed838ccf959e56f455c4321a\n\n## What This Means\n\nThe \"Ad Rebel\" role becomes the new user gateway for upcoming campaigns, rewards, and NFT claims in the Adreva ecosystem.\n\n## Complete the quest and join the rebellion.",
-    "rewardName": "",
-    "startTime": 1773298800,
-    "endTime": 1774940400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCcuctYEyV"
   },
   {
     "id": "GCQ1LtYkCf",
