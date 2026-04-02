@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCypntYRt2",
+    "name": "Get USDT Rewards + up to annual 30% KAIA bonus rewards",
+    "description": "Join Unifi & start depositing to unlock extra USDT rewards. Limited to the first 100 users only ⏳\n\nPlus, don’t miss the ongoing KAIA bonus campaign on Unifi and maximize your earnings 🔥**",
+    "rewardName": "USDT",
+    "startTime": 1774972800,
+    "endTime": 1775577540,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Unifi",
+      "isVerified": true
+    },
+    "score": 11,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/unifi/GCypntYRt2"
+  },
+  {
     "id": "GCf7JtYHgm",
     "name": "Inscription et achat de crypto",
     "description": "Inscris-toi via ce lien :\nhttps://partner.bybit.eu/b/zarchfinance\n\nAchète 100 € de crypto sur Bybit EU afin de recevoir ton bonus de 20 USDC + 20 € en BTC.\n\nUne fois ces tâches réalisées, tu n'as plus qu'à nous transmettre ton UID Bybit EU afin de participer au sort et tenter de gagner une part des 2 500 USDC. \n\nVoici comment retrouver ton UID sur ton compte :\n\nSi tu es sur ton ordinateur, il se trouve en haut à droite de l'écran :\n\n![UID Desktop.png](https://appeco.galxe.com/galxe/space/mdresource/85554/ce738350-d2cf-4b75-bae9-0e8ac1f34824.png)\n\nSi tu es sur l'app Bybit EU, l'UID se trouve à côté de ton avatar :\n\n![UID APP.jpg](https://appeco.galxe.com/galxe/space/mdresource/85554/b7c7e38c-d158-48b4-86b6-d8c5dc5884a7.jpeg)",
@@ -160,20 +176,100 @@
     "url": "https://app.galxe.com/quest/rivrdex/GCWjJtYf1S"
   },
   {
-    "id": "GCFdFtYNdS",
-    "name": "Upload your Apple Health data & Grab 20,000 $DATA Points!",
-    "description": "**Download and share your anonymized Apple Health data to earn more $DATA points.**\r\n\r\nDescription:\r\n1. Open the Health app on your iOS device.\r\n2. Tap your picture or initials in the top-right corner.\r\n3. Scroll down and tap Export All Health Data.\r\n4. Email or AirDrop the Health Data file to your computer.\r\n5. Upload the .zip archive on this page using the  Upload Health Data button, then click Verify. \r\n6.  After your Health Data is verified, you will receive your $DATA points.",
+    "id": "GC2zMtYP9b",
+    "name": "Stable × Frax × IQ Community Partnership",
+    "description": "Frax, IQ, and StableChain are joining forces for a community partnership campaign on Galxe.\n\nThis collaboration brings together leading builders across stablecoins, AI, and payment infrastructure to drive ecosystem growth and user adoption.\n\nParticipants will have the opportunity to engage with all three communities, complete tasks, and earn rewards across the ecosystem.\n\nStable is a USD₮-native Layer 1 powering StableChain, designed for agentic payments with fast settlement, low fees, and predictable costs. Supported by Bitfinex, PayPal Ventures, and the USDT0.\n\nFrax is building the most scalable stablecoin infrastructure for the next generation of finance.\nIQ powers onchain AI agents with the IQ token and launched KRWQ, the first Korean won stablecoin.",
     "rewardName": "",
-    "startTime": 1772485200,
-    "endTime": 1775163600,
+    "startTime": 1774969200,
+    "endTime": 1775574000,
     "chain": "ETHEREUM",
     "space": {
-      "name": "DataHive AI",
+      "name": "Stable",
       "isVerified": true
     },
-    "score": 6,
+    "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/datahive-ai/GCFdFtYNdS"
+    "url": "https://app.galxe.com/quest/stable/GC2zMtYP9b"
+  },
+  {
+    "id": "GCudntYTzJ",
+    "name": "WINGBITS X ADREVA (WAC#1)",
+    "description": "Wingbits is a decentralized physical infrastructure network (DePIN) that is revolutionizing flight tracking. By using blockchain-based incentives on Solana, Wingbits empowers a global community to host antennas that collect real-time aviation data, creating a more accurate and secure alternative to traditional centralized systems.\n\nOfficial Links:\n🌐 Website: https://wingbits.com/?utm_source=adreva\n🗺️ Real-Time Global Flight Tracking: https://wingbits.com/map?lat=2.53254&lon=8.92555&zoom=4.0\n📄 Litepaper: https://docs.wingbits.com/\n✖️ Twitter/X: https://x.com/wingbits?s=21s. \n\nEarn rewards.",
+    "rewardName": "",
+    "startTime": 1775026800,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCudntYTzJ"
+  },
+  {
+    "id": "GCrcntYTsz",
+    "name": "JUST ENTROPY X ADREVA (WAC#1)",
+    "description": "Just Entropy is a unique \"Pure DePIN\" and mineable memecoin project on Solana that turns the concept of \"mining nothing\" into a global network. Built with a \"miners eat first\" philosophy, it rewards participants for generating entropy (randomness) using specialized hardware, creating a decentralized infrastructure with zero VC funding or founder allocations.\n\nOfficial Links:\n🌐 Website: ENTROPY https://justentropy.lol/\n📊 Console: ENTROPY https://justentropy.lol/console\n✖️ Twitter/X: https://x.com/justentropylol?s=21\n💻 GitHub: justentropy-lol · GitHub https://github.com/justentropy-lols. \n\nEarn rewards.",
+    "rewardName": "",
+    "startTime": 1775026800,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCrcntYTsz"
+  },
+  {
+    "id": "GCuZntY4QP",
+    "name": "UPROCK.COM X ADREVA (WAC#1)",
+    "description": "UpRock is the first mobile-first Decentralized Physical Infrastructure Network (DePIN) that allows users to earn passive rewards by sharing their idle internet bandwidth. With over 2.6 million users, UpRock powers a global data layer that fuels AI innovation and provides uncensored access to real-time information.\n\nOfficial Links:\n🌐 Website: https://uprock.com/\n📄 Whitepaper: https://docs.uprock.com/\n✖️ Twitter/X: https://x.com/uprockcom?s=21\n📱 Download: https://play.google.com/store/apps/details?id=com.uprock.mining&pcampaignid=web_shares.",
+    "rewardName": "",
+    "startTime": 1775026800,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCuZntY4QP"
+  },
+  {
+    "id": "GCqJMtYjax",
+    "name": "UPROCK.AI X ADREVA (WAC#1)",
+    "description": "UpRock is the first mobile-first Decentralized Physical Infrastructure Network (DePIN) that allows users to earn passive rewards by sharing their idle internet bandwidth. With over 2.6 million users, UpRock powers a global data layer that fuels AI innovation and provides uncensored access to real-time information.\n\nOfficial Links:\n🌐 Website: https://uprock.ai\n📄 Whitepaper: https://docs.uprock.com/\n✖️ Twitter/X: https://x.com/uprockcom?s=21\n📱 Download: https://play.google.com/store/apps/details?id=com.uprock.mining&pcampaignid=web_share",
+    "rewardName": "",
+    "startTime": 1775026800,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCqJMtYjax"
+  },
+  {
+    "id": "GCF6MtYsHm",
+    "name": "ROAM X ADREVA (WAC#1)",
+    "description": "Roam is a world-leading Decentralized Physical Infrastructure Network (DePIN) dedicated to revolutionizing global connectivity. By leveraging the OpenRoaming framework, Roam allows users to access over 3.5 million WiFi hotspots across 180+ countries seamlessly and securely, all while earning rewards for building the network.\n\nOfficial Links:\n🌐 Website: https://weroam.xyz/\n📱 App: https://play.google.com/store/apps/details?id=com.dapp.metablox&pcampaignid=web_share\nhttps://apps.apple.com/ng/app/roam-global-esim-wifi/id6443709000\n✖️ Twitter/X: https://x.com/weroamxyz\n📄 Whitepaper: https://weroam.xyz/resources/news",
+    "rewardName": "",
+    "startTime": 1775026800,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCF6MtYsHm"
   },
   {
     "id": "GCyXJtYeeM",
@@ -190,22 +286,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/deriw-finance/GCyXJtYeeM"
-  },
-  {
-    "id": "GCNsJtYysm",
-    "name": "Discover dkarbon - $ 100 USDT",
-    "description": "Dkarbon is building a more transparent and accessible carbon economy, where impact is verifiable and trust is built on real data. 🌱\n\n**This campaign is your starting point.**\n\nDiscover Dkarbon, explore the fundamentals, and join early as we begin shaping a new approach to carbon markets in Web3.\n\nThis is just the beginning. 🌍",
-    "rewardName": "",
-    "startTime": 1774512000,
-    "endTime": 1775077200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Dkarbon",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/dkarbon/GCNsJtYysm"
   },
   {
     "id": "GCFP3tYHg4",
@@ -254,69 +334,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCPFCtY9Qs"
-  },
-  {
-    "id": "GCQ1LtYkCf",
-    "name": "Blockopedia $100 USDT News Quiz Raffle",
-    "description": "Stay updated with the biggest stories shaping crypto, DeFi, and AI.\n\nVisit the featured Blockopedia article, read the update, and answer 3 questions based on the story.\n\nParticipants who complete the quest will be entered into a $100 USDT raffle, with winners selected at the end of the campaign.",
-    "rewardName": "Blockopedia $100 USDT Raffle",
-    "startTime": 1773097200,
-    "endTime": 1775775600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Blockopedia",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/blockopedia/GCQ1LtYkCf"
-  },
-  {
-    "id": "GCP5FtYj5Z",
-    "name": "Upload your Amazon Orders data & Grab 15,000 $DATA Points!",
-    "description": "**Download and share your anonymized Amazon order data to earn more $DATA points.**\n\nDescription\n1. Make sure your DataHive AI extension is online.\n2. Go to https://www.amazon.com and sign in to your Amazon account.\n3. Scroll down to the Manage Your Data section and click Request your data.\n\n![SCR-20260217-nhlk.png](https://appeco.galxe.com/galxe/space/mdresource/84181/09d5ed32-cdbf-4c82-82b8-9bbc3ba5ea0c.png)\n4. On the Request your data page, click Submit Request for Your Orders.\n\n![SCR-20260217-nilw.png](https://appeco.galxe.com/galxe/space/mdresource/84181/4890740a-0e78-474e-930e-69b9ab490d39.png)\n5. You will receive an email with the subject Your Data Request Confirmation. Click the Confirm Data Request button in the email.\n\n![SCR-20260217-njju.png](https://appeco.galxe.com/galxe/space/mdresource/84181/5ff65383-a01b-4913-b867-0b5e5c0fc3dd.png)\n6. Within a few days, you will receive another email with your Amazon data archive. Upload it on this screen using the Upload Amazon Data button, then click Verify.\n7. After we verify your Amazon data, you will receive your $DATA points.",
-    "rewardName": "",
-    "startTime": 1772485200,
-    "endTime": 1775163600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "DataHive AI",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/datahive-ai/GCP5FtYj5Z"
-  },
-  {
-    "id": "GC2CFtYyxJ",
-    "name": "Connect Amazon & Grab 500 $DATA Points!",
-    "description": "Boost your ranking and secure your spot in the upcoming airdrop! By connecting your Amazon account to the DataHive AI dashboard, you will instantly unlock a 500 $DATA points boost. Your contribution helps us crawl high-quality product data, and in return, you earn a direct stake in our ecosystem rewards.\n\nStep-by-Step Guide:\n1. Stay Active: Ensure your DataHive AI extension is installed and online.\n2. Connect: Go to Amazon.com and log in to your account.\n3. Sync: Once logged in, the extension will verify your session.\n4. Claim: Return to this Galxe page to verify the task and collect your 500 points!",
-    "rewardName": "",
-    "startTime": 1772485200,
-    "endTime": 1775163600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "DataHive AI",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/datahive-ai/GC2CFtYyxJ"
-  },
-  {
-    "id": "GCPFFtY7CV",
-    "name": "Start DataHive AI Missions & Claim Your Points Now!",
-    "description": "By sharing anonymized data, you're not just earning points - you're contributing to more accurate, globally representative AI models. Privacy-first, always. Join Hive!",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "DataHive AI",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/datahive-ai/GCPFFtY7CV"
   }
 ]
