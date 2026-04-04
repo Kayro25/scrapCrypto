@@ -101,7 +101,7 @@
     "description": "We are celebrating the launch of Rides.com, on of  our newest premium domains.\n\nTo celebrate we are hosting this quest. All you need to do is create $25 in volume on $rides.com and will qualify for this quest.\n\nSeason 0 ends soon and this might be your last chance to earn points! \n\nCredentials update daily around 1pm UTC.",
     "rewardName": "50 Season 0 Leaderboard Points",
     "startTime": 1774965600,
-    "endTime": 1775570400,
+    "endTime": 1776348000,
     "chain": "ETHEREUM",
     "space": {
       "name": "D3",
@@ -160,6 +160,22 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCFTMtY98N"
   },
   {
+    "id": "GCrJttZgNC",
+    "name": "UPROCK.AI  Early Access",
+    "description": "UpRock is the first mobile-first Decentralized Physical Infrastructure Network (DePIN) that allows users to earn passive rewards by sharing their idle internet bandwidth. With over 2.6 million users, UpRock powers a global data layer that fuels AI innovation and provides uncensored access to real-time information.\n\nOfficial Links:\n🌐 Website: https://uprock.ai\n📄 Whitepaper: https://docs.uprock.com/\n✖️ Twitter/X: https://x.com/uprockcom?s=21\n📱 Download: https://play.google.com/store/apps/details?id=com.uprock.mining&pcampaignid=web_share",
+    "rewardName": "",
+    "startTime": 1775113200,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCrJttZgNC"
+  },
+  {
     "id": "GCwvMtY1Yx",
     "name": "Generate Extra Income with the Partners Program",
     "description": "Mint your Olympex Pass and start accumulating points with every action on the platform. Your activity only counts if you hold the Pass, this is your gateway to future rewards, benefits, and progression.\n\nEarly users are the ones who get positioned first.\n\nWant to go further? You can also apply to the Olympex Partners Program and start generating additional income by bringing new users into the ecosystem.\n\nDon’t wait. Start early.",
@@ -190,6 +206,86 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/rivrdex/GCWjJtYf1S"
+  },
+  {
+    "id": "GCPfUtZngt",
+    "name": "ENTROPY Partner Spotlight",
+    "description": "Just Entropy is a unique \"Pure DePIN\" and mineable memecoin project on Solana that turns the concept of \"mining nothing\" into a global network. Built with a \"miners eat first\" philosophy, it rewards participants for generating entropy (randomness) using specialized hardware, creating a decentralized infrastructure with zero VC funding or founder allocations.\n\nOfficial Links:\n🌐 Website: ENTROPY https://justentropy.lol/\n📊 Console: ENTROPY https://justentropy.lol/console\n✖️ Twitter/X: https://x.com/justentropylol?s=21\n💻 GitHub: justentropy-lol · GitHub https://github.com/justentropy-lols. \n\nEarn rewards.",
+    "rewardName": "",
+    "startTime": 1775199600,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCPfUtZngt"
+  },
+  {
+    "id": "GCbtttZ463",
+    "name": "THE MARIT APP Launch Early Access",
+    "description": "Marit is a personalized wellness and productivity app designed to help you build high-performance habits through smart scheduling. It automates your daily routines for sleep, hydration, and movement so you can focus on being your best self.\n\nOfficial Links:\nWebsite: https://themaritapp.com/?utm_source=adrevas\nTwitter/X: https://x.com/themaritapp\nTelegram: https://t.me/the_marit_app_chat\nInsta: https://www.instagram.com/themaritapp",
+    "rewardName": "",
+    "startTime": 1775199600,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCbtttZ463"
+  },
+  {
+    "id": "GCrKttZg2a",
+    "name": "Earn Passively with UPROCK.COM",
+    "description": "UpRock is the first mobile-first Decentralized Physical Infrastructure Network (DePIN) that allows users to earn passive rewards by sharing their idle internet bandwidth. With over 2.6 million users, UpRock powers a global data layer that fuels AI innovation and provides uncensored access to real-time information.\n\nOfficial Links:\n🌐 Website: https://uprock.ai\n📄 Whitepaper: https://docs.uprock.com/\n✖️ Twitter/X: https://x.com/uprockcom?s=21\n📱 Download: https://play.google.com/store/apps/details?id=com.uprock.mining&pcampaignid=web_share",
+    "rewardName": "",
+    "startTime": 1775113200,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCrKttZg2a"
+  },
+  {
+    "id": "GCGDUtZjr4",
+    "name": "$WINGS Token Generation Event!",
+    "description": "Wingbits is a decentralized physical infrastructure network (DePIN) that is revolutionizing flight tracking. By using blockchain-based incentives on Solana, Wingbits empowers a global community to host antennas that collect real-time aviation data, creating a more accurate and secure alternative to traditional centralized systems.\n\nOfficial Links:\n🌐 Website: https://wingbits.com/?utm_source=adreva\n🗺️ Real-Time Global Flight Tracking: https://wingbits.com/map?lat=2.53254&lon=8.92555&zoom=4.0\n📄 Litepaper: https://docs.wingbits.com/\n✖️ Twitter/X: https://x.com/wingbits?s=21s. \n\nEarn rewards.",
+    "rewardName": "",
+    "startTime": 1775113200,
+    "endTime": 1775631600,
+    "chain": "BASE",
+    "space": {
+      "name": "ADREVA",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/adreva/GCGDUtZjr4"
+  },
+  {
+    "id": "GCa8UtZ3jp",
+    "name": "Hack the Mint: Unlock Your Olympex Pass the Smart Way",
+    "description": "The Olympex Pass mint is now live.\n\nThose who complete these social tasks and win may be eligible to receive it completely free as one of the two rewards.\n\nNow here’s the smart trick.\n\nYou might see the $250 requirement and think you need $250 in capital.\n\nYou don’t.\n\nYou only need $250 in swap volume.\n\nWith as little as $10, you can swap between stablecoins like USDC and USDT multiple times until you reach the required volume.\n\nNo speculative tokens.\nNo risky exposure.\nJust simple stablecoin swaps.\n\nSometimes it’s not about having more money.\nIt’s about knowing how to play smart.\n\nUnlock your Pass, start building your position inside the ecosystem, and let your activity compound over time.",
+    "rewardName": "Mint Your NFT FREE",
+    "startTime": 1775185200,
+    "endTime": 1775962800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCa8UtZ3jp"
   },
   {
     "id": "GCkbUtZTRe",
@@ -334,21 +430,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GC59GtYv6j"
-  },
-  {
-    "id": "GCPFCtY9Qs",
-    "name": "ADREVA Early Access \"Ad Rebel\" NFT",
-    "description": "Complete the quests & claim the Early Access Ad Rebel NFT role + NFT!\n\nNFT Design by our very own Sticker Master @RRTOBI\n\nhttps://x.com/i/status/2029793068141158453",
-    "rewardName": "",
-    "startTime": 1773903600,
-    "endTime": null,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCPFCtY9Qs"
   }
 ]
