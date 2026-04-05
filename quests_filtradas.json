@@ -144,6 +144,22 @@
     "url": "https://app.galxe.com/quest/wheelx-fi/GCn8MtYYLS"
   },
   {
+    "id": "GC57ttZYZ2",
+    "name": "VIZO 200M Tradathon – Galxe Campaign | Earn 300U + 1,000,000 Points",
+    "description": "A 15-day trading competition where skill is the only edge that matters.\n\n200,000,000 VIZO Points & 20,000U per wallet are available for claim. \n\nDesigned for both experienced traders and emerging talent, the Tradathon creates a competitive environment where strategy, execution, and consistency define success.\n\nThe VIZO Tradathon sets a new standard for competitive trading environments — combining accessibility, transparency, and performance-driven rewards. Read more at our official X - @VizoExchange\n",
+    "rewardName": "300 USDT + 1,000,000 $VIZO point",
+    "startTime": 1775327400,
+    "endTime": 1776623400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "VIZO",
+      "isVerified": false
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/vizo/GC57ttZYZ2"
+  },
+  {
     "id": "GCFTMtY98N",
     "name": "Join the Olympex Partners Program and Earn Additional Income 🚀",
     "description": "Getting started is simple:\n• Go to our website\n• Fill out the application form\n• Get approved and start sharing Olympex\n\nBut this goes beyond a typical partner program.\n\nAt Olympex, we reward participation across the entire ecosystem:\n• Earn performance-based revenue as a partner\n• Get rewarded for your on-chain activity inside the platform\n• Increase your benefits through the Olympex Pass NFT, which tracks your volume and referrals\n• Unlock fee discounts and future rewards as your Pass evolves\n• Participate in community activities and engagement campaigns\n\nThe more you use Olympex, the more you contribute, and the more you grow with the ecosystem.\n\nThere isn’t just one way to win here. There are many.\n\nIt all depends on how far you want to take it.",
@@ -174,22 +190,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCrJttZgNC"
-  },
-  {
-    "id": "GCwvMtY1Yx",
-    "name": "Generate Extra Income with the Partners Program",
-    "description": "Mint your Olympex Pass and start accumulating points with every action on the platform. Your activity only counts if you hold the Pass, this is your gateway to future rewards, benefits, and progression.\n\nEarly users are the ones who get positioned first.\n\nWant to go further? You can also apply to the Olympex Partners Program and start generating additional income by bringing new users into the ecosystem.\n\nDon’t wait. Start early.",
-    "rewardName": "Join the Partners Program & Earn",
-    "startTime": 1774580400,
-    "endTime": 1775358000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCwvMtY1Yx"
   },
   {
     "id": "GCWjJtYf1S",
@@ -414,21 +414,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/kaio/GCFP3tYHg4"
-  },
-  {
-    "id": "GC59GtYv6j",
-    "name": "ADREVA Early Access Leaderboard #2",
-    "description": "Join the ADREVA Early Access Leaderboard to compete for prizes and become an early user.",
-    "rewardName": "",
-    "startTime": 1774076400,
-    "endTime": 1775631600,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GC59GtYv6j"
   }
 ]
