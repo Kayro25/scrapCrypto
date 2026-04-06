@@ -160,6 +160,22 @@
     "url": "https://app.galxe.com/quest/vizo/GC57ttZYZ2"
   },
   {
+    "id": "GCjYttZ1cF",
+    "name": "CANDAKA77 Airdrop is LIVE — Complete Tasks, Level Up & Earn CDK77!",
+    "description": "CANDAKA77 (CDK77) is a deflationary ERC-20 utility token built on Ethereum with a fixed supply of **77,000,000** tokens. No new tokens can ever be minted — supply only decreases over time through a **95% burn mechanism** on every exchange.\n\n25% of the total supply (19,250,000 CDK77) is allocated to the community airdrop pool and distributed through a task-based leveling system.\n\n## How It Works\n\nComplete tasks to earn Experience Points (EXP). Accumulate 1,000 EXP to level up and claim CDK77 tokens for every level reached. Normal levels reward **100 CDK77**, while bonus levels (every 20th) reward **200 CDK77**. Reach max level 500 and earn up to **52,500 CDK77** per user.\n\n## What Can You Do with CDK77?\n\n- Trade freely on **Uniswap V2** (CDK77/WETH pair) — 24/7, no intermediary\n- Exchange for platform credits at a fixed rate of **30 CDK77 = 1 Credit**\n- Hold and benefit from increasing scarcity as supply decreases\n- Transfer peer-to-peer to any Ethereum wallet\n\n## Why CDK77 Has Value\n\nEvery platform credit exchange permanently burns **95%** of the tokens used. More users = more burns = less supply = more scarcity. CDK77 is not a speculative token — it is backed by real platform utility with a mathematically deflationary trajectory.\n\n## Token Details\n\n| Property | Value |\n|----------|-------|\n| **Name** | CANDAKA77 (CDK77) |\n| **Network** | Ethereum (ERC-20) |\n| **Total Supply** | 77,000,000 (fixed, non-mintable) |\n| **Airdrop Pool** | 19,250,000 CDK77 (25%) |\n| **Contracts** | Open-source & verified |\n\n## Rules\n\n- One wallet per user (permanent binding)\n- Bot accounts and duplicate entries will be disqualified\n- All tasks are verified via API, server-side checks, or manual review\n- Rewards are distributed through smart contract with signature verification\n\n## Links\n\n- **Website:** [premium.candaka77.com](https://premium.candaka77.com/)\n- **Airdrop:** [premium.candaka77.com/page/airdrop](https://premium.candaka77.com/page/airdrop)\n- **Whitepaper & Roadmap:** [premium.candaka77.com/page/whitepaper](https://premium.candaka77.com/page/whitepaper)\n\n---\n\n*Join the CANDAKA77 ecosystem early. Complete tasks, climb the leaderboard, and earn CDK77 before the airdrop pool runs out!*\n the airdrop pool runs out!\n",
+    "rewardName": "",
+    "startTime": 1775149200,
+    "endTime": 1777482000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Candaka Group",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/candaka-group/GCjYttZ1cF"
+  },
+  {
     "id": "GCFTMtY98N",
     "name": "Join the Olympex Partners Program and Earn Additional Income 🚀",
     "description": "Getting started is simple:\n• Go to our website\n• Fill out the application form\n• Get approved and start sharing Olympex\n\nBut this goes beyond a typical partner program.\n\nAt Olympex, we reward participation across the entire ecosystem:\n• Earn performance-based revenue as a partner\n• Get rewarded for your on-chain activity inside the platform\n• Increase your benefits through the Olympex Pass NFT, which tracks your volume and referrals\n• Unlock fee discounts and future rewards as your Pass evolves\n• Participate in community activities and engagement campaigns\n\nThe more you use Olympex, the more you contribute, and the more you grow with the ecosystem.\n\nThere isn’t just one way to win here. There are many.\n\nIt all depends on how far you want to take it.",
@@ -241,7 +257,7 @@
   },
   {
     "id": "GCrKttZg2a",
-    "name": "Earn Passively with UPROCK.COM",
+    "name": "UPROCK.COM Passive Income",
     "description": "UpRock is the first mobile-first Decentralized Physical Infrastructure Network (DePIN) that allows users to earn passive rewards by sharing their idle internet bandwidth. With over 2.6 million users, UpRock powers a global data layer that fuels AI innovation and provides uncensored access to real-time information.\n\nOfficial Links:\n🌐 Website: https://uprock.ai\n📄 Whitepaper: https://docs.uprock.com/\n✖️ Twitter/X: https://x.com/uprockcom?s=21\n📱 Download: https://play.google.com/store/apps/details?id=com.uprock.mining&pcampaignid=web_share",
     "rewardName": "",
     "startTime": 1775113200,
