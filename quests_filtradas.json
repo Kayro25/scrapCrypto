@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCypntYRt2",
-    "name": "Get USDT Rewards + up to annual 30% KAIA bonus rewards",
-    "description": "Join Unifi & start depositing to unlock extra USDT rewards. Limited to the first 100 users only ⏳\n\nPlus, don’t miss the ongoing KAIA bonus campaign on Unifi and maximize your earnings 🔥**",
-    "rewardName": "USDT",
-    "startTime": 1774972800,
-    "endTime": 1775577540,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Unifi",
-      "isVerified": true
-    },
-    "score": 11,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/unifi/GCypntYRt2"
-  },
-  {
     "id": "GCf7JtYHgm",
     "name": "Inscription et achat de crypto",
     "description": "Inscris-toi via ce lien :\nhttps://partner.bybit.eu/b/zarchfinance\n\nAchète 100 € de crypto sur Bybit EU afin de recevoir ton bonus de 20 USDC + 20 € en BTC.\n\nUne fois ces tâches réalisées, tu n'as plus qu'à nous transmettre ton UID Bybit EU afin de participer au sort et tenter de gagner une part des 2 500 USDC. \n\nVoici comment retrouver ton UID sur ton compte :\n\nSi tu es sur ton ordinateur, il se trouve en haut à droite de l'écran :\n\n![UID Desktop.png](https://appeco.galxe.com/galxe/space/mdresource/85554/ce738350-d2cf-4b75-bae9-0e8ac1f34824.png)\n\nSi tu es sur l'app Bybit EU, l'UID se trouve à côté de ton avatar :\n\n![UID APP.jpg](https://appeco.galxe.com/galxe/space/mdresource/85554/b7c7e38c-d158-48b4-86b6-d8c5dc5884a7.jpeg)",
@@ -126,22 +110,6 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/candaka-group/GCjYttZ1cF"
-  },
-  {
-    "id": "GCFTMtY98N",
-    "name": "Join the Olympex Partners Program and Earn Additional Income 🚀",
-    "description": "Getting started is simple:\n• Go to our website\n• Fill out the application form\n• Get approved and start sharing Olympex\n\nBut this goes beyond a typical partner program.\n\nAt Olympex, we reward participation across the entire ecosystem:\n• Earn performance-based revenue as a partner\n• Get rewarded for your on-chain activity inside the platform\n• Increase your benefits through the Olympex Pass NFT, which tracks your volume and referrals\n• Unlock fee discounts and future rewards as your Pass evolves\n• Participate in community activities and engagement campaigns\n\nThe more you use Olympex, the more you contribute, and the more you grow with the ecosystem.\n\nThere isn’t just one way to win here. There are many.\n\nIt all depends on how far you want to take it.",
-    "rewardName": "NFT available to Airdrop",
-    "startTime": 1774839600,
-    "endTime": 1775617200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCFTMtY98N"
   },
   {
     "id": "GC6tttZFe3",
@@ -304,22 +272,6 @@
     "url": "https://app.galxe.com/quest/deriw-finance/GCkbUtZTRe"
   },
   {
-    "id": "GC2zMtYP9b",
-    "name": "Stable × Frax × IQ Community Partnership",
-    "description": "Frax, IQ, and StableChain are joining forces for a community partnership campaign on Galxe.\n\nThis collaboration brings together leading builders across stablecoins, AI, and payment infrastructure to drive ecosystem growth and user adoption.\n\nParticipants will have the opportunity to engage with all three communities, complete tasks, and earn rewards across the ecosystem.\n\nStable is a USD₮-native Layer 1 powering StableChain, designed for agentic payments with fast settlement, low fees, and predictable costs. Supported by Bitfinex, PayPal Ventures, and the USDT0.\n\nFrax is building the most scalable stablecoin infrastructure for the next generation of finance.\nIQ powers onchain AI agents with the IQ token and launched KRWQ, the first Korean won stablecoin.",
-    "rewardName": "",
-    "startTime": 1774969200,
-    "endTime": 1775574000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Stable",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/stable/GC2zMtYP9b"
-  },
-  {
     "id": "GCudntYTzJ",
     "name": "WINGBITS X ADREVA (WAC#1)",
     "description": "Wingbits is a decentralized physical infrastructure network (DePIN) that is revolutionizing flight tracking. By using blockchain-based incentives on Solana, Wingbits empowers a global community to host antennas that collect real-time aviation data, creating a more accurate and secure alternative to traditional centralized systems.\n\nOfficial Links:\n🌐 Website: https://wingbits.com/?utm_source=adreva\n🗺️ Real-Time Global Flight Tracking: https://wingbits.com/map?lat=2.53254&lon=8.92555&zoom=4.0\n📄 Litepaper: https://docs.wingbits.com/\n✖️ Twitter/X: https://x.com/wingbits?s=21s. \n\nEarn rewards.",
@@ -398,21 +350,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCF6MtYsHm"
-  },
-  {
-    "id": "GCFP3tYHg4",
-    "name": "Follow us on X",
-    "description": "With announcements around the corner, Follow is on X and turn on notification.\n\n*Disclaimer:\nParticipation or points earned through Galxe do not count toward any KAIO community allocation, token allocation, or airdrop of any kind. Galxe is used for social engagement and analytics purposes only. For full details and FAQs, please refer to the official Telegram.*",
-    "rewardName": "",
-    "startTime": 1774238400,
-    "endTime": 1775880000,
-    "chain": "BASE",
-    "space": {
-      "name": "KAIO",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/kaio/GCFP3tYHg4"
   }
 ]
