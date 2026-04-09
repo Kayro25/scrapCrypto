@@ -32,6 +32,70 @@
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCmmJtYP9N"
   },
   {
+    "id": "GCtf3tYo5P",
+    "name": "Inscription et achat de crypto",
+    "description": "1. Inscris-toi sur Bybit EU et vérifie ton identité en utilisant ce lien : \n\nhttps://www.bybit.eu/fr-EU/sign-up?affiliate_id=156183\n\n2. Achète 100 € de crypto pour recevoir ton bonus de 40 €. ",
+    "rewardName": "40 € en BTC",
+    "startTime": 1774285200,
+    "endTime": 1777586399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bybit EU | France",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bybit-eu-france/GCtf3tYo5P"
+  },
+  {
+    "id": "GCpgGtYsKv",
+    "name": "Teste tes connaissances en trading crypto",
+    "description": "Réponds à ce quiz comprenant 2 questions faciles ",
+    "rewardName": "Giveaway 2 500 USDC",
+    "startTime": 1774285200,
+    "endTime": 1777586399,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Bybit EU | France",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bybit-eu-france/GCpgGtYsKv"
+  },
+  {
+    "id": "GCVzGtY2sZ",
+    "name": "Boost Us and Get Rewarded 🕯️",
+    "description": "Boost the Lumio Discord server and **unlock access to an exclusive LP Points raffle.**\nSupport the community, elevate your status as a true Luminary, and claim your chance to **win valuable rewards.**\n\n**Only boosters are eligible.** Power us up and let the rewards flow 🕯️",
+    "rewardName": "1000 LP",
+    "startTime": 1774220400,
+    "endTime": 1777586400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Lumio",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/lumio/GCVzGtY2sZ"
+  },
+  {
+    "id": "GCdVwtZV8S",
+    "name": "Call On Users From Other Bridges, Claim your VIP Card",
+    "description": "WheelX is an AI-powered bridge & swap aggregator that enables cross-chain swapping of any token between multi-chains. We are faster, cheaper and more secure, and also offer commission rewards and XP incentives.\n\nTired of high fees and zero rewards? Switch to WheelX now.\n\nIf you have used any of the designated bridges before, you can directly claim your Bridger VIP Card. We will give you a $1 newcomer bonus, as well as a permanent 20% discount on all fees.\n\nGive it a try and verify your benefits here: \nhttps://wheelx.fi/migrate/",
+    "rewardName": "Bridger VIP Card",
+    "startTime": 1775577600,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "WheelX.fi",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/wheelx-fi/GCdVwtZV8S"
+  },
+  {
     "id": "GCf2JtYbWT",
     "name": "RIDES.COM PREMIUM LAUNCH",
     "description": "We are celebrating the launch of Rides.com, on of  our newest premium domains.\n\nTo celebrate we are hosting this quest. All you need to do is create $25 in volume on $rides.com and will qualify for this quest.\n\nSeason 0 ends soon and this might be your last chance to earn points! \n\nCredentials update daily around 1pm UTC.",
@@ -128,100 +192,20 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC6tttZFe3"
   },
   {
-    "id": "GCrJttZgNC",
-    "name": "UPROCK.AI  Early Access",
-    "description": "UpRock is the first mobile-first Decentralized Physical Infrastructure Network (DePIN) that allows users to earn passive rewards by sharing their idle internet bandwidth. With over 2.6 million users, UpRock powers a global data layer that fuels AI innovation and provides uncensored access to real-time information.\n\nOfficial Links:\n🌐 Website: https://uprock.ai\n📄 Whitepaper: https://docs.uprock.com/\n✖️ Twitter/X: https://x.com/uprockcom?s=21\n📱 Download: https://play.google.com/store/apps/details?id=com.uprock.mining&pcampaignid=web_share",
-    "rewardName": "",
-    "startTime": 1775113200,
-    "endTime": 1775631600,
-    "chain": "BASE",
+    "id": "GChxwtZ1Go",
+    "name": "ReadAide Product Discovery: Explore the Future of Learning",
+    "description": "\n🚀 Dive into ReadAide's ecosystem and unlock your rewards!\n\n![Read Aide Future of Learning.png](https://appeco.galxe.com/galxe/space/mdresource/85776/01dc0ef2-fbca-4940-8ea7-05af33c1c4c7.png)\n\nComplete these simple tasks to explore how ReadAide turns reading into real rewards with $RAIDE.\n\n📋 REQUIRED TASKS:\n✅ Visit ReadAide's Blog page — Read our latest updates and vision\n✅ Retweet our pinned post on X — Spread the word about literacy r![Uploading_3c32d310-0526-4dc7-b919-be79813e69b5]()ewards\n✅ Submit your ReadAide email — Connect your registered account\n\n🎁 REWARD: 100 Points + Eligibility for $RAIDE airdrop\n\n⚡ Tasks update in real-time. Complete all to claim.\n\n#ReadAide #LearnToEarn $RAIDE #Galxe",
+    "rewardName": "Product Explorer",
+    "startTime": 1775586600,
+    "endTime": null,
+    "chain": "ETHEREUM",
     "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCrJttZgNC"
-  },
-  {
-    "id": "GCWjJtYf1S",
-    "name": "100K Transactions Campaign",
-    "description": "**100k transactions. You made that happen.** \n\nNow we're celebrating it - and giving something back.\n\n**The Galxe quest is LIVE** \n◆ Take the quiz — show what you know about RivrDEX\n◆ Climb the leaderboard with Galxe points\n◆ Win from a $100 USDT raffle\n\nLess than 3 months on testnet. The numbers were real. So are the rewards.\n\nThank you - now come claim yours ",
-    "rewardName": "",
-    "startTime": 1774544400,
-    "endTime": 1775682000,
-    "chain": "BSC",
-    "space": {
-      "name": "RivrDEX",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/rivrdex/GCWjJtYf1S"
-  },
-  {
-    "id": "GCPfUtZngt",
-    "name": "ENTROPY Partner Spotlight",
-    "description": "Just Entropy is a unique \"Pure DePIN\" and mineable memecoin project on Solana that turns the concept of \"mining nothing\" into a global network. Built with a \"miners eat first\" philosophy, it rewards participants for generating entropy (randomness) using specialized hardware, creating a decentralized infrastructure with zero VC funding or founder allocations.\n\nOfficial Links:\n🌐 Website: ENTROPY https://justentropy.lol/\n📊 Console: ENTROPY https://justentropy.lol/console\n✖️ Twitter/X: https://x.com/justentropylol?s=21\n💻 GitHub: justentropy-lol · GitHub https://github.com/justentropy-lols. \n\nEarn rewards.",
-    "rewardName": "",
-    "startTime": 1775199600,
-    "endTime": 1775631600,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
+      "name": "ReadAide.com",
+      "isVerified": false
     },
     "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCPfUtZngt"
-  },
-  {
-    "id": "GCbtttZ463",
-    "name": "THE MARIT APP Launch Early Access",
-    "description": "Marit is a personalized wellness and productivity app designed to help you build high-performance habits through smart scheduling. It automates your daily routines for sleep, hydration, and movement so you can focus on being your best self.\n\nOfficial Links:\nWebsite: https://themaritapp.com/?utm_source=adrevas\nTwitter/X: https://x.com/themaritapp\nTelegram: https://t.me/the_marit_app_chat\nInsta: https://www.instagram.com/themaritapp",
-    "rewardName": "",
-    "startTime": 1775199600,
-    "endTime": 1775631600,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCbtttZ463"
-  },
-  {
-    "id": "GCrKttZg2a",
-    "name": "UPROCK.COM Passive Income",
-    "description": "UpRock is the first mobile-first Decentralized Physical Infrastructure Network (DePIN) that allows users to earn passive rewards by sharing their idle internet bandwidth. With over 2.6 million users, UpRock powers a global data layer that fuels AI innovation and provides uncensored access to real-time information.\n\nOfficial Links:\n🌐 Website: https://uprock.ai\n📄 Whitepaper: https://docs.uprock.com/\n✖️ Twitter/X: https://x.com/uprockcom?s=21\n📱 Download: https://play.google.com/store/apps/details?id=com.uprock.mining&pcampaignid=web_share",
-    "rewardName": "",
-    "startTime": 1775113200,
-    "endTime": 1775631600,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCrKttZg2a"
-  },
-  {
-    "id": "GCGDUtZjr4",
-    "name": "$WINGS Token Generation Event!",
-    "description": "Wingbits is a decentralized physical infrastructure network (DePIN) that is revolutionizing flight tracking. By using blockchain-based incentives on Solana, Wingbits empowers a global community to host antennas that collect real-time aviation data, creating a more accurate and secure alternative to traditional centralized systems.\n\nOfficial Links:\n🌐 Website: https://wingbits.com/?utm_source=adreva\n🗺️ Real-Time Global Flight Tracking: https://wingbits.com/map?lat=2.53254&lon=8.92555&zoom=4.0\n📄 Litepaper: https://docs.wingbits.com/\n✖️ Twitter/X: https://x.com/wingbits?s=21s. \n\nEarn rewards.",
-    "rewardName": "",
-    "startTime": 1775113200,
-    "endTime": 1775631600,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCGDUtZjr4"
+    "url": "https://app.galxe.com/quest/readaide-com/GChxwtZ1Go"
   },
   {
     "id": "GCNBttZ7UT",
@@ -272,28 +256,28 @@
     "url": "https://app.galxe.com/quest/deriw-finance/GCkbUtZTRe"
   },
   {
-    "id": "GCudntYTzJ",
-    "name": "WINGBITS X ADREVA (WAC#1)",
-    "description": "Wingbits is a decentralized physical infrastructure network (DePIN) that is revolutionizing flight tracking. By using blockchain-based incentives on Solana, Wingbits empowers a global community to host antennas that collect real-time aviation data, creating a more accurate and secure alternative to traditional centralized systems.\n\nOfficial Links:\n🌐 Website: https://wingbits.com/?utm_source=adreva\n🗺️ Real-Time Global Flight Tracking: https://wingbits.com/map?lat=2.53254&lon=8.92555&zoom=4.0\n📄 Litepaper: https://docs.wingbits.com/\n✖️ Twitter/X: https://x.com/wingbits?s=21s. \n\nEarn rewards.",
+    "id": "GCFP3tYHg4",
+    "name": "Follow us on X",
+    "description": "With announcements around the corner, Follow is on X and turn on notification.\n\n*Disclaimer:\nParticipation or points earned through Galxe do not count toward any KAIO community allocation, token allocation, or airdrop of any kind. Galxe is used for social engagement and analytics purposes only. For full details and FAQs, please refer to the official Telegram.*",
     "rewardName": "",
-    "startTime": 1775026800,
-    "endTime": 1775631600,
+    "startTime": 1774238400,
+    "endTime": 1775880000,
     "chain": "BASE",
     "space": {
-      "name": "ADREVA",
+      "name": "KAIO",
       "isVerified": true
     },
     "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCudntYTzJ"
+    "url": "https://app.galxe.com/quest/kaio/GCFP3tYHg4"
   },
   {
-    "id": "GCrcntYTsz",
-    "name": "JUST ENTROPY X ADREVA (WAC#1)",
-    "description": "Just Entropy is a unique \"Pure DePIN\" and mineable memecoin project on Solana that turns the concept of \"mining nothing\" into a global network. Built with a \"miners eat first\" philosophy, it rewards participants for generating entropy (randomness) using specialized hardware, creating a decentralized infrastructure with zero VC funding or founder allocations.\n\nOfficial Links:\n🌐 Website: ENTROPY https://justentropy.lol/\n📊 Console: ENTROPY https://justentropy.lol/console\n✖️ Twitter/X: https://x.com/justentropylol?s=21\n💻 GitHub: justentropy-lol · GitHub https://github.com/justentropy-lols. \n\nEarn rewards.",
+    "id": "GCPFCtY9Qs",
+    "name": "ADREVA Early Access \"Ad Rebel\" NFT",
+    "description": "Complete the quests & claim the Early Access Ad Rebel NFT role + NFT!\n\nNFT Design by our very own Sticker Master @RRTOBI\n\nhttps://x.com/i/status/2029793068141158453",
     "rewardName": "",
-    "startTime": 1775026800,
-    "endTime": 1775631600,
+    "startTime": 1773903600,
+    "endTime": null,
     "chain": "BASE",
     "space": {
       "name": "ADREVA",
@@ -301,54 +285,6 @@
     },
     "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCrcntYTsz"
-  },
-  {
-    "id": "GCuZntY4QP",
-    "name": "UPROCK.COM X ADREVA (WAC#1)",
-    "description": "UpRock is the first mobile-first Decentralized Physical Infrastructure Network (DePIN) that allows users to earn passive rewards by sharing their idle internet bandwidth. With over 2.6 million users, UpRock powers a global data layer that fuels AI innovation and provides uncensored access to real-time information.\n\nOfficial Links:\n🌐 Website: https://uprock.com/\n📄 Whitepaper: https://docs.uprock.com/\n✖️ Twitter/X: https://x.com/uprockcom?s=21\n📱 Download: https://play.google.com/store/apps/details?id=com.uprock.mining&pcampaignid=web_shares.",
-    "rewardName": "",
-    "startTime": 1775026800,
-    "endTime": 1775631600,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCuZntY4QP"
-  },
-  {
-    "id": "GCqJMtYjax",
-    "name": "UPROCK.AI X ADREVA (WAC#1)",
-    "description": "UpRock is the first mobile-first Decentralized Physical Infrastructure Network (DePIN) that allows users to earn passive rewards by sharing their idle internet bandwidth. With over 2.6 million users, UpRock powers a global data layer that fuels AI innovation and provides uncensored access to real-time information.\n\nOfficial Links:\n🌐 Website: https://uprock.ai\n📄 Whitepaper: https://docs.uprock.com/\n✖️ Twitter/X: https://x.com/uprockcom?s=21\n📱 Download: https://play.google.com/store/apps/details?id=com.uprock.mining&pcampaignid=web_share",
-    "rewardName": "",
-    "startTime": 1775026800,
-    "endTime": 1775631600,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCqJMtYjax"
-  },
-  {
-    "id": "GCF6MtYsHm",
-    "name": "ROAM X ADREVA (WAC#1)",
-    "description": "Roam is a world-leading Decentralized Physical Infrastructure Network (DePIN) dedicated to revolutionizing global connectivity. By leveraging the OpenRoaming framework, Roam allows users to access over 3.5 million WiFi hotspots across 180+ countries seamlessly and securely, all while earning rewards for building the network.\n\nOfficial Links:\n🌐 Website: https://weroam.xyz/\n📱 App: https://play.google.com/store/apps/details?id=com.dapp.metablox&pcampaignid=web_share\nhttps://apps.apple.com/ng/app/roam-global-esim-wifi/id6443709000\n✖️ Twitter/X: https://x.com/weroamxyz\n📄 Whitepaper: https://weroam.xyz/resources/news",
-    "rewardName": "",
-    "startTime": 1775026800,
-    "endTime": 1775631600,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCF6MtYsHm"
+    "url": "https://app.galxe.com/quest/adreva/GCPFCtY9Qs"
   }
 ]
