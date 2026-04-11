@@ -80,22 +80,6 @@
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCpgGtYsKv"
   },
   {
-    "id": "GCVzGtY2sZ",
-    "name": "Boost Us and Get Rewarded 🕯️",
-    "description": "Boost the Lumio Discord server and **unlock access to an exclusive LP Points raffle.**\nSupport the community, elevate your status as a true Luminary, and claim your chance to **win valuable rewards.**\n\n**Only boosters are eligible.** Power us up and let the rewards flow 🕯️",
-    "rewardName": "1000 LP",
-    "startTime": 1774220400,
-    "endTime": 1777586400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Lumio",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/lumio/GCVzGtY2sZ"
-  },
-  {
     "id": "GCdVwtZV8S",
     "name": "Call On Users From Other Bridges, Claim your VIP Card",
     "description": "WheelX is an AI-powered bridge & swap aggregator that enables cross-chain swapping of any token between multi-chains. We are faster, cheaper and more secure, and also offer commission rewards and XP incentives.\n\nTired of high fees and zero rewards? Switch to WheelX now.\n\nIf you have used any of the designated bridges before, you can directly claim your Bridger VIP Card. We will give you a $1 newcomer bonus, as well as a permanent 20% discount on all fees.\n\nGive it a try and verify your benefits here: \nhttps://wheelx.fi/migrate/",
@@ -126,22 +110,6 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/d3/GCf2JtYbWT"
-  },
-  {
-    "id": "GCC7UtZix2",
-    "name": "5000 USDT｜GemW Trading Competition #1",
-    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\nJoin & trade any on-chain token,\nTop 50 traders share 5000 USDT! 💥\n\n[👉 Join Now](https://www.coinw.com/module/gemw-trading-competition)\n![en.png](https://appeco.galxe.com/galxe/space/mdresource/84010/cd6e9990-9d99-4430-8749-8746b1f487d7.png)",
-    "rewardName": "$10 Futures Bonus",
-    "startTime": 1775145600,
-    "endTime": 1775836799,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "GemW",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/gemw/GCC7UtZix2"
   },
   {
     "id": "GCn8MtYYLS",
@@ -302,21 +270,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCa8UtZ3jp"
-  },
-  {
-    "id": "GCFP3tYHg4",
-    "name": "Follow us on X",
-    "description": "With announcements around the corner, Follow is on X and turn on notification.\n\n*Disclaimer:\nParticipation or points earned through Galxe do not count toward any KAIO community allocation, token allocation, or airdrop of any kind. Galxe is used for social engagement and analytics purposes only. For full details and FAQs, please refer to the official Telegram.*",
-    "rewardName": "",
-    "startTime": 1774238400,
-    "endTime": 1775880000,
-    "chain": "BASE",
-    "space": {
-      "name": "KAIO",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/kaio/GCFP3tYHg4"
   }
 ]
