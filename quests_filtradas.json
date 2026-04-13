@@ -80,6 +80,22 @@
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCpgGtYsKv"
   },
   {
+    "id": "GCVzGtY2sZ",
+    "name": "Boost Us and Get Rewarded 🕯️",
+    "description": "Boost the Lumio Discord server and **unlock access to an exclusive LP Points raffle.**\nSupport the community, elevate your status as a true Luminary, and claim your chance to **win valuable rewards.**\n\n**Only boosters are eligible.** Power us up and let the rewards flow 🕯️",
+    "rewardName": "1000 LP",
+    "startTime": 1774220400,
+    "endTime": 1777586400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Lumio",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/lumio/GCVzGtY2sZ"
+  },
+  {
     "id": "GCdVwtZV8S",
     "name": "Call On Users From Other Bridges, Claim your VIP Card",
     "description": "WheelX is an AI-powered bridge & swap aggregator that enables cross-chain swapping of any token between multi-chains. We are faster, cheaper and more secure, and also offer commission rewards and XP incentives.\n\nTired of high fees and zero rewards? Switch to WheelX now.\n\nIf you have used any of the designated bridges before, you can directly claim your Bridger VIP Card. We will give you a $1 newcomer bonus, as well as a permanent 20% discount on all fees.\n\nGive it a try and verify your benefits here: \nhttps://wheelx.fi/migrate/",
