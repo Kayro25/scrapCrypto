@@ -48,6 +48,22 @@
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCmmJtYP9N"
   },
   {
+    "id": "GCXnJtYXBA",
+    "name": "BitMart 500 USDT in BMX Giveaway",
+    "description": "\n🎉 To celebrate the 8th Anniversary of BitMart and 5th Anniversary of Galxe, we're giving away 500 USDT in BMX to our friends on Galxe 💰\n\n🎁 50 lucky partcipants each win 10 USDT in BMX\n\nFollow us & stay tuned - we're bringing more gifts to YOU!🚀\n\n**❗️PLEASE READ❗️**\nYou must have a BitMart Account to receive rewards\nIf you don't have one, please register using this link:\n👉  [https://datasink.bitmart.site/t/Nh](https://datasink.bitmart.site/t/Nh)\n✨ NEWLY registered users may receive up to 14,000 USDT in welcome bonuses",
+    "rewardName": "500 USDT in BMX",
+    "startTime": 1776171600,
+    "endTime": 1777532400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "BitMart Exchange",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bitmart-exchange/GCXnJtYXBA"
+  },
+  {
     "id": "GCdVwtZV8S",
     "name": "Call On Users From Other Bridges, Claim your VIP Card",
     "description": "WheelX is an AI-powered bridge & swap aggregator that enables cross-chain swapping of any token between multi-chains. We are faster, cheaper and more secure, and also offer commission rewards and XP incentives.\n\nTired of high fees and zero rewards? Switch to WheelX now.\n\nIf you have used any of the designated bridges before, you can directly claim your Bridger VIP Card. We will give you a $1 newcomer bonus, as well as a permanent 20% discount on all fees.\n\nGive it a try and verify your benefits here: \nhttps://wheelx.fi/migrate/",
@@ -144,22 +160,6 @@
     "url": "https://app.galxe.com/quest/zbit/GC25wtZLak"
   },
   {
-    "id": "GC6tttZFe3",
-    "name": "NFT Distribution Continues, Engagement Proves Commitment",
-    "description": "Holding your Pass will be one of the key factors considered for future airdrop eligibility, ecosystem rewards, and early access to new tools and token launches inside Olympex.\n\nEarly participants may unlock additional advantages as the ecosystem grows, so this is your moment to secure your position.\n\nMint your Olympex Pass and start building your place in the ecosystem. 🏛️",
-    "rewardName": "Mint Your Pass and Earn",
-    "startTime": 1775444400,
-    "endTime": 1776222000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GC6tttZFe3"
-  },
-  {
     "id": "GCuT4tZvrg",
     "name": "Complete social tasks, earn points - Atomic Wallet",
     "description": "Complete the social tasks below to earn Points for each completed mission.",
@@ -222,5 +222,37 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/readaide-com/GCNBttZ7UT"
+  },
+  {
+    "id": "GCpaJtYFiD",
+    "name": "Check your points on CHECKPOINT",
+    "description": "Welcome, welcome, (*´∇｀)ノ\n\nGood you made it, we are Checkpoint. What you can do with Checkpoint you ask?\n\nWell you can check points for EVM and SVM  addy's. You can also track your points. You can build Apps with it. And very soon you also can trade points with it.\n\nThere is a lot you can do with it, but it's exceptionally valuable if you farm points. It keeps track of all your points in one awesome platform.\n\nComplete the quest, vibe with us, share your feedback and celebrate Galxe's 5 year anniversary!\n\n٩(๑˃̵ᴗ˂̵)و",
+    "rewardName": "",
+    "startTime": 1776153600,
+    "endTime": 1777536000,
+    "chain": "BASE",
+    "space": {
+      "name": "Checkpoint",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/checkpoint/GCpaJtYFiD"
+  },
+  {
+    "id": "GC66JtYBKb",
+    "name": "GALXE 5-YEAR ANNIVERSARY",
+    "description": "Celebrating 5 years of Galxe!\n\n$500 in USDC rewards for raffle winners.\n\nTry out the Doma Protocol by making $50 in volume and locking $25 in liquidity during the quest period.\n\nComplete the tasks for this quest to enter the raffle.\n\nCredentials update daily.",
+    "rewardName": "",
+    "startTime": 1776175200,
+    "endTime": 1777384800,
+    "chain": "BASE",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/d3/GC66JtYBKb"
   }
 ]
