@@ -48,22 +48,6 @@
     "url": "https://app.galxe.com/quest/bybit-eu-france/GCmmJtYP9N"
   },
   {
-    "id": "GCXnJtYXBA",
-    "name": "BitMart 500 USDT in BMX Giveaway",
-    "description": "\n🎉 To celebrate the 8th Anniversary of BitMart and 5th Anniversary of Galxe, we're giving away 500 USDT in BMX to our friends on Galxe 💰\n\n🎁 50 lucky partcipants each win 10 USDT in BMX\n\nFollow us & stay tuned - we're bringing more gifts to YOU!🚀\n\n**❗️PLEASE READ❗️**\nYou must have a BitMart Account to receive rewards\nIf you don't have one, please register using this link:\n👉  [https://datasink.bitmart.site/t/Nh](https://datasink.bitmart.site/t/Nh)\n✨ NEWLY registered users may receive up to 14,000 USDT in welcome bonuses",
-    "rewardName": "500 USDT in BMX",
-    "startTime": 1776171600,
-    "endTime": 1777532400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "BitMart Exchange",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/bitmart-exchange/GCXnJtYXBA"
-  },
-  {
     "id": "GCdVwtZV8S",
     "name": "Call On Users From Other Bridges, Claim your VIP Card",
     "description": "WheelX is an AI-powered bridge & swap aggregator that enables cross-chain swapping of any token between multi-chains. We are faster, cheaper and more secure, and also offer commission rewards and XP incentives.\n\nTired of high fees and zero rewards? Switch to WheelX now.\n\nIf you have used any of the designated bridges before, you can directly claim your Bridger VIP Card. We will give you a $1 newcomer bonus, as well as a permanent 20% discount on all fees.\n\nGive it a try and verify your benefits here: \nhttps://wheelx.fi/migrate/",
@@ -158,6 +142,38 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/zbit/GC25wtZLak"
+  },
+  {
+    "id": "GCUyTtZ5VY",
+    "name": "🎯 zBit Fun Quest for HK web3 Festival 2026  💰 Grab 5 $USDT for Each Winner",
+    "description": "🎯 zBit Fun Quest for HK web3 Festival 2026\n\n💰 Grab 5 $USDT for Each Winner | 5,000 $USDT Reward Pool\nWith #HKWeb3Festival2026 around the corner, zBit is launching a special pre and post event quiz campaign 🎉\nWhether you are attending in Hong Kong or joining online, you are invited to take part 👇\nDuration: April 15 - April 27, UTC+4\n\n\n🧠 zBit Fun Quiz on Galxe\nSpend just 3 minutes to complete it\n🎯 First 1,000 winners share 5,000 $USDT\nThat is 5 $USDT for each user\n\n-\n🎁 More Rewards Await\n\n🎲 600 $USDT Lucky Draw\nDeposit at least 20 USDT to qualify\n20 winners will receive 30 $USDT each\n\n🎁 Limited zBit Exclusive Merch\nOnly for the first 50 qualified winner:\nCumulative trading volume over 5,000 USDT to receive a 200 USDT position voucher\nOver 10,000 USDT to receive zBit apparel merch\nOver 30,000 USDT to receive the zBit trader set, including a power bank, mini fan, and canvas bag\n\n\nDo not miss out before and during the festival. Join now and start earning!\n\nRegister for zBit: https://m.zbit.com/en_US/joinFirend/41093AA",
+    "rewardName": "USDT ",
+    "startTime": 1776225600,
+    "endTime": 1777262400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "zBit",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/zbit/GCUyTtZ5VY"
+  },
+  {
+    "id": "GC4QTtZXhL",
+    "name": "Win $500 — celebrating our launch",
+    "description": "ZEX Genesis Campaign is LIVE 🔥\r\n\r\nEarn points and win $500",
+    "rewardName": "",
+    "startTime": 1776285000,
+    "endTime": 1777581000,
+    "chain": "BASE",
+    "space": {
+      "name": "ZEX",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/zex/GC4QTtZXhL"
   },
   {
     "id": "GCuT4tZvrg",
