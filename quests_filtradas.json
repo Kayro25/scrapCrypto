@@ -16,6 +16,22 @@
     "url": "https://app.galxe.com/quest/wheelx-fi/GCdVwtZV8S"
   },
   {
+    "id": "GCxWztZKHf",
+    "name": "Claim your exclusive 6-month Galxe+ Unlimited",
+    "description": "Claim your exclusive 6-month Galxe+ Unlimited",
+    "rewardName": "a 6-month Galxe+ Unlimited",
+    "startTime": 1776787200,
+    "endTime": 1787328000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Galxe",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/galxe/GCxWztZKHf"
+  },
+  {
     "id": "GCHMhtZgtt",
     "name": "3000 USDT｜GemW Trading Competition #3",
     "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\n**Trade $币安人生 $哈基米 $SIREN $FreedomofMoney\nClimb the ranks, share 3000 USDT 💥**\n\n[👉 Join Now](https://www.coinw.com/module/gemw-trading-competition-03)\n\n![en.png](https://appeco.galxe.com/galxe/space/mdresource/84010/3c580f5b-eb4a-4ce2-840b-c65b3a586dc3.png)",
@@ -30,6 +46,22 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/gemw/GCHMhtZgtt"
+  },
+  {
+    "id": "GCkJztZ17N",
+    "name": "Galxe's Second Airdrop Storm: Double the Rewards, Double the Fun!",
+    "description": "🚀 The top 30 players will split 300 USDT! Earn points and win big prizes! 🚀\r\n\r\n🔥 Event Period: April 23, 6:00 PM – April 30, 6:00 PM (UTC+8)\r\n💰 Prize Pool: 500 USDT will be randomly distributed to the first 100 players who complete the tasks!\r\n\r\n🎯 How to Participate? Complete simple tasks, earn points, and climb the leaderboard!\r\n- Join the official Telegram group\r\n- Follow us on Twitter\r\n",
+    "rewardName": "Echobit Gift Bonus（USDT）",
+    "startTime": 1776938400,
+    "endTime": 1777543200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Echobit",
+      "isVerified": false
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/echobit/GCkJztZ17N"
   },
   {
     "id": "GCjYttZ1cF",
@@ -80,6 +112,54 @@
     "url": "https://app.galxe.com/quest/mova/GCE2htZakN"
   },
   {
+    "id": "GCBxhtZx3U",
+    "name": "BEEP AI - Chapter 3: The Execute — Perp × Prediction × Agent Trade",
+    "description": "Chapter 3 is the conversion chapter of the Odyssey—complete the real trading loop.\nYou will need to finish three types of actions:\n* Create an AI Agent\n* At least 1 Perp trade by AI Agent\n* At least 1 prediction market trade\n\nChapter 3 carries the highest Points weight and will heavily impact both individual and Squad rankings. Later rewards can be settled or redeemed by the project as platform points",
+    "rewardName": "",
+    "startTime": 1776441600,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Beep AI labs",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/beep-ai-labs/GCBxhtZx3U"
+  },
+  {
+    "id": "GCTQLtYnjB",
+    "name": "Blockopedia Daily Alpha Quiz | Team Review",
+    "description": "Draft for team review: daily 3-question quiz based on latest article; weekly leaderboard and raffle-ready flow.",
+    "rewardName": "Blockopedia $100 USDT Raffle",
+    "startTime": 1776969000,
+    "endTime": 1777487400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Blockopedia",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/blockopedia/GCTQLtYnjB"
+  },
+  {
+    "id": "GCwwztZ5P5",
+    "name": "$150K Beep Signal Run - An AI-powered journey on Sui",
+    "description": "Welcome to the Beep Signal Run Campaign, a multi-stage Galxe campaign by Beep\n\nThis campaign is structured into three quests designed to guide users from community entry to real product participation:\n* Complete the Social Quest to qualify for the $10,000 onboarding reward pool\n* Finish Session 1 to qualify for the $70,000 onboarding reward pool\n* Join Session 2 for a chance to share the $70,000 referral and trading reward pool\n\nThe campaign reward pool totals $150,000 worth of Beep Coin, distributed after TGE.\nStart by completing the social tasks, then enter the console, make your first deposit, launch your first agent, and scale your participation through referrals and trading.\n",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Beep AI labs",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/beep-ai-labs/GCwwztZ5P5"
+  },
+  {
     "id": "GCK1ztZvmr",
     "name": "Wingbits $WINGS Token is LIVE",
     "description": "Wingbits is a decentralized physical infrastructure network (DePIN) that is revolutionizing flight tracking. By using blockchain-based incentives on Solana, Wingbits empowers a global community to host antennas that collect real-time aviation data, creating a more accurate and secure alternative to traditional centralized systems.\n\nOfficial Links:\n🌐 Website: https://wingbits.com/?utm_source=adreva\n🗺️ Real-Time Global Flight Tracking: https://wingbits.com/map?lat=2.53254&lon=8.92555&zoom=4.0\n📄 Litepaper: https://docs.wingbits.com/\n✖️ Twitter/X: https://x.com/wingbits?s=21s. \n\nEarn rewards.",
@@ -96,20 +176,20 @@
     "url": "https://app.galxe.com/quest/adreva/GCK1ztZvmr"
   },
   {
-    "id": "GCwJTtZNZV",
-    "name": "🏆 DeriW 周四活动：分享赢取 50 USDT 🏆",
-    "description": "![4月16-23社群周四活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/9395453e-4809-4c95-85cb-64a3c7e57b65.png)\n🏆 DeriW 周四活动：分享赢取 50 USDT 🏆\n\n🎆 DeriW 主网上线第 37 周——累计交易量突破 480 亿美元！\n👥 用户数持续增长：用户总数突破 74,500！\n\n加入 DeriW 专属社群活动，共同庆祝 DeriW 达成新里程碑，赢取 50 美元大奖！\n\n⏰ 活动时间：4月16日 16:00 - 4月23日 16:00（UTC+8）\n💰 奖池金额：50 USDT\n\n🎯 参与方式：\n• 活动期间，在 www.deriw.com/trade 进行交易之后，在 @deriwfinance 聊天频道分享您的盈亏卡片和 DeriW 钱包地址，并带上标签 #AprilPnL（次数不限）\n• 教程：[如何分享盈亏卡片](https://t.me/deriwfinance/127359/169408)\n• 奖励：五位最高盈亏（PnL）的参与者，每人将获得 $10 奖励。\n\n⚠️ 重要规则：\n• 必须包含指定的标签\n• 禁止发布垃圾信息或伪造截图\n• 奖励将在获奖名单公布后的 10 个工作日内发放\n\n为什么选择在 DeriW 进行交易？\n✅ 零资金费率\n✅ 超低交易手续费，仅 0.02%\n✅ 安全、透明、经过审计的环境\n✅ 即时执行 — 无需等待订单撮合\n\n💜 加入社群：@deriwfinance\n🔗 开始交易：www.deriw.com\n\n#DeriWThursday #DeriWAprilShareToEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
-    "rewardName": "50 USDT",
-    "startTime": 1776326400,
-    "endTime": 1776931200,
+    "id": "GCHShtZdPr",
+    "name": "Session 1: Beep Agent Activation",
+    "description": "Launch your first agent and complete the onboarding journey.\n\n**Description**\nComplete the full onboarding flow inside Beep Signal Run to qualify for the $70,000 Session 1 reward pool.\n\n**Task List **\n* Make First Deposit — Deposit more than $10\n* Launch First Agent — Create your first agent\n* First-time trading > $10 (Perp-AI Trading)\n* First-time trading > $5 (AI Predict/ Prediction Market)  \n\n**Completion Note**\nYou must complete all tasks in this quest to qualify for Session 1 rewards.\n",
+    "rewardName": "",
+    "startTime": 1776873600,
+    "endTime": null,
     "chain": "ETHEREUM",
     "space": {
-      "name": "Deriw Finance",
-      "isVerified": false
+      "name": "Beep AI labs",
+      "isVerified": true
     },
     "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/deriw-finance/GCwJTtZNZV"
+    "url": "https://app.galxe.com/quest/beep-ai-labs/GCHShtZdPr"
   },
   {
     "id": "GCUyTtZ5VY",
