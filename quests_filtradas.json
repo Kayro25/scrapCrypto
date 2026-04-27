@@ -16,22 +16,6 @@
     "url": "https://app.galxe.com/quest/wheelx-fi/GCdVwtZV8S"
   },
   {
-    "id": "GCxWztZKHf",
-    "name": "Claim your exclusive 6-month Galxe+ Unlimited",
-    "description": "Claim your exclusive 6-month Galxe+ Unlimited",
-    "rewardName": "a 6-month Galxe+ Unlimited",
-    "startTime": 1776787200,
-    "endTime": 1787328000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Galxe",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/galxe/GCxWztZKHf"
-  },
-  {
     "id": "GCASztZJcu",
     "name": "Mint Your Olympex Pass & Start Earning Points",
     "description": "The Olympex Pass is now live. Mint your NFT and start accumulating points based on your activity on the platform.\n\nComplete this Social Task and combine it with your on-chain activity to increase your eligibility for future rewards and the upcoming airdrop.\n\nYour participation matters. The more you engage, the more you build your position inside the ecosystem.\n\nYou can also explore our roadmap to understand the timeline and how long you have to farm points, both for the token distribution and for future opportunities like Olympians, our investment NFTs designed to share in the platform’s revenue.\n\nStart now. Build early. Stay ahead.",
@@ -78,6 +62,22 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/candaka-group/GCjYttZ1cF"
+  },
+  {
+    "id": "GCJgztZP6F",
+    "name": "🔥 $ASPAD Whitelist Is LIVE – Don’t Miss the Hype 🚀",
+    "description": "Are you ready to catch the next big wave in crypto? 💥\nThe $ASPAD Whitelist campaign is officially LIVE, and the rewards are bigger than ever!\n\n🎁 Get a chance to earn **100 $ASPAD**\n⚡ PLUS 300 CX Points for ALL participants — no exceptions!\n\nThis isn’t just another whitelist — it’s your early access ticket to something huge. Early movers get the edge, and spots won’t last forever! 🏁\n\n🌐 Join the ecosystem early\n💎 Unlock exclusive rewards and advantages\n🚀 Ride the hype and be part of the future\n\n⏳ Limited-time campaign — opportunities don’t wait… they disappear!\nJump in now and secure your place in the $ASPAD journey!",
+    "rewardName": "Atlaspad WL",
+    "startTime": 1777233600,
+    "endTime": 1777582800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Atlaspad",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/atlaspad/GCJgztZP6F"
   },
   {
     "id": "GCT6ztZQe7",
@@ -190,22 +190,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/beep-ai-labs/GCHShtZdPr"
-  },
-  {
-    "id": "GCUyTtZ5VY",
-    "name": "🎯 zBit Fun Quest for HK web3 Festival 2026  💰 Grab 5 $USDT for Each Winner",
-    "description": "🎯 zBit Fun Quest for HK web3 Festival 2026\n\n💰 Grab 5 $USDT for Each Winner | 5,000 $USDT Reward Pool\nWith #HKWeb3Festival2026 around the corner, zBit is launching a special pre and post event quiz campaign 🎉\nWhether you are attending in Hong Kong or joining online, you are invited to take part 👇\nDuration: April 15 - April 27, UTC+4\n\n\n🧠 zBit Fun Quiz on Galxe\nSpend just 3 minutes to complete it\n🎯 First 1,000 winners share 5,000 $USDT\nThat is 5 $USDT for each user\n\n-\n🎁 More Rewards Await\n\n🎲 600 $USDT Lucky Draw\nDeposit at least 20 USDT to qualify\n20 winners will receive 30 $USDT each\n\n🎁 Limited zBit Exclusive Merch\nOnly for the first 50 qualified winner:\nCumulative trading volume over 5,000 USDT to receive a 200 USDT position voucher\nOver 10,000 USDT to receive zBit apparel merch\nOver 30,000 USDT to receive the zBit trader set, including a power bank, mini fan, and canvas bag\n\n\nDo not miss out before and during the festival. Join now and start earning!\n\nRegister for zBit: https://m.zbit.com/en_US/joinFirend/41093AA",
-    "rewardName": "USDT ",
-    "startTime": 1776225600,
-    "endTime": 1777262400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "zBit",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/zbit/GCUyTtZ5VY"
   },
   {
     "id": "GC4QTtZXhL",
