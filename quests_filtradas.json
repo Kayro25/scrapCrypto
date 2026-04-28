@@ -16,6 +16,38 @@
     "url": "https://app.galxe.com/quest/wheelx-fi/GCdVwtZV8S"
   },
   {
+    "id": "GCuPdtZ6dN",
+    "name": "Build Early. Earn More.",
+    "description": "This is where early contributors get recognized. Complete the social tasks, support the ecosystem, and stay active.\n\nYour participation will not go unnoticed. Users who contribute consistently will be prioritized in upcoming rewards, including the Olympians launch, the $NECTAR token, and future airdrops.\n\nThis is not just about completing tasks. It is about positioning early in the Olympex ecosystem.\n\nStart now.",
+    "rewardName": "NFT and Aidrop Reward",
+    "startTime": 1777258800,
+    "endTime": 1778122800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCuPdtZ6dN"
+  },
+  {
+    "id": "GCPphtZh2w",
+    "name": "3000 USDT｜GemW Trading Competition #4",
+    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\nTrade $币安人生 $4 $PENGU $Fartcoin\nClimb the ranks, share 3000 USDT 💥\n\n[👉 Join Now](https://www.coinw.com/module/gemw-trading-competition-04)\n![EN - 1080X1080.png](https://appeco.galxe.com/galxe/space/mdresource/84010/39bb0122-1f91-4f86-9d41-116311ba0c99.png)",
+    "rewardName": "$10 Futures Bonus",
+    "startTime": 1777219200,
+    "endTime": 1777651199,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "GemW",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/gemw/GCPphtZh2w"
+  },
+  {
     "id": "GCASztZJcu",
     "name": "Mint Your Olympex Pass & Start Earning Points",
     "description": "The Olympex Pass is now live. Mint your NFT and start accumulating points based on your activity on the platform.\n\nComplete this Social Task and combine it with your on-chain activity to increase your eligibility for future rewards and the upcoming airdrop.\n\nYour participation matters. The more you engage, the more you build your position inside the ecosystem.\n\nYou can also explore our roadmap to understand the timeline and how long you have to farm points, both for the token distribution and for future opportunities like Olympians, our investment NFTs designed to share in the platform’s revenue.\n\nStart now. Build early. Stay ahead.",
@@ -128,6 +160,22 @@
     "url": "https://app.galxe.com/quest/beep-ai-labs/GCBxhtZx3U"
   },
   {
+    "id": "GCrKdtZYyA",
+    "name": "Session 1.5: Beep Agent Trading",
+    "description": "Description\nComplete the full onboarding flow inside Beep Signal Run to qualify for the $20,000 Session 1.5 reward pool.\n\nTask List\n\n* First-time trading > $10 (Perp-AI Trading)\n* First-time trading > $5 (AI Predict / Prediction Market)\n\nCompletion Note\nComplete any one task to qualify for a share of the reward pool. The more tasks you complete, the larger your share.",
+    "rewardName": "",
+    "startTime": 1777219200,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Beep AI labs",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/beep-ai-labs/GCrKdtZYyA"
+  },
+  {
     "id": "GCTQLtYnjB",
     "name": "Blockopedia Daily Alpha Quiz | Team Review",
     "description": "Draft for team review: daily 3-question quiz based on latest article; weekly leaderboard and raffle-ready flow.",
@@ -146,7 +194,7 @@
   {
     "id": "GCwwztZ5P5",
     "name": "$150K Beep Signal Run - An AI-powered journey on Sui",
-    "description": "Welcome to the Beep Signal Run Campaign, a multi-stage Galxe campaign by Beep\n\nThis campaign is structured into three quests designed to guide users from community entry to real product participation:\n* Complete the Social Quest to qualify for the $10,000 onboarding reward pool\n* Finish Session 1 to qualify for the $70,000 onboarding reward pool\n* Join Session 2 for a chance to share the $70,000 referral and trading reward pool\n\nThe campaign reward pool totals $150,000 worth of Beep Coin, distributed after TGE.\nStart by completing the social tasks, then enter the console, make your first deposit, launch your first agent, and scale your participation through referrals and trading.\n",
+    "description": "Welcome to the Beep Signal Run Campaign, a multi-stage Galxe campaign by Beep\n\nThis campaign is structured into three quests designed to guide users from community entry to real product participation:\n* Complete the Social Quest to qualify for the $10,000 onboarding reward pool\n* Finish Session 1 to qualify for the $50,000 onboarding reward pool\n* Join Session 1.5 for a chance to share the $20,000 reward pool\n* Join Session 2 for a chance to share the $70,000 referral and trading reward pool\n\nThe campaign reward pool totals $150,000 worth of Beep Coin, distributed after TGE.\nStart by completing the social tasks, then enter the console, make your first deposit, launch your first agent, and scale your participation through referrals and trading.\n",
     "rewardName": "",
     "startTime": null,
     "endTime": null,
@@ -178,7 +226,7 @@
   {
     "id": "GCHShtZdPr",
     "name": "Session 1: Beep Agent Activation",
-    "description": "Launch your first agent and complete the onboarding journey.\n\n**Description**\nComplete the full onboarding flow inside Beep Signal Run to qualify for the $70,000 Session 1 reward pool.\n\n**Task List **\n* Make First Deposit — Deposit more than $10\n* Launch First Agent — Create your first agent\n* First-time trading > $10 (Perp-AI Trading)\n* First-time trading > $5 (AI Predict/ Prediction Market)  \n\n**Completion Note**\nYou must complete all tasks in this quest to qualify for Session 1 rewards.\n",
+    "description": "Launch your first agent and complete the onboarding journey.\n\n**Description**\nComplete the full onboarding flow inside Beep Signal Run to qualify for the $50,000 Session 1 reward pool.\n\n**Task List **\n* Make First Deposit — Deposit more than $10\n* Launch First Agent — Create your first agent\n\n\n**Completion Note**\nYou must complete all tasks in this quest to qualify for Session 1 rewards.\n",
     "rewardName": "",
     "startTime": 1776873600,
     "endTime": null,
