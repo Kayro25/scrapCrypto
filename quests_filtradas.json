@@ -16,6 +16,38 @@
     "url": "https://app.galxe.com/quest/wheelx-fi/GCdVwtZV8S"
   },
   {
+    "id": "GCfogtZ4wT",
+    "name": "Airdrop Coming in Q4 - OMG!!!",
+    "description": "\nThe Olympex airdrop is expected to launch alongside several exciting upcoming features, with the release planned for Q4.\n\nThat means users still have time to accumulate points, stay active, and mint the Olympex Pass NFT to increase their eligibility for future rewards.\n\nThe earlier you participate, the stronger your position in the ecosystem.\n\nComplete the task, collect points, and get ready for what is coming next.\n",
+    "rewardName": "Airdrop Q4",
+    "startTime": 1777431600,
+    "endTime": 1778295600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCfogtZ4wT"
+  },
+  {
+    "id": "GCRudtZXoE",
+    "name": "Lumio Golden Ticket Raffle IS BACK!",
+    "description": "The more TICKET you hold, the HIGHER your chances of winning",
+    "rewardName": "Total Prize Pool",
+    "startTime": 1777417200,
+    "endTime": 1778022000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Lumio",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/lumio/GCRudtZXoE"
+  },
+  {
     "id": "GCuPdtZ6dN",
     "name": "Build Early. Earn More.",
     "description": "This is where early contributors get recognized. Complete the social tasks, support the ecosystem, and stay active.\n\nYour participation will not go unnoticed. Users who contribute consistently will be prioritized in upcoming rewards, including the Olympians launch, the $NECTAR token, and future airdrops.\n\nThis is not just about completing tasks. It is about positioning early in the Olympex ecosystem.\n\nStart now.",
@@ -128,22 +160,6 @@
     "url": "https://app.galxe.com/quest/alphax-dex/GCT6ztZQe7"
   },
   {
-    "id": "GCZphtZAUw",
-    "name": "Generate Extra Income",
-    "description": "Mint your Olympex Pass and start accumulating points with every action on the platform. Your activity only counts if you hold the Pass, this is your gateway to future rewards, benefits, and progression.\n\nEarly users are the ones who get positioned first.\n\nWant to go further? You can also apply to the Olympex Partners Program and start generating additional income by bringing new users into the ecosystem.\n\nDon’t wait. Start early.\n\n\nhttps://app.olympex.io/partners/",
-    "rewardName": "Partner Program Earn 40%",
-    "startTime": 1776740400,
-    "endTime": 1777518000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "the Olimpus of DeFi",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCZphtZAUw"
-  },
-  {
     "id": "GCBxhtZx3U",
     "name": "BEEP AI - Chapter 3: The Execute — Perp × Prediction × Agent Trade",
     "description": "Chapter 3 is the conversion chapter of the Odyssey—complete the real trading loop.\nYou will need to finish three types of actions:\n* Create an AI Agent\n* At least 1 Perp trade by AI Agent\n* At least 1 prediction market trade\n\nChapter 3 carries the highest Points weight and will heavily impact both individual and Squad rankings. Later rewards can be settled or redeemed by the project as platform points",
@@ -158,6 +174,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/beep-ai-labs/GCBxhtZx3U"
+  },
+  {
+    "id": "GC1KgtZzDA",
+    "name": "XStable $10,000 USDT Giveaway",
+    "description": "![XStable_x_4_29_1.png](https://appeco.galxe.com/galxe/space/mdresource/85942/d09cfd91-f231-4c35-9fa9-132a6cbddac4.png)",
+    "rewardName": "XStable 20 USDT Futures Bonus",
+    "startTime": 1777392000,
+    "endTime": 1780156800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "XStableRWA",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/xstablerwa/GC1KgtZzDA"
   },
   {
     "id": "GCEkdtZ2Ay",
@@ -206,22 +238,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/beep-ai-labs/GCrKdtZYyA"
-  },
-  {
-    "id": "GCTQLtYnjB",
-    "name": "Blockopedia Daily Alpha Quiz | Team Review",
-    "description": "Draft for team review: daily 3-question quiz based on latest article; weekly leaderboard and raffle-ready flow.",
-    "rewardName": "Blockopedia $100 USDT Raffle",
-    "startTime": 1776969000,
-    "endTime": 1777487400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Blockopedia",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/blockopedia/GCTQLtYnjB"
   },
   {
     "id": "GCwwztZ5P5",
@@ -302,5 +318,21 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/readaide-com/GChxwtZ1Go"
+  },
+  {
+    "id": "GCNBttZ7UT",
+    "name": "📖 ReadAide Explorer: Create Your Account & Start Your Reading Journey",
+    "description": "🚀 Welcome to the ReadAide Onboarding Quest!\n\n![ReadAAde_CreateAccount.png](https://appeco.galxe.com/galxe/space/mdresource/85776/974e13d2-c3a7-4a8f-b593-5dc4673f9063.png)\n\nReadAide is a phonics-powered platform designed to help users learn, improve, and master reading skills through interactive tools and guided lessons.\n\n🎯 Your Mission: Create your free account on ReadAide and take the first step toward unlocking a smarter, more effective way to read.\n\n📝 How to Complete This Quest:\n\n1️⃣ Visit the official ReadAide platform 👉 https://readaide.com\n2️⃣ Click on \"Log \" or \"Get Started\"\n3️⃣ Enter your details (email, username, password) or login via gmail and complete the registration process\n4️⃣ Log into your new ReadAide account and explore the dashboard\n6️⃣ Return here and claim your reward! 🎁\n\n🌟 Why ReadAide?\n\n📚 Phonics-based learning tools to build strong reading foundations\n🧠 AI-assisted features for personalized reading improvement\n🌍 Accessible from anywhere — learn at your own pace\n⚡ Clean, intuitive interface built for learners of all levels\n\n⚠️ Quest Rules:\n\n1. You must create a new, genuine account on ReadAide.com\n2. Each wallet/user may only complete this quest once\n3. Duplicate or bot accounts will be disqualified ❌\n\n\n🔗 Useful Links:\n\n🌐 Platform: https://readaide.com\n\n\n💡 ReadAide is on a mission to make reading accessible, effective, and enjoyable for everyone. Join the community today and earn rewards while you learn!\n\n🏆 Reward: Complete the quest to earn your 100 ReadAide Points!",
+    "rewardName": "ReadAide Pioneer",
+    "startTime": 1775327400,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "ReadAide.com",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/readaide-com/GCNBttZ7UT"
   }
 ]
