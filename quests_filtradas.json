@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCqrgtZGiM",
+    "name": "Special Giveaway MWX",
+    "description": "We're launching a special giveaway for the our community 🎁\n\nHow to participate:\n\n1. Follow X @mwx_ai\n2. Go to https://mwxalpha.com/ and register via Early Access\n3. Input the redeem code: MWXAlpha99\n\n⏳ Giveaway ends on May 10, 2026",
+    "rewardName": "MWX WHITELIST",
+    "startTime": 1777885200,
+    "endTime": 1778403600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "MWX",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/mwx/GCqrgtZGiM"
+  },
+  {
     "id": "GCdVwtZV8S",
     "name": "Call On Users From Other Bridges, Claim your VIP Card",
     "description": "WheelX is an AI-powered bridge & swap aggregator that enables cross-chain swapping of any token between multi-chains. We are faster, cheaper and more secure, and also offer commission rewards and XP incentives.\n\nTired of high fees and zero rewards? Switch to WheelX now.\n\nIf you have used any of the designated bridges before, you can directly claim your Bridger VIP Card. We will give you a $1 newcomer bonus, as well as a permanent 20% discount on all fees.\n\nGive it a try and verify your benefits here: \nhttps://wheelx.fi/migrate/",
@@ -14,6 +30,22 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/wheelx-fi/GCdVwtZV8S"
+  },
+  {
+    "id": "GCn9gtZHZS",
+    "name": "Don’t miss this. Early partners always win first ⚡️",
+    "description": "Join the Olympex Partners Program and unlock multiple reward layers 🚀\n\n• Earn rewards by completing social tasks on Galxe\n• Get access to partner incentives and commissions 💰\n• Become eligible to mint your Olympex Pass NFT 🎟️\n• Position yourself for the upcoming $NECTAR airdrop 🍯\n\nThe earlier you join, the more you accumulate.\n\nThis isn’t just a task.\nIt’s your entry point into the ecosystem.\n\nhttps://app.olympex.io/partners/\n",
+    "rewardName": "Airdrop Whitelist ",
+    "startTime": 1777863600,
+    "endTime": 1778727600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCn9gtZHZS"
   },
   {
     "id": "GCpXgtZgeX",
