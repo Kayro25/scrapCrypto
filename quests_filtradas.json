@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCqCgtZCn2",
+    "name": "Giveaway MWX x Numbers Protocol",
+    "description": "To celebrate this collaboration, we're launching a special giveaway for the our community 🎁\n\nHow to participate:\n\n1. Follow X @mwx_ai and @numbersprotocol\n2. Go to https://mwxalpha.com and register via Early Access\n3. Input the redeem code: MWXxNumbers13\n\n⏳ Giveaway ends on May 10, 2026",
+    "rewardName": "WHITELIST",
+    "startTime": 1777971600,
+    "endTime": 1778403600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "MWX",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/mwx/GCqCgtZCn2"
+  },
+  {
     "id": "GCqrgtZGiM",
     "name": "Special Giveaway MWX",
     "description": "We're launching a special giveaway for the our community 🎁\n\nHow to participate:\n\n1. Follow X @mwx_ai\n2. Go to https://mwxalpha.com/ and register via Early Access\n3. Input the redeem code: MWXAlpha99\n\n⏳ Giveaway ends on May 10, 2026",
@@ -14,22 +30,6 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/mwx/GCqrgtZGiM"
-  },
-  {
-    "id": "GCdVwtZV8S",
-    "name": "Call On Users From Other Bridges, Claim your VIP Card",
-    "description": "WheelX is an AI-powered bridge & swap aggregator that enables cross-chain swapping of any token between multi-chains. We are faster, cheaper and more secure, and also offer commission rewards and XP incentives.\n\nTired of high fees and zero rewards? Switch to WheelX now.\n\nIf you have used any of the designated bridges before, you can directly claim your Bridger VIP Card. We will give you a $1 newcomer bonus, as well as a permanent 20% discount on all fees.\n\nGive it a try and verify your benefits here: \nhttps://wheelx.fi/migrate/",
-    "rewardName": "Bridger VIP Card",
-    "startTime": 1775577600,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "WheelX.fi",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/wheelx-fi/GCdVwtZV8S"
   },
   {
     "id": "GCn9gtZHZS",
@@ -80,22 +80,6 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCfogtZ4wT"
   },
   {
-    "id": "GCRudtZXoE",
-    "name": "Lumio Golden Ticket Raffle IS BACK!",
-    "description": "The more TICKET you hold, the HIGHER your chances of winning",
-    "rewardName": "Total Prize Pool",
-    "startTime": 1777417200,
-    "endTime": 1778022000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Lumio",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/lumio/GCRudtZXoE"
-  },
-  {
     "id": "GCuPdtZ6dN",
     "name": "Build Early. Earn More.",
     "description": "This is where early contributors get recognized. Complete the social tasks, support the ecosystem, and stay active.\n\nYour participation will not go unnoticed. Users who contribute consistently will be prioritized in upcoming rewards, including the Olympians launch, the $NECTAR token, and future airdrops.\n\nThis is not just about completing tasks. It is about positioning early in the Olympex ecosystem.\n\nStart now.",
@@ -110,6 +94,22 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCuPdtZ6dN"
+  },
+  {
+    "id": "GCnegtZPtH",
+    "name": "Early Checker - I",
+    "description": "Checkpoint is launching testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\nA new quest drops every week. Complete tasks and collect a limited NFT each week.\n\nCollect all 9 NFTs. Week 10 has something bigger waiting. Week 1 is live, don't miss it.",
+    "rewardName": "",
+    "startTime": 1777827600,
+    "endTime": 1778432340,
+    "chain": "ARBITRUM",
+    "space": {
+      "name": "Checkpoint",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/checkpoint/GCnegtZPtH"
   },
   {
     "id": "GCfEhtZM4k",
@@ -128,20 +128,52 @@
     "url": "https://app.galxe.com/quest/projectj/GCfEhtZM4k"
   },
   {
-    "id": "GCT6ztZQe7",
-    "name": "Become an AlphaX Telegram member",
-    "description": "Join the AlphaX Telegram with and contribute to AlphaX's vibrant community.\n\nLeave your AlphaX UID so we can send you your reward.\n\n*The 20 USDT reward is 20 USDT * 5x leverage.",
-    "rewardName": "20 USDT Bonus Reward",
-    "startTime": 1776956400,
-    "endTime": 1777993199,
+    "id": "GC9oktZgeB",
+    "name": "Join GIA AI MVP Whitelist (Early Access)",
+    "description": "Be among the first users to access our AI-powered platform.\n\nWe are opening early access to a limited number of users before the official MVP launch. This is your chance to explore our AI agents and features ahead of everyone else.\n\n🔹 What you get:\n• Early access to the AI platform\n• Priority onboarding before public release\n• First look at upcoming features\n\n🔹 How to join:\n• Click the whitelist button\n• Submit your email\n• (Optional) Share your use case\n\n⚠️ Note: This is not a reward-based campaign. We are focusing on users who are genuinely interested in exploring the product.",
+    "rewardName": "Free AI access to the platform o",
+    "startTime": 1778004000,
+    "endTime": 1780077600,
     "chain": "ETHEREUM",
     "space": {
-      "name": "AlphaX_DEX",
+      "name": "Generative Intelligent Assembly (GIA)",
       "isVerified": false
     },
     "score": 6,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/alphax-dex/GCT6ztZQe7"
+    "url": "https://app.galxe.com/quest/generative-intelligent-assembly-gia/GC9oktZgeB"
+  },
+  {
+    "id": "GCi9ktZN5A",
+    "name": "SmartLeCo token $SLCT support event",
+    "description": "![galxe slct.png](https://appeco.galxe.com/galxe/space/mdresource/27818/ee9f90ab-64c3-49f2-817d-5b8108e92c44.png)\nWe have recently migrated to a new contract and are looking to organically expand our community and the number of token holders. To support this growth, we need real trading transactions on DEX ranging from 1 to 10 USDT/USDC.\n\nToken contract (Polygon) 0xd1f48650351a97adca2f9eb3b9a7807be083468d\n\nAs a reward, every participant will receive a +5% bonus in $SLCT tokens based on their balance at the end of the quest. The first 10 participants will receive an enhanced +10% bonus.\n\nThe faster you move, the more you profit! 📈🚀",
+    "rewardName": "Direct SLST token drop to wallet",
+    "startTime": 1777935600,
+    "endTime": 1780182000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "SmartLeCo",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/smartleco/GCi9ktZN5A"
+  },
+  {
+    "id": "GCHgktZmKy",
+    "name": "Claim Your Testnet Access Pass",
+    "description": "*If you do not meet the Galxe requirements to access this quest, you will also be able to obtain the Testnet Access NFT through the Overlayer web app.*\n\n**Claim your Overlayer Testnet Access NFT**\n\nThis NFT unlocks the testnet path, grants the OG Role, and marks your wallet as an early participant in the Overlayer ecosystem.\n\nAs Overlayer grows, this NFT is intended to serve as a long-term identity badge for early supporters, with potential access to future roles, protocol perks, campaign boosts, and exclusive community opportunities.\n\nComplete the readiness steps, mint your Access NFT, and enter the first Overlayer testnet missions.\n",
+    "rewardName": "",
+    "startTime": 1777932000,
+    "endTime": 1782219600,
+    "chain": "BASE",
+    "space": {
+      "name": "Overlayer",
+      "isVerified": true
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/overlayer/GCHgktZmKy"
   },
   {
     "id": "GCBxhtZx3U",
@@ -302,21 +334,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/beep-ai-labs/GCHShtZdPr"
-  },
-  {
-    "id": "GChxwtZ1Go",
-    "name": "ReadAide Product Discovery: Explore the Future of Learning",
-    "description": "\n🚀 Dive into ReadAide's ecosystem and unlock your rewards!\n\n![Read Aide Future of Learning.png](https://appeco.galxe.com/galxe/space/mdresource/85776/01dc0ef2-fbca-4940-8ea7-05af33c1c4c7.png)\n\nComplete these simple tasks to explore how ReadAide turns reading into real rewards with $RAIDE.\n\n📋 REQUIRED TASKS:\n✅ Visit ReadAide's Blog page — Read our latest updates and vision\n✅ Retweet our pinned post on X — Spread the word about literacy r![Uploading_3c32d310-0526-4dc7-b919-be79813e69b5]()ewards\n✅ Submit your ReadAide email — Connect your registered account\n\n🎁 REWARD: 100 Points + Eligibility for $RAIDE airdrop\n\n⚡ Tasks update in real-time. Complete all to claim.\n\n#ReadAide #LearnToEarn $RAIDE #Galxe",
-    "rewardName": "Product Explorer",
-    "startTime": 1775586600,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "ReadAide.com",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/readaide-com/GChxwtZ1Go"
   }
 ]
