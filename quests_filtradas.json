@@ -32,6 +32,22 @@
     "url": "https://app.galxe.com/quest/mwx/GCqrgtZGiM"
   },
   {
+    "id": "GCKHvtZmav",
+    "name": "Lumio  Golden Ticket Raffle",
+    "description": "The more TICKET you hold, the HIGHER your chances of winning",
+    "rewardName": "Total Prize Pool",
+    "startTime": 1778281200,
+    "endTime": 1778886000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Lumio",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/lumio/GCKHvtZmav"
+  },
+  {
     "id": "GCn9gtZHZS",
     "name": "Don’t miss this. Early partners always win first ⚡️",
     "description": "Join the Olympex Partners Program and unlock multiple reward layers 🚀\n\n• Earn rewards by completing social tasks on Galxe\n• Get access to partner incentives and commissions 💰\n• Become eligible to mint your Olympex Pass NFT 🎟️\n• Position yourself for the upcoming $NECTAR airdrop 🍯\n\nThe earlier you join, the more you accumulate.\n\nThis isn’t just a task.\nIt’s your entry point into the ecosystem.\n\nhttps://app.olympex.io/partners/\n",
@@ -53,7 +69,7 @@
     "description": "Checkpoint is launching testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\nA new quest drops every week. Complete tasks and collect a limited NFT each week.\n\nCollect all 9 NFTs. Week 10 has something bigger waiting. Week 1 is live, don't miss it.",
     "rewardName": "",
     "startTime": 1777827600,
-    "endTime": 1778432340,
+    "endTime": 1778454000,
     "chain": "ARBITRUM",
     "space": {
       "name": "Checkpoint",
@@ -126,22 +142,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/generative-intelligent-assembly-gia/GC9oktZgeB"
-  },
-  {
-    "id": "GCi9ktZN5A",
-    "name": "SmartLeCo token $SLCT support event",
-    "description": "![galxe slct.png](https://appeco.galxe.com/galxe/space/mdresource/27818/ee9f90ab-64c3-49f2-817d-5b8108e92c44.png)\nWe have recently migrated to a new contract and are looking to organically expand our community and the number of token holders. To support this growth, we need real trading transactions on DEX ranging from 1 to 10 USDT/USDC.\n\nToken contract (Polygon) 0xd1f48650351a97adca2f9eb3b9a7807be083468d\n\nAs a reward, every participant will receive a +5% bonus in $SLCT tokens based on their balance at the end of the quest. The first 10 participants will receive an enhanced +10% bonus.\n\nThe faster you move, the more you profit! 📈🚀",
-    "rewardName": "Direct SLST token drop to wallet",
-    "startTime": 1777935600,
-    "endTime": 1780182000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "SmartLeCo",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/smartleco/GCi9ktZN5A"
   },
   {
     "id": "GCHgktZmKy",
