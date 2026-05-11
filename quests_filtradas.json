@@ -1,37 +1,5 @@
 [
   {
-    "id": "GCqCgtZCn2",
-    "name": "Giveaway MWX x Numbers Protocol",
-    "description": "To celebrate this collaboration, we're launching a special giveaway for the our community 🎁\n\nHow to participate:\n\n1. Follow X @mwx_ai and @numbersprotocol\n2. Go to https://mwxalpha.com and register via Early Access\n3. Input the redeem code: MWXxNumbers13\n\n⏳ Giveaway ends on May 10, 2026",
-    "rewardName": "WHITELIST",
-    "startTime": 1777971600,
-    "endTime": 1778403600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "MWX",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/mwx/GCqCgtZCn2"
-  },
-  {
-    "id": "GCqrgtZGiM",
-    "name": "Special Giveaway MWX",
-    "description": "We're launching a special giveaway for the our community 🎁\n\nHow to participate:\n\n1. Follow X @mwx_ai\n2. Go to https://mwxalpha.com/ and register via Early Access\n3. Input the redeem code: MWXAlpha99\n\n⏳ Giveaway ends on May 10, 2026",
-    "rewardName": "MWX WHITELIST",
-    "startTime": 1777885200,
-    "endTime": 1778403600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "MWX",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/mwx/GCqrgtZGiM"
-  },
-  {
     "id": "GCKHvtZmav",
     "name": "Lumio  Golden Ticket Raffle",
     "description": "The more TICKET you hold, the HIGHER your chances of winning",
@@ -62,22 +30,6 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCn9gtZHZS"
-  },
-  {
-    "id": "GCnegtZPtH",
-    "name": "Early Checker - I",
-    "description": "Checkpoint is launching testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\nA new quest drops every week. Complete tasks and collect a limited NFT each week.\n\nCollect all 9 NFTs. Week 10 has something bigger waiting. Week 1 is live, don't miss it.",
-    "rewardName": "",
-    "startTime": 1777827600,
-    "endTime": 1778454000,
-    "chain": "ARBITRUM",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/checkpoint/GCnegtZPtH"
   },
   {
     "id": "GCfEhtZM4k",
