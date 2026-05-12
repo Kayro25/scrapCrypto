@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCJjvtZLmp",
+    "name": "MetaY.ai Whitelist Competition",
+    "description": "Welcome to MetaY.ai x Kommunitas Whitelist Competition! 💥\n\nSale Starts: May 15th, 2026. 9 AM UTC\nlaunchpad\n\n💰 Increase your chances of getting whitelisted allocation by completing ALL of the actions below. Good luck to all of you!\n\nNB: if you win into one of MetaY.ai whitelist spot, we will inform on our Discord Channel and Telegram 24 hours before the sale, make sure you check it out!\n\n➡️ Next step for whitelist winners to participate\n: ✅ Head on to launchpad during preparation period to check your allocation\n✅ Prepare your USDT (Polygon) | USDT (BSC) | USDT (ARB)\n✅ Connect your wallet and buy your allocation on Booster 1 round only! at launchpad, 09:00 AM UTC. Booster 1 ends at 05:00 PM UTC\n\nNeed guidance on participating?\nClick here for a tutorial.\n\n🗓 All Calendar:\nhttps://linktr.ee/kommunitas1\nand\nhttps://calendar.kommunitas.net/ ",
+    "rewardName": "MetaY.ai Whitelist Ticket",
+    "startTime": 1778518800,
+    "endTime": 1778734800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCJjvtZLmp"
+  },
+  {
     "id": "GCKHvtZmav",
     "name": "Lumio  Golden Ticket Raffle",
     "description": "The more TICKET you hold, the HIGHER your chances of winning",
@@ -30,6 +46,38 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCn9gtZHZS"
+  },
+  {
+    "id": "GCtXvtZHog",
+    "name": "Q3 Rewards & Launches Are Coming ⚔️",
+    "description": "Q3 will bring major launches, new opportunities and bigger ecosystem rewards for the Olympex community. 🚀\n\nAll activity and support registered through our Galxe social tasks will be taken into account for future rewards and ecosystem benefits.\n\nCommunity participation matters.\nStay active across our social channels, engage with the ecosystem and be part of the growth. 🏛️\n\nAdditional benefits may be available for active community members.\n\nAt a later stage, participants may be asked to submit their wallet address to receive rewards and future distributions. 📊",
+    "rewardName": "Airdrop and NFT ",
+    "startTime": 1778468400,
+    "endTime": 1779418800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "the Olimpus of DeFi",
+      "isVerified": false
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCtXvtZHog"
+  },
+  {
+    "id": "GCqPvtZn6s",
+    "name": "Early Checker - II",
+    "description": "Checkpoint is launching testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\nA new quest drops every week. Complete tasks and collect a limited NFT each week.\n\nCollect all 9 NFTs. Week 10 has something bigger waiting. Week 2 is live, don't miss it.",
+    "rewardName": "",
+    "startTime": 1778432400,
+    "endTime": 1779058800,
+    "chain": "ARBITRUM",
+    "space": {
+      "name": "Checkpoint",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/checkpoint/GCqPvtZn6s"
   },
   {
     "id": "GCfEhtZM4k",
