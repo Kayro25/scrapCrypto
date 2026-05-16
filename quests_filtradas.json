@@ -32,22 +32,6 @@
     "url": "https://app.galxe.com/quest/neosoul/GCSGxtZ2td"
   },
   {
-    "id": "GC6HKtZdE9",
-    "name": "🎟️ Doma AMA Raffle with Ish Milly: Domain Whale",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "5000 Season 1 Leaderboard Points",
-    "startTime": 1778774400,
-    "endTime": 1778860800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GC6HKtZdE9"
-  },
-  {
     "id": "GCrrxtZSYm",
     "name": "0G AI Alliance Carnival - DGrid",
     "description": "🤖 **Introduction**\n\nDGrid AI is a Decentralized AI Smart Network for Cost-effective, Reliable & Verifiable AI. 💎\n\n🎁 **Rewards**\n\n🎫 1,000,000 DGrid Points",
@@ -160,6 +144,22 @@
     "url": "https://app.galxe.com/quest/neosoul/GCuExtZNXb"
   },
   {
+    "id": "GCbHxtZZV9",
+    "name": "KOMmunity Kingsman x MetaY.ai",
+    "description": "🎁 Reward:  272,727 $CLAW Prize Pool Prize Pool\n- Winners:  Up to 1000 Winners\n\n**Disclaimer: **\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
+    "rewardName": "272,727 $CLAW Prize Pool",
+    "startTime": 1778835600,
+    "endTime": 1779642000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCbHxtZZV9"
+  },
+  {
     "id": "GC6MKtZzFz",
     "name": "Start Building Your Olympex Pass",
     "description": "Mint your Olympex Pass, start generating activity points and position yourself early for future ecosystem rewards and the upcoming $NECTAR airdrop. Every transaction, every interaction and every referral helps build your on-chain history inside Olympex. Major launches are coming this year, early positioning matters.",
@@ -206,22 +206,6 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/gemw/GCXYxtZCcp"
-  },
-  {
-    "id": "GCKHvtZmav",
-    "name": "Lumio  Golden Ticket Raffle",
-    "description": "The more TICKET you hold, the HIGHER your chances of winning",
-    "rewardName": "Total Prize Pool",
-    "startTime": 1778281200,
-    "endTime": 1778886000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Lumio",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/lumio/GCKHvtZmav"
   },
   {
     "id": "GCHSxtZ8fv",
@@ -286,22 +270,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/echobit/GCPpxtZfZr"
-  },
-  {
-    "id": "GC5sxtZBM7",
-    "name": "Farming Points",
-    "description": "Offchain loyalty points are worth billions but most go unredeemed. Checkpoint turns them into real, liquid onchain assets. Here's why that matters.\n\nHelp us share this with everyone to get rewarded.",
-    "rewardName": "",
-    "startTime": 1778605200,
-    "endTime": 1778864400,
-    "chain": "BASE",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/checkpoint/GC5sxtZBM7"
   },
   {
     "id": "GC9oktZgeB",
