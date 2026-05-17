@@ -430,21 +430,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCK1ztZvmr"
-  },
-  {
-    "id": "GCHShtZdPr",
-    "name": "Session 1: Beep Agent Activation",
-    "description": "Launch your first agent and complete the onboarding journey.\n\n**Description**\nComplete the full onboarding flow inside Beep Signal Run to qualify for the $50,000 Session 1 reward pool.\n\n**Task List **\n* Make First Deposit — Deposit more than $10\n* Launch First Agent — Create your first agent\n\n\n**Completion Note**\nYou must complete all tasks in this quest to qualify for Session 1 rewards.\n",
-    "rewardName": "",
-    "startTime": 1776873600,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Beep AI labs",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/beep-ai-labs/GCHShtZdPr"
   }
 ]
