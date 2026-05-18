@@ -240,22 +240,6 @@
     "url": "https://app.galxe.com/quest/the-olimpus-of-defi/GCtXvtZHog"
   },
   {
-    "id": "GCqPvtZn6s",
-    "name": "Early Checker - II",
-    "description": "Checkpoint is launching testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\nA new quest drops every week. Complete tasks and collect a limited NFT each week.\n\nCollect all 9 NFTs. Week 10 has something bigger waiting. Week 2 is live, don't miss it.",
-    "rewardName": "",
-    "startTime": 1778432400,
-    "endTime": 1779058800,
-    "chain": "ARBITRUM",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/checkpoint/GCqPvtZn6s"
-  },
-  {
     "id": "GCPpxtZfZr",
     "name": "🚀 Echobit  Anniversary Celebration: Win 1,000,000 USDT+500 Gift USDT",
     "description": "🚀 The top 50 players will split 500 USDT! Earn points and win big prizes! 🚀\n\n🔥 Event Period: May 13–May 208)\n💰 Double Rewards\nReward 1: Complete the task to share in a 500 USDT prize pool（50 SPOTS）\nReward 2: All users who complete the task will receive a Random Blessing Cards. Holding a Blessing Card grants you entry into a 1,000,000 USDT prize pool\n\n🎯 How to Participate? Complete simple tasks, earn points, and climb the leaderboard!\n- Join the official Telegram group\n- Follow us on Twitter\n",
@@ -416,19 +400,19 @@
     "url": "https://app.galxe.com/quest/beep-ai-labs/GCwwztZ5P5"
   },
   {
-    "id": "GCK1ztZvmr",
-    "name": "Wingbits $WINGS Token is LIVE",
-    "description": "Wingbits is a decentralized physical infrastructure network (DePIN) that is revolutionizing flight tracking. By using blockchain-based incentives on Solana, Wingbits empowers a global community to host antennas that collect real-time aviation data, creating a more accurate and secure alternative to traditional centralized systems.\n\nOfficial Links:\n🌐 Website: https://wingbits.com/?utm_source=adreva\n🗺️ Real-Time Global Flight Tracking: https://wingbits.com/map?lat=2.53254&lon=8.92555&zoom=4.0\n📄 Litepaper: https://docs.wingbits.com/\n✖️ Twitter/X: https://x.com/wingbits?s=21s. \n\nEarn rewards.",
+    "id": "GCHShtZdPr",
+    "name": "Session 1: Beep Agent Activation",
+    "description": "Launch your first agent and complete the onboarding journey.\n\n**Description**\nComplete the full onboarding flow inside Beep Signal Run to qualify for the $50,000 Session 1 reward pool.\n\n**Task List **\n* Make First Deposit — Deposit more than $10\n* Launch First Agent — Create your first agent\n\n\n**Completion Note**\nYou must complete all tasks in this quest to qualify for Session 1 rewards.\n",
     "rewardName": "",
-    "startTime": 1776668400,
-    "endTime": 1779001200,
-    "chain": "BASE",
+    "startTime": 1776873600,
+    "endTime": null,
+    "chain": "ETHEREUM",
     "space": {
-      "name": "ADREVA",
+      "name": "Beep AI labs",
       "isVerified": true
     },
     "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCK1ztZvmr"
+    "url": "https://app.galxe.com/quest/beep-ai-labs/GCHShtZdPr"
   }
 ]
