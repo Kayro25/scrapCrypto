@@ -208,6 +208,22 @@
     "url": "https://app.galxe.com/quest/gemw/GCXYxtZCcp"
   },
   {
+    "id": "GCb4VtZNm8",
+    "name": "Early Checker - III",
+    "description": "Checkpoint is launching testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.",
+    "rewardName": "",
+    "startTime": 1779037200,
+    "endTime": 1779667200,
+    "chain": "ARBITRUM",
+    "space": {
+      "name": "Checkpoint",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/checkpoint/GCb4VtZNm8"
+  },
+  {
     "id": "GCHSxtZ8fv",
     "name": "0G x NeoSoul AI Alliance Million Token Carnival",
     "description": "Welcome to the AI Alliance Carnival hosted by 0G and NeoSoul, in collaboration with multiple ecosystem projects. Complete the designated tasks for each project below to earn corresponding tokens, points, or SBT rewards. 🌐\n\n**🎁 Rewards Pool**\n\n🔮 NeoSoul: 1,000,000 NeoSoul tokens\n\n🧠 DGrid: 1,000,000 Points total\n\n🌕 MoonFun.ai: 50,000 Moon Points total\n\n🔑 Ghast AI: 50 Earlybird Codes total\n\n🐳 GM.town: 50 Openwhale Founding Member SBTs total\n\n🛡️ Primus Lab: Primus Reputation Score\n\n🪙 YOMIRGO: 50,000 YOMIRGO tokens\n\n✨ AllScale: 1,000,000 Points total\n\n💵 Cregis: Cash Rewards",
@@ -288,6 +304,22 @@
     "url": "https://app.galxe.com/quest/overlayer/GCHgktZmKy"
   },
   {
+    "id": "GCHhVtZyPD",
+    "name": "Stable × DGrid AI Campaign",
+    "description": "StableChain is the USD₮-native Layer 1 designed for fast, low-cost stablecoin payments.\nDGrid AI is a decentralized AI network built for reliable and verifiable AI infrastructure.\nJoin the quest and explore the future of AI + stablecoin infrastructure.\n\n🎁 Prize Pool: $200 in USDT + DGrid Credits\n*USDT rewards auto-distributed. USDT winners also receive DGrid Credits (DM DGrid AI’s X to claim).",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Stable",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/stable/GCHhVtZyPD"
+  },
+  {
     "id": "GCjFxtZiyF",
     "name": "Cregis 200 USDT Prize Pool",
     "description": "Cregis is a global provider of enterprise-grade digital asset infrastructure, offering secure, scalable, and compliant solutions for institutional clients.\nIts core offerings—MPC-based self-custody wallets, Wallet-as-a-Service, and crypto payment solutions—are trusted by over 3,500 crypto exchanges, fintech companies, digital banks, payment service providers(PSPs), forex brokers, and Web3 businesses to seamlessly and securely accept, send, and manage digital assets.",
@@ -302,6 +334,22 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/yomirgo/GCjFxtZiyF"
+  },
+  {
+    "id": "GCLbxtZwCe",
+    "name": "Stable × Dgrid AI Campaign",
+    "description": "StableChain is the USD₮-native Layer 1 designed for fast, low-cost stablecoin payments.\nDGrid AI is a decentralized AI network built for reliable and verifiable AI infrastructure.\nJoin the quest and explore the future of AI + stablecoin infrastructure.\n\n🎁 Prize Pool: $200 in USDT + DGrid Credits \n**USDT rewards auto-distributed. USDT winners also receive DGrid Credits (DM DGrid AI’s X to claim).*\n",
+    "rewardName": "",
+    "startTime": 1779105600,
+    "endTime": 1779710400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Stable",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/stable/GCLbxtZwCe"
   },
   {
     "id": "GCPvktZoux",
