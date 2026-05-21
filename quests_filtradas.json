@@ -96,20 +96,20 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCbMxtZYD7"
   },
   {
-    "id": "GCf3KtZk8f",
-    "name": "Ride the AI Bubble",
-    "description": ".AI domains are heating up.\n\nTrade any .AI token on Doma this week.\n\nHit $25 in trade volume during the quest to qualify.\n\nStarts May 13, 2 PM UTC\nEnds May 20, 2 PM UTC\n\nCredentials update daily.",
-    "rewardName": "5000 Season 1 Leaderboard Points",
-    "startTime": 1778680800,
-    "endTime": 1779285600,
+    "id": "GCsCVtZmoL",
+    "name": "A Token Empowering Generations (ATEG) Whitelist Competition",
+    "description": "Welcome to **A Token Empowering Generations (ATEG)** x Kommunitas Whitelist Competition! 💥\n\nSale Starts: May 25th, 2026. 9 AM UTC\nlaunchpad\n\n💰 Increase your chances of getting whitelisted allocation by completing ALL of the actions below. Good luck to all of you!\n\nNB: if you win into one of **A Token Empowering Generations (ATEG)** whitelist spot, we will inform on our Discord Channel and Telegram 24 hours before the sale, make sure you check it out!\n\n➡️ Next step for whitelist winners to participate\n: ✅ Head on to launchpad during preparation period to check your allocation\n✅ Prepare your USDT (Polygon) | USDT (BSC) | USDT (ARB)\n✅ Connect your wallet and buy your allocation on Booster 1 round only! at launchpad, 09:00 AM UTC. Booster 1 ends at 05:00 PM UTC\n\nNeed guidance on participating?\nClick here for a tutorial.\n\n🗓 All Calendar:\nhttps://linktr.ee/kommunitas1\nand\nhttps://calendar.kommunitas.net/ ",
+    "rewardName": "ATEG Whitelist Ticket",
+    "startTime": 1779296400,
+    "endTime": 1779598800,
     "chain": "ETHEREUM",
     "space": {
-      "name": "D3",
+      "name": "Kommunitas.net",
       "isVerified": true
     },
     "score": 9,
     "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCf3KtZk8f"
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCsCVtZmoL"
   },
   {
     "id": "GCB3xtZEkf",
@@ -258,7 +258,7 @@
   {
     "id": "GCHhVtZyPD",
     "name": "Stable × DGrid AI Campaign",
-    "description": "StableChain is the USD₮-native Layer 1 designed for fast, low-cost stablecoin payments.\nDGrid AI is a decentralized AI network built for reliable and verifiable AI infrastructure.\nJoin the quest and explore the future of AI + stablecoin infrastructure.\n\n🎁 Prize Pool: $200 in USDT + DGrid Credits\n*USDT rewards auto-distributed. USDT winners also receive DGrid Credits (DM DGrid AI’s X to claim).",
+    "description": "StableChain is the USD₮-native Layer 1 designed for fast, low-cost stablecoin payments.\nDGrid AI is a decentralized AI network built for reliable and verifiable AI infrastructure.\nJoin the quest and explore the future of AI + stablecoin infrastructure.\n\n🎁 Prize Pool: $200 total\n• $100 in USDT rewards (auto-distributed)\n• $100 in DGrid Credits\n\nUSDT winners will also receive DGrid Credits (claim via DM to @DGridAI on X).",
     "rewardName": "",
     "startTime": null,
     "endTime": null,
@@ -290,7 +290,7 @@
   {
     "id": "GCLbxtZwCe",
     "name": "Stable × Dgrid AI Campaign",
-    "description": "StableChain is the USD₮-native Layer 1 designed for fast, low-cost stablecoin payments.\nDGrid AI is a decentralized AI network built for reliable and verifiable AI infrastructure.\nJoin the quest and explore the future of AI + stablecoin infrastructure.\n\n🎁 Prize Pool: $200 in USDT + DGrid Credits \n**USDT rewards auto-distributed. USDT winners also receive DGrid Credits (DM DGrid AI’s X to claim).*\n",
+    "description": "StableChain is the USD₮-native Layer 1 designed for fast, low-cost stablecoin payments.\nDGrid AI is a decentralized AI network built for reliable and verifiable AI infrastructure.\nJoin the quest and explore the future of AI + stablecoin infrastructure.\n\n🎁 Prize Pool: $200 total\n• $100 in USDT rewards (auto-distributed)\n• $100 in DGrid Credits\n\nUSDT winners will also receive DGrid Credits (claim via DM to @DGridAI on X).",
     "rewardName": "",
     "startTime": 1779105600,
     "endTime": 1779710400,
@@ -398,21 +398,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/beep-ai-labs/GCwwztZ5P5"
-  },
-  {
-    "id": "GCHShtZdPr",
-    "name": "Session 1: Beep Agent Activation",
-    "description": "Launch your first agent and complete the onboarding journey.\n\n**Description**\nComplete the full onboarding flow inside Beep Signal Run to qualify for the $50,000 Session 1 reward pool.\n\n**Task List **\n* Make First Deposit — Deposit more than $10\n* Launch First Agent — Create your first agent\n\n\n**Completion Note**\nYou must complete all tasks in this quest to qualify for Session 1 rewards.\n",
-    "rewardName": "",
-    "startTime": 1776873600,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Beep AI labs",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/beep-ai-labs/GCHShtZdPr"
   }
 ]
