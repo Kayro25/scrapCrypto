@@ -462,21 +462,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/beep-ai-labs/GCrKdtZYyA"
-  },
-  {
-    "id": "GCwwztZ5P5",
-    "name": "$150K Beep Signal Run - An AI-powered journey on Sui",
-    "description": "Welcome to the Beep Signal Run Campaign, a multi-stage Galxe campaign by Beep\n\nThis campaign is structured into three quests designed to guide users from community entry to real product participation:\n* Complete the Social Quest to qualify for the $10,000 onboarding reward pool\n* Finish Session 1 to qualify for the $50,000 onboarding reward pool\n* Join Session 1.5 for a chance to share the $20,000 reward pool\n* Join Session 2 for a chance to share the $70,000 referral and trading reward pool\n\nThe campaign reward pool totals $150,000 worth of Beep Coin, distributed after TGE.\nStart by completing the social tasks, then enter the console, make your first deposit, launch your first agent, and scale your participation through referrals and trading.\n",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Beep AI labs",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/beep-ai-labs/GCwwztZ5P5"
   }
 ]
