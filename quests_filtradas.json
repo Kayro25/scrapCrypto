@@ -96,22 +96,6 @@
     "url": "https://app.galxe.com/quest/neosoul/GCukxtZQTG"
   },
   {
-    "id": "GCbMxtZYD7",
-    "name": "KOMmunity Learn with MetaY.ai",
-    "description": "Dive deep into the project with MetaY.ai KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n15th May - 25th May, 2026\nPrize Pool : \n90,909 $CLAW\nWinner : \n50 \n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.  ",
-    "rewardName": "1,818 $CLAW Raffle Card",
-    "startTime": 1778518800,
-    "endTime": 1779642000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCbMxtZYD7"
-  },
-  {
     "id": "GCB3xtZEkf",
     "name": "0G AI Alliance Carnival - GM.town Agent Nexus",
     "description": "🤖 **Introduction**\n\nGM.town is architecting the next-generation Agent Economy. We empower users to define and deploy autonomous agents and trade for them 24/7. GM.Town is transforming decentralized coordination into a scalable, intelligent workforce that drives unprecedented liquidity and volume growth for the digital asset ecosystem.\n\n🎁 **Rewards**\n\n50 Openwhale Founding Member SBTs\n\n🌍 **Website to claim SBT**\n\now.gm.town",
@@ -142,38 +126,6 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/neosoul/GCuExtZNXb"
-  },
-  {
-    "id": "GCPUxtZ6tF",
-    "name": "Diamond Holder Quest: Earn your share of 909,091 $CLAW",
-    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 909,091 $CLAW prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 909,091 $CLAW **(Equal to 5,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 909,091 $CLAW   pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
-    "rewardName": "MetaY.ai Diamond Holder ",
-    "startTime": 1779382800,
-    "endTime": 1779642000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCPUxtZ6tF"
-  },
-  {
-    "id": "GCbHxtZZV9",
-    "name": "KOMmunity Kingsman x MetaY.ai",
-    "description": "🎁 Reward:  272,727 $CLAW Prize Pool Prize Pool\n- Winners:  Up to 1000 Winners\n\n**Disclaimer: **\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
-    "rewardName": "272,727 $CLAW Prize Pool",
-    "startTime": 1778835600,
-    "endTime": 1779642000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCbHxtZZV9"
   },
   {
     "id": "GCuBxtZXF5",
@@ -208,20 +160,20 @@
     "url": "https://app.galxe.com/quest/gemw/GCXYxtZCcp"
   },
   {
-    "id": "GCb4VtZNm8",
-    "name": "Early Checker - III",
-    "description": "Checkpoint is launching testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.",
+    "id": "GCg9otZDte",
+    "name": "Checkpoint Testnet is Live! (❛◡˂̵ ̑̑✧)",
+    "description": "Checkpoint is a decentralized protocol that lets you trade your offchain points before TGE. Check your points across 70+ protocols and trade them on [Checkpoint App](https://checkpoint.exchange/) right now.\n\nTestnet is live. Complete the quests, earn your share of $500 in rewards.\n",
     "rewardName": "",
-    "startTime": 1779037200,
-    "endTime": 1779667200,
-    "chain": "ARBITRUM",
+    "startTime": 1779382800,
+    "endTime": 1781913600,
+    "chain": "BASE",
     "space": {
       "name": "Checkpoint",
       "isVerified": true
     },
     "score": 7,
     "payout": 65,
-    "url": "https://app.galxe.com/quest/checkpoint/GCb4VtZNm8"
+    "url": "https://app.galxe.com/quest/checkpoint/GCg9otZDte"
   },
   {
     "id": "GCHSxtZ8fv",
