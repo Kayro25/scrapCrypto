@@ -176,6 +176,22 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCPUxtZ6tF"
   },
   {
+    "id": "GCWrptZqsR",
+    "name": "5,000 USDT｜GemW Trading Competition #7",
+    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\n##### 🚀 GemW Onchain Trading Competition #7 is LIVE!\n\nTrade. Rank. Win your share of $5,000 💥\nFirst 100 sign-ups get a $10 Super Bonus!\n\n[👉 Join Now](https://www.coinw.com/module/gemw-trading-competition-07)\n![20260527-164841.png](https://appeco.galxe.com/galxe/space/mdresource/84010/09090f99-8af8-46e1-9626-28293c3eb5c9.png)",
+    "rewardName": "$10 Futures Bonus",
+    "startTime": 1779811200,
+    "endTime": 1780416000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "GemW",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/gemw/GCWrptZqsR"
+  },
+  {
     "id": "GCuBxtZXF5",
     "name": "0G AI Alliance Carnival - AllScale Station",
     "description": "🤖 **Introduction**\n\nAllScale is the first self-custody stablecoin neobank designed for SMBs, freelancers, and AI agents. We offer a self-custodial wallet with built-in invoicing, checkout, and compliance tools. Set up an account in 10 seconds and get paid instantly in stablecoins from anywhere.\n\n🎁 **Rewards**\n\n🎫 1,000,000 AllScale Points total",
@@ -336,22 +352,6 @@
     "url": "https://app.galxe.com/quest/myne/GC2fptZpY3"
   },
   {
-    "id": "GCbgptZexv",
-    "name": "Yoso Alpha - Beta Post",
-    "description": "Yoso Alpha was about proving this idea could work.\n\nYoso Beta begins on June 9.\n\nAnd with it comes the biggest infrastructure transition in Yoso so far:\n💧 Migrating to @SuiNetwork\n\n📘 Moving toward CLOB markets\n⚡ Upgrading wallet infrastructure with @dynamic_xyz\n\n🎁 Launching a new weekly incentive model\n\nAnd yes…\n\nactivity from NOW already counts toward the first Beta reward cycle 👁️",
-    "rewardName": "",
-    "startTime": 1779724800,
-    "endTime": 1779897600,
-    "chain": "ARBITRUM",
-    "space": {
-      "name": "Yoso.fun",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/yoso-fun/GCbgptZexv"
-  },
-  {
     "id": "GCnmotZGwa",
     "name": "$100 ADREVA Particiation Bonus",
     "description": "Participate in the Adreva 20-Day Attention Challege for a chance to win part of a $100 bonus reward pool! Complete at least 10 partner campaign quests to earn entry into the raffle.\n\n📅 May 25 – June 14, 2026\n\n🎁 Rewards:\n5 raffle winners will split the $100 USDC prize pool.",
@@ -478,37 +478,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/web3-quests/GCTBgtZeat"
-  },
-  {
-    "id": "GC1KgtZzDA",
-    "name": "XStable $10,000 USDT Giveaway",
-    "description": "![XStable_x_4_29_1.png](https://appeco.galxe.com/galxe/space/mdresource/85942/d09cfd91-f231-4c35-9fa9-132a6cbddac4.png)",
-    "rewardName": "XStable 20 USDT Futures Bonus",
-    "startTime": 1777392000,
-    "endTime": 1780156800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "XStableRWA",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/xstablerwa/GC1KgtZzDA"
-  },
-  {
-    "id": "GCEkdtZ2Ay",
-    "name": "Atlas Web3 Hub Genesis: The First Spark",
-    "description": "Our great journey is beginning, and we’re lighting the “First Spark” together with you. This first step is exclusively for our early adopters, who will form the foundation of our ecosystem.\n\nComplete the tasks right away, claim your Atlas Genesis reward, and secure your spot in the adventure from day one.![Gemini_Generated_Image_hibvgfhibvgfhibv.png](https://appeco.galxe.com/galxe/space/mdresource/80702/5da1b1e0-68a2-4141-9e46-b980629cb8ad.png)",
-    "rewardName": "Atlas Web3 Hub Genesis",
-    "startTime": 1777408200,
-    "endTime": 1780174800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Atlas Web3 Hub",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/atlas-web3-hub/GCEkdtZ2Ay"
   }
 ]
