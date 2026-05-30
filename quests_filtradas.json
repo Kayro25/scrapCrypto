@@ -304,22 +304,6 @@
     "url": "https://app.galxe.com/quest/deriw-finance/GCDvVtZr3q"
   },
   {
-    "id": "GC9oktZgeB",
-    "name": "Join GIA AI MVP Whitelist (Early Access)",
-    "description": "Be among the first users to access our AI-powered platform.\n\nWe are opening early access to a limited number of users before the official MVP launch. This is your chance to explore our AI agents and features ahead of everyone else.\n\n🔹 What you get:\n• Early access to the AI platform\n• Priority onboarding before public release\n• First look at upcoming features\n\n🔹 How to join:\n• Click the whitelist button\n• Submit your email\n• (Optional) Share your use case\n\n⚠️ Note: This is not a reward-based campaign. We are focusing on users who are genuinely interested in exploring the product.",
-    "rewardName": "Free AI access to the platform o",
-    "startTime": 1778004000,
-    "endTime": 1780077600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Generative Intelligent Assembly (GIA)",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/generative-intelligent-assembly-gia/GC9oktZgeB"
-  },
-  {
     "id": "GCHgktZmKy",
     "name": "Claim Your Testnet Access Pass",
     "description": "*If you do not meet the Galxe requirements to access this quest, you will also be able to obtain the Testnet Access NFT through the Overlayer web app.*\n\n**Claim your Overlayer Testnet Access NFT**\n\nThis NFT unlocks the testnet path, grants the OG Role, and marks your wallet as an early participant in the Overlayer ecosystem.\n\nAs Overlayer grows, this NFT is intended to serve as a long-term identity badge for early supporters, with potential access to future roles, protocol perks, campaign boosts, and exclusive community opportunities.\n\nComplete the readiness steps, mint your Access NFT, and enter the first Overlayer testnet missions.\n",
@@ -336,12 +320,12 @@
     "url": "https://app.galxe.com/quest/overlayer/GCHgktZmKy"
   },
   {
-    "id": "GCYJ1tZkaR",
-    "name": "[REDUX] IDIA's Mission: Onboard",
+    "id": "GCd81tZbUb",
+    "name": "IDIA's Mission: Onboard",
     "description": "IDIA Data Inc. is deploying the infrastructure for the Verified Truth Economy. The Genesis launch is July 11th, 2026. We are by paying early adopters directly to bootstrap our governance network.\n\nThe Job:\nDownload the IDIA Life app BETA and create your sovereign wallet.\n\nRequest your Genesis Activation token by contacting us directly at eddie@thebigidia.com with your new wallet address.\n\nOnce we fund your wallet, activate your on-chain self-delegating voting power.\n\nThe Verification:\nThis bounty is monitored directly on the Base blockchain. Once the protocol verifies your DelegateChanged smart contract event, the 100 IDIAX bounty will be released to your wallet automatically.\n\nDebt is Dead. Data is Now. Execute the protocol below.",
     "rewardName": "IDIA Governance Whitelist",
     "startTime": 1780027200,
-    "endTime": 1780459200,
+    "endTime": 1780632000,
     "chain": "ETHEREUM",
     "space": {
       "name": "IDIA Protocol: Or the Plot to Save the World from Runaway AI & the Debt Crisis",
@@ -349,7 +333,23 @@
     },
     "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/idia-protocol-or-the-plot-to-save-the-world-from-runaway-ai-the-debt-crisis/GCYJ1tZkaR"
+    "url": "https://app.galxe.com/quest/idia-protocol-or-the-plot-to-save-the-world-from-runaway-ai-the-debt-crisis/GCd81tZbUb"
+  },
+  {
+    "id": "GCZP1tZdAU",
+    "name": "Become a K613 OG",
+    "description": "The K613 OG role is reserved for the earliest supporters of the ecosystem.\n\nComplete this quest to become eligible for the exclusive OG Discord Role and be recognized as one of the first contributors participating in Genesis Season 1.\n\nOG members represent the foundation of the K613 community and will forever be recognized as early builders of the ecosystem.\n\n⚠️ OG roles are limited and distributed on a first-come, first-served basis.",
+    "rewardName": "",
+    "startTime": 1779915600,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "K613",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/k613/GCZP1tZdAU"
   },
   {
     "id": "GC6y1tZoDx",
