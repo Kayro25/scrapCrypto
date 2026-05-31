@@ -320,6 +320,22 @@
     "url": "https://app.galxe.com/quest/overlayer/GCHgktZmKy"
   },
   {
+    "id": "GCgr1tZiF9",
+    "name": "CTOC Airdrop Quest ~1st Round~",
+    "description": "Join CTOC community and get free CTOC tokens.\nAll you have to do is follow X and join Telegram community!\nEven is held every month so be sure to stay in the community.",
+    "rewardName": "CTOC Token",
+    "startTime": 1780066800,
+    "endTime": 1780585200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Free Tokens Event",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/free-tokens-event/GCgr1tZiF9"
+  },
+  {
     "id": "GCd81tZbUb",
     "name": "IDIA's Mission: Onboard",
     "description": "IDIA Data Inc. is deploying the infrastructure for the Verified Truth Economy. The Genesis launch is July 11th, 2026. We are by paying early adopters directly to bootstrap our governance network.\n\nThe Job:\nDownload the IDIA Life app BETA and create your sovereign wallet.\n\nRequest your Genesis Activation token by contacting us directly at eddie@thebigidia.com with your new wallet address.\n\nOnce we fund your wallet, activate your on-chain self-delegating voting power.\n\nThe Verification:\nThis bounty is monitored directly on the Base blockchain. Once the protocol verifies your DelegateChanged smart contract event, the 100 IDIAX bounty will be released to your wallet automatically.\n\nDebt is Dead. Data is Now. Execute the protocol below.",
