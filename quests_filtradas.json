@@ -208,12 +208,12 @@
     "url": "https://app.galxe.com/quest/neosoul/GCuBxtZXF5"
   },
   {
-    "id": "GCqEptZzuU",
-    "name": "Early Checker - IV",
+    "id": "GCVa1tZQd4",
+    "name": "Early Checker - V",
     "description": "Checkpoint laucnhed testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.",
     "rewardName": "",
-    "startTime": 1779642000,
-    "endTime": 1780272000,
+    "startTime": 1780246800,
+    "endTime": 1780876800,
     "chain": "ARBITRUM",
     "space": {
       "name": "Checkpoint",
@@ -221,7 +221,7 @@
     },
     "score": 7,
     "payout": 65,
-    "url": "https://app.galxe.com/quest/checkpoint/GCqEptZzuU"
+    "url": "https://app.galxe.com/quest/checkpoint/GCVa1tZQd4"
   },
   {
     "id": "GCg9otZDte",
@@ -318,6 +318,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/overlayer/GCHgktZmKy"
+  },
+  {
+    "id": "GCh41tZsKB",
+    "name": "S2: Apply to be a WheelX ambassador and share 1,000 USDT monthly",
+    "description": "Join the WheelX Ambassador Program and share a 1,000 USDT monthly reward pool.\n\nWe’re looking for Web3 enthusiasts worldwide to help grow WheelX.\n\nComplete a simple quest for a chance to earn a 5 USDT bonus! 🚀",
+    "rewardName": "",
+    "startTime": 1780243200,
+    "endTime": 1785427200,
+    "chain": "BASE",
+    "space": {
+      "name": "WheelX.fi",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/wheelx-fi/GCh41tZsKB"
   },
   {
     "id": "GCgr1tZiF9",
