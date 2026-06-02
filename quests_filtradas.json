@@ -112,6 +112,22 @@
     "url": "https://app.galxe.com/quest/neosoul/GCukxtZQTG"
   },
   {
+    "id": "GCYb1tZvZs",
+    "name": "Yap About the ATEG IKO on Kommunitas",
+    "description": "Reward\n**A total prize pool of 2,500 $ATEG will be distributed among up to 50 winners.**\n\nEnds on June 10th,2026\n\nJoin the conversation and help spread awareness about the ATEG IKO on Kommunitas.\n\nCreate an original and engaging post on X highlighting ATEG, its vision, utility, ecosystem, or the ongoing IKO campaign on Kommunitas. Share your thoughts, insights, or creative content that can attract attention from the wider crypto community.\n\nSelection Criteria\n- All submissions will be reviewed and verified by the Kommunitas team to ensure they meet the campaign requirements and quality standards.\n- Only posts that satisfy the eligibility criteria will be considered for rewards.\n- Rewards will be distributed exclusively to the - Top **50 Yappers** based on content quality, creativity, relevance, and overall impact.\n- Meeting the minimum requirements does not guarantee a reward.\n\nJoin us in shaping ATEG’s future by sharing your most creative post on X.",
+    "rewardName": "50 $ATEG Submission Card",
+    "startTime": 1780333200,
+    "endTime": 1781024400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCYb1tZvZs"
+  },
+  {
     "id": "GCXxVtZnVc",
     "name": "KOMmunity Kingsman x ATEG",
     "description": "🎁 Reward:  7,500 $ATEG Prize Pool\n- Winners:  Up to 500 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
@@ -158,22 +174,6 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/neosoul/GCuExtZNXb"
-  },
-  {
-    "id": "GCPUxtZ6tF",
-    "name": "Diamond Holder Quest: Earn your share of 909,091 $CLAW",
-    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 909,091 $CLAW prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 909,091 $CLAW **(Equal to 5,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 909,091 $CLAW   pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
-    "rewardName": "MetaY.ai Diamond Holder ",
-    "startTime": 1779382800,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCPUxtZ6tF"
   },
   {
     "id": "GCWrptZqsR",
@@ -304,22 +304,6 @@
     "url": "https://app.galxe.com/quest/deriw-finance/GCDvVtZr3q"
   },
   {
-    "id": "GCHgktZmKy",
-    "name": "Claim Your Testnet Access Pass",
-    "description": "*If you do not meet the Galxe requirements to access this quest, you will also be able to obtain the Testnet Access NFT through the Overlayer web app.*\n\n**Claim your Overlayer Testnet Access NFT**\n\nThis NFT unlocks the testnet path, grants the OG Role, and marks your wallet as an early participant in the Overlayer ecosystem.\n\nAs Overlayer grows, this NFT is intended to serve as a long-term identity badge for early supporters, with potential access to future roles, protocol perks, campaign boosts, and exclusive community opportunities.\n\nComplete the readiness steps, mint your Access NFT, and enter the first Overlayer testnet missions.\n",
-    "rewardName": "",
-    "startTime": 1777932000,
-    "endTime": 1782219600,
-    "chain": "BASE",
-    "space": {
-      "name": "Overlayer",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/overlayer/GCHgktZmKy"
-  },
-  {
     "id": "GCh41tZsKB",
     "name": "S2: Apply to be a WheelX ambassador and share 1,000 USDT monthly",
     "description": "Join the WheelX Ambassador Program and share a 1,000 USDT monthly reward pool.\n\nWe’re looking for Web3 enthusiasts worldwide to help grow WheelX.\n\nComplete a simple quest for a chance to earn a 5 USDT bonus! 🚀",
@@ -446,22 +430,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/adreva/GCJeotZJM1"
-  },
-  {
-    "id": "GCU8otZcQn",
-    "name": "GTC $500 Reward Quest — Join the Crew Before GTA 6",
-    "description": "🚨 $500 GTC Community Drop 🚨\n\nGTA 6 is coming  and the hype is about to break the internet. \nGTC is the community token built to ride that wave from launch \nto the moon. 🌕\n\n💰 The $500 reward pool will be split among 10 lucky winners that's $50 each!\n\nComplete the quests below and join the crew for your shot at the \nprize. Early birds eat first. 🐦💰",
-    "rewardName": "500$",
-    "startTime": 1779656400,
-    "endTime": 1780347600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Grand Theft Coin",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/grand-theft-coin/GCU8otZcQn"
   },
   {
     "id": "GCDGVtZrDw",
