@@ -192,6 +192,22 @@
     "url": "https://app.galxe.com/quest/neosoul/GCuExtZNXb"
   },
   {
+    "id": "GCnC1tZJWY",
+    "name": "5,000 USDT｜GemW Trading Competition #8",
+    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\n##### 🚀 GemW Onchain Trading Competition #8 is LIVE!\n\nTrade · Rank · Share $5,000 💥\nFirst 100 to join get a $10 Super Bonus!\n\n[👉 Join Now](https://www.coinw.com/module/gemw-trading-competition-08)\n![20260603-163625.png](https://appeco.galxe.com/galxe/space/mdresource/84010/fe59174e-8cf5-468e-a08a-ecc8e7005949.png)",
+    "rewardName": "$10 Futures Bonus",
+    "startTime": 1780416000,
+    "endTime": 1781020800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "GemW",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/gemw/GCnC1tZJWY"
+  },
+  {
     "id": "GCuBxtZXF5",
     "name": "0G AI Alliance Carnival - AllScale Station",
     "description": "🤖 **Introduction**\n\nAllScale is the first self-custody stablecoin neobank designed for SMBs, freelancers, and AI agents. We offer a self-custodial wallet with built-in invoicing, checkout, and compliance tools. Set up an account in 10 seconds and get paid instantly in stablecoins from anywhere.\n\n🎁 **Rewards**\n\n🎫 1,000,000 AllScale Points total",
@@ -478,21 +494,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/yomirgo/GCjFxtZiyF"
-  },
-  {
-    "id": "GCPvktZoux",
-    "name": "Venus Trade Trading Arena Is Live  Earn $5,000 USDT Prize Pool",
-    "description": "The first trading arena for relative-performance strategies on Venus Trade is now live.\n\nLong one asset. Short another.\nTrade narratives, sectors, and market strength — all in a single onchain position.\n\nTo celebrate the launch of Venus Trade on @BNBCHAIN, we’re opening a** $5,000 USDT **reward pool for early traders.\n\nHow to Participate\n*  Open a Venus Trade position ： https://venus.io/#/trade\n* Reach the minimum trading requirement\n* Complete the Galxe tasks\n* Compete for leaderboard rewards + lucky draw prizes\n\nCampaign Highlights\n*  $5,000 USDT total rewards\n* Trade directly onchain\n* One position = long + short exposure\n* Transparent risk and health factor system\n* Yield continues to accrue while holding positions\n",
-    "rewardName": "",
-    "startTime": 1778148000,
-    "endTime": 1780826400,
-    "chain": "BSC",
-    "space": {
-      "name": "Venus",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/venus/GCPvktZoux"
   }
 ]
