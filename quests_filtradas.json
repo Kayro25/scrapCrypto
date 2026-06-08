@@ -224,22 +224,6 @@
     "url": "https://app.galxe.com/quest/neosoul/GCuBxtZXF5"
   },
   {
-    "id": "GCVa1tZQd4",
-    "name": "Early Checker - V",
-    "description": "Checkpoint laucnhed testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.",
-    "rewardName": "",
-    "startTime": 1780246800,
-    "endTime": 1780876800,
-    "chain": "ARBITRUM",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/checkpoint/GCVa1tZQd4"
-  },
-  {
     "id": "GCg9otZDte",
     "name": "Checkpoint Testnet is Live! (❛◡˂̵ ̑̑✧)",
     "description": "Checkpoint is a decentralized protocol that lets you trade your offchain points before TGE. Check your points across 70+ protocols and trade them on [Checkpoint App](https://checkpoint.exchange/) right now.\n\nTestnet is live. Complete the quests, earn your share of $500 in rewards.\n",
@@ -286,22 +270,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/voltrade/GCZ2ftZxBi"
-  },
-  {
-    "id": "GCSJmtZnXg",
-    "name": "Testnet is running! (⌐■_■)",
-    "description": "2,500 early testers and $10M+ volume in two weeks.\n\nPoint market is open, are you in?\n\n[App](https://checkpoint.exchange/market)\n[FAQ](https://docs.checkpoint.exchange/get-started/faq)",
-    "rewardName": "",
-    "startTime": 1780506000,
-    "endTime": 1780851600,
-    "chain": "BASE",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/checkpoint/GCSJmtZnXg"
   },
   {
     "id": "GC6g1tZpV8",
