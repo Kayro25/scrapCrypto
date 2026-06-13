@@ -1,101 +1,5 @@
 [
   {
-    "id": "GCFzxtZv8T",
-    "name": "0G AI Alliance Carnival - YOMIRGO Plant",
-    "description": "🤖 **Introduction**\n\nYOMIRGO is a blockchain-based full-stack ecosystem for AI Agent assets, dedicated to driving the assetization, circulation, and application of AI Agents. 🌐\n\n🎁 **Rewards**\n\n🎫 50,000 YOMIRGO tokens",
-    "rewardName": "Raffle Entry for YOMIRGO tokens",
-    "startTime": 1778652000,
-    "endTime": 1781330400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 11,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/neosoul/GCFzxtZv8T"
-  },
-  {
-    "id": "GCSGxtZ2td",
-    "name": "0G AI Alliance Carnival - NeoSoul",
-    "description": "🤖 **Introduction**\n\nNeoSoul is building an AI-native prediction market. Fueled by agentic oracles and a self-evolving network to unlock the AI economy. Zero humans in the loop.\n\n🎁 **Rewards**\n\n🎫 1,000,000 NeoSoul token",
-    "rewardName": "Raffle Entry for NeoSoul token",
-    "startTime": 1778652000,
-    "endTime": 1781330400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 11,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/neosoul/GCSGxtZ2td"
-  },
-  {
-    "id": "GCEEotZtkQ",
-    "name": "KOMmunity Learn with A Token Empowering Generation (ATEG)",
-    "description": "Dive deep into the project with A Token Empowering Generation (ATEG) KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n22nd May - 13th May, 2026\nPrize Pool : \n2,500 $ATEG \nWinner : \n50 Winners \n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.  ",
-    "rewardName": "50 $ATEG Raffle Card",
-    "startTime": 1779382800,
-    "endTime": 1781283600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCEEotZtkQ"
-  },
-  {
-    "id": "GCrrxtZSYm",
-    "name": "0G AI Alliance Carnival - DGrid",
-    "description": "🤖 **Introduction**\n\nDGrid AI is a Decentralized AI Smart Network for Cost-effective, Reliable & Verifiable AI. 💎\n\n🎁 **Rewards**\n\n🎫 1,000,000 DGrid Points",
-    "rewardName": "Raffle Entry for DGrid Points",
-    "startTime": 1778652000,
-    "endTime": 1781330400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/neosoul/GCrrxtZSYm"
-  },
-  {
-    "id": "GCrZxtZWUN",
-    "name": "0G AI Alliance Carnival - MoonFun.AI Zone",
-    "description": "🤖 **Introduction**\n\nMoonFun.ai is pioneering the next evolution of the meme economy by transforming meme tokens into autonomous, living AI Agents. By combining AI-native infrastructure, on-chain asset automation, and social intelligence, MoonFun.ai turns token creation from a one-time launch into a continuously evolving digital lifeform. 💎\n\n🎁 **Rewards**\n\n🎫 50,000 Moon Points",
-    "rewardName": "Raffle Entry for Moon Points",
-    "startTime": 1778652000,
-    "endTime": 1781330400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/neosoul/GCrZxtZWUN"
-  },
-  {
-    "id": "GCukxtZQTG",
-    "name": "0G AI Alliance Carnival - Ghast AI Node",
-    "description": "🤖 Introduction\n\nGhast AI is a Web3 AI Agent natively built on 0G. It works out of the box with no complex setup, extra hardware, or cloud servers required. ⚡\n\nCompatible with MCP, SKILL, and ACP, Ghast AI enables continuous capability expansion. It also allows users to package AI memory, interaction context, and data into tradable assets, bringing “Memory as an Asset” to life while ensuring real asset value and full user ownership. 💎\n\n🎁 Rewards\n\n🎫 50 Earlybird codes",
-    "rewardName": "Raffle Entry for Earlybird Codes",
-    "startTime": 1778652000,
-    "endTime": 1781330400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/neosoul/GCukxtZQTG"
-  },
-  {
     "id": "GCEBotZUeo",
     "name": "Diamond Holder Quest: Earn your share of 17,500 $ATEG",
     "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 17,500 $ATEG prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 17,500 $ATEG **(Equal to 3,500 in USD)**\n\n\n📊 Reward Distribution:\n- The 17,500 $ATEG pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
@@ -112,54 +16,6 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCEBotZUeo"
   },
   {
-    "id": "GCXxVtZnVc",
-    "name": "KOMmunity Kingsman x ATEG",
-    "description": "🎁 Reward:  7,500 $ATEG Prize Pool\n- Winners:  Up to 500 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
-    "rewardName": "7,500 $ATEG Prize Pool",
-    "startTime": 1779699600,
-    "endTime": 1781283600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCXxVtZnVc"
-  },
-  {
-    "id": "GCB3xtZEkf",
-    "name": "0G AI Alliance Carnival - GM.town Agent Nexus",
-    "description": "🤖 **Introduction**\n\nGM.town is architecting the next-generation Agent Economy. We empower users to define and deploy autonomous agents and trade for them 24/7. GM.Town is transforming decentralized coordination into a scalable, intelligent workforce that drives unprecedented liquidity and volume growth for the digital asset ecosystem.\n\n🎁 **Rewards**\n\n50 Openwhale Founding Member SBTs\n\n🌍 **Website to claim SBT**\n\now.gm.town",
-    "rewardName": "Raffle Entry for SBT",
-    "startTime": 1778652000,
-    "endTime": 1781330400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/neosoul/GCB3xtZEkf"
-  },
-  {
-    "id": "GCuExtZNXb",
-    "name": "0G AI Alliance Carnival - Primus Verification Hub",
-    "description": "🤖 **Introduction**\n\nPrimus is a verification layer that enables users, applications, and agents to prove data, identity, and activity across both on-chain and off-chain environments without exposing sensitive information. By transforming fragmented data into privacy-preserving, verifiable proofs, Primus creates a reliable foundation for trust-minimized interactions, allowing protocols to make better decisions while preserving user privacy across Web3 and beyond.\n\n🎁 **Rewards**\n\n🎫 Primus Reputation Score",
-    "rewardName": "Raffle Entry for Primus Score",
-    "startTime": 1778652000,
-    "endTime": 1781330400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/neosoul/GCuExtZNXb"
-  },
-  {
     "id": "GCsB6tZSCL",
     "name": "5,000 USDT｜GemW Trading Competition #9",
     "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\n##### 🚀 GemW Onchain Trading Competition #9 is LIVE!\n\nTrade · Rank · Share $5,000 💥\nFirst 50 to join get a $10 Super Bonus!\n\n[👉 Join Now](https://www.coinw.com/module/gemw-trading-competition-09)\n![20260610-001226.png](https://appeco.galxe.com/galxe/space/mdresource/84010/9cd10c9a-89ae-448e-bb13-b07d883c5f8d.png)",
@@ -174,22 +30,6 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/gemw/GCsB6tZSCL"
-  },
-  {
-    "id": "GCuBxtZXF5",
-    "name": "0G AI Alliance Carnival - AllScale Station",
-    "description": "🤖 **Introduction**\n\nAllScale is the first self-custody stablecoin neobank designed for SMBs, freelancers, and AI agents. We offer a self-custodial wallet with built-in invoicing, checkout, and compliance tools. Set up an account in 10 seconds and get paid instantly in stablecoins from anywhere.\n\n🎁 **Rewards**\n\n🎫 1,000,000 AllScale Points total",
-    "rewardName": "Raffle Entry for AllScale Points",
-    "startTime": 1778652000,
-    "endTime": 1781330400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/neosoul/GCuBxtZXF5"
   },
   {
     "id": "GCbj6tZrRd",
@@ -238,22 +78,6 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/checkpoint/GCg9otZDte"
-  },
-  {
-    "id": "GCHSxtZ8fv",
-    "name": "0G x NeoSoul AI Alliance Million Token Carnival",
-    "description": "Welcome to the AI Alliance Carnival hosted by 0G and NeoSoul, in collaboration with multiple ecosystem projects. Complete the designated tasks for each project below to earn corresponding tokens, points, or SBT rewards. 🌐\n\n**🎁 Rewards Pool**\n\n🔮 NeoSoul: 1,000,000 NeoSoul tokens\n\n🧠 DGrid: 1,000,000 Points total\n\n🌕 MoonFun.ai: 50,000 Moon Points total\n\n🔑 Ghast AI: 50 Earlybird Codes total\n\n🐳 GM.town: 50 Openwhale Founding Member SBTs total\n\n🛡️ Primus Lab: Primus Reputation Score\n\n🪙 YOMIRGO: 50,000 YOMIRGO tokens\n\n✨ AllScale: 1,000,000 Points total\n\n💵 Cregis: Cash Rewards",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/neosoul/GCHSxtZ8fv"
   },
   {
     "id": "GC936tZQ1v",
@@ -510,21 +334,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/voltrade/GCjqVtZbgF"
-  },
-  {
-    "id": "GCjFxtZiyF",
-    "name": "Cregis 200 USDT Prize Pool",
-    "description": "Cregis is a global provider of enterprise-grade digital asset infrastructure, offering secure, scalable, and compliant solutions for institutional clients.\nIts core offerings—MPC-based self-custody wallets, Wallet-as-a-Service, and crypto payment solutions—are trusted by over 3,500 crypto exchanges, fintech companies, digital banks, payment service providers(PSPs), forex brokers, and Web3 businesses to seamlessly and securely accept, send, and manage digital assets.",
-    "rewardName": "200usdt prize pool",
-    "startTime": 1778601600,
-    "endTime": 1781280000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "YOMIRGO",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/yomirgo/GCjFxtZiyF"
   }
 ]
