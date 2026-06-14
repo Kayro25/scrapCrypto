@@ -128,6 +128,22 @@
     "url": "https://app.galxe.com/quest/adreva/GC6g1tZpV8"
   },
   {
+    "id": "GC8h8tZYWa",
+    "name": "Beep World Cup Prediction Arena - Share Up to $500,000 in BEEP Token Rewards.",
+    "description": "During the 2026 FIFA World Cup, Beep will launch the World Cup Prediction Arena, a prediction market campaign covering the Group Stage, Knockout Stage, and Final.\n\nTrade World Cup prediction markets, enjoy a +15% Beep Points boost, invite friends, and compete to share up to $500,000 in BEEP Token rewards after TGE.\n\nThe campaign covers the full World Cup cycle, including:\n\n* Group Stage\n* Round of 32\n* Knockout Stage\n* Final\n\nPost-event reward calculation and review\n\nTotal Reward Pool: Up to $500,000 in BEEP Token Rewards\n\nThe Beep World Cup Prediction Arena features a maximum reward pool of $500,000 in BEEP Token rewards, distributed after BEEP TGE.\n\n**The reward pool consists of five parts:**\n\n**1. Participation Pool — $50,000**\n\nComplete at least one eligible World Cup prediction market trade to qualify for the Participation Pool.\n\nThis pool is designed for all real participants.\n\n**2. Referral Pool — $50,000**\n\nInvite valid users to join Beep and participate in World Cup prediction markets.\n\nThe more valid users you invite, the higher your share of the Referral Pool.\n\n**3. Group Stage Pool — $100,000**\n\nPredict Group Stage matches correctly and share the Group Stage reward pool based on your number of valid correct predictions.\n\n**4. Round of 32 Pool — $100,000**\n\nPredict Round of 32 matches correctly and share the Round of 32 reward pool based on your number of valid correct predictions.\n\n**5. Knockout & Final Pool — $200,000**\n\nPredict matches correctly during the Round of 16, Quarter-finals, Semi-finals, Third-place Match, and Final to share the Knockout & Final Pool.\n\nDynamic Reward Pool Unlocking\n\nThe final unlocked reward pool depends on the number of valid campaign participants.\n\nThe more users participate, the larger the unlocked reward pool becomes.\n\n**Unlock Rules\nValid Participants\tUnlocked Reward Pool\n500 - 999 users\t10%\n1,000 - 2,999 users\t30%\n3,000 - 4,999 users\t60%\n5,000+ users\t100%**\n\nIf the number of valid participants in a reward category is below 500, the corresponding reward pool will not be unlocked.\n\n**How Rewards Are Calculated**\n\nFor stage-based prediction rewards, users will share the unlocked reward pool based on their number of valid correct predictions.\n\n**Formula**\n\nUser Stage Reward = Stage Reward Pool × User Valid Correct Predictions / Total Valid Correct Predictions by All Users\n\nOnly settled and valid World Cup prediction market trades will be counted.",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Beep AI labs",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/beep-ai-labs/GC8h8tZYWa"
+  },
+  {
     "id": "GC9N6tZNnF",
     "name": "Predict the 2026 World Cup Champion & Get a Chance to Win USDT",
     "description": "Join our 2026 FIFA World Cup Champion Prediction event and share your guess for the team that will lift the trophy!\n\nThe best part? You don't need to predict the correct champion to be eligible for rewards. Simply submit your prediction during the event period, and you'll automatically enter the lucky draw for a chance to win USDT prizes.\n\nWhether your prediction is right or wrong, every valid entry has a chance to be rewarded. Don't miss this opportunity to support your favorite team and win USDT!\n\nYou can also join the WheelX Lucky Spin and win exciting rewards—everyone gets at least 10 chances to spin!\n\n👉 https://wheelx.fi/rewards/ ",
@@ -286,38 +302,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/myne/GC2fptZpY3"
-  },
-  {
-    "id": "GCnmotZGwa",
-    "name": "$100 ADREVA Particiation Bonus",
-    "description": "Participate in the Adreva 20-Day Attention Challege for a chance to win part of a $100 bonus reward pool! Complete at least 10 partner campaign quests to earn entry into the raffle.\n\n📅 May 25 – June 14, 2026\n\n🎁 Rewards:\n5 raffle winners will split the $100 USDC prize pool.",
-    "rewardName": "",
-    "startTime": 1779692400,
-    "endTime": 1781420400,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCnmotZGwa"
-  },
-  {
-    "id": "GCJeotZJM1",
-    "name": "$50 OpenForge Referral Share",
-    "description": "Create and submit a link to an X post, comment, or quote repost promoting and sharing your personal OpenForge referral code for a chance to win rewards! Help introduce OpenForge & Dogebox1 to crypto, AI, DePIN, mining, hardware, and infrastructure communities while earning through referrals and community participation.\n\n📅 May 25 – June 14, 2026\n\nTasks:\n\n- Sign up on OpenForge\n- Generate your personal referral code\n- Submit a post, comment, or quote repost promoting Dogebox1/OpenForge\n- Must include your referral code or referral link\n- Must tag @adreva_network + @cysic_xyz + @open_forge\n- Follow on X\n- Join socials\n\nPriority will be given to submissions that:\n\n- Introduce Dogebox1/OpenForge to crypto, AI, DePIN, mining, and hardware communities\n- Clearly explain the referral opportunity\n- Drive strong engagement through creator replies, reposts, or discussions\n- Help onboard additional users through referral sharing\n\nEach submission is manually reviewed.\n\nWe’re looking for authentic, high-energy posts that help spread awareness of Dogebox1/OpenForge and encourage new users to join the ecosystem through referrals and community engagement.",
-    "rewardName": "",
-    "startTime": 1779692400,
-    "endTime": 1781420400,
-    "chain": "BASE",
-    "space": {
-      "name": "ADREVA",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/adreva/GCJeotZJM1"
   },
   {
     "id": "GCjqVtZbgF",
