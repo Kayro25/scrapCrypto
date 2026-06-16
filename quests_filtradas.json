@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCNV8tZkpp",
+    "name": "5th Kingdom: $1,000 USDT Raffle – 100 Winners Claim $10 Each",
+    "description": "Future Sovereign,\n\nThe 5th Kingdom is rising. \n\nEnter this dedicated Social Quest for your chance to be one of 100 random winners sharing $1,000 USDT — part of the $52,000+ total prize pool.\n\nEasy entry. But join the **full Airdrop Sprint **to win even bigger — 200 Companion NFTs ($250 each) \n\n+ $1,000 USDT for the Top 50.\n**Total Prize Pool: $52,000+**\n\nEnter now and claim your place among the Sovereigns.",
+    "rewardName": "$1000 USDT Social Raffle ",
+    "startTime": 1781517600,
+    "endTime": 1785492000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "CJN Friends",
+      "isVerified": true
+    },
+    "score": 11,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/cjn-friends/GCNV8tZkpp"
+  },
+  {
     "id": "GCsB6tZSCL",
     "name": "5,000 USDT｜GemW Trading Competition #9",
     "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\n##### 🚀 GemW Onchain Trading Competition #9 is LIVE!\n\nTrade · Rank · Share $5,000 💥\nFirst 50 to join get a $10 Super Bonus!\n\n[👉 Join Now](https://www.coinw.com/module/gemw-trading-competition-09)\n![20260610-001226.png](https://appeco.galxe.com/galxe/space/mdresource/84010/9cd10c9a-89ae-448e-bb13-b07d883c5f8d.png)",
@@ -14,6 +30,22 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/gemw/GCsB6tZSCL"
+  },
+  {
+    "id": "GCf58tZX8q",
+    "name": "Early Checker - VII",
+    "description": "Checkpoint laucnhed testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\n[Join Testnet](https://checkpoint.exchange/)",
+    "rewardName": "",
+    "startTime": 1781456400,
+    "endTime": 1782086400,
+    "chain": "ARBITRUM",
+    "space": {
+      "name": "Checkpoint",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/checkpoint/GCf58tZX8q"
   },
   {
     "id": "GCbj6tZrRd",
