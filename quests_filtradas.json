@@ -16,6 +16,22 @@
     "url": "https://app.galxe.com/quest/cjn-friends/GCNV8tZkpp"
   },
   {
+    "id": "GCtdYtZ4g5",
+    "name": "Win between $100 to $100,000",
+    "description": "Join the Nado $100 and a dream competition.\n\nCreate an account with this link: https://app.nado.xyz?join=xcn0okh\n\nDeposit and create Volume or ROI.\n\nThe more you trade the higher your reward.\n\nTop 10 traders will be rewarded.\n\nAnnouncement: https://x.com/nadoHQ/status/2065161671576793454?s=20\n\nTo earn extra reward, use Nadobro for the volume.\n\nNadobro Link: https://t.me/Nadbro_bot",
+    "rewardName": "Nado $100k Trading Competition",
+    "startTime": 1781798400,
+    "endTime": 1782086400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Web3 Quests",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/web3-quests/GCtdYtZ4g5"
+  },
+  {
     "id": "GChS8tZq9Z",
     "name": "Polygon zkEVM will sunset soon, Bridge out your assets now!",
     "description": "🚨 Polygon zkEVM will sunset on July 1, 2026. \n\n![image.png](https://appeco.galxe.com/galxe/space/mdresource/81400/8f63b6a9-7d1e-4d71-a86d-7337962519e8.png)\n\nIf you still have assets on Polygon zkEVM, it’s recommended to withdraw them as soon as possible.\n\nWheelX is one of the few bridges that still supports Polygon zkEVM, allowing you to bridge any assets from Polygon zkEVM to 50+ other networks.\n\n👉 https://wheelx.fi/from&polygonzkevm/\n\nIf you manage multiple addresses, you can also use WheelX’s Multi-Address Balance Tracker to check whether those addresses still have balances on Polygon zkEVM:\n\n👉 https://wheelx.fi/tracker/balance/\n \n",
@@ -190,22 +206,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/aqua/GCjy6tZCy2"
-  },
-  {
-    "id": "GCjg6tZGwM",
-    "name": "Neon x DMCC Campaign",
-    "description": "Join us for exciting quest! Finish 2 simple tasks and get free DMCC token!",
-    "rewardName": "DMCC Token",
-    "startTime": 1781017200,
-    "endTime": 1781794800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Free Tokens Event",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/free-tokens-event/GCjg6tZGwM"
   },
   {
     "id": "GCSbftZUTY",
