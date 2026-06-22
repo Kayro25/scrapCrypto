@@ -16,12 +16,12 @@
     "url": "https://app.galxe.com/quest/cjn-friends/GCNV8tZkpp"
   },
   {
-    "id": "GCtdYtZ4g5",
-    "name": "Win between $100 to $100,000",
-    "description": "Join the Nado $100 and a dream competition.\n\nCreate an account with this link: https://app.nado.xyz?join=xcn0okh\n\nDeposit and create Volume or ROI.\n\nThe more you trade the higher your reward.\n\nTop 10 traders will be rewarded.\n\nAnnouncement: https://x.com/nadoHQ/status/2065161671576793454?s=20\n\nTo earn extra reward, use Nadobro for the volume.\n\nNadobro Link: https://t.me/Nadbro_bot",
+    "id": "GCFFYtZWKp",
+    "name": "Win between $100 to $100,000 - 2",
+    "description": "Join the Nado $100 and a dream competition.\n\nCreate an account with this link: https://app.nado.xyz?join=xcn0okh\n\nDeposit and create Volume or ROI.\n\nThe more you trade the higher your reward.\n\nTop 10 traders will be rewarded.\n\nAnnouncement: https://x.com/nadoHQ/status/2065161671576793454?s=20\n\nTo earn extra reward, use Nadobro for the volume.\n\nNadobro Link: https://t.me/Nadbro_bot\n\nRemember, you only get rewarded when you trade. Start trading with Nadobro Now!",
     "rewardName": "Nado $100k Trading Competition",
-    "startTime": 1781798400,
-    "endTime": 1782086400,
+    "startTime": 1782111600,
+    "endTime": 1782777600,
     "chain": "ETHEREUM",
     "space": {
       "name": "Web3 Quests",
@@ -29,7 +29,7 @@
     },
     "score": 9,
     "payout": 85,
-    "url": "https://app.galxe.com/quest/web3-quests/GCtdYtZ4g5"
+    "url": "https://app.galxe.com/quest/web3-quests/GCFFYtZWKp"
   },
   {
     "id": "GChS8tZq9Z",
@@ -46,22 +46,6 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/wheelx-fi/GChS8tZq9Z"
-  },
-  {
-    "id": "GCf58tZX8q",
-    "name": "Early Checker - VII",
-    "description": "Checkpoint laucnhed testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\n[Join Testnet](https://checkpoint.exchange/)",
-    "rewardName": "",
-    "startTime": 1781456400,
-    "endTime": 1782086400,
-    "chain": "ARBITRUM",
-    "space": {
-      "name": "Checkpoint",
-      "isVerified": true
-    },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/checkpoint/GCf58tZX8q"
   },
   {
     "id": "GCbj6tZrRd",
