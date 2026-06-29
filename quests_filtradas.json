@@ -80,28 +80,12 @@
     "url": "https://app.galxe.com/quest/gemw/GCkEZtZ2Q6"
   },
   {
-    "id": "GChS8tZq9Z",
-    "name": "Polygon zkEVM will sunset soon, Bridge out your assets now!",
-    "description": "🚨 Polygon zkEVM will sunset on July 1, 2026. \n\n![image.png](https://appeco.galxe.com/galxe/space/mdresource/81400/8f63b6a9-7d1e-4d71-a86d-7337962519e8.png)\n\nIf you still have assets on Polygon zkEVM, it’s recommended to withdraw them as soon as possible.\n\nWheelX is one of the few bridges that still supports Polygon zkEVM, allowing you to bridge any assets from Polygon zkEVM to 50+ other networks.\n\n👉 https://wheelx.fi/from&polygonzkevm/\n\nIf you manage multiple addresses, you can also use WheelX’s Multi-Address Balance Tracker to check whether those addresses still have balances on Polygon zkEVM:\n\n👉 https://wheelx.fi/tracker/balance/\n \n",
-    "rewardName": "WheelX VIP Card",
-    "startTime": 1781539200,
-    "endTime": 1782662400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "WheelX.fi",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/wheelx-fi/GChS8tZq9Z"
-  },
-  {
-    "id": "GC2AYtZNrW",
-    "name": "Early Checker - VIII",
+    "id": "GCtnytZTGP",
+    "name": "Early Checker - IX",
     "description": "Checkpoint laucnhed testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\n[Join Testnet](https://checkpoint.exchange/)",
     "rewardName": "",
-    "startTime": 1782061200,
-    "endTime": 1782666420,
+    "startTime": 1782666000,
+    "endTime": 1783296000,
     "chain": "ARBITRUM",
     "space": {
       "name": "Checkpoint",
@@ -109,7 +93,7 @@
     },
     "score": 7,
     "payout": 65,
-    "url": "https://app.galxe.com/quest/checkpoint/GC2AYtZNrW"
+    "url": "https://app.galxe.com/quest/checkpoint/GCtnytZTGP"
   },
   {
     "id": "GCA8YtZXYd",
@@ -142,6 +126,22 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/tina/GCbj6tZrRd"
+  },
+  {
+    "id": "GCUKytZdL6",
+    "name": "Join Telegram For FREE Token Reward",
+    "description": "Join MAIQ Official Telegram Group and get FREE token reward.\n\n*This event will go live every month for 3 months, so please stay in the group.\n\n*You can join Telegram EXCLUSIVE events once you join the community.",
+    "rewardName": "FREE MQX(MAIQ) Token",
+    "startTime": 1782658800,
+    "endTime": 1783263600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Free Tokens Event",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/free-tokens-event/GCUKytZdL6"
   },
   {
     "id": "GChjZtZJeZ",
