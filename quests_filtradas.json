@@ -32,22 +32,6 @@
     "url": "https://app.galxe.com/quest/neosoul/GCddZtZqBo"
   },
   {
-    "id": "GCFFYtZWKp",
-    "name": "Win between $100 to $100,000 - 2",
-    "description": "Join the Nado $100 and a dream competition.\n\nCreate an account with this link: https://app.nado.xyz?join=xcn0okh\n\nDeposit and create Volume or ROI.\n\nThe more you trade the higher your reward.\n\nTop 10 traders will be rewarded.\n\nAnnouncement: https://x.com/nadoHQ/status/2065161671576793454?s=20\n\nTo earn extra reward, use Nadobro for the volume.\n\nNadobro Link: https://t.me/Nadbro_bot\n\nRemember, you only get rewarded when you trade. Start trading with Nadobro Now!",
-    "rewardName": "Nado $100k Trading Competition",
-    "startTime": 1782111600,
-    "endTime": 1782777600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Web3 Quests",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/web3-quests/GCFFYtZWKp"
-  },
-  {
     "id": "GChAZtZ3qV",
     "name": "NeoSoul X OKX：The Beautiful Game",
     "description": "Follow our socials and join the community for a chance to win 100 XP from OKX for the World Cup event! ⚽🏆",
@@ -160,22 +144,6 @@
     "url": "https://app.galxe.com/quest/echobit/GChjZtZJeZ"
   },
   {
-    "id": "GCZ2ftZxBi",
-    "name": "Volume Sprint Bonus 📈",
-    "description": "Rewards serious traders! \n\nTrade across any LIVE competition or deal on Voltrade! \n\n$200 in total rewards. Will be airdropped to the top 3 winners after June 30th.\n\n$100, 2nd: $60, 3rd: $40\n\nEvery VXP is worth 1 point. \n\nBonus: Trade on BloFin War of Whale competition until June 15 to get 3X points. \n",
-    "rewardName": "",
-    "startTime": 1780545600,
-    "endTime": 1782792000,
-    "chain": "SOLANA",
-    "space": {
-      "name": "Voltrade",
-      "isVerified": true
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/voltrade/GCZ2ftZxBi"
-  },
-  {
     "id": "GC8h8tZYWa",
     "name": "Beep World Cup Prediction Arena - Share Up to $500,000 in BEEP Token Rewards.",
     "description": "During the 2026 FIFA World Cup, Beep will launch the World Cup Prediction Arena, a prediction market campaign covering the Group Stage, Knockout Stage, and Final.\n\nTrade World Cup prediction markets, enjoy a +15% Beep Points boost, invite friends, and compete to share up to $500,000 in BEEP Token rewards after TGE.\n\nThe campaign covers the full World Cup cycle, including:\n\n* Group Stage\n* Round of 32\n* Knockout Stage\n* Final\n\nPost-event reward calculation and review\n\nTotal Reward Pool: Up to $500,000 in BEEP Token Rewards\n\nThe Beep World Cup Prediction Arena features a maximum reward pool of $500,000 in BEEP Token rewards, distributed after BEEP TGE.\n\n**The reward pool consists of five parts:**\n\n**1. Participation Pool — $50,000**\n\nComplete at least one eligible World Cup prediction market trade to qualify for the Participation Pool.\n\nThis pool is designed for all real participants.\n\n**2. Referral Pool — $50,000**\n\nInvite valid users to join Beep and participate in World Cup prediction markets.\n\nThe more valid users you invite, the higher your share of the Referral Pool.\n\n**3. Group Stage Pool — $100,000**\n\nPredict Group Stage matches correctly and share the Group Stage reward pool based on your number of valid correct predictions.\n\n**4. Round of 32 Pool — $100,000**\n\nPredict Round of 32 matches correctly and share the Round of 32 reward pool based on your number of valid correct predictions.\n\n**5. Knockout & Final Pool — $200,000**\n\nPredict matches correctly during the Round of 16, Quarter-finals, Semi-finals, Third-place Match, and Final to share the Knockout & Final Pool.\n\nDynamic Reward Pool Unlocking\n\nThe final unlocked reward pool depends on the number of valid campaign participants.\n\nThe more users participate, the larger the unlocked reward pool becomes.\n\n**Unlock Rules\nValid Participants\tUnlocked Reward Pool\n500 - 999 users\t10%\n1,000 - 2,999 users\t30%\n3,000 - 4,999 users\t60%\n5,000+ users\t100%**\n\nIf the number of valid participants in a reward category is below 500, the corresponding reward pool will not be unlocked.\n\n**How Rewards Are Calculated**\n\nFor stage-based prediction rewards, users will share the unlocked reward pool based on their number of valid correct predictions.\n\n**Formula**\n\nUser Stage Reward = Stage Reward Pool × User Valid Correct Predictions / Total Valid Correct Predictions by All Users\n\nOnly settled and valid World Cup prediction market trades will be counted.",
@@ -206,22 +174,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/wheelx-fi/GC9N6tZNnF"
-  },
-  {
-    "id": "GCjy6tZCy2",
-    "name": "$200 Free Credits — Grab Yours Before They're Gone.",
-    "description": "Aqua is a next-gen trading platform where you can trade crypto, US stocks, forex, gold, oil and more — all in one place, with no barriers. New users get $200 in free trading credits the moment they sign up. No deposit. No catch. Just make your trades and keep every dollar you win.",
-    "rewardName": "USDC ",
-    "startTime": 1781107200,
-    "endTime": 1782748800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Aqua",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/aqua/GCjy6tZCy2"
   },
   {
     "id": "GCSbftZUTY",
