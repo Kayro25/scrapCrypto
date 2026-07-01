@@ -16,52 +16,20 @@
     "url": "https://app.galxe.com/quest/cjn-friends/GCNV8tZkpp"
   },
   {
-    "id": "GCddZtZqBo",
-    "name": "Submit Your OKX UID for Raffle！",
-    "description": "Submit your OKX UID to enter our raffle! If you win, 100 OKX points will be automatically airdropped to your account. 🎁",
-    "rewardName": "100 OKX points",
-    "startTime": 1782385200,
-    "endTime": 1782817200,
+    "id": "GCUbytZgdH",
+    "name": "🎟️ Doma AMA Raffle with David Castello: Part 2",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "5000 Season 1 Leaderboard Points",
+    "startTime": 1782831600,
+    "endTime": 1782918000,
     "chain": "ETHEREUM",
     "space": {
-      "name": "NeoSoul",
+      "name": "D3",
       "isVerified": true
     },
     "score": 10,
     "payout": 85,
-    "url": "https://app.galxe.com/quest/neosoul/GCddZtZqBo"
-  },
-  {
-    "id": "GChAZtZ3qV",
-    "name": "NeoSoul X OKX：The Beautiful Game",
-    "description": "Follow our socials and join the community for a chance to win 100 XP from OKX for the World Cup event! ⚽🏆",
-    "rewardName": "100 OKX Points",
-    "startTime": 1782385200,
-    "endTime": 1782817200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "NeoSoul",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/neosoul/GChAZtZ3qV"
-  },
-  {
-    "id": "GCkEZtZ2Q6",
-    "name": "5,000 USDT｜GemW Trading Competition #11",
-    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\n##### 🚀 GemW Onchain Trading Competition #9 is LIVE!\n\nTrade · Rank · Share $5,000 💥\nFirst 50 to join get a $10 Super Bonus!\n\n[👉 Join Now](https://www.coinw.com/module/gemw-trading-competition-11)\n![EN - 1080X1080.png](https://appeco.galxe.com/galxe/space/mdresource/84010/56e7f83f-bfe5-4cb6-a3c5-e4d1cc0421e9.png)",
-    "rewardName": "$10 Futures Bonus",
-    "startTime": 1782316800,
-    "endTime": 1782835200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "GemW",
-      "isVerified": true
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/gemw/GCkEZtZ2Q6"
+    "url": "https://app.galxe.com/quest/d3/GCUbytZgdH"
   },
   {
     "id": "GCtnytZTGP",
@@ -96,20 +64,20 @@
     "url": "https://app.galxe.com/quest/cryptopulse/GCA8YtZXYd"
   },
   {
-    "id": "GCbj6tZrRd",
-    "name": "🚨 Join the Waitlist. Earn USDT. Get Ready for TINAGeo DashCam.",
-    "description": "🚗 The TINAGeo DashCam pre-order is coming soon. \n\n📹 Premium DashCam Hardware\n⛏️ Drive-to-Earn Rewards\n🎁 Exclusive Airdrops & Referral Rewards\n\nBe among the first to experience the TINAGeo DashCam. \nJoin the Waitlist today and secure your spot before pre-orders go live.\n\n🏆 3 Winners\n💰 10 USDT Each\n\n 📅 Event Period\nJune 10 – June 30  \n\n✅  How to Join\n1️⃣ Follow @TINA_Heptone\n2️⃣ Repost eㅅvent post\n3️⃣ Join the waitlist\n👉 https://tina.im/pioneer-pass\n\n⚡ Boost Your Chances\nThe more you participate in the TINA Gacha Event, the higher your chances of winning.\n\n🔥 Early users get the biggest advantages.\nDon't wait until the pre-order opens.",
-    "rewardName": "30 USDT",
-    "startTime": 1781038800,
-    "endTime": 1782831599,
-    "chain": "ETHEREUM",
+    "id": "GCU8YtZhTT",
+    "name": "Kind World Airdrop Campaign | 500$ Reward Pool!",
+    "description": "Take part in the Kindworld campaign to become eligible for the upcoming airdrop in Q4 2026, and get a chance to win a share of the $500 giveaway to 50 winners.\n\nEarn Points with each campaign and get them multiplied with our Kindworld NFTs only eligible for the quest campaign participants, more details dropping soon.\n\n1 Point per $1 USD swapped\nBased on swap value at time of transaction\nMinimum swap: $5 USD\nSwaps below $5 earn 0 points\nDaily cap: 10,000 points",
+    "rewardName": "",
+    "startTime": 1782757800,
+    "endTime": 1785349800,
+    "chain": "SOLANA",
     "space": {
-      "name": "TINA",
-      "isVerified": false
+      "name": "KindWorld",
+      "isVerified": true
     },
-    "score": 7,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/tina/GCbj6tZrRd"
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/kindworld/GCU8YtZhTT"
   },
   {
     "id": "GCUKytZdL6",
