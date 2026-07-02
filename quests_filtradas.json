@@ -16,22 +16,6 @@
     "url": "https://app.galxe.com/quest/cjn-friends/GCNV8tZkpp"
   },
   {
-    "id": "GCUbytZgdH",
-    "name": "🎟️ Doma AMA Raffle with David Castello: Part 2",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "5000 Season 1 Leaderboard Points",
-    "startTime": 1782831600,
-    "endTime": 1782918000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCUbytZgdH"
-  },
-  {
     "id": "GCtnytZTGP",
     "name": "Early Checker - IX",
     "description": "Checkpoint laucnhed testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\n[Join Testnet](https://checkpoint.exchange/)",
@@ -65,7 +49,7 @@
   },
   {
     "id": "GCU8YtZhTT",
-    "name": "Kind World Airdrop Campaign | 500$ Reward Pool!",
+    "name": "KindWorld Airdrop Campaign | 500$ Reward Pool!",
     "description": "Take part in the Kindworld campaign to become eligible for the upcoming airdrop in Q4 2026, and get a chance to win a share of the $500 giveaway to 50 winners.\n\nEarn Points with each campaign and get them multiplied with our Kindworld NFTs only eligible for the quest campaign participants, more details dropping soon.\n\n1 Point per $1 USD swapped\nBased on swap value at time of transaction\nMinimum swap: $5 USD\nSwaps below $5 earn 0 points\nDaily cap: 10,000 points",
     "rewardName": "",
     "startTime": 1782757800,
