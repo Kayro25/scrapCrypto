@@ -49,8 +49,8 @@
   },
   {
     "id": "GCU8YtZhTT",
-    "name": "KindWorld Airdrop Campaign | 500$ Reward Pool!",
-    "description": "Take part in the Kindworld campaign to become eligible for the upcoming airdrop in Q4 2026, and get a chance to win a share of the $500 giveaway to 50 winners.\n\nEarn Points with each campaign and get them multiplied with our Kindworld NFTs only eligible for the quest campaign participants, more details dropping soon.\n\n1 Point per $1 USD swapped\nBased on swap value at time of transaction\nMinimum swap: $5 USD\nSwaps below $5 earn 0 points\nDaily cap: 10,000 points",
+    "name": "KindWorld Airdrop Campaign | $500 Reward Pool!",
+    "description": "Take part in the Kindworld campaign to become eligible for the upcoming airdrop in Q4 2026, and get a chance to win a share of the $500 giveaway to 50 winners.\n\nEarn Points with each campaign and get them multiplied with our Kindworld NFTs only eligible for the quest campaign participants, more details dropping soon.\n",
     "rewardName": "",
     "startTime": 1782757800,
     "endTime": 1785349800,
@@ -80,20 +80,36 @@
     "url": "https://app.galxe.com/quest/free-tokens-event/GCUKytZdL6"
   },
   {
-    "id": "GChjZtZJeZ",
-    "name": "Echobit Global Carnival —  Share $500+$2,000,000 World Cup Prize Pool!",
-    "description": "🚀 The top 50 players will split 500 USDT! Earn points and win big prizes! 🚀\n\n🔥 Event Period: June 25–July 3\n💰 Double Rewards\nReward 1: Complete the task to share in a 500 USDT prize pool（50 SPOTS）\nReward 2: All users who complete the task will receive Football Chips. Participants in the prediction will share 200,000 prize pool.\n\n🎯 How to Participate? Complete simple tasks, earn points, and climb the leaderboard!\n- Join the official Telegram group\n- Follow us on Twitter\n\nStart your journey right here on Galxe by completing simple tasks to secure your share of the 500 USDT cash prize!",
-    "rewardName": "Echobit Gift Bonus（USDT）",
-    "startTime": 1782316800,
-    "endTime": 1783008000,
+    "id": "GCmHEtZjJW",
+    "name": "🏆 DeriW 周四活动：交易赢取 100 USDT 🏆",
+    "description": "![7月2至9日社群周四活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/34c66b21-c955-42f2-a840-1e25ef493911.png)\n**🏆 DeriW 周四活动：交易赢取 100 美元 🏆\n\n🎆 DeriW 主网上线第48周——累计交易量突破680亿美元！\n👥 用户规模再创新高：总用户数突破 86,000！\n\n加入 DeriW 独家社群活动，庆祝 DeriW 新里程碑，赢取 100 美元大奖！**\n\n**⏰ 活动时间：**7 月 2 日下午 4 点 - 7 月 9 日下午 4 点（UTC+8）\n💰 奖池：$100 USDT - 最高盈亏的五位参与者各获得 $20 USDT\n\n**🎯 参与方式：**\n• 活动期间，在 www.deriw.com/trade 交易 Tradfi 交易对（XAU、SKHYNIX、ANTHROPIC、OPENAI、SPY、QQQ、AMD、TSM、AVGO、TSLA、HYUNDAI、AMZN、NVDA、QCOM、SAMSUNG、SPCX、COIN、CRM、BABA、MSTR、INTC、HOOD、CRCL、NFLX、XAG）\n• 在 [general chat](https://t.me/deriwfinance) 分享盈亏卡和您的 DeriW 钱包地址，附带标签 #JulyPnL（不限次数）\n• 教程：[如何分享盈亏卡](https://t.me/deriwfinance/127359/169408)\n\n**⚠️ 重要规则：**\n• 必须包含指定标签\n• 禁止垃圾信息或伪造截图\n• 奖励将在公告后 10 个工作日内发放\n\n**为什么选择 DeriW 交易？**\n✅ 零资金费率\n✅ 0.02% 超低交易手续费\n✅ 安全、透明且经过审计的环境\n✅ 即时执行——无需等待订单匹配\n\n💜 加入：@deriwfinance\n🔗 交易：www.deriw.com\n\n#DeriWThursday #JulyPnL #DeriWJulyTradeToEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
+    "rewardName": "100 USDT",
+    "startTime": 1782979200,
+    "endTime": 1783584000,
     "chain": "ETHEREUM",
     "space": {
-      "name": "Echobit",
+      "name": "Deriw Finance",
       "isVerified": false
     },
-    "score": 6,
+    "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/echobit/GChjZtZJeZ"
+    "url": "https://app.galxe.com/quest/deriw-finance/GCmHEtZjJW"
+  },
+  {
+    "id": "GCmNEtZDDu",
+    "name": "🏆 DeriW 週四活動：交易贏取 100 USDT 🏆",
+    "description": "![7月2至9日社群周四活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/017cae24-e2f5-468f-a94a-02ab7616fba2.png)\n🏆 DeriW 週四活動：交易贏取 100 美元 🏆\n\n**🎆 DeriW 主網上線第48週——累計交易量突破680億美元！\n👥 用戶規模再創新高：總用戶數突破 86,000！\n\n加入 DeriW 獨家社群活動，慶祝 DeriW 全新里程碑，贏取 100 美元大獎！**\n\n**⏰ 活動時間：**7 月 2 日下午 4 點 - 7 月 9 日下午 4 點（UTC+8）\n**💰 獎池：**$100 USDT - 盈虧最高的五位參與者各獲得 $20 USDT\n\n**🎯 參與方式：**\n• 活動期間，在 http://www.deriw.com/trade 交易 TradFi 交易對（XAU、SKHYNIX、ANTHROPIC、OPENAI、SPY、QQQ、AMD、TSM、AVGO、TSLA、HYUNDAI、AMZN、NVDA、QCOM、SAMSUNG、SPCX、COIN、CRM、BABA、MSTR、INTC、HOOD、CRCL、NFLX、XAG）\n• 在 [general chat](https://t.me/deriwfinance) 分享盈虧卡及您的 DeriW 錢包地址，並附上標籤 #JulyPnL（不限次數）\n• 教學：[如何分享盈虧卡](https://t.me/deriwfinance/127359/169408)\n\n**⚠️ 重要規則：**\n• 必須包含指定標籤\n• 禁止垃圾訊息或偽造截圖\n• 獎勵將於公告後 10 個工作日內發放\n\n**為什麼選擇 DeriW 交易？**\n✅ 零資金費率\n✅ 0.02% 超低交易手續費\n✅ 安全、透明且經過審計的交易環境\n✅ 即時執行——無需等待訂單撮合\n\n💜 加入：@deriwfinance\n🔗 交易：http://www.deriw.com\n\n#DeriWThursday #JulyPnL #DeriWJulyTradeToEarn #ZeroGasFees\n\n免責聲明：\n1.請在活動時間內到Telegram DeriW Group Chat @deriwfinance 參與活動。\n2.獲獎名單以Telegram DeriW Official Annoucements @deriwofficial 公告為準。",
+    "rewardName": "100 USDT",
+    "startTime": 1782979200,
+    "endTime": 1783584000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Deriw Finance",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/deriw-finance/GCmNEtZDDu"
   },
   {
     "id": "GC8h8tZYWa",
