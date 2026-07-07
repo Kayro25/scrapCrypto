@@ -16,6 +16,38 @@
     "url": "https://app.galxe.com/quest/cjn-friends/GCNV8tZkpp"
   },
   {
+    "id": "GCv5EtZAsx",
+    "name": "NeoSoul x Clawquest the Minning Quest！",
+    "description": "🌟 Ready to Embark on a New Fingertip Adventure?\nNeoSoul is teaming up with Clawquest, the rising star in the Web3 Gamefi ecosystem.\n\nClawquest is revolutionizing interactive exploration right inside Telegram. To give the NeoSoul community a head start in experiencing this innovative interaction, we are launching this special joint campaign. Just move your fingers, launch the Clawquest TG Mini App, and complete simple tasks for a chance to win rare NeoSoul LV3 SBTs and a share of the 50 USDT Prize Pool!",
+    "rewardName": "NeoSoul SBT LV3+10USDT",
+    "startTime": 1783330200,
+    "endTime": 1783872000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "NeoSoul",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/neosoul/GCv5EtZAsx"
+  },
+  {
+    "id": "GCzvXtZUhi",
+    "name": "Early Checker - X",
+    "description": "Checkpoint laucnhed testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\n[Join Testnet](https://checkpoint.exchange/)",
+    "rewardName": "",
+    "startTime": 1783270800,
+    "endTime": 1784505600,
+    "chain": "ARBITRUM",
+    "space": {
+      "name": "Checkpoint",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/checkpoint/GCzvXtZUhi"
+  },
+  {
     "id": "GCA8YtZXYd",
     "name": "🔥🔥🔥CryptoPulse Early Bird Quest🔥🔥🔥",
     "description": "Start stacking CryptoPulse points. Start stacking your TGE weight.\n\nNot just another points project. It's a SocialFi protocol that actually turns points into weight.\n\n🏷️ Real usage, not task farming — genuine behavior earns genuine weight\n\n🏷️ AI-powered content discovery — your voice reaches the right people\n\n🏷️ Your content, your asset — every post can generate real returns\n\n🏷️ Points = TGE weight — transparent, on-chain, no hidden tricks\n\nComplete the quest to earn official points (future token weight) and an on-chain OAT badge.",
@@ -46,6 +78,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/kindworld/GCU8YtZhTT"
+  },
+  {
+    "id": "GCwTftZ3VQ",
+    "name": "Stable × Billions: The Future of Trust & Payments",
+    "description": "Stable is a USD₮-native Layer 1 powering StableChain, designed for agentic payments with fast settlement, low fees, and predictable costs. Supported by Bitfinex, PayPal Ventures, and the USDT0.\n\nBillions Network is the first Human and AI network, built on mobile-first, privacy-preserving technology to scale trust in the age of AI. Created by the founders of Disco.xyz, Hermez and Polygon, Billions tech powers over 9,000 zero knowledge and identity projects, including Sentient, Tiktok, HSBC and the Indian Government.\nJoin the quest and explore the future of trusted AI and stablecoin-powered infrastructure.\n\n**🎁 Prize Pool: $200 USDT**\n\n*Rewards distributed to eligible winners after campaign completion.*\n",
+    "rewardName": "",
+    "startTime": 1783342800,
+    "endTime": 1784120400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Stable",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/stable/GCwTftZ3VQ"
   },
   {
     "id": "GCmHEtZjJW",
@@ -126,21 +174,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/wheelx-fi/GCh41tZsKB"
-  },
-  {
-    "id": "GCZP1tZdAU",
-    "name": "Become a K613 OG",
-    "description": "The K613 OG role is reserved for the earliest supporters of the ecosystem.\n\nComplete this quest to become eligible for the exclusive OG Discord Role and be recognized as one of the first contributors participating in Genesis Season 1.\n\nOG members represent the foundation of the K613 community and will forever be recognized as early builders of the ecosystem.\n\n⚠️ OG roles are limited and distributed on a first-come, first-served basis.",
-    "rewardName": "",
-    "startTime": 1779915600,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "K613",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/k613/GCZP1tZdAU"
   }
 ]
