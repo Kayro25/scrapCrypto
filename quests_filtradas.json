@@ -158,21 +158,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/wheelx-fi/GC9N6tZNnF"
-  },
-  {
-    "id": "GCh41tZsKB",
-    "name": "S2: Apply to be a WheelX ambassador and share 1,000 USDT monthly",
-    "description": "Join the WheelX Ambassador Program and share a 1,000 USDT monthly reward pool.\n\nWe’re looking for Web3 enthusiasts worldwide to help grow WheelX.\n\nComplete a simple quest for a chance to earn a 5 USDT bonus! 🚀",
-    "rewardName": "",
-    "startTime": 1780243200,
-    "endTime": 1785427200,
-    "chain": "BASE",
-    "space": {
-      "name": "WheelX.fi",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/wheelx-fi/GCh41tZsKB"
   }
 ]
