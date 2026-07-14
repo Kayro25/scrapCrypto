@@ -64,6 +64,22 @@
     "url": "https://app.galxe.com/quest/kindworld/GCU8YtZhTT"
   },
   {
+    "id": "GCu5XtZGgz",
+    "name": "RivrDEX Rewards Campaign",
+    "description": "***Rewards are live on RivrDEX.***\n\nEvery swap and every liquidity provision earns points and XP. \n\nClimb levels, build a loyalty multiplier that boosts everything you earn, and redeem points for things worth having.\n\n**In the shop:**\n🔹 USDT to your wallet - $5, $10, $25\n🔹 SafePal cold wallet\n🔹 Ledger - top reward for the highest levels\n🔹 Exclusive Discord roles\n\nMissions pay bonus points - your first swap, your first five, your first $1,000 in volume. \n\nDaily check-ins keep your streak alive. The leaderboard runs on lifetime XP, so spending points never costs you rank.\n\nIf you held an OG or Quest Champion role, it carries over as a bonus. You start ahead.\n\nThe earlier you start, the more you earn. Connect your wallet and make your first swap count 👇\n\nhttps://rivrdex.io/rewards",
+    "rewardName": "",
+    "startTime": 1783956600,
+    "endTime": 1785445200,
+    "chain": "BSC",
+    "space": {
+      "name": "RivrDEX",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/rivrdex/GCu5XtZGgz"
+  },
+  {
     "id": "GCw6XtZgvy",
     "name": "RivrDEX Rewards Campaign",
     "description": "**Rewards are live on RivrDEX.**\n\nEvery swap and every liquidity provision earns points and XP. \n\nClimb levels, build a loyalty multiplier that boosts everything you earn, and redeem points for things worth having.\n\nIn the shop:\n🔹 USDT to your wallet - $5, $10, $25\n🔹 SafePal cold wallet\n🔹 Ledger - top reward for the highest levels\n🔹 Exclusive Discord roles\n\nMissions pay bonus points - your first swap, your first five, your first $1,000 in volume. \n\nDaily check-ins keep your streak alive. The leaderboard runs on lifetime XP, so spending points never costs you rank.\n\nIf you held an OG or Quest Champion role, it carries over as a bonus. You start ahead.\n\nThe earlier you start, the more you earn. Connect your wallet and make your first swap count 👇\n\nrivrdex.io/rewards",
@@ -126,21 +142,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/beep-ai-labs/GC8h8tZYWa"
-  },
-  {
-    "id": "GC9N6tZNnF",
-    "name": "Predict the 2026 World Cup Champion & Get a Chance to Win USDT",
-    "description": "Join our 2026 FIFA World Cup Champion Prediction event and share your guess for the team that will lift the trophy!\n\nThe best part? You don't need to predict the correct champion to be eligible for rewards. Simply submit your prediction during the event period, and you'll automatically enter the lucky draw for a chance to win USDT prizes.\n\nWhether your prediction is right or wrong, every valid entry has a chance to be rewarded. Don't miss this opportunity to support your favorite team and win USDT!\n\nYou can also join the WheelX Lucky Spin and win exciting rewards—everyone gets at least 10 chances to spin!\n\n👉 https://wheelx.fi/rewards/ ",
-    "rewardName": "",
-    "startTime": 1781107200,
-    "endTime": 1784304000,
-    "chain": "BASE",
-    "space": {
-      "name": "WheelX.fi",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/wheelx-fi/GC9N6tZNnF"
   }
 ]
