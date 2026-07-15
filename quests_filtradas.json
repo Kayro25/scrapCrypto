@@ -126,21 +126,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/stable/GCwTftZ3VQ"
-  },
-  {
-    "id": "GC8h8tZYWa",
-    "name": "Beep World Cup Prediction Arena - Share Up to $500,000 in BEEP Token Rewards.",
-    "description": "During the 2026 FIFA World Cup, Beep will launch the World Cup Prediction Arena, a prediction market campaign covering the Group Stage, Knockout Stage, and Final.\n\nTrade World Cup prediction markets, enjoy a +15% Beep Points boost, invite friends, and compete to share up to $500,000 in BEEP Token rewards after TGE.\n\nThe campaign covers the full World Cup cycle, including:\n\n* Group Stage\n* Round of 32\n* Knockout Stage\n* Final\n\nPost-event reward calculation and review\n\nTotal Reward Pool: Up to $500,000 in BEEP Token Rewards\n\nThe Beep World Cup Prediction Arena features a maximum reward pool of $500,000 in BEEP Token rewards, distributed after BEEP TGE.\n\n**The reward pool consists of five parts:**\n\n**1. Participation Pool — $50,000**\n\nComplete at least one eligible World Cup prediction market trade to qualify for the Participation Pool.\n\nThis pool is designed for all real participants.\n\n**2. Referral Pool — $50,000**\n\nInvite valid users to join Beep and participate in World Cup prediction markets.\n\nThe more valid users you invite, the higher your share of the Referral Pool.\n\n**3. Group Stage Pool — $100,000**\n\nPredict Group Stage matches correctly and share the Group Stage reward pool based on your number of valid correct predictions.\n\n**4. Round of 32 Pool — $100,000**\n\nPredict Round of 32 matches correctly and share the Round of 32 reward pool based on your number of valid correct predictions.\n\n**5. Knockout & Final Pool — $200,000**\n\nPredict matches correctly during the Round of 16, Quarter-finals, Semi-finals, Third-place Match, and Final to share the Knockout & Final Pool.\n\nDynamic Reward Pool Unlocking\n\nThe final unlocked reward pool depends on the number of valid campaign participants.\n\nThe more users participate, the larger the unlocked reward pool becomes.\n\n**Unlock Rules\nValid Participants\tUnlocked Reward Pool\n500 - 999 users\t10%\n1,000 - 2,999 users\t30%\n3,000 - 4,999 users\t60%\n5,000+ users\t100%**\n\nIf the number of valid participants in a reward category is below 500, the corresponding reward pool will not be unlocked.\n\n**How Rewards Are Calculated**\n\nFor stage-based prediction rewards, users will share the unlocked reward pool based on their number of valid correct predictions.\n\n**Formula**\n\nUser Stage Reward = Stage Reward Pool × User Valid Correct Predictions / Total Valid Correct Predictions by All Users\n\nOnly settled and valid World Cup prediction market trades will be counted.",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Beep AI labs",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/beep-ai-labs/GC8h8tZYWa"
   }
 ]
