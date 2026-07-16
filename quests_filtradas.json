@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCNV8tZkpp",
-    "name": "5th Kingdom: $1,000 USDT Raffle – 100 Winners Claim $10 Each",
-    "description": "Future Sovereign,\n\nThe 5th Kingdom is rising. \n\nEnter this dedicated Social Quest for your chance to be one of 100 random winners sharing $1,000 USDT — part of the $52,000+ total prize pool.\n\nEasy entry. But join the **full Airdrop Sprint **to win even bigger — 200 Companion NFTs ($250 each) \n\n+ $1,000 USDT for the Top 50.\n**Total Prize Pool: $52,000+**\n\nEnter now and claim your place among the Sovereigns.",
-    "rewardName": "$1000 USDT Social Raffle ",
-    "startTime": 1781517600,
-    "endTime": 1785492000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "CJN Friends",
-      "isVerified": true
-    },
-    "score": 11,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/cjn-friends/GCNV8tZkpp"
-  },
-  {
     "id": "GCzvXtZUhi",
     "name": "Early Checker - X",
     "description": "Checkpoint laucnhed testnet. To celebrate, we're kicking off Early Checker Quest Series, 10 weeks of quests, rewards and exclusive NFTs.\n\n[Join Testnet](https://checkpoint.exchange/)",
@@ -64,6 +48,38 @@
     "url": "https://app.galxe.com/quest/kindworld/GCU8YtZhTT"
   },
   {
+    "id": "GC8RNtZ7k3",
+    "name": "Register and GET your CASHBACK!",
+    "description": "We are excited to give you **REBATE FUN BRONZE ACCOUNT & $100 USD!**\n\nReminder:\n\n1.Please sign up using our referral link for this campaign only.\n2.All new users will receive a Rebate.fun Bronze Account and $100 USD.\n3.Limited to the first 2,000 users only.\n4.Rewards are subject to completing all required campaign tasks.\n5.Your rewards will be displayed under: Dashboard → Cashback → Frozen Balance.\n6.You may use the rewards to upgrade your VVIP tier or redeem them during TGE.\n7.Rebate.fun reserves the right to final interpretation of the terms and conditions.",
+    "rewardName": "",
+    "startTime": 1784131200,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Rebate Fun",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/rebate-fun/GC8RNtZ7k3"
+  },
+  {
+    "id": "GCf4NtZrtT",
+    "name": "Join the Early AFX Community",
+    "description": "AFX is opening its doors to early supporters. Join our community today, complete a couple of simple tasks, and get a chance to win $10 USDT. Be among the first to be part of the AFX journey!\nReward:\n1 lucky winner will receive $10 USDT!![20260715-205555.png](https://appeco.galxe.com/galxe/space/mdresource/86101/e80d5a01-9378-4fdc-a1fe-81b4c3bc8bff.png)",
+    "rewardName": "",
+    "startTime": 1784044800,
+    "endTime": 1784649600,
+    "chain": "BSC",
+    "space": {
+      "name": "AFX_Trade",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/afx-trade/GCf4NtZrtT"
+  },
+  {
     "id": "GCu5XtZGgz",
     "name": "RivrDEX Rewards Campaign",
     "description": "***Rewards are live on RivrDEX.***\n\nEvery swap and every liquidity provision earns points and XP. \n\nClimb levels, build a loyalty multiplier that boosts everything you earn, and redeem points for things worth having.\n\n**In the shop:**\n🔹 USDT to your wallet - $5, $10, $25\n🔹 SafePal cold wallet\n🔹 Ledger - top reward for the highest levels\n🔹 Exclusive Discord roles\n\nMissions pay bonus points - your first swap, your first five, your first $1,000 in volume. \n\nDaily check-ins keep your streak alive. The leaderboard runs on lifetime XP, so spending points never costs you rank.\n\nIf you held an OG or Quest Champion role, it carries over as a bonus. You start ahead.\n\nThe earlier you start, the more you earn. Connect your wallet and make your first swap count 👇\n\nhttps://rivrdex.io/rewards",
@@ -110,21 +126,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/wheelx-fi/GC4YXtZhRr"
-  },
-  {
-    "id": "GCwTftZ3VQ",
-    "name": "Stable × Billions: The Future of Trust & Payments",
-    "description": "Stable is a USD₮-native Layer 1 powering StableChain, designed for agentic payments with fast settlement, low fees, and predictable costs. Supported by Bitfinex, PayPal Ventures, and the USDT0.\n\nBillions Network is the first Human and AI network, built on mobile-first, privacy-preserving technology to scale trust in the age of AI. Created by the founders of Disco.xyz, Hermez and Polygon, Billions tech powers over 9,000 zero knowledge and identity projects, including Sentient, Tiktok, HSBC and the Indian Government.\nJoin the quest and explore the future of trusted AI and stablecoin-powered infrastructure.\n\n**🎁 Prize Pool: $200 USDT**\n\n*Rewards distributed to eligible winners after campaign completion.*\n",
-    "rewardName": "",
-    "startTime": 1783342800,
-    "endTime": 1784120400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Stable",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/stable/GCwTftZ3VQ"
   }
 ]
