@@ -1,5 +1,37 @@
 [
   {
+    "id": "GCd7QtZUiH",
+    "name": "Spaceway Whitelist Competition",
+    "description": "Welcome to SpaceWay  x Kommunitas Whitelist Competition! 💥\n\nSale Starts: July 20th, 2026. 9 AM UTC\nlaunchpad\n\n💰 Increase your chances of getting whitelisted allocation by completing ALL of the actions below. Good luck to all of you!\n\nNB: if you win into one of **SpaceWay** whitelist spot, we will inform on our Discord Channel and Telegram 24 hours before the sale, make sure you check it out!\n\n➡️ Next step for whitelist winners to participate\n: ✅ Head on to launchpad during preparation period to check your allocation\n✅ Prepare your USDT (Polygon) | USDT (BSC) | USDT (ARB)\n✅ Connect your wallet and buy your allocation on Booster 1 round only! at launchpad, 09:00 AM UTC. Booster 1 ends at 05:00 PM UTC\n\nNeed guidance on participating?\nClick here for a tutorial.\n\n🗓 All Calendar:\nhttps://linktr.ee/kommunitas1\nand\nhttps://calendar.kommunitas.net/ ",
+    "rewardName": "SpaceWay Whitelist Ticket",
+    "startTime": 1784221200,
+    "endTime": 1784437200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCd7QtZUiH"
+  },
+  {
+    "id": "GCpnNtZPvo",
+    "name": "5,000 USDT｜CoinW Alpha Trading Competition #14",
+    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\n🚀 Alpha OnChain Trading Comp #14 is LIVE!\n\nTrade · Rank · Share $5,000 💥\nFirst 50 to join get a $10 Super Bonus!\n\n[👉 Join Now](https://www.coinw.com/module/trading-competition-14)\n![en.png](https://appeco.galxe.com/galxe/space/mdresource/84010/1253ae9e-30c3-49ee-805c-1f10d853c99f.png)",
+    "rewardName": "$10 Futures Bonus",
+    "startTime": 1784304000,
+    "endTime": 1784822400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "GemW",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/gemw/GCpnNtZPvo"
+  },
+  {
     "id": "GCNeNtZfnG",
     "name": "Win a share of $10,000 in Fraction AI's upcoming paper trading tournament",
     "description": "Register for Fraction AI's upcoming Paper Trading Challenge I. Win a share of $10,000.\n\nTo sign up, deposit $10 and we'll match it with a $10 sign up bonus. Signup using your email linked to your Galxe account.\n\n**What  is Index?**\n\nIndex is Fraction AI's flagship trading tool that makes trading easier than ever. You just swipe, review, and trade. Everything is taken care of, from win probability to stop-loss and take-profit.\n\nThis is made possible by Quant AI agents working in the background to find the best trading setups, share them on Index, and attach calibrated confidence to every idea. \n\n**Campaign details:**\n\nDuration: 2 weeks \nMinimum deposit: $10 \nIndex match: $10 trading credit \nPrize pool: 10,000 USDC\nThe tournament will start after registration ends.\n\nTrade paper, win real money.\n\nDon't miss out!\n\nP.S: Sign up to Index with the same email associated to your Galxe account",
@@ -62,6 +94,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/kindworld/GCU8YtZhTT"
+  },
+  {
+    "id": "GCkDNtZJ4J",
+    "name": "Myne Alpha Is Live: Get Early Access or Myne Alpha Is Live: Join the Next Wave",
+    "description": "Myne Alpha is live, and the first Builders are already helping shape the fair internet through a browser built around privacy, aligned AI, and user control.\r\n\r\n\r\n\r\nThis is your entry point into Myne: join the Hub, support the launch, and climb toward Builder for a chance to enter one of the next alpha access waves.",
+    "rewardName": "",
+    "startTime": 1784289600,
+    "endTime": 1785499200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Myne",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/myne/GCkDNtZJ4J"
   },
   {
     "id": "GC8RNtZ7k3",
