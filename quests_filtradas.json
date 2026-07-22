@@ -32,22 +32,6 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCKvNtZAuR"
   },
   {
-    "id": "GCnDQtZm83",
-    "name": "FONQ Whitelist Competition",
-    "description": "Welcome to FONQ   x Kommunitas Whitelist Competition! 💥\n\nSale Starts: July 23rd, 2026. 9 AM UTC\nlaunchpad\n\n💰 Increase your chances of getting whitelisted allocation by completing ALL of the actions below. Good luck to all of you!\n\nNB: if you win into one of **FONQ ** whitelist spot, we will inform on our Discord Channel and Telegram 24 hours before the sale, make sure you check it out!\n\n➡️ Next step for whitelist winners to participate\n: ✅ Head on to launchpad during preparation period to check your allocation\n✅ Prepare your USDT (Polygon) | USDT (BSC) | USDT (ARB)\n✅ Connect your wallet and buy your allocation on Booster 1 round only! at launchpad, 09:00 AM UTC. Booster 1 ends at 05:00 PM UTC\n\nNeed guidance on participating?\nClick here for a tutorial.\n\n🗓 All Calendar:\nhttps://linktr.ee/kommunitas1\nand\nhttps://calendar.kommunitas.net/ ",
-    "rewardName": "FONQ Whitelist Ticket",
-    "startTime": 1784480400,
-    "endTime": 1784696400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCnDQtZm83"
-  },
-  {
     "id": "GCVJNtZ9aU",
     "name": "KOMmunity Kingsman x SpaceWay",
     "description": "🎁 Reward:  12,500 $SPWAY Prize Pool\n- Winners:  Up to 500 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
@@ -160,6 +144,22 @@
     "url": "https://app.galxe.com/quest/cryptopulse/GCA8YtZXYd"
   },
   {
+    "id": "GCPnQtZ2uL",
+    "name": "AIW3 × Galxe 60,000 USDT Airdrop Campaign",
+    "description": "Join the **AIW3 × Galxe Airdrop Campaign** and complete simple tasks to earn a share of the **60,000 USDT AIW3 Token Reward Pool**.\r\n\r\n**Tasks:**\r\n\r\n* Follow AIW3 on X\r\n* Join the AIW3 Community\r\n* Visit the AIW3 Airdrop Page\r\n* Like & Repost the Campaign Tweet\r\n\r\n📸 Snapshot Date: July 28, 2026\r\n🚀 TGE Date: August 3, 2026\r\n\r\n***Users will be able to claim their rewards on the AIW3 website after the TGE.***\r\n\r\nPlease register and bind your wallet on our official website in advance to ensure you can claim your rewards later.\r\n\r\n🎁 **Rewards:** Share **60,000 USDT worth of AIW3 Tokens**. Complete the tasks now and maximize your chance to earn rewards!",
+    "rewardName": "5 USDT Whitelist Reward",
+    "startTime": 1784649600,
+    "endTime": 1785168000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "AIW3",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/aiw3/GCPnQtZ2uL"
+  },
+  {
     "id": "GCU8YtZhTT",
     "name": "KindWorld Airdrop Campaign | $500 Reward Pool!",
     "description": "Take part in the Kindworld campaign to become eligible for the upcoming airdrop in Q4 2026, and get a chance to win a share of the $500 giveaway to 50 winners.\n\nEarn Points with each campaign and get them multiplied with our Kindworld NFTs only eligible for the quest campaign participants, more details dropping soon.\n",
@@ -222,22 +222,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/rebate-fun/GC8RNtZ7k3"
-  },
-  {
-    "id": "GCf4NtZrtT",
-    "name": "Join the Early AFX Community",
-    "description": "AFX is opening its doors to early supporters. Join our community today, complete a couple of simple tasks, and get a chance to win $10 USDT. Be among the first to be part of the AFX journey!\nReward:\n1 lucky winner will receive $10 USDT!![20260715-205555.png](https://appeco.galxe.com/galxe/space/mdresource/86101/e80d5a01-9378-4fdc-a1fe-81b4c3bc8bff.png)",
-    "rewardName": "",
-    "startTime": 1784044800,
-    "endTime": 1784649600,
-    "chain": "BSC",
-    "space": {
-      "name": "AFX_Trade",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/afx-trade/GCf4NtZrtT"
   },
   {
     "id": "GCu5XtZGgz",
