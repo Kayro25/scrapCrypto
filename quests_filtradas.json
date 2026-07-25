@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCCMQtZQYo",
-    "name": "🎟️ Doma AMA Raffle: Tech Talk AMA",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "5000 Season 1 Leaderboard Points",
-    "startTime": 1784808000,
-    "endTime": 1784894400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCCMQtZQYo"
-  },
-  {
     "id": "GC3eQtZySN",
     "name": "KOMmunity Learn with FONQ",
     "description": "Dive deep into the project with FONQ KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n18th July - 31st July,2026\nPrize Pool : \n5,000 $FONQ\nWinner : \nUp to 100 Winners\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
@@ -206,22 +190,6 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/alpix-io/GCGSQtZN4K"
-  },
-  {
-    "id": "GCkDNtZJ4J",
-    "name": "Myne Alpha Is Live: Get Early Access or Myne Alpha Is Live: Join the Next Wave",
-    "description": "Myne Alpha is live, and the first Builders are already helping shape the fair internet through a browser built around privacy, aligned AI, and user control.\r\n\r\n\r\n\r\nThis is your entry point into Myne: join the Hub, support the launch, and climb toward Builder for a chance to enter one of the next alpha access waves.",
-    "rewardName": "",
-    "startTime": 1784289600,
-    "endTime": 1785499200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Myne",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/myne/GCkDNtZJ4J"
   },
   {
     "id": "GC8RNtZ7k3",
