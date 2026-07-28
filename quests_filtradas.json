@@ -144,22 +144,6 @@
     "url": "https://app.galxe.com/quest/fraction-ai/GCNeNtZfnG"
   },
   {
-    "id": "GCPnQtZ2uL",
-    "name": "AIW3 × Galxe 60,000 USDT Airdrop Campaign",
-    "description": "Join the **AIW3 × Galxe Airdrop Campaign** and complete simple tasks to earn a share of the **60,000 USDT AIW3 Token Reward Pool**.\r\n\r\n**Tasks:**\r\n\r\n* Follow AIW3 on X\r\n* Join the AIW3 Community\r\n* Visit the AIW3 Airdrop Page\r\n* Like & Repost the Campaign Tweet\r\n\r\n📸 Snapshot Date: July 28, 2026\r\n🚀 TGE Date: August 3, 2026\r\n\r\n***Users will be able to claim their rewards on the AIW3 website after the TGE.***\r\n\r\nPlease register and bind your wallet on our official website in advance to ensure you can claim your rewards later.\r\n\r\n🎁 **Rewards:** Share **60,000 USDT worth of AIW3 Tokens**. Complete the tasks now and maximize your chance to earn rewards!",
-    "rewardName": "5 USDT Whitelist Reward",
-    "startTime": 1784649600,
-    "endTime": 1785168000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "AIW3",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/aiw3/GCPnQtZ2uL"
-  },
-  {
     "id": "GCU8YtZhTT",
     "name": "KindWorld Airdrop Campaign | $500 Reward Pool!",
     "description": "Take part in the Kindworld campaign to become eligible for the upcoming airdrop in Q4 2026, and get a chance to win a share of the $500 giveaway to 50 winners.\n\nEarn Points with each campaign and get them multiplied with our Kindworld NFTs only eligible for the quest campaign participants, more details dropping soon.\n",
@@ -174,6 +158,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/kindworld/GCU8YtZhTT"
+  },
+  {
+    "id": "GCZsStZe3o",
+    "name": "Get in Early. Split 1,000 USDT.",
+    "description": "Trady is a cross-chain meme terminal for Solana and BNB Chain, launching in August. Complete the quests below to enter — 1,000 USDT split between 100+ winners, drawn at random.",
+    "rewardName": "",
+    "startTime": 1784926800,
+    "endTime": 1786309200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Trady",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/trady/GCZsStZe3o"
   },
   {
     "id": "GCGSQtZN4K",
