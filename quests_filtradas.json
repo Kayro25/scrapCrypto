@@ -64,6 +64,22 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCvMStZJHD"
   },
   {
+    "id": "GCn6QtZfUk",
+    "name": "Diamond Holder Quest: Earn your share of 25,000 $SPWAY",
+    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 25,000 $SPWAY prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 25,000 $SPWAY **(Equal to 3,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 25,000 $SPWAY pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
+    "rewardName": "SpaceWay Diamond Holder ",
+    "startTime": 1785085200,
+    "endTime": 1785862800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCn6QtZfUk"
+  },
+  {
     "id": "GCbvQtZGgD",
     "name": "GATA x Galxe Starboard | An Extra 500,000 $GATA Up for Grabs",
     "description": "\n#### GATA x Galxe Starboard | An Extra 500,000 $GATA Up for Grabs\n\n\nGata Agent and Gata Inference are live. One OpenAI compatible endpoint, 40+ frontier models, running on decentralized compute.\n\nClaim your Starboard rewards to become a Gata VIP for life, then put your compute to work. Complete the tasks for a shot at 500,000 $GATA, split between 10 winners.\n\n**The raffle is a bonus. The real reward is lifetime VIP, and every claimer gets it.**\n\n**<ins>Claim on Starboard</ins>**\nClaim your allocation on the airdrop page. Every claimer gets lifetime VIP: 10% off inference, free Gemma 4 quota, and early access to new models.\n\n**<ins>Run 5 inference calls</ins>**\nPoint your first calls at ai.gata.net. Same interface you already use, 40+ models behind one endpoint.\n\n**<ins>Refer a builder </ins>**\nBring someone who completes their first inference call.",
