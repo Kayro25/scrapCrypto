@@ -48,22 +48,6 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCMEWtZZak"
   },
   {
-    "id": "GCvMStZJHD",
-    "name": "Alberich Token Whitelist Competition",
-    "description": "Welcome to Alberich Token   x Kommunitas Whitelist Competition! 💥\n\nSale Starts: August 4th, 2026. 9 AM UTC\nlaunchpad\n\n💰 Increase your chances of getting whitelisted allocation by completing ALL of the actions below. Good luck to all of you!\n\nNB: if you win into one of Alberich Token  whitelist spot, we will inform on our Discord Channel and Telegram 24 hours before the sale, make sure you check it out!\n\n➡️ Next step for whitelist winners to participate\n: ✅ Head on to launchpad during preparation period to check your allocation\n✅ Prepare your USDT (Polygon) | USDT (BSC) | USDT (ARB)\n✅ Connect your wallet and buy your allocation on Booster 1 round only! at launchpad, 09:00 AM UTC. Booster 1 ends at 05:00 PM UTC\n\nNeed guidance on participating?\nClick here for a tutorial.\n\n🗓 All Calendar:\nhttps://linktr.ee/kommunitas1\nand\nhttps://calendar.kommunitas.net/ ",
-    "rewardName": "FONQ Whitelist Ticket",
-    "startTime": 1785171600,
-    "endTime": 1785733200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCvMStZJHD"
-  },
-  {
     "id": "GCn6QtZfUk",
     "name": "Diamond Holder Quest: Earn your share of 25,000 $SPWAY",
     "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 25,000 $SPWAY prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 25,000 $SPWAY **(Equal to 3,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 25,000 $SPWAY pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
@@ -158,6 +142,22 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/deriw-finance/GCo2StZ2Bh"
+  },
+  {
+    "id": "GCmiStZPvP",
+    "name": "Beep Trader Showdown: Unlock Telegram Agent & Claim $20K Beep Rewards",
+    "description": "Beep is transforming your Telegram into a lightning-fast, intelligent Agent trading terminal. Execute automated trades directly inside TG—no complex app switching required—and compete against traders worldwide!\n\n🏆 Prize Pool $20,000 in Beep Rewards\n\n📌 How to Participate\n\nStep 1: Connect your Telegram account and complete the basic Galxe social tasks.\n\nStep 2: Launch the Beep Telegram Agent and execute your first trade.\n\nStep 3: Boost your trading volume and performance to climb the leaderboard and secure your slice of the prize pool!\n\n\n👉 Ready to trade? Connect your Telegram and start your Agent trading journey now!",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Beep AI labs",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/beep-ai-labs/GCmiStZPvP"
   },
   {
     "id": "GCxVStZJTX",
