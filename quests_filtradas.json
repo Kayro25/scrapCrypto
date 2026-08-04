@@ -64,6 +64,22 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCn6QtZfUk"
   },
   {
+    "id": "GCAKWtZbdk",
+    "name": "$100 + $100 Bonus Reward Pool | Join, share and win with defi.com",
+    "description": "<ins>**Our first-ever X Thread Competition is here!\n</ins>**\n![DEFI-Post-PRIZE (3).png](https://appeco.galxe.com/galxe/space/mdresource/85716/e63f9c48-736d-466d-97ed-1c985106a74f.png)\nShare your perspective on defi.com by publishing an original thread on X [here](https://docs.google.com/forms/d/e/1FAIpQLSePK7c9TkfKnWFMQgFFsX57gnaglzWo7k9QcbLhqsztjOmqCQ/viewform) to stand a chance to win additional $100!\n\n**<ins>Complete this quest to join the conversation.\n</ins>**\n- Like and QRT an X about defi.com\n- Follow the competition guidelines by joining all socials\n- Visit the [defi.com](https://defi.com) page and sign up!\n\nIn addition to the main thread competition prizes, 10 lucky Galxe participants will be randomly selected to share an extra $100 bonus prize pool.\n\nCreate something worth reading.\nGood luck.\n",
+    "rewardName": "$100 Bonus Reward",
+    "startTime": 1785695400,
+    "endTime": 1788114600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "defi.com",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/defi-com/GCAKWtZbdk"
+  },
+  {
     "id": "GCbvQtZGgD",
     "name": "GATA x Galxe Starboard | An Extra 500,000 $GATA Up for Grabs",
     "description": "\n#### GATA x Galxe Starboard | An Extra 500,000 $GATA Up for Grabs\n\n\nGata Agent and Gata Inference are live. One OpenAI compatible endpoint, 40+ frontier models, running on decentralized compute.\n\nClaim your Starboard rewards to become a Gata VIP for life, then put your compute to work. Complete the tasks for a shot at 500,000 $GATA, split between 10 winners.\n\n**The raffle is a bonus. The real reward is lifetime VIP, and every claimer gets it.**\n\n**<ins>Claim on Starboard</ins>**\nClaim your allocation on the airdrop page. Every claimer gets lifetime VIP: 10% off inference, free Gemma 4 quota, and early access to new models.\n\n**<ins>Run 5 inference calls</ins>**\nPoint your first calls at ai.gata.net. Same interface you already use, 40+ models behind one endpoint.\n\n**<ins>Refer a builder </ins>**\nBring someone who completes their first inference call.",
