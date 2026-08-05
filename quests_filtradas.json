@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCCjWtZe9u",
+    "name": "🎟️ Doma AMA Raffle: Discord AMA",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "5000 Season 1 Leaderboard Points",
+    "startTime": 1785859200,
+    "endTime": 1785945600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCCjWtZe9u"
+  },
+  {
     "id": "GCVmStZLJQ",
     "name": "KOMmunity Learn with Alberich Token",
     "description": "Dive deep into the project with Alberich Token KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n1st August - 17th August 2026\nPrize Pool : \n5,000,000 $ALBRH \nWinner : \nUp to 100 Winners\n\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
@@ -48,22 +64,6 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCMEWtZZak"
   },
   {
-    "id": "GCn6QtZfUk",
-    "name": "Diamond Holder Quest: Earn your share of 25,000 $SPWAY",
-    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 25,000 $SPWAY prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 25,000 $SPWAY **(Equal to 3,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 25,000 $SPWAY pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
-    "rewardName": "SpaceWay Diamond Holder ",
-    "startTime": 1785085200,
-    "endTime": 1785862800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCn6QtZfUk"
-  },
-  {
     "id": "GCAKWtZbdk",
     "name": "$100 + $100 Bonus Reward Pool | Join, share and win with defi.com",
     "description": "<ins>**Our first-ever X Thread Competition is here!\n</ins>**\n![DEFI-Post-PRIZE (3).png](https://appeco.galxe.com/galxe/space/mdresource/85716/e63f9c48-736d-466d-97ed-1c985106a74f.png)\nShare your perspective on defi.com by publishing an original thread on X [here](https://docs.google.com/forms/d/e/1FAIpQLSePK7c9TkfKnWFMQgFFsX57gnaglzWo7k9QcbLhqsztjOmqCQ/viewform) to stand a chance to win additional $100!\n\n**<ins>Complete this quest to join the conversation.\n</ins>**\n- Like and QRT an X about defi.com\n- Follow the competition guidelines by joining all socials\n- Visit the [defi.com](https://defi.com) page and sign up!\n\nIn addition to the main thread competition prizes, 10 lucky Galxe participants will be randomly selected to share an extra $100 bonus prize pool.\n\nCreate something worth reading.\nGood luck.\n",
@@ -78,6 +78,22 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/defi-com/GCAKWtZbdk"
+  },
+  {
+    "id": "GCLWWtZiGv",
+    "name": "Mewo Tap Prediction Beta Test Registration",
+    "description": "Be among the first to experience Mewo Tap Prediction on Robinhood.\n\nComplete the Galxe Quest to secure your spot in the Mewo Beta Test.\n\n**How it works**\n✅ Complete the Galxe Quest\n✅ Register your wallet on Mewo\n✅ Eligible wallets will be whitelisted for the Beta Test\n✅ No deposit required\n\n**What you’ll get**\n✅ Access to the Mewo Beta Test\n✅ 200 Mewo Points to start trading\n✅ Compete on the Weekly XP Leaderboard for rewards\n✅ Help shape the future of Mewo through your feedback\n\n**Looking Ahead**\nBeta Test participants will be among the earliest members of the Mewo ecosystem.\n\nAs Mewo evolves, active participants may be considered for future community programs, campaigns, and ecosystem initiatives.",
+    "rewardName": "Beta Test Pass",
+    "startTime": 1785690000,
+    "endTime": 1786294800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "MEWO.AI - Tap Prediction on Robinhood",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/mewo-ai-tap-prediction-on-robinhood/GCLWWtZiGv"
   },
   {
     "id": "GCbvQtZGgD",
