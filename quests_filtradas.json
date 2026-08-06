@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCCjWtZe9u",
-    "name": "🎟️ Doma AMA Raffle: Discord AMA",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "5000 Season 1 Leaderboard Points",
-    "startTime": 1785859200,
-    "endTime": 1785945600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCCjWtZe9u"
-  },
-  {
     "id": "GCVmStZLJQ",
     "name": "KOMmunity Learn with Alberich Token",
     "description": "Dive deep into the project with Alberich Token KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n1st August - 17th August 2026\nPrize Pool : \n5,000,000 $ALBRH \nWinner : \nUp to 100 Winners\n\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
@@ -82,7 +66,7 @@
   {
     "id": "GCLWWtZiGv",
     "name": "Mewo Tap Prediction Beta Test Registration",
-    "description": "Be among the first to experience Mewo Tap Prediction on Robinhood.\n\nComplete the Galxe Quest to secure your spot in the Mewo Beta Test.\n\n**How it works**\n✅ Complete the Galxe Quest\n✅ Register your wallet on Mewo\n✅ Eligible wallets will be whitelisted for the Beta Test\n✅ No deposit required\n\n**What you’ll get**\n✅ Access to the Mewo Beta Test\n✅ 200 Mewo Points to start trading\n✅ Compete on the Weekly XP Leaderboard for rewards\n✅ Help shape the future of Mewo through your feedback\n\n**Looking Ahead**\nBeta Test participants will be among the earliest members of the Mewo ecosystem.\n\nAs Mewo evolves, active participants may be considered for future community programs, campaigns, and ecosystem initiatives.",
+    "description": "Be among the first to experience Mewo Tap Prediction on Robinhood.\n\nComplete the Galxe Quest to secure your spot in the Mewo Beta Test.\n\n**The first 5,000 users (FCFS joined) will receive XP (score) as a bonus. XP is used for measuring contributions for future drops!**\n\n**How it works**\n✅ Complete the Galxe Quest\n✅ Register your wallet on Mewo\n✅ Eligible wallets will be whitelisted for the Beta Test\n✅ No deposit required\n\n**What you’ll get**\n✅ Access to the Mewo Beta Test\n✅ 200 Mewo Points to start trading\n✅ Compete on the Weekly XP Leaderboard for rewards\n✅ Help shape the future of Mewo through your feedback\n\n**Looking Ahead**\nBeta Test participants will be among the earliest members of the Mewo ecosystem.\n\nAs Mewo evolves, active participants may be considered for future community programs, campaigns, and ecosystem initiatives.",
     "rewardName": "Beta Test Pass",
     "startTime": 1785690000,
     "endTime": 1786294800,
@@ -110,22 +94,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/gata/GCbvQtZGgD"
-  },
-  {
-    "id": "GCtsWtZpMM",
-    "name": "S3: Apply to be a WheelX ambassador and share 1,000 USDT monthly",
-    "description": "Join the WheelX Ambassador Program and share a 1,000 USDT monthly reward pool.\n\nWe’re looking for Web3 enthusiasts worldwide to help grow WheelX.\n\nComplete a simple quest for a chance to earn a 3 USDT bonus! 🚀",
-    "rewardName": "",
-    "startTime": 1785513600,
-    "endTime": 1790697600,
-    "chain": "BASE",
-    "space": {
-      "name": "WheelX.fi",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/wheelx-fi/GCtsWtZpMM"
   },
   {
     "id": "GCn3WtZ8N9",
@@ -254,21 +222,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/rebate-fun/GC8RNtZ7k3"
-  },
-  {
-    "id": "GC4YXtZhRr",
-    "name": "Robinhood Chain Airdrop Seeker",
-    "description": "Robinhood Chain has officially launched its mainnet, and tokenized U.S. stocks and meme coin trading are already gaining massive traction.\n\nAs the Layer 2 network incubated by Robinhood—a Tier 1 exchange—Robinhood Chain could play a role similar to BNB Chain for Binance or Base for Coinbase. Many in the crypto community expect it to eventually have a TGE and potential airdrop opportunities.\n\nIf you haven't started building your on-chain activity on Robinhood Chain yet, now's the time. Get started with WheelX today!\n",
-    "rewardName": "",
-    "startTime": 1783526400,
-    "endTime": 1786204800,
-    "chain": "ARBITRUM",
-    "space": {
-      "name": "WheelX.fi",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/wheelx-fi/GC4YXtZhRr"
   }
 ]
