@@ -80,6 +80,22 @@
     "url": "https://app.galxe.com/quest/defi-com/GCAKWtZbdk"
   },
   {
+    "id": "GCk55tZ4PM",
+    "name": "Raffle Token Reward",
+    "description": "One winner receives $10.",
+    "rewardName": "Raffle Token Reward",
+    "startTime": 1786122000,
+    "endTime": 1788973200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "SanW Crypto",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/sanw-crypto/GCk55tZ4PM"
+  },
+  {
     "id": "GCbeWtZMoX",
     "name": "Echobit August Carnival -Complete tasks to earn points and share 500 USDT!",
     "description": "🚀 The top 50 players will split 500 USDT! Earn points and win big prizes! 🚀\n\n🔥 Event Period: August 6–August 13\n💰 Double Rewards\nReward : Complete the task to share in a 500 USDT prize pool（50 SPOTS）\n\n\n🎯 How to Participate? Complete simple tasks, earn points, and climb the leaderboard!\n- Join the official Telegram group\n- Follow us on Twitter\n\nStart your journey right here on Galxe by completing simple tasks to secure your share of the 500 USDT cash prize!",
