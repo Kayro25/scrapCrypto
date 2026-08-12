@@ -16,6 +16,22 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCo7StZAfo"
   },
   {
+    "id": "GCfaetZa8M",
+    "name": "🎟️ Doma AMA Raffle: Applications.com",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "5000 Season 1 Leaderboard Points",
+    "startTime": 1786460400,
+    "endTime": 1786546800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCfaetZa8M"
+  },
+  {
     "id": "GCVmStZLJQ",
     "name": "KOMmunity Learn with Alberich Token",
     "description": "Dive deep into the project with Alberich Token KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n1st August - 17th August 2026\nPrize Pool : \n5,000,000 $ALBRH \nWinner : \nUp to 100 Winners\n\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
@@ -78,6 +94,86 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/defi-com/GCAKWtZbdk"
+  },
+  {
+    "id": "GChX5tZKEb",
+    "name": "Raffle Token Reward #10",
+    "description": "",
+    "rewardName": "Raffle Token Reward",
+    "startTime": 1786381200,
+    "endTime": 1790701200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "SanW Crypto",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/sanw-crypto/GChX5tZKEb"
+  },
+  {
+    "id": "GCJn5tZQqk",
+    "name": "Raffle Token Reward #9",
+    "description": "",
+    "rewardName": "Raffle Token Reward",
+    "startTime": 1786381200,
+    "endTime": 1790701200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "SanW Crypto",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/sanw-crypto/GCJn5tZQqk"
+  },
+  {
+    "id": "GCJP5tZSef",
+    "name": "Raffle Token Reward #8",
+    "description": "",
+    "rewardName": "Raffle Token Reward",
+    "startTime": 1786381200,
+    "endTime": 1790701200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "SanW Crypto",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/sanw-crypto/GCJP5tZSef"
+  },
+  {
+    "id": "GCMW5tZND9",
+    "name": "Raffle Token Reward #7",
+    "description": "",
+    "rewardName": "Raffle Token Reward",
+    "startTime": 1786381200,
+    "endTime": 1790701200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "SanW Crypto",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/sanw-crypto/GCMW5tZND9"
+  },
+  {
+    "id": "GCMo5tZQV3",
+    "name": "Raffle Token Reward #6",
+    "description": "",
+    "rewardName": "Raffle Token Reward",
+    "startTime": 1786381200,
+    "endTime": 1790701200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "SanW Crypto",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/sanw-crypto/GCMo5tZQV3"
   },
   {
     "id": "GCfSetZsUx",
