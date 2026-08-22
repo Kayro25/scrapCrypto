@@ -1,19 +1,19 @@
 [
   {
-    "id": "GCX27tZQ3L",
-    "name": "Doma AMA Raffle: Blockchain Engineers",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "5000 Season 1 Leaderboard Points",
-    "startTime": 1787234400,
-    "endTime": 1787320800,
+    "id": "GCxP7tZM3z",
+    "name": "5,000 USDT｜CoinW Alpha Trading Competition #19",
+    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\n🚀 Alpha OnChain Trading Comp #19 is LIVE!\n\nTrade · Rank · Share $5,000 💥\nFirst 50 to join get a $10 Super Bonus!\n\n[👉 Join Now](https://www.coinw.com/module/trading-competition-19)\n![EN - 1080X1080.png](https://appeco.galxe.com/galxe/space/mdresource/84010/61441644-fadd-4002-8578-7faf6d5ccb18.png)",
+    "rewardName": "$10 Futures Bonus",
+    "startTime": 1787241600,
+    "endTime": 1787846400,
     "chain": "ETHEREUM",
     "space": {
-      "name": "D3",
+      "name": "GemW",
       "isVerified": true
     },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCX27tZQ3L"
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/gemw/GCxP7tZM3z"
   },
   {
     "id": "GCuj7tZhu2",
@@ -46,6 +46,22 @@
     "score": 7,
     "payout": 65,
     "url": "https://app.galxe.com/quest/defi-com/GCAKWtZbdk"
+  },
+  {
+    "id": "GCoF7tZcFD",
+    "name": "With BTC on the Rise, Who Will Be Echobit’s Biggest Winner?",
+    "description": "🚀 The top 50 players will split 500 USDT! Earn points and win big prizes! 🚀\n\n🔥 Event Period: August 21–August 31\n💰 Double Rewards\nReward : Complete the task to share in a 500 USDT prize pool（50 SPOTS）\n\n\n🎯 How to Participate? Complete simple tasks, earn points, and climb the leaderboard!\n- Join the official Telegram group\n- Follow us on Twitter\n\nStart your journey right here on Galxe by completing simple tasks to secure your share of the 500 USDT cash prize!",
+    "rewardName": "Echobit Gift Bonus（USDT）",
+    "startTime": 1787241600,
+    "endTime": 1788105600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Echobit",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/echobit/GCoF7tZcFD"
   },
   {
     "id": "GCGG5tZjw6",
@@ -302,21 +318,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/zerobase/GCxVStZJTX"
-  },
-  {
-    "id": "GC8RNtZ7k3",
-    "name": "Register and GET your CASHBACK!",
-    "description": "We are excited to give you **REBATE FUN BRONZE ACCOUNT & $100 USD!**\n\nReminder:\n\n1.Please sign up using our referral link for this campaign only.\n2.All new users will receive a Rebate.fun Bronze Account and $100 USD.\n3.Limited to the first 2,000 users only.\n4.Rewards are subject to completing all required campaign tasks.\n5.Your rewards will be displayed under: Dashboard → Cashback → Frozen Balance.\n6.You may use the rewards to upgrade your VVIP tier or redeem them during TGE.\n7.Rebate.fun reserves the right to final interpretation of the terms and conditions.",
-    "rewardName": "",
-    "startTime": 1784131200,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Rebate Fun",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/rebate-fun/GC8RNtZ7k3"
   }
 ]
