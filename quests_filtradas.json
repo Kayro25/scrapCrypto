@@ -318,5 +318,21 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/zerobase/GCxVStZJTX"
+  },
+  {
+    "id": "GC8RNtZ7k3",
+    "name": "Register and GET your CASHBACK!",
+    "description": "We are excited to give you **REBATE FUN BRONZE ACCOUNT & $100 USD!**\n\nReminder:\n\n1.Please sign up using our referral link for this campaign only.\n2.All new users will receive a Rebate.fun Bronze Account and $100 USD.\n3.Limited to the first 2,000 users only.\n4.Rewards are subject to completing all required campaign tasks.\n5.Your rewards will be displayed under: Dashboard → Cashback → Frozen Balance.\n6.You may use the rewards to upgrade your VVIP tier or redeem them during TGE.\n7.Rebate.fun reserves the right to final interpretation of the terms and conditions.",
+    "rewardName": "",
+    "startTime": 1784131200,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Rebate Fun",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/rebate-fun/GC8RNtZ7k3"
   }
 ]
