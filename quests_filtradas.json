@@ -16,22 +16,6 @@
     "url": "https://app.galxe.com/quest/gemw/GCxP7tZM3z"
   },
   {
-    "id": "GCuj7tZhu2",
-    "name": "Maiden Voyage - Testnet Ambassador Program",
-    "description": "Early users, this one’s for you. 👀\n\nJoin the Berth Club Testnet Ambassador Program on Arc. Launch tokens, trade, provide liquidity and complete on-chain missions throughout the campaign.\n\nYour testnet activity is being tracked. Early contributors won’t go unnoticed. ⚓\n\n17–24 August 2026.",
-    "rewardName": "Ambassador Airdrop Program",
-    "startTime": 1786991400,
-    "endTime": 1787596200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Berth Club",
-      "isVerified": false
-    },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/berth-club/GCuj7tZhu2"
-  },
-  {
     "id": "GCAKWtZbdk",
     "name": "$100 + $100 Bonus Reward Pool | Join, share and win with defi.com",
     "description": "<ins>**Our first-ever X Thread Competition is here!\n</ins>**\n![DEFI-Post-PRIZE (3).png](https://appeco.galxe.com/galxe/space/mdresource/85716/e63f9c48-736d-466d-97ed-1c985106a74f.png)\nShare your perspective on defi.com by publishing an original thread on X [here](https://docs.google.com/forms/d/e/1FAIpQLSePK7c9TkfKnWFMQgFFsX57gnaglzWo7k9QcbLhqsztjOmqCQ/viewform) to stand a chance to win additional $100!\n\n**<ins>Complete this quest to join the conversation.\n</ins>**\n- Like and QRT an X about defi.com\n- Follow the competition guidelines by joining all socials\n- Visit the [defi.com](https://defi.com) page and sign up!\n\nIn addition to the main thread competition prizes, 10 lucky Galxe participants will be randomly selected to share an extra $100 bonus prize pool.\n\nCreate something worth reading.\nGood luck.\n",
@@ -318,21 +302,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/zerobase/GCxVStZJTX"
-  },
-  {
-    "id": "GC8RNtZ7k3",
-    "name": "Register and GET your CASHBACK!",
-    "description": "We are excited to give you **REBATE FUN BRONZE ACCOUNT & $100 USD!**\n\nReminder:\n\n1.Please sign up using our referral link for this campaign only.\n2.All new users will receive a Rebate.fun Bronze Account and $100 USD.\n3.Limited to the first 2,000 users only.\n4.Rewards are subject to completing all required campaign tasks.\n5.Your rewards will be displayed under: Dashboard → Cashback → Frozen Balance.\n6.You may use the rewards to upgrade your VVIP tier or redeem them during TGE.\n7.Rebate.fun reserves the right to final interpretation of the terms and conditions.",
-    "rewardName": "",
-    "startTime": 1784131200,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Rebate Fun",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/rebate-fun/GC8RNtZ7k3"
   }
 ]
