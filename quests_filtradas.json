@@ -1,19 +1,19 @@
 [
   {
-    "id": "GCH5jtZM38",
-    "name": "Doma AMA: Product and Tech (raffle)",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "5000 Season 1 Leaderboard Points",
-    "startTime": 1787841000,
-    "endTime": 1787934600,
+    "id": "GCQ3DtZSVH",
+    "name": "5,000 USDT｜CoinW Alpha Trading Competition #20",
+    "description": "Complete the Galxe tasks, and submit your CoinW UID to receive a 10 USDT Futures Bonus.\n\n🚀 Alpha OnChain Trading Comp #20 is LIVE!\n\nTrade · Rank · Share $5,000 💥\nFirst 50 to join get a $10 Super Bonus!\n\n[👉 Join Now](https://www.coinw.com/module/trading-competition-20)\n![en.png](https://appeco.galxe.com/galxe/space/mdresource/84010/1707e1ab-fb6a-4ef8-bfc9-55e9d90371b1.png)",
+    "rewardName": "$10 Futures Bonus",
+    "startTime": 1787846400,
+    "endTime": 1788451200,
     "chain": "ETHEREUM",
     "space": {
-      "name": "D3",
+      "name": "GemW",
       "isVerified": true
     },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCH5jtZM38"
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/gemw/GCQ3DtZSVH"
   },
   {
     "id": "GCAKWtZbdk",
@@ -302,21 +302,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/beep-ai-labs/GCmiStZPvP"
-  },
-  {
-    "id": "GCxVStZJTX",
-    "name": "ZEROBASE Staking & Earn $3000 USDC by Base Chain",
-    "description": "Participate in the ZEROBASE Base staking campaign for a chance to win rewards.\n\nHow to participate:\n1/ Visit app.zerobase.pro and connect to the Base network.\n2/ Deposit more than 10 USDC in a single transaction.\n3/ Complete the Galxe tasks to confirm your participation.\n4/ ZEROBASE also offers \"Flashwithdraw,\" allowing you to withdraw your it immediately.\n\nCampaign Period: July 29 – August 29, 2026\n\nPrize Pool: $3,000 USDC, to be awarded winners. \n\nThe final list of winners will be announced on ZEROBASE's official X account (@zerobasezk) after the event concludes.\n\nPlease stay tuned.\n\nAbout ZEROBASE:\n\nZEROBASE is a decentralized cryptographic infrastructure network that leverages Zero-Knowledge Proofs (ZKP) and Trusted Execution Environments (TEE) to enable verifiable off-chain computation. It powers products such as zkStaking, zkLogin, and ProofYield, bridging institutional-grade DeFi, user privacy protection, and Real-World Asset (RWA) strategies. ZEROBASE delivers programmable, compliant staking services and transparent cryptographic guarantees without compromising sensitive data.\n\n\n\n![1920_360-3 (2).png](https://appeco.galxe.com/galxe/space/mdresource/79516/b8c670ca-aba7-4efd-96ca-9569d5daa3b4.png)",
-    "rewardName": "",
-    "startTime": 1785254400,
-    "endTime": 1787932800,
-    "chain": "BASE",
-    "space": {
-      "name": "ZEROBASE",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/zerobase/GCxVStZJTX"
   }
 ]
