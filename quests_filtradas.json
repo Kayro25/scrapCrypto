@@ -16,22 +16,6 @@
     "url": "https://app.galxe.com/quest/gemw/GCQ3DtZSVH"
   },
   {
-    "id": "GCGG5tZjw6",
-    "name": "🎁 BingX Summer Trading Giveaway — Top 20 winners split $500 USDT!",
-    "description": "【Reward Rules】\nThe Top 20 participants who have successfully completed all mandatory tasks and provided valid information will split the prize pool equally.\n\nUpon the conclusion of the event, rewards will be distributed based on the final leaderboard rankings determined by total entries.\n\n【Anti-Cheating & Validity Terms】\nStrict Verification: We will thoroughly verify the User UID, KYC status, and Transaction Order ID submitted by the top-ranking participants against our internal database.\n\nDisqualification: Any fake entries, randomized text inputs, or transactions that are canceled/refunded prior to the distribution of rewards will result in immediate and permanent disqualification.\n\nLeaderboard Rollover: If any of the Top 20 participants are found to be invalid or cheating, their eligibility will be revoked, and the rewards will strictly roll over to the 11th participant and onwards on the leaderboard until 10 valid winners are successfully secured.",
-    "rewardName": "Split BingX $500 USDT Voucher",
-    "startTime": 1786550400,
-    "endTime": 1788191999,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "BingX Official",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/bingx-official/GCGG5tZjw6"
-  },
-  {
     "id": "GChX5tZKEb",
     "name": "Raffle Token Reward #10",
     "description": "",
