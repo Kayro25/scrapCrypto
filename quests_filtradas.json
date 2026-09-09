@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCPgitZtZM",
+    "name": "Doma AMA Raffle: FireAnt - Gochujang.com",
+    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
+    "rewardName": "6000 Season 1 Leaderboard Points",
+    "startTime": 1788868800,
+    "endTime": 1788955200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "D3",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/d3/GCPgitZtZM"
+  },
+  {
     "id": "GCK6RtZt57",
     "name": "KOMmunity Learn with Lemon Jet",
     "description": "Dive deep into the project with Lemon Jet KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period: \n3rd September - 15th September 2026\nRewards: \n20,833 $LJT\nWinners: \nUp to 50 addresses\n\n\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
@@ -62,6 +78,22 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/kommunitas-net/GCoiDtZJ6r"
+  },
+  {
+    "id": "GCRMitZpxu",
+    "name": "FastX Season Forge",
+    "description": "Complete social tasks to earn points, an exclusive FastX Season 1 Pioneer OAT, and a shot at whitelist spots for the upcoming FastX Forge Warriors NFT drop.\n\n50 wallets earn guaranteed allowlist spots — Scout tier. Top 20 also share $1,000 USDT.\n\nCampaign runs until 15 September.",
+    "rewardName": "FastX Scout Allowlist",
+    "startTime": 1788886800,
+    "endTime": 1789405200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "FASTX EXCHANGE",
+      "isVerified": true
+    },
+    "score": 8,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/fastx-exchange/GCRMitZpxu"
   },
   {
     "id": "GC4RRtZ8xZ",
@@ -254,6 +286,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/sanw-crypto/GCk55tZ4PM"
+  },
+  {
+    "id": "GCCrRtZr24",
+    "name": "Rise to Rank 10",
+    "description": "Jump into the SOLMEME community and climb your way to Rank 10 in our Discord!\n\nHow to participate:\n✅ Follow @SOLMemeToken on X\n✅ Join our Telegram\n✅ Join our Discord\n✅ Stay active in Discord chat and reach Level 10\n\n💰 $50 reward pool\n\nReal engagement, real rewards. Let's build together. ",
+    "rewardName": "$50 USDC",
+    "startTime": 1788868800,
+    "endTime": 1790802000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "SOLMEME",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/solmeme/GCCrRtZr24"
   },
   {
     "id": "GCJNRtZ7Xc",
