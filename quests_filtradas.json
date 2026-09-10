@@ -1,21 +1,5 @@
 [
   {
-    "id": "GCPgitZtZM",
-    "name": "Doma AMA Raffle: FireAnt - Gochujang.com",
-    "description": "Every AMA is a window into the future, and this time it’s opening with Doma. Join the conversation, ask your questions, and take part in a discussion that goes beyond answers. As a token of appreciation for your curiosity and engagement, all participants will be entered into a raffle to win 5000 Season 1 Leaderboard points!\n\nThis isn’t just about listening, it’s about being part of the journey. Your voice matters, and earn you rewards along the way. 🌟",
-    "rewardName": "6000 Season 1 Leaderboard Points",
-    "startTime": 1788868800,
-    "endTime": 1788955200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "D3",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/d3/GCPgitZtZM"
-  },
-  {
     "id": "GCK6RtZt57",
     "name": "KOMmunity Learn with Lemon Jet",
     "description": "Dive deep into the project with Lemon Jet KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period: \n3rd September - 15th September 2026\nRewards: \n20,833 $LJT\nWinners: \nUp to 50 addresses\n\n\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
@@ -80,20 +64,36 @@
     "url": "https://app.galxe.com/quest/kommunitas-net/GCoiDtZJ6r"
   },
   {
-    "id": "GCRMitZpxu",
-    "name": "FastX Season Forge",
-    "description": "Complete social tasks to earn points, an exclusive FastX Season 1 Pioneer OAT, and a shot at whitelist spots for the upcoming FastX Forge Warriors NFT drop.\n\n50 wallets earn guaranteed allowlist spots — Scout tier. Top 20 also share $1,000 USDT.\n\nCampaign runs until 15 September.",
-    "rewardName": "FastX Scout Allowlist",
-    "startTime": 1788886800,
+    "id": "GCnaRtZSVJ",
+    "name": "Yap About Lemon Jet Listing",
+    "description": "**A total prize pool of 13,888 $LJT will be distributed among up to 25 winners.**\n\nJoin the conversation and help spread awareness about Lemon Jet’s upcoming listing.\n\nCreate an original and engaging post on X sharing your thoughts, insights, or excitement about Lemon Jet, its upcoming listing, \n\nYour content should encourage others to learn more about Lemon Jet.\n\n## Your post may talk about:\n\n-  Lemon Jet’s upcoming listing on 12th September,2026 and what it means for the community.\n- Why you are excited about Lemon Jet’s growth and future development.\n- Why holding and supporting Lemon Jet can be valuable for long-term community members.\n\n\n## Selection Criteria\n\n- All submissions will be reviewed and verified by the Kommunitas team to ensure they meet the campaign requirements and quality standards.\n- Only posts that satisfy the eligibility criteria will be considered for rewards.\n- Rewards for this Yap Market campaign will be distributed exclusively to the Top 25 Yappers based on content quality, creativity, relevance, and overall impact.\n- Meeting the minimum requirements does not guarantee a reward.\n\nJoin us in shaping Lemon Jet’s future by sharing your most creative post on X ",
+    "rewardName": "13,888 $LJT Submission Card",
+    "startTime": 1788973200,
     "endTime": 1789405200,
     "chain": "ETHEREUM",
     "space": {
-      "name": "FASTX EXCHANGE",
+      "name": "Kommunitas.net",
       "isVerified": true
     },
-    "score": 8,
-    "payout": 65,
-    "url": "https://app.galxe.com/quest/fastx-exchange/GCRMitZpxu"
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCnaRtZSVJ"
+  },
+  {
+    "id": "GCoqDtZ3bE",
+    "name": "KOMmunity KIngsman x Lemon Jet",
+    "description": "🎁 Reward: 62,500 $LJT Prize Pool\n- Winners:  Up to 500 Winners\n\n**Disclaimer:**\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n",
+    "rewardName": "62,500 $LJT Prize Pool",
+    "startTime": 1788944400,
+    "endTime": 1789405200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Kommunitas.net",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/kommunitas-net/GCoqDtZ3bE"
   },
   {
     "id": "GC4RRtZ8xZ",
@@ -126,6 +126,38 @@
     "score": 8,
     "payout": 65,
     "url": "https://app.galxe.com/quest/kommunitas-net/GC33RtZjPo"
+  },
+  {
+    "id": "GCRMitZpxu",
+    "name": "FastX Season Forge",
+    "description": "Complete social tasks to earn a shot at whitelist spots for the upcoming FastX Forge Warriors NFT drop.\n\n50 wallets earn guaranteed allowlist spots — Scout tier. \n\nCampaign runs until 15 September.",
+    "rewardName": "FastX Scout Allowlist",
+    "startTime": 1788886800,
+    "endTime": 1789405200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "FASTX EXCHANGE",
+      "isVerified": true
+    },
+    "score": 7,
+    "payout": 65,
+    "url": "https://app.galxe.com/quest/fastx-exchange/GCRMitZpxu"
+  },
+  {
+    "id": "GCB6itZzc9",
+    "name": "September Traffic Campaign —Win 500USDT！",
+    "description": "🚀 The top 50 players will split 500 USDT! Earn points and win big prizes! 🚀\n\n🔥 Event Period: September 10–September 17\n💰 Double Rewards\nReward : Complete the task to share in a 500 USDT prize pool（50 SPOTS）\n\n\n🎯 How to Participate? Complete simple tasks, earn points, and climb the leaderboard!\n- Join the official Telegram group\n- Follow us on Twitter\n\nStart your journey right here on Galxe by completing simple tasks to secure your share of the 500 USDT cash prize!",
+    "rewardName": "Echobit Gift Bonus（USDT）",
+    "startTime": 1788969600,
+    "endTime": 1789574400,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Echobit",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/echobit/GCB6itZzc9"
   },
   {
     "id": "GChX5tZKEb",
@@ -270,22 +302,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/sanw-crypto/GC1HetZFGP"
-  },
-  {
-    "id": "GCk55tZ4PM",
-    "name": "Raffle Token Reward",
-    "description": "One winner receives $10.",
-    "rewardName": "Raffle Token Reward",
-    "startTime": 1786122000,
-    "endTime": 1788973200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "SanW Crypto",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sanw-crypto/GCk55tZ4PM"
   },
   {
     "id": "GCCrRtZr24",
