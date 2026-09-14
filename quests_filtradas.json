@@ -1,5 +1,21 @@
 [
   {
+    "id": "GCS4itZeyJ",
+    "name": "BSC Daily <> zDOG Giveaway!",
+    "description": "Join our Giveaway with zDOG - @offchaindog\n\nWin 1.2m $zDOG tokens - 10 winners",
+    "rewardName": "$zDOG Token",
+    "startTime": 1789297200,
+    "endTime": 1789383600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "BSC Daily",
+      "isVerified": true
+    },
+    "score": 10,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/bsc-daily/GCS4itZeyJ"
+  },
+  {
     "id": "GCDNitZmSw",
     "name": "KOMmunity Learn with Hero Arena",
     "description": "Dive deep into the project with Hero Arena KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n9th September - 21st September,2026\nPrize Pool : \n50,000 $HAP\nWinner : \nUp to 50 Winners\n\n\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
@@ -334,6 +350,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/sanw-crypto/GC1HetZFGP"
+  },
+  {
+    "id": "GCWAitZQS8",
+    "name": "zBit Community Lucky Draw | 500 USDT Giveaway",
+    "description": "Be one of the first 1,000 to join and get a chance to win your share of 500 USDT in a lucky draw!\n\n⚡ First 500 participants → 1 lucky winner gets 100 USDT\n🎉 First 1,000 participants → 100 winners get 4 USDT each\n\n⏰ 96 Hours Only\n\nComplete the Galxe quests and secure your spot 👇",
+    "rewardName": "USDT",
+    "startTime": 1789358400,
+    "endTime": 1789704000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "zBit",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/zbit/GCWAitZQS8"
   },
   {
     "id": "GC5ZitZyR7",
