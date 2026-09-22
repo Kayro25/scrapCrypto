@@ -1,35 +1,35 @@
 [
   {
-    "id": "GCDNitZmSw",
-    "name": "KOMmunity Learn with Hero Arena",
-    "description": "Dive deep into the project with Hero Arena KOMmunity Learn Campaign! Testing the knowledge of participants and discovering interesting facts about the project. This quiz is designed to both challenge and educate. With questions ranging from basic to advanced, it's a fun way to engage with the project details and perhaps learn something new.\n\nCampaign Period : \n9th September - 21st September,2026\nPrize Pool : \n50,000 $HAP\nWinner : \nUp to 50 Winners\n\n\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Please note that rewards in Galxe will be limited to loyalty points only. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.   ",
-    "rewardName": "1,000 $HAP Raffle Card",
-    "startTime": 1788886800,
-    "endTime": 1790010000,
+    "id": "GCJFrtZR5H",
+    "name": "💰 Earn 1% Daily on Your SPX Purchase",
+    "description": "Buy $500+ of SPX through a Creator referral and earn 1% of your qualifying purchase every 24 hours for up to 30 days. Connect your wallet and verify your purchase to start earning.",
+    "rewardName": "💰 1% Daily SPX Reward",
+    "startTime": 1789938000,
+    "endTime": 1793394000,
     "chain": "ETHEREUM",
     "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCDNitZmSw"
-  },
-  {
-    "id": "GC66itZLT6",
-    "name": "Diamond Holder Quest: Earn your share of 500,000 $HAP",
-    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 500,000 $HAP prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 500,000 $HAP **\n\n\n📊 Reward Distribution:\n- The 500,000 $HAP pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
-    "rewardName": "Hero Arena Diamond Holder ",
-    "startTime": 1789664400,
-    "endTime": 1790010000,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
+      "name": "ShopinX",
       "isVerified": true
     },
     "score": 9,
     "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GC66itZLT6"
+    "url": "https://app.galxe.com/quest/shopinx/GCJFrtZR5H"
+  },
+  {
+    "id": "GC31rtZrAh",
+    "name": "🔥 Earn $100 for Every Qualified SPX Buyer",
+    "description": "Turn your audience into rewards.\n\nBecome an official SPX Creator, get your unique Creator Ticket, and earn $100 for every qualified buyer you refer.\n\nHow it works\n🎫 Get your unique Creator Ticket\n🔗 Share your personal SPX referral link\n💰 Your referred buyer purchases $500+ SPX\n⚡ The purchase is verified automatically\n💵 Earn $100 for every qualified buyer\n\nCreator Bonus: Eligible creators can unlock an additional $5,000 monthly performance bonus based on qualified referral volume.\n\nNo manual reporting. Your referrals are tracked automatically.",
+    "rewardName": "💰 $100 Per Qualified Buyer",
+    "startTime": 1789938000,
+    "endTime": 1793394000,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "ShopinX",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/shopinx/GC31rtZrAh"
   },
   {
     "id": "GCB2itZdkk",
@@ -222,6 +222,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/sanw-crypto/GCmMetZ91j"
+  },
+  {
+    "id": "GCTnrtZ8PQ",
+    "name": "StarPhone X Airdrop is LIVE! 🚀 Share 50 USDT prize pool 💰",
+    "description": "![b7980492-8e76-432d-a926-29126df7055f.png](https://appeco.galxe.com/galxe/space/mdresource/86225/55a78775-de3f-49fc-8402-3ee7f4c0967d.png)\n🎁 StarPhone Twitter Airdrop is LIVE! 🚀\n\n👇 Complete these simple tasks:\n1️⃣ Follow @[X](https://x.com/StarPhoneAI)StarPhoneAI ⭐\n2️⃣ Repost 🔄 + Like ❤️ this [Post](https://x.com/StarPhoneAI/status/2102024995543093757?s=20)post & Tag 3 friends 👥\n3️⃣ Submit your BSC wallet address 💳\n\n🏆 Prize Pool: 50 USDT\n💰 Reward: 2.5 USDT per winner\n⏰ Deadline: September 30, 00:00 UTC\nComplete the tasks and don’t miss your chance to win! 🔥\nGood luck, StarPhone community! ⭐🚀\n#StarPhone #Airdrop #USDT #Web3 #AI",
+    "rewardName": "USDT rewards",
+    "startTime": 1789920000,
+    "endTime": 1790697600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "StarPhone",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/starphone/GCTnrtZ8PQ"
   },
   {
     "id": "GCCrRtZr24",
