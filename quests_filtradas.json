@@ -1,7 +1,7 @@
 [
   {
     "id": "GCJFrtZR5H",
-    "name": "💰 Earn 1% Daily on Your SPX Purchase",
+    "name": "🔥 Buy $500+ SPX → Earn Up to $150",
     "description": "Buy $500+ of SPX through a Creator referral and earn 1% of your qualifying purchase every 24 hours for up to 30 days. Connect your wallet and verify your purchase to start earning.",
     "rewardName": "💰 1% Daily SPX Reward",
     "startTime": 1789938000,
@@ -18,7 +18,7 @@
   {
     "id": "GC31rtZrAh",
     "name": "🔥 Earn $100 for Every Qualified SPX Buyer",
-    "description": "Turn your audience into rewards.\n\nBecome an official SPX Creator, get your unique Creator Ticket, and earn $100 for every qualified buyer you refer.\n\nHow it works\n🎫 Get your unique Creator Ticket\n🔗 Share your personal SPX referral link\n💰 Your referred buyer purchases $500+ SPX\n⚡ The purchase is verified automatically\n💵 Earn $100 for every qualified buyer\n\nCreator Bonus: Eligible creators can unlock an additional $5,000 monthly performance bonus based on qualified referral volume.\n\nNo manual reporting. Your referrals are tracked automatically.",
+    "description": "Become an official SPX Creator, get your unique Creator Ticket, and earn $100 for every qualified buyer you refer.\n\nHow it works\n🎫 Get your unique Creator Ticket\n🔗 Share your personal SPX referral link\n💰 Your referred buyer purchases $500+ SPX\n⚡ The purchase is verified automatically\n💵 Earn $100 for every qualified buyer\n\nCreator Self-Purchase\nCreators can also earn 1% daily on their own $500+ SPX purchase for up to 30 days, under the same reward rules as referred buyers.\n\n⚠️ Important: Before making a self-purchase, open your own Creator referral link, connect the same wallet registered to your Creator Ticket, and sign the verification message. Then purchase $500+ SPX and complete the verification task.\n\nSelf-attribution must be completed before the purchase. If you skip this step, your purchase may not be recognized as a valid self-purchase.\n\nCreator Bonus\nEligible creators can unlock an additional $5,000 monthly performance bonus based on qualified referral volume.\n\nNo manual reporting. Your referrals are tracked automatically.",
     "rewardName": "💰 $100 Per Qualified Buyer",
     "startTime": 1789938000,
     "endTime": 1793394000,
@@ -46,22 +46,6 @@
     "score": 9,
     "payout": 85,
     "url": "https://app.galxe.com/quest/defi-com/GCB2itZdkk"
-  },
-  {
-    "id": "GCpgDtZ34p",
-    "name": "Diamond Holder Quest: Earn your share of 83,333 $LJT",
-    "description": "This campaign rewards IKO participants who do not request a refund after claiming their tokens. The 83,333 $LJT prize pool will be shared proportionally among all eligible participants based on their total purchase amount during the IKO.\n\n\n### Reward pool: 83,333 $LJT **(Equal to 1,000 in USD)**\n\n\n📊 Reward Distribution:\n- The 83,333 $LJT pool reward will be prorated based on each participant’s non-refunded purchase amount.\n\nEveryone’s reward depends on their contribution compared to the total eligible amount — larger holders receive a larger portion; smaller holders still get their fair share.\n\nDisclaimer:\nThe reward distribution process will be conducted manually, with announcements made exclusively on our Official Telegram and Discord platforms. Distribution will begin after the event concludes. However, potential delays in the project token listing or unforeseen circumstances could affect the timing of the reward disbursement.\n ",
-    "rewardName": "Lemon Jet Diamond Holder ",
-    "startTime": 1789146000,
-    "endTime": 1790096400,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
-    },
-    "score": 9,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCpgDtZ34p"
   },
   {
     "id": "GCVNrtZwBD",
