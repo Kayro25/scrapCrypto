@@ -1,7 +1,23 @@
 [
   {
+    "id": "GC97rtZMQG",
+    "name": "🔥 Buy $500+ SPX → Earn 1% Daily",
+    "description": "Buy at least $500 of SPX with your own wallet and hold your qualifying SPX for at least 24 hours.\r\n\r\nOnce your 24-hour holding period is completed, you can earn 1% of your qualifying purchase amount in SPX every 24 hours, for up to 30 days.\r\n\r\nExample: $500 SPX purchase → $5 SPX daily reward → up to $150 over 30 days.\r\n\r\nYour purchase and holding period are verified on-chain.\r\n\r\nImportant: The 1% daily SPX reward is paid automatically to your wallet by the ShopinX reward system. This is separate from any XP or other platform rewards shown here.\r\n\r\nHow it works:\r\n\r\n1. Connect your BNB Chain wallet.\r\n2. Complete the purchase verification.\r\n3. Buy $500+ of SPX.\r\n4. Hold your qualifying SPX for at least 24 hours.\r\n5. Receive your daily SPX reward automatically.\r\n\r\nDetails: https://shopinx.io/creator-earn",
+    "rewardName": "💰 1% Daily SPX Reward",
+    "startTime": 1790110800,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "ShopinX",
+      "isVerified": true
+    },
+    "score": 9,
+    "payout": 85,
+    "url": "https://app.galxe.com/quest/shopinx/GC97rtZMQG"
+  },
+  {
     "id": "GCJFrtZR5H",
-    "name": "🔥 Buy $500+ SPX → Earn Up to $150",
+    "name": "🛒 Buy $500+ SPX & Join Creator Earn",
     "description": "Buy $500+ of SPX through a Creator referral and earn 1% of your qualifying purchase every 24 hours for up to 30 days. Connect your wallet and verify your purchase to start earning.",
     "rewardName": "💰 1% Daily SPX Reward",
     "startTime": 1789938000,
@@ -64,20 +80,20 @@
     "url": "https://app.galxe.com/quest/gemw/GCVNrtZwBD"
   },
   {
-    "id": "GCxCrtZzev",
-    "name": "Create your Hero Arena Account and earn your share of 20,000 $HAP",
-    "description": "Kommunitas is teaming up with Hero Arena through KOMnPlay! Start your journey by creating your Hero Arena account and completing the tasks below for a chance to win 500 $HAP.\n\n- Hold at least 0.002 BNB on BSC Mainnet. Visit the BNB Chain faucet to claim tBNB for Hero Arena’s testnet activities.\n- Register your Hero Arena account.\n- Follow Hero Arena on X.\n- Join the Hero Arena Telegram group.\n\nComplete all tasks to enter the raffle. 40 eligible wallets will win 500 $HAP each, for a total of 20,000 $HAP.",
-    "rewardName": "500 $HAP Raffle Card",
-    "startTime": 1789491600,
-    "endTime": 1790182800,
+    "id": "GCaUutZ464",
+    "name": "🏆 DeriW Thursday: Challenge to Earn $100 USDT 🏆",
+    "description": "![9月24至10月1日社群周四活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/4804a3be-9b05-4c9c-b3dc-b23552494d2a.png)\n🏆 DeriW Thursday: Challenge to Earn $100 🏆\n\n🎆 DeriW Mainnet Week 60 — Total Trading Volume Surpasses $85 Billion!\n👥 User Growth Continues: Total Users Surpass 102,000!\n\nJoin DeriW’s exclusive community event, celebrate the latest DeriW milestone, and compete for a $100 prize pool!\n\n⏰ Event Period: September 24, 4:00 PM – October 1, 4:00 PM (UTC+8)\n💰 Prize Pool: $100 USDT in total\n\n🥇 1st Place: $50 USDT\n🥈 2nd Place: $30 USDT\n🥉 3rd Place: $20 USDT\n\n🎯 How to Participate:\n• During the event, you must participate in the DeriW Edge Hour intraday time-limited trading challenge for at least 3 consecutive days (🔗 https://www.deriw.com/edge-hour)\n• Earn 5 points for each successful challenge\n• Earn 3 points for successfully inviting one new user to participate in the DeriW Edge Hour intraday time-limited trading challenge\n• Earn 1 point for each failed challenge\n• Points will be manually recorded by the admins. The top 3 participants with the highest scores will receive the rewards\n• Before the event ends, post your DeriW wallet address in @deriwfinance and include the hashtag #DeriWSeptemberChallengeToEarn\n\n📝 Important Rules:\n• The hashtag #DeriWSeptemberChallengeToEarn must be included\n• Rewards will be distributed within 10 business days after the announcement\n\n💡 Why Choose Edge Hour?\n✅ Everyone starts with $10,000 in virtual funds — fair competition for all\n✅ Join with as little as $5 — with up to 10x potential rewards\n✅ Challenge durations of just 1–8 hours — fast results\n✅ Ultra-low 0.02% trading fee\n\n💜 Join the Community: @deriwfinance\n🔗 Trade Now: www.deriw.com\n\n#DeriWThursday #DeriWSeptemberChallengeToEarn #ZeroGasFees\n\nDisclaimer:\n1️⃣ Please participate in the event via Telegram DeriW Group Chat @deriwfinance during the event period.\n2️⃣ The list of winners will be announced via Telegram DeriW Official Annoucements @deriwofficial.",
+    "rewardName": "100 USDT",
+    "startTime": 1790236800,
+    "endTime": 1790841600,
     "chain": "ETHEREUM",
     "space": {
-      "name": "Kommunitas.net",
-      "isVerified": true
+      "name": "Deriw Finance",
+      "isVerified": false
     },
-    "score": 8,
+    "score": 7,
     "payout": 65,
-    "url": "https://app.galxe.com/quest/kommunitas-net/GCxCrtZzev"
+    "url": "https://app.galxe.com/quest/deriw-finance/GCaUutZ464"
   },
   {
     "id": "GChX5tZKEb",
@@ -206,6 +222,54 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/sanw-crypto/GCmMetZ91j"
+  },
+  {
+    "id": "GCPVutZhoD",
+    "name": "🏆 DeriW 목요일 이벤트: 도전하고 $100 받기 🏆",
+    "description": "![9月24至10月1日社群周四活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/4324e766-68f6-4b4d-be30-647e99220170.png)\n🏆 DeriW 목요일 이벤트: 도전하고 $100 받기 🏆\n\n🎆 DeriW 메인넷 출시 60주차 — 총 거래량 $85B 돌파!\n👥 사용자 증가세 지속: 총 사용자 수 102,000명 돌파!\n\nDeriW 독점 커뮤니티 이벤트에 참여하고, 새로운 DeriW 마일스톤을 함께 축하하며 총 $100의 보상을 획득하세요!\n\n⏰ 이벤트 기간: 9월 24일 오후 4시 - 10월 1일 오후 4시 (UTC+8)\n💰 총 상금: $100 USDT\n\n🥇 1위: $50 USDT\n🥈 2위: $30 USDT\n🥉 3위: $20 USDT\n\n🎯 참여 방법:\n• 이벤트 기간 동안 DeriW Edge Hour 인트라데이 시간 제한 트레이딩 챌린지에 최소 3일 연속 참여해야 합니다 (🔗 https://www.deriw.com/edge-hour)\n• 챌린지 성공 시 1회당 5포인트 획득\n• 신규 사용자 1명을 성공적으로 초대하여 DeriW Edge Hour 인트라데이 시간 제한 트레이딩 챌린지에 참여시키면 3포인트 획득\n• 챌린지 실패 시 1회당 1포인트 획득\n• 포인트는 관리자가 수동으로 집계하며, 최종 포인트가 가장 높은 상위 3명의 참여자가 보상을 받습니다\n• 이벤트 종료 전 @deriwfinance에 본인의 DeriW 지갑 주소를 게시하고 #DeriWSeptemberChallengeToEarn 해시태그를 포함하세요\n\n📝 중요 규칙:\n• #DeriWSeptemberChallengeToEarn 해시태그를 반드시 포함해야 합니다\n• 보상은 당첨자 발표 후 영업일 기준 10일 이내에 지급됩니다\n\n💡 왜 Edge Hour인가요?\n✅ 모든 참가자가 $10,000의 가상 자금으로 시작 — 공정한 경쟁\n✅ 최소 $5부터 참여 가능 — 최대 10배 보상\n✅ 단 1–8시간의 챌린지 시간 — 빠르게 결과 확인\n✅ 0.02% 초저 거래 수수료\n\n💜 커뮤니티 참여: @deriwfinance\n🔗 지금 거래하기: www.deriw.com\n\n#DeriWThursday #DeriWSeptemberChallengeToEarn #ZeroGasFees\n\n면책 및 안내사항：\n1. 이벤트 기간 내 Telegram DeriW Group Chat @deriwfinance에 참여하여 이벤트에 참가해 주세요.\n2. 최종 당첨자 명단은 Telegram DeriW Official Announcements @deriwofficial에 게시된 공식 공지를 기준으로 합니다.",
+    "rewardName": "100 USDT",
+    "startTime": 1790236800,
+    "endTime": 1790841600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Deriw Finance",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/deriw-finance/GCPVutZhoD"
+  },
+  {
+    "id": "GCPautZ4MK",
+    "name": "🏆 DeriW 週四活動：挑戰贏取 100 USDT 🏆",
+    "description": "![9月24至10月1日社群周四活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/f9c57f2f-8aee-4a20-aae3-4bffbc2fa774.png)\n🏆 DeriW 週四活動：挑戰贏取 100 美元 🏆\n\n🎆 DeriW 主網上線第 60 週 — 總交易量突破 850 億美元！\n👥 用戶持續增長：用戶總數突破 102,000！\n\n加入 DeriW 專屬社群活動，慶祝 DeriW 全新里程碑，贏取 $100 大獎！\n\n⏰ 活動時間：9 月 24 日下午 4 點 - 10 月 1 日下午 4 點（UTC+8）\n💰 獎池：總計 $100 USDT\n\n🥇 第一名：$50 USDT\n🥈 第二名：$30 USDT\n🥉 第三名：$20 USDT\n\n🎯 參與方式：\n• 活動期間，必須至少連續 3 天參與 DeriW Edge Hour 日內交易限時挑戰賽（🔗 https://www.deriw.com/edge-hour）\n• 每挑戰成功一次，可獲得 5 積分\n• 成功邀請 1 位新用戶參與 DeriW Edge Hour 日內交易限時挑戰賽，可獲得 3 積分\n• 每挑戰失敗一次，可獲得 1 積分\n• 積分由管理員手動統計，積分最高的 3 位參與者將獲得獎金\n• 活動結束前，請將你的 DeriW 錢包地址發布至 @deriwfinance，並添加話題標籤 #DeriWSeptemberChallengeToEarn\n\n📝 重要規則：\n• 必須包含話題標籤 #DeriWSeptemberChallengeToEarn\n• 獎勵將於公告發布後 10 個工作日內發放\n\n💡 為什麼選擇 Edge Hour？\n✅ 所有人皆以 $10,000 虛擬資金開始 —— 公平競技\n✅ 最低僅需 $5 即可參與 —— 最高可贏取 10 倍獎勵\n✅ 挑戰時長僅需 1–8 小時 —— 快速見分曉\n✅ 0.02% 超低交易手續費\n\n💜 加入社群： @deriwfinance\n🔗 立即交易： www.deriw.com\n\n#DeriWThursday #DeriWSeptemberChallengeToEarn #ZeroGasFees\n\n免責聲明：\n1.請在活動時間內到Telegram DeriW Group Chat @deriwfinance 參與活動。\n2.獲獎名單以Telegram DeriW Official Annoucements @deriwofficial 公告為準。",
+    "rewardName": "100 USDT",
+    "startTime": 1790236800,
+    "endTime": 1790841600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Deriw Finance",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/deriw-finance/GCPautZ4MK"
+  },
+  {
+    "id": "GCFDrtZGGk",
+    "name": "🏆 DeriW 周四活动：挑战赢取 100 USDT 🏆",
+    "description": "![9月24至10月1日社群周四活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/c34b5a00-ec3c-4a70-8762-7c78b40bc116.png)\n🏆 DeriW 周四活动：挑战赢取 100 美元 🏆\n\n🎆 DeriW 主网上线第 60 周 — 总交易量突破 850 亿美元！\n👥 用户持续增长：用户总数超过 102,000！\n\n加入 DeriW 专属社区活动，庆祝 DeriW 的全新里程碑，赢取 100 美元大奖！\n\n⏰ 活动时间：9月24日下午4点 - 10月1日下午4点 (UTC+8)\n💰 奖池：总计 $100 USDT \n\n🥇 第一名： $50 USDT\n🥈 第二名： $30 USDT\n🥉 第三名： $20 USDT\n\n🎯 参与方式：\n• 活动期间，必须最少连续3天参与 DeriW Edge Hour 日内交易限时挑战赛（🔗 https://www.deriw.com/edge-hour ）\n• 每挑战成功一次，获得5积分\n• 成功邀请一位新用户参与 DeriW Edge Hour 日内交易限时挑战赛，获得3积分\n• 每挑战失败一次，获得1积分\n• 积分由管理员手动统计，积分最高的三位参与者获得奖金\n• 活动结束前，请将您的 DeriW 钱包地址发布至 @deriwfinance，并添加话题标签 #DeriWSeptemberChallengeToEarn\n\n📝 重要规则：\n• 必须包含话题标签 #DeriWSeptemberChallengeToEarn\n• 奖励将在公布后 10 个工作日内发放\n\n💡 为什么选择 Edge Hour？\n✅ 所有人都以 10,000 美元虚拟资金开始 —— 公平竞技\n✅ 最低仅需 5 美元即可参与 —— 最高可赢 10 倍奖励\n✅ 挑战时长仅需 1–8 小时 —— 快速出结果\n✅ 0.02% 超低交易手续费\n\n💜 加入社群：@deriwfinance\n🔗 立即交易： www.deriw.com\n\n#DeriWThursday #DeriWSeptemberChallengeToEarn #ZeroGasFees\n\n免责声明：\n1.请在活动时间内到Telegram DeriW Group Chat @deriwfinance 参与活动。\n2.获奖名单以Telegram DeriW Official Annoucements @deriwofficial 公告为准。",
+    "rewardName": "100 USDT",
+    "startTime": 1790236800,
+    "endTime": 1790841600,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Deriw Finance",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/deriw-finance/GCFDrtZGGk"
   },
   {
     "id": "GCTnrtZ8PQ",
