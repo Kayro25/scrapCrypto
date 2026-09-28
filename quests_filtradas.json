@@ -80,6 +80,22 @@
     "url": "https://app.galxe.com/quest/deriw-finance/GCaUutZ464"
   },
   {
+    "id": "GCHMutZhGQ",
+    "name": "Ethernal Cubs Whitelist: Free Mint on Robinhood Chain",
+    "description": "**Ethernal Cubs** are customizable AI lion cubs on **Robinhood Chain**. Build your own Cub from 155 parts (over 13 billion combinations), chat with its AI soul, battle other Cubs and play to earn.\n\n### The mint\n- **3,333 Orbs**, free to claim for whitelisted wallets\n- Whitelist mint: **Thu 29 Oct 2026, 14:00 UTC** on OpenSea\n- Whitelist closes: **Wed 28 Oct, 23:59 UTC**\n\n### Win a whitelist spot\nComplete every task below with the EVM wallet you will mint with. Every wallet that completes the quest earns **1 whitelist spot (1 free mint)**, first come first served until the Galxe spots run out. Winning wallets are added to the official allowlist when the whitelist closes.\n\n### Want more spots?\nEarn extra spots on the whitelist board at [ethernalcubs.ai](https://ethernalcubs.ai) with socials, quizzes, referrals and community games.\n\n**Official links only:** [ethernalcubs.ai](https://ethernalcubs.ai) | [X @ethernalcubs](https://x.com/ethernalcubs) | [Discord](https://discord.gg/ethernalcubs) | [Telegram](https://t.me/proudlionsclub)\nThe team will never DM you first.",
+    "rewardName": "Ethernal Cubs Whitelist Spot",
+    "startTime": 1790578800,
+    "endTime": 1793231940,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Proud Lion Studios",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/proud-lion-studios/GCHMutZhGQ"
+  },
+  {
     "id": "GChX5tZKEb",
     "name": "Raffle Token Reward #10",
     "description": "",
@@ -384,22 +400,6 @@
     "url": "https://app.galxe.com/quest/deriw-finance/GCFDrtZGGk"
   },
   {
-    "id": "GCTnrtZ8PQ",
-    "name": "StarPhone X Airdrop is LIVE! 🚀 Share 50 USDT prize pool 💰",
-    "description": "![b7980492-8e76-432d-a926-29126df7055f.png](https://appeco.galxe.com/galxe/space/mdresource/86225/55a78775-de3f-49fc-8402-3ee7f4c0967d.png)\n🎁 StarPhone Twitter Airdrop is LIVE! 🚀\n\n👇 Complete these simple tasks:\n1️⃣ Follow @[X](https://x.com/StarPhoneAI)StarPhoneAI ⭐\n2️⃣ Repost 🔄 + Like ❤️ this [Post](https://x.com/StarPhoneAI/status/2102024995543093757?s=20)post & Tag 3 friends 👥\n3️⃣ Submit your BSC wallet address 💳\n\n🏆 Prize Pool: 50 USDT\n💰 Reward: 2.5 USDT per winner\n⏰ Deadline: September 30, 00:00 UTC\nComplete the tasks and don’t miss your chance to win! 🔥\nGood luck, StarPhone community! ⭐🚀\n#StarPhone #Airdrop #USDT #Web3 #AI",
-    "rewardName": "USDT rewards",
-    "startTime": 1789920000,
-    "endTime": 1790697600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "StarPhone",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/starphone/GCTnrtZ8PQ"
-  },
-  {
     "id": "GCCrRtZr24",
     "name": "Rise to Rank 10",
     "description": "Jump into the SOLMEME community and climb your way to Rank 10 in our Discord!\n\nHow to participate:\n✅ Follow @SOLMemeToken on X\n✅ Join our Telegram\n✅ Join our Discord\n✅ Stay active in Discord chat and reach Level 10\n\n💰 $50 reward pool\n\nReal engagement, real rewards. Let's build together. ",
@@ -430,5 +430,21 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/tenzarch/GCq9jtZRnD"
+  },
+  {
+    "id": "GCmiStZPvP",
+    "name": "Beep Trader Showdown: Unlock Telegram Agent & Claim $20K Beep Rewards",
+    "description": "Beep is transforming your Telegram into a lightning-fast, intelligent Agent trading terminal. Execute automated trades directly inside TG—no complex app switching required—and compete against traders worldwide!\n\n🏆 Prize Pool $20,000 in Beep Rewards\n\n📌 How to Participate\n\nStep 1: Connect your Telegram account and complete the basic Galxe social tasks.\n\nStep 2: Launch the Beep Telegram Agent and execute your first trade.\n\nStep 3: Boost your trading volume and performance to climb the leaderboard and secure your slice of the prize pool!\n\n\n👉 Ready to trade? Connect your Telegram and start your Agent trading journey now!",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Beep AI labs",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/beep-ai-labs/GCmiStZPvP"
   }
 ]
