@@ -96,132 +96,20 @@
     "url": "https://app.galxe.com/quest/proud-lion-studios/GCHMutZhGQ"
   },
   {
-    "id": "GChX5tZKEb",
-    "name": "Raffle Token Reward #10",
-    "description": "",
-    "rewardName": "Raffle Token Reward",
-    "startTime": 1786381200,
-    "endTime": 1790701200,
+    "id": "GCSuutZ7nx",
+    "name": "Ethernal Cubs Whitelist: Verified Free Mint Spot",
+    "description": "**Ethernal Cubs** are customizable AI lion cubs on **Robinhood Chain**. Build your own Cub, battle other Cubs and play in the Ethernal Cubs world.\n\n### The mint\n- **3,333 Orbs**, free to claim for whitelisted wallets\n- Whitelist mint: **Thu 29 Oct 2026, 14:00 UTC** on OpenSea\n- Whitelist closes: **Wed 28 Oct, 23:59 UTC**\n\n### How this quest works\nThis quest is checked for real: your spot is confirmed by ethernalcubs.ai, not by a click.\n1. Go to [ethernalcubs.ai](https://ethernalcubs.ai) and sign in with the **same EVM wallet** you use on Galxe.\n2. On the whitelist board, connect X and complete **Follow @ethernalcubs on X**.\n3. Complete **Join the Discord**.\n4. Come back here and press **Verify**.\n\n**1,000 spots**, first come first served, one per wallet. Winning wallets go on the official allowlist.\n\n**Won a spot in our first Galxe quest?** It is already held for your wallet on ethernalcubs.ai. Sign in there, finish steps 2 and 3 and press Claim. This quest will not verify for you.\n\n**Official links only:** [ethernalcubs.ai](https://ethernalcubs.ai) | [X @ethernalcubs](https://x.com/ethernalcubs) | [Discord](https://discord.gg/ethernalcubs) | [Telegram](https://t.me/proudlionsclub)\nThe team will never DM you first.",
+    "rewardName": "Ethernal Cubs Whitelist Spot",
+    "startTime": 1790755200,
+    "endTime": 1793231940,
     "chain": "ETHEREUM",
     "space": {
-      "name": "SanW Crypto",
+      "name": "Proud Lion Studios",
       "isVerified": false
     },
-    "score": 6,
+    "score": 5,
     "payout": 45,
-    "url": "https://app.galxe.com/quest/sanw-crypto/GChX5tZKEb"
-  },
-  {
-    "id": "GCJn5tZQqk",
-    "name": "Raffle Token Reward #9",
-    "description": "",
-    "rewardName": "Raffle Token Reward",
-    "startTime": 1786381200,
-    "endTime": 1790701200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "SanW Crypto",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sanw-crypto/GCJn5tZQqk"
-  },
-  {
-    "id": "GCJP5tZSef",
-    "name": "Raffle Token Reward #8",
-    "description": "",
-    "rewardName": "Raffle Token Reward",
-    "startTime": 1786381200,
-    "endTime": 1790701200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "SanW Crypto",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sanw-crypto/GCJP5tZSef"
-  },
-  {
-    "id": "GCMW5tZND9",
-    "name": "Raffle Token Reward #7",
-    "description": "",
-    "rewardName": "Raffle Token Reward",
-    "startTime": 1786381200,
-    "endTime": 1790701200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "SanW Crypto",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sanw-crypto/GCMW5tZND9"
-  },
-  {
-    "id": "GCMo5tZQV3",
-    "name": "Raffle Token Reward #6",
-    "description": "",
-    "rewardName": "Raffle Token Reward",
-    "startTime": 1786381200,
-    "endTime": 1790701200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "SanW Crypto",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sanw-crypto/GCMo5tZQV3"
-  },
-  {
-    "id": "GCfSetZsUx",
-    "name": "Raffle Token Reward #5",
-    "description": "",
-    "rewardName": "Raffle Token Reward",
-    "startTime": 1786208400,
-    "endTime": 1790701200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "SanW Crypto",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sanw-crypto/GCfSetZsUx"
-  },
-  {
-    "id": "GCmVetZ9r8",
-    "name": "Raffle Token Reward #4",
-    "description": "",
-    "rewardName": "Raffle Token Reward",
-    "startTime": 1786208400,
-    "endTime": 1790701200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "SanW Crypto",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sanw-crypto/GCmVetZ9r8"
-  },
-  {
-    "id": "GCmMetZ91j",
-    "name": "Raffle Token Reward #3",
-    "description": "One winner receives $10.",
-    "rewardName": "Raffle Token Reward",
-    "startTime": 1786208400,
-    "endTime": 1790701200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "SanW Crypto",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/sanw-crypto/GCmMetZ91j"
+    "url": "https://app.galxe.com/quest/proud-lion-studios/GCSuutZ7nx"
   },
   {
     "id": "GCR4utZ8hS",
