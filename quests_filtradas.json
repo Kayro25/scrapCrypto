@@ -96,6 +96,22 @@
     "url": "https://app.galxe.com/quest/defi-com/GCB2itZdkk"
   },
   {
+    "id": "GCfkutZ3X3",
+    "name": "Tolly Stake Giveaway",
+    "description": "Complete the tasks for the X giveaway to qualify for rewards both here and on X.\n\n\"Sign up for Stake using the code 'tolly' and deposit $50 to get a special 200% deposit bonus.\"\n\nThose who make a deposit will be given priority.\n\nGood luck!![3dref.jfif](https://appeco.galxe.com/galxe/space/mdresource/78131/83633441-18a0-4f57-b29e-2aea5af3127b.jpeg) ",
+    "rewardName": "Giveaway $250 BTC ($50x5) on X",
+    "startTime": 1791147600,
+    "endTime": 1791406800,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Moonside",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/moonside/GCfkutZ3X3"
+  },
+  {
     "id": "GCihutZm51",
     "name": "Echobit Community Quest — Join, Learn & Earn to Share 500 USDT!",
     "description": "🚀 The top 50 players will split 500 USDT! Earn points and win big prizes! 🚀\n\n🔥 Event Period: October 1–October 14\n💰 Rewards\nComplete the task to share in a 500 USDT prize pool（50 SPOTS）\n\n\n🎯 How to Participate? Complete simple tasks, earn points, and climb the leaderboard!\n- Join the official Telegram group\n- Follow us on Twitter\n\nStart your journey right here on Galxe by completing simple tasks to secure your share of the 500 USDT cash prize!",
@@ -110,6 +126,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/echobit/GCihutZm51"
+  },
+  {
+    "id": "GCmZutZMY5",
+    "name": "ClevrGo.com Beta Launch (Earn upto 10 USDC)",
+    "description": "Enter the new era of payments and agentic commerce.\nBeta Testers can earn upto 10 USDC",
+    "rewardName": "Upto 10 USDC with CVI",
+    "startTime": 1791043200,
+    "endTime": 1792771200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Cleanverse",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/cleanverse/GCmZutZMY5"
   },
   {
     "id": "GCSuutZ7nx",
