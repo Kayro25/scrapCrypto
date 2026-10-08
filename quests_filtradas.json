@@ -96,22 +96,6 @@
     "url": "https://app.galxe.com/quest/defi-com/GCB2itZdkk"
   },
   {
-    "id": "GCfkutZ3X3",
-    "name": "Tolly Stake Giveaway",
-    "description": "Complete the tasks for the X giveaway to qualify for rewards both here and on X.\n\n\"Sign up for Stake using the code 'tolly' and deposit $50 to get a special 200% deposit bonus.\"\n\nThose who make a deposit will be given priority.\n\nGood luck!![3dref.jfif](https://appeco.galxe.com/galxe/space/mdresource/78131/83633441-18a0-4f57-b29e-2aea5af3127b.jpeg) ",
-    "rewardName": "Giveaway $250 BTC ($50x5) on X",
-    "startTime": 1791147600,
-    "endTime": 1791406800,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Moonside",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/moonside/GCfkutZ3X3"
-  },
-  {
     "id": "GCihutZm51",
     "name": "Echobit Community Quest — Join, Learn & Earn to Share 500 USDT!",
     "description": "🚀 The top 50 players will split 500 USDT! Earn points and win big prizes! 🚀\n\n🔥 Event Period: October 1–October 14\n💰 Rewards\nComplete the task to share in a 500 USDT prize pool（50 SPOTS）\n\n\n🎯 How to Participate? Complete simple tasks, earn points, and climb the leaderboard!\n- Join the official Telegram group\n- Follow us on Twitter\n\nStart your journey right here on Galxe by completing simple tasks to secure your share of the 500 USDT cash prize!",
@@ -126,6 +110,22 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/echobit/GCihutZm51"
+  },
+  {
+    "id": "GCtaBtZ5xZ",
+    "name": "Ethernal Cubs: Win a Free Mint Spot",
+    "description": "Ethernal Cubs are customizable AI lion cubs on Robinhood Chain. Build your own Cub, battle other Cubs and play in the Ethernal Cubs world.\n\n**The mint**\n- 3,333 Orbs, free to mint for whitelisted wallets (you pay only gas)\n- Whitelist GTD: Thu 29 Oct 2026, 14:00 UTC on OpenSea\n- Whitelist FCFS: Mon 2 Nov 2026, 14:00 UTC, only if Orbs are left\n\n**Win a spot here: 500 spots, one per wallet, first come, first served**\nComplete the tasks below, then claim your spot on this page. The Discord and Telegram joins are checked live against our server and group, so a click is not enough. Use the same Discord and Telegram accounts you linked to Galxe.\n\n**Make it guaranteed (GTD)**\nA Galxe spot mints in the FCFS stage. To move it to GTD:\n1. Go to ethernalcubs.ai\n2. Sign in with the SAME EVM wallet you used here. You sign a message, no gas.\n3. Connect X and tap Claim my spot.\n\nGalxe winners are added to the site in batches every few days. If your spot is not there yet, check back. Claim by Wed 28 Oct, 23:59 UTC.\n\n**Earn more spots on ethernalcubs.ai**\n- Tasks and quizzes: 50 points = 1 spot, up to 4 spots\n- Partner NFT holders: verify your holdings for a spot\n- Collab giveaways: claim spots you won with partner communities\n- Proud Lions Club and GUI Lions holders on Aptos: verify with Petra\n\nOfficial links only: ethernalcubs.ai | X @ethernalcubs | discord.gg/ethernalcubs | t.me/proudlionsclub\nThe team will never DM you first.",
+    "rewardName": "Ethernal Cubs Whitelist Spot",
+    "startTime": 1791446400,
+    "endTime": 1793145599,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Proud Lion Studios",
+      "isVerified": false
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/proud-lion-studios/GCtaBtZ5xZ"
   },
   {
     "id": "GCmZutZMY5",
