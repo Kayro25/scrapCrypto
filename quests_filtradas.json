@@ -96,6 +96,22 @@
     "url": "https://app.galxe.com/quest/defi-com/GCB2itZdkk"
   },
   {
+    "id": "GC2xBtZMY9",
+    "name": "Hungry for real margin? Week 1: 5 x 10 USD draw. Sat 10 Oct to Sat 17 Oct",
+    "description": "Most leverage in DeFi is a bigger bet on one exchange. With Vanna, you borrow real stablecoins, more than you deposit, secured in your Vanna account. You use them across lending vaults, spot, perps and prediction markets to run hedged and delta-neutral strategies, all under one health factor.\n\nJoin the waitlist for early access to our testnet on Solana and Stellar. \nFollow along for draw results: X @vannaprotocol, @opinderpreet and @vatsaleth.\n\n5 people will win 10 USDT each this week, and the top 5 referrers share 200 USDT by 24 Oct. No purchase necessary.\n\n Rules: https://best-glue-0c8.notion.site/Vanna-Waitlist-Terms-3f5846d6f55981d5a6bbf6f40a516f62?source=copy_link",
+    "rewardName": "10 USDC Lucky Draw (5 winners)",
+    "startTime": 1791604800,
+    "endTime": 1792123200,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Vanna Protocol",
+      "isVerified": false
+    },
+    "score": 6,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/vanna-protocol/GC2xBtZMY9"
+  },
+  {
     "id": "GCihutZm51",
     "name": "Echobit Community Quest — Join, Learn & Earn to Share 500 USDT!",
     "description": "🚀 The top 50 players will split 500 USDT! Earn points and win big prizes! 🚀\n\n🔥 Event Period: October 1–October 14\n💰 Rewards\nComplete the task to share in a 500 USDT prize pool（50 SPOTS）\n\n\n🎯 How to Participate? Complete simple tasks, earn points, and climb the leaderboard!\n- Join the official Telegram group\n- Follow us on Twitter\n\nStart your journey right here on Galxe by completing simple tasks to secure your share of the 500 USDT cash prize!",
@@ -110,22 +126,6 @@
     "score": 6,
     "payout": 45,
     "url": "https://app.galxe.com/quest/echobit/GCihutZm51"
-  },
-  {
-    "id": "GCtaBtZ5xZ",
-    "name": "Ethernal Cubs: Win a Free Mint Spot",
-    "description": "Ethernal Cubs are customizable AI lion cubs on Robinhood Chain. Build your own Cub, battle other Cubs and play in the Ethernal Cubs world.\n\n**The mint**\n- 3,333 Orbs, free to mint for whitelisted wallets (you pay only gas)\n- Whitelist GTD: Thu 29 Oct 2026, 14:00 UTC on OpenSea\n- Whitelist FCFS: Mon 2 Nov 2026, 14:00 UTC, only if Orbs are left\n\n**Win a spot here: 500 spots, one per wallet, first come, first served**\nComplete the tasks below, then claim your spot on this page. The Discord and Telegram joins are checked live against our server and group, so a click is not enough. Use the same Discord and Telegram accounts you linked to Galxe.\n\n**Make it guaranteed (GTD)**\nA Galxe spot mints in the FCFS stage. To move it to GTD:\n1. Go to ethernalcubs.ai\n2. Sign in with the SAME EVM wallet you used here. You sign a message, no gas.\n3. Connect X and tap Claim my spot.\n\nGalxe winners are added to the site in batches every few days. If your spot is not there yet, check back. Claim by Wed 28 Oct, 23:59 UTC.\n\n**Earn more spots on ethernalcubs.ai**\n- Tasks and quizzes: 50 points = 1 spot, up to 4 spots\n- Partner NFT holders: verify your holdings for a spot\n- Collab giveaways: claim spots you won with partner communities\n- Proud Lions Club and GUI Lions holders on Aptos: verify with Petra\n\nOfficial links only: ethernalcubs.ai | X @ethernalcubs | discord.gg/ethernalcubs | t.me/proudlionsclub\nThe team will never DM you first.",
-    "rewardName": "Ethernal Cubs Whitelist Spot",
-    "startTime": 1791446400,
-    "endTime": 1793145599,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Proud Lion Studios",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/proud-lion-studios/GCtaBtZ5xZ"
   },
   {
     "id": "GCmZutZMY5",
