@@ -80,22 +80,6 @@
     "url": "https://app.galxe.com/quest/shopinx/GC31rtZrAh"
   },
   {
-    "id": "GC2xBtZMY9",
-    "name": "Hungry for real margin? Week 1: 5 x 10 USD draw. Sat 10 Oct to Sat 17 Oct",
-    "description": "Most leverage in DeFi is a bigger bet on one exchange. With Vanna, you borrow real stablecoins, more than you deposit, secured in your Vanna account. You use them across lending vaults, spot, perps and prediction markets to run hedged and delta-neutral strategies, all under one health factor.\n\nJoin the waitlist for early access to our testnet on Solana and Stellar. \nFollow along for draw results: X @vannaprotocol, @opinderpreet and @vatsaleth.\n\n5 people will win 10 USDT each this week, and the top 5 referrers share 200 USDT by 24 Oct. No purchase necessary.\n\n Rules: https://best-glue-0c8.notion.site/Vanna-Waitlist-Terms-3f5846d6f55981d5a6bbf6f40a516f62?source=copy_link",
-    "rewardName": "10 USDC Lucky Draw (5 winners)",
-    "startTime": 1791604800,
-    "endTime": 1792123200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Vanna Protocol",
-      "isVerified": false
-    },
-    "score": 6,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/vanna-protocol/GC2xBtZMY9"
-  },
-  {
     "id": "GCPjbtZg6q",
     "name": "🏆 DeriW Thursday: Trade to Earn $100 🏆",
     "description": "![10月15至29日社群周四活动海报.png](https://appeco.galxe.com/galxe/space/mdresource/38038/400325d0-b7b5-481a-a030-6ce35d5fb259.png)\n🏆 DeriW Thursday: Trade to Earn $100 🏆\n\n🎆 DeriW Mainnet Week 62: Total Trading Volume Surpasses $85 Billion! \n👥 User Growth Continues: Total Users Surpas 105,600!\n\nJoin DeriW’s exclusive community event to celebrate this new milestone and win a $100 prize!\n\n⏰ Event Period: October 15, 4 PM - October 29, 4 PM (UTC+8) \n💰 Prize Pool: $100 USDT\n\n🎯 How to Participate: \n• During the event, share the PnL of your stock trading pairs held on DeriW each day in our general chat, along with your DeriW wallet address, and include the hashtag #DeriWOctoberTradetoEarn. Regardless of profit or loss, earn 1 point per trading pair per day, with no limit on the number of pairs. Points will be counted by the admins. \n• During the event, you must share the PnL of your stock trading pairs held on DeriW for at least 12 consecutive days and earn at least 3 points each day to qualify for the prize pool. The ten participants with the highest total points will each receive a $10 reward. \n• Tutorial: How to Share a PnL Card\n\n📝 Important Rules: \n• The hashtag #DeriWOctoberTradetoEarn must be included. \n• Rewards will be distributed within 10 working days after the announcement is published.\n\nWhy Trade on DeriW? \n✅ Ultra-low trading fees starting at 0.02% \n✅ A secure, transparent, and audited trading environment \n✅ Instant execution—no waiting for order matching\n\n💜 Join the Community: @deriwfinance \n🔗 Trade Now: www.deriw.com\n\n#DeriWThursday #DeriWOctoberTradetoEarn #TradFi #ZeroGasFees\n\nDisclaimer:\n1️⃣ Please participate in the event via Telegram DeriW Group Chat @deriwfinance during the event period.\n2️⃣ The list of winners will be announced via Telegram DeriW Official Annoucements @deriwofficial.",
@@ -206,21 +190,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/cleanverse/GCmZutZMY5"
-  },
-  {
-    "id": "GCmiStZPvP",
-    "name": "Beep Trader Showdown: Unlock Telegram Agent & Claim $20K Beep Rewards",
-    "description": "Beep is transforming your Telegram into a lightning-fast, intelligent Agent trading terminal. Execute automated trades directly inside TG—no complex app switching required—and compete against traders worldwide!\n\n🏆 Prize Pool $20,000 in Beep Rewards\n\n📌 How to Participate\n\nStep 1: Connect your Telegram account and complete the basic Galxe social tasks.\n\nStep 2: Launch the Beep Telegram Agent and execute your first trade.\n\nStep 3: Boost your trading volume and performance to climb the leaderboard and secure your slice of the prize pool!\n\n\n👉 Ready to trade? Connect your Telegram and start your Agent trading journey now!",
-    "rewardName": "",
-    "startTime": null,
-    "endTime": null,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Beep AI labs",
-      "isVerified": true
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/beep-ai-labs/GCmiStZPvP"
   }
 ]
