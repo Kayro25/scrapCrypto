@@ -16,22 +16,6 @@
     "url": "https://app.galxe.com/quest/apebond/GCBCutZxwn"
   },
   {
-    "id": "GCurutZKbg",
-    "name": "WhiteBridge Bonds Quest: Win a Share of 300 $USDT worth of $WBAI !",
-    "description": "We’re excited to introduce the WhiteBridge AI Agents Network  bonds Quest, where 10 lucky participants will win a share of $300 in USDT! This is your chance to dive into the world of WhiteBridge on ApeBond, while getting rewarded for your participation!\n\nHow to Participate:\n1. Follow ApeBond's Galxe Space to always stay updated with the latest quests.\n2. Buy WhiteBridge Bonds: Simply purchase $10 or more worth of WhiteBridge Bonds ($WBAI) on ApeBond [clicking here](https://apebond.click/WBAI) and complete this quest to qualify for the prize pool.\n3. Be One of 10 Winners: 10 winners will be randomly selected at the end of the campaign to share  $300 worth of $WBAI ,   **$30 worth of USDT per winner!** \n\nGet started today and join the WhiteBridge AI Agents Network Bonds revolution for your chance to win! 🚀 \n\n**Reward based on its value at the time the quest ends and rewards are distributed.*",
-    "rewardName": "30 USDT worth of $WBAI",
-    "startTime": 1790773200,
-    "endTime": 1792533600,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "ApeBond",
-      "isVerified": true
-    },
-    "score": 10,
-    "payout": 85,
-    "url": "https://app.galxe.com/quest/apebond/GCurutZKbg"
-  },
-  {
     "id": "GC97rtZMQG",
     "name": "🔥 Buy $500+ SPX → Earn 1% Daily",
     "description": "Buy at least $500 of SPX with your own wallet and hold your qualifying SPX for at least 24 hours.\r\n\r\nOnce your 24-hour holding period is completed, you can earn 1% of your qualifying purchase amount in SPX every 24 hours, for up to 30 days.\r\n\r\nExample: $500 SPX purchase → $5 SPX daily reward → up to $150 over 30 days.\r\n\r\nYour purchase and holding period are verified on-chain.\r\n\r\nImportant: The 1% daily SPX reward is paid automatically to your wallet by the ShopinX reward system. This is separate from any XP or other platform rewards shown here.\r\n\r\nHow it works:\r\n\r\n1. Connect your BNB Chain wallet.\r\n2. Complete the purchase verification.\r\n3. Buy $500+ of SPX.\r\n4. Hold your qualifying SPX for at least 24 hours.\r\n5. Receive your daily SPX reward automatically.\r\n\r\nDetails: https://shopinx.io/creator-earn",
@@ -206,5 +190,21 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/cleanverse/GCmZutZMY5"
+  },
+  {
+    "id": "GCmiStZPvP",
+    "name": "Beep Trader Showdown: Unlock Telegram Agent & Claim $20K Beep Rewards",
+    "description": "Beep is transforming your Telegram into a lightning-fast, intelligent Agent trading terminal. Execute automated trades directly inside TG—no complex app switching required—and compete against traders worldwide!\n\n🏆 Prize Pool $20,000 in Beep Rewards\n\n📌 How to Participate\n\nStep 1: Connect your Telegram account and complete the basic Galxe social tasks.\n\nStep 2: Launch the Beep Telegram Agent and execute your first trade.\n\nStep 3: Boost your trading volume and performance to climb the leaderboard and secure your slice of the prize pool!\n\n\n👉 Ready to trade? Connect your Telegram and start your Agent trading journey now!",
+    "rewardName": "",
+    "startTime": null,
+    "endTime": null,
+    "chain": "ETHEREUM",
+    "space": {
+      "name": "Beep AI labs",
+      "isVerified": true
+    },
+    "score": 5,
+    "payout": 45,
+    "url": "https://app.galxe.com/quest/beep-ai-labs/GCmiStZPvP"
   }
 ]
