@@ -222,21 +222,5 @@
     "score": 5,
     "payout": 45,
     "url": "https://app.galxe.com/quest/magpie-xyz/GCV5BtZzED"
-  },
-  {
-    "id": "GCmZutZMY5",
-    "name": "ClevrGo.com Beta Launch (Earn upto 10 USDC)",
-    "description": "Enter the new era of payments and agentic commerce.\nBeta Testers can earn upto 10 USDC",
-    "rewardName": "Upto 10 USDC with CVI",
-    "startTime": 1791043200,
-    "endTime": 1792771200,
-    "chain": "ETHEREUM",
-    "space": {
-      "name": "Cleanverse",
-      "isVerified": false
-    },
-    "score": 5,
-    "payout": 45,
-    "url": "https://app.galxe.com/quest/cleanverse/GCmZutZMY5"
   }
 ]
